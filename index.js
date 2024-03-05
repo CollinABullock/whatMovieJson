@@ -1,9 +1,14 @@
 const express = require("express");
 const app = express();
 let port = process.env.PORT || 3000;
+const netflixData = require("./netflixArray.json")
 
 app.get("/", (req, res) => {
   res.send ("Movies are gay")
+})
+
+app.get("/netflixArray", (req, res) => {
+  res.send (netflixData)
 })
 
 app.listen(port, () => {

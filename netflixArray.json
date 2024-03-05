@@ -12,12 +12,12 @@
     "director": [{
     "name": "Almudena Carracedo and Robert Bahar",
     "image": "https://cdn.kpbs.org/img/photos/2019/06/04/silence-of-others-Almudena-Carracedo-Robert-Bahar.jpg",
-    "imdb": "https://www.imdb.com/name/nm1147094/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm1147094/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Natalia de Molina",
       "image": "https://m.media-amazon.com/images/M/MV5BYmNiZTQ5ZjEtMDAwZC00ZGE5LWEyNjItMjIzZTQ1YjE4MmU0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
-      "imdb": "https://www.imdb.com/name/nm5131296/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm5131296/?ref_=tt_ov_st"
     }]
     },
 
@@ -60,7 +60,7 @@
         "name": "Dylan Howitt",
         "image": "https://i.ytimg.com/vi/rl1520VlJSI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYOSA7KH8wDw==&rs=AOn4CLBYLiS1hOEgTIIsLw-kXwuum-JrsQ",
         "imdb": "https://www.imdb.com/name/nm6055316/"
-      }],
+      }]
     },
     
     {
@@ -160,7 +160,7 @@
     "director": [{
     "name": "Henry Roosevelt",
     "image": "https://cdn.realscreen.com/wp/wp-content/uploads/2017/05/savingbrintonweb.jpg",
-    "imdb": "https://www.imdb.com/name/nm3943473/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm3943473/?ref_=tt_ov_dr"
     }],
     "actors": []
     },
@@ -177,7 +177,7 @@
     "director": [{
     "name": "Hyoe Yamamoto",
     "image": "https://read.indie-visual.net/wp-content/uploads/2019/08/Yamamoto-Interview-Feature.jpg",
-    "imdb": "https://www.imdb.com/name/nm0945424/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0945424/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Lucie Blackman",
@@ -198,7 +198,7 @@
     "director": [{
     "name": "Sam Hobkinson",
     "image": "https://images.squarespace-cdn.com/content/v1/5922aa508419c22a1e700247/42014390-7e36-4d71-8b3b-2675198d23e2/IMG_1010.jpg",
-    "imdb": "https://www.imdb.com/name/nm0387700/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0387700/?ref_=tt_ov_dr"
     }],
     "actors": []
     },
@@ -215,7 +215,7 @@
     "director": [{
     "name": "Nancy Schwartzman",
     "image": "https://www.apbspeakers.com/media/jgpmjgcg/schwartzman_nancy_091119.jpg?rxy=0.44666666666666666,0.49586776859504134&height=775&quality=70&v=1d8f8ec5e919880)",
-    "imdb": "https://www.imdb.com/name/nm3626116/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm3626116/?ref_=tt_ov_dr"
     }],
     "actors": []
     },
@@ -393,7 +393,7 @@
       "actors": [{
         "name": "Jennifer Lopez",
       "image": "https://variety.com/wp-content/uploads/2024/02/Jennifer-Lopez-Variety-Cover-Story-1.jpg?crop=0px%2C178px%2C1918px%2C1080px&resize=1920%2C1080",
-      "imdb": "https://www.imdb.com/name/nm0000182/?ref_=tt_cl_t_2",}
+      "imdb": "https://www.imdb.com/name/nm0000182/?ref_=tt_cl_t_2"}
       ]
     },
     
@@ -413,7 +413,7 @@
       "director": [{
         "name": "Martin Scorcese",
     "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
-    "imdb": "https://www.imdb.com/name/nm0000217/",
+    "imdb": "https://www.imdb.com/name/nm0000217/"
       }],
       "actors": [{
         "name": "Ellen Burstyn",
@@ -442,7 +442,7 @@
       "director": [{
         "name": "Clint Eastwood",
         "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
-        "imdb": "https://www.imdb.com/name/nm0000142/",
+        "imdb": "https://www.imdb.com/name/nm0000142/"
       }],
       "actors": [{
         "name": "Sean Penn",
@@ -505,15 +505,15 @@
     "actors": [{
       "name": "Michael Fassbender",
       "image": "https://variety.com/wp-content/uploads/2024/02/fassbender-e1709057463472.jpg?w=861",
-      "imdb": "https://www.imdb.com/name/nm1055413/",
+      "imdb": "https://www.imdb.com/name/nm1055413/"
     }, {
       "name": "Tilda Swinton",
       "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRK9jrqMa484_bOUOls6P-egKvI9YLJopHVIj0cCKJZ27ldLoylGlYA7H8Dm3CVan9irp9GSs-ELU05nHI",
-      "imdb": "https://www.imdb.com/name/nm0842770/",
+      "imdb": "https://www.imdb.com/name/nm0842770/"
     }, {
       "name": "Arliss Howard",
       "image": "https://media.gettyimages.com/id/1457209610/photo/arliss-howard.jpg?s=612x612&w=gi&k=20&c=lNRrYc70qwle0hHu0fzxPCpOLBrW3KXwIsiKVuRRn5k=",
-      "imdb": "https://www.imdb.com/name/nm0397124/",
+      "imdb": "https://www.imdb.com/name/nm0397124/"
     }]
     },
 
@@ -532,12 +532,12 @@
       "director": [{
         "name": "Quentin Tarantino",
     "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTfp1z_B7M3pWBZ__wU1PSwBAhIZRd6MyxYbc_25PDvGs6MlzsTLejJDtdOh772ILYJch3Fn-hOq8woi-o",
-    "imdb": "https://www.imdb.com/name/nm0000233/",
+    "imdb": "https://www.imdb.com/name/nm0000233/"
       }],
       "actors": [{
         "name": "Samuel L Jackson",
         "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSz_lJ-KbT6_kugv-NHRDoMVxpXtuS2XoD53cD6j6n1sIohIo1Qf9ESbwAfN5OO_r4kj8_TxeN17dGr_rQ",
-        "imdb": "https://www.imdb.com/name/nm0000168/",
+        "imdb": "https://www.imdb.com/name/nm0000168/"
       }, {
         "name": "Kurt Russell",
         "image": "https://m.media-amazon.com/images/M/MV5BMGUwOTRiNTctMzI1My00NGFiLTkxZjktYmQ2ZTI0ZGEyNTY1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
@@ -584,13 +584,13 @@
   "director": [{
     "name": "Chad Stahelski",
     "image": "https://www.looper.com/img/gallery/john-wick-4-director-chad-stahelski-talks-the-franchises-past-future-and-more-exclusive-interview/l-intro-1679324141.jpg",
-    "imdb": "https://www.imdb.com/name/nm0821432/",
+    "imdb": "https://www.imdb.com/name/nm0821432/"
     }]},
 
   {"item": "2", "genre": ["thriller", "action", "sequel"], "title": "The Equalizer 3", "release-year": "2023", "runtime": 119, "mpaa": "R", "description": "Robert McCall vows to stop an Italian crime syndicate from brutalizing and extorting the residents of a small coastal town that has won his heart.", "poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXigXUjgvpYUaCNtoSXvdJ3MSjIQMsiHrJByYBdUvmVpW-s6Rc4lKY7VzVabpqAnXrG16_Scp9swRqGC_EO4cOV45udZ2H0sx1Q.jpg?r=653", "actors": [{"name": "Denzel Washington", "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Fdenzel-washington-the-equalizer-3-currently-in-the-works-confirmed-001.jpg?cbr=1&q=90", "imdb": "https://www.imdb.com/name/nm0000243/"}, {"name": "Dakota Fanning", "image": "https://www.etonline.com/sites/default/files/images/2016-03/1280_dakota_fanning_160309_514299728.jpg", "imdb": "https://www.imdb.com/name/nm0266824/"}], "link": "https://www.netflix.com/title/81674658",  "director": [{
     "name": "Antoine Fuqua",
     "image": "https://deadline.com/wp-content/uploads/2021/12/Antoine-Fuqua-e1638564950313.jpg?w=681&h=383&crop=1",
-    "imdb": "https://www.imdb.com/name/nm0298807/",
+    "imdb": "https://www.imdb.com/name/nm0298807/"
     }]},
 
   {"item": "3", "title": "American Assassin", "runtime": 111, "description": "After grad student Mitch Rapp suffers a tragic loss during a terrorist attack, his single-minded thirst for vengeance catches the interest of the CIA.", "genre": ["action"], "poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABY3VqF_GQGCsH-rAC80jWpzSVJLq18ftK7H40hBgzSy2r8uLDP8qbR19oDz5-rxCq93cunozLRJd2ZeLLoL5Qz70ZsE_vsHnNaSlJyl9bM9ca68UnkRnnq16clBTmspIUIMeWZnlym26SrHxcCrsL5VGtIm8VbInOdE.jpg?r=8df", "actors": [{"name": "Dylan O'Brien", "image": "https://variety.com/wp-content/uploads/2022/03/Dylan-OBrien.jpg?w=1000", "imdb": "https://www.imdb.com/name/nm3729721/"}, {"name": "Michael Keaton", "image": "https://media.vanityfair.com/photos/62e92ee5e157986bb4f403e4/master/w_2560%2Cc_limit/1402978977", "imdb": "https://www.imdb.com/name/nm0000474/"}], "link": "https://www.netflix.com/title/80182951", "director": [{"name": "Michael Cuesta", "image": "https://i.ytimg.com/vi/LHNiRi5t_Ec/maxresdefault.jpg", "imdb": "https://www.imdb.com/name/nm0191147/?ref_=tt_ov_dr"}]},
@@ -604,7 +604,7 @@
   "director": [{
     "name": "Ben Wheatley",
     "image": "https://miro.medium.com/v2/resize:fit:1200/1*3LHqGuCQXorll7fYrzDJPw.jpeg",
-    "imdb": "https://www.imdb.com/name/nm1296554/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm1296554/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Jason Statham",
@@ -614,7 +614,7 @@
     {
       "name": "Jing Wu",
       "image": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc0NjgyOV5BMl5BanBnXkFtZTgwNDAyOTEzMjE@._V1_.jpg",
-      "imdb": "https://www.imdb.com/name/nm0943104/?ref_=tt_cl_t_2",
+      "imdb": "https://www.imdb.com/name/nm0943104/?ref_=tt_cl_t_2"
     }]},
 
   {"item": "6", "title": "Rebel Moon — Part One: A Child of Fire", "runtime": 136, "mpaa": "PG-13", "poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABTb83RN3VhDCH8tVBV5GPva_qAulKy1DQclvAOCVza7Xe_Waz-TdBZsfAZB0vWxpY9ky8jV9HGzalrnDhT8XALZjaMAa6Mp2u7GNtK9WcWeYUpVt-0HunLKKeTNFxNfVs2w_.jpg?r=7c8", 
@@ -623,18 +623,17 @@
   "Director": [{
     "name": "Zack Synder",
     "image": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQRkG0o6H2e9srDoKgYVGPoqGMQGX2DpEahimbzps-XdXK2Qc_sby0nJiRw3V0bePHNFOGKK3PdNwy1Z825FXZwDjmxVEuYKYQlsRdnmEnmK0XIzCGQ-PHCNrD8wJVCvhOqggGXSKLFhPBK7DxoiMtrO9.jpg?r=4ca",
-    "imdb": "https://www.imdb.com/name/nm0811583/",
+    "imdb": "https://www.imdb.com/name/nm0811583/"
     }],
     "actors": [{
       "name": "Sofia Boutella",
       "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/13/15/sofia-boutella.jpg",
-      "imdb": "https://www.imdb.com/name/nm1154749/",
+      "imdb": "https://www.imdb.com/name/nm1154749/"
     },
     {
       "name": "Djimon Hounsou",
       "image": "https://deadline.com/wp-content/uploads/2023/03/Djimon-Honsou.jpg",
-      "imdb": "https://www.imdb.com/name/nm0005023/",
-    }]},
+      "imdb": "https://www.imdb.com/name/nm0005023/"},
 
 
 
@@ -643,17 +642,17 @@
   "director": [{
     "name": "Luc Besson",
     "image": "https://deadline.com/wp-content/uploads/2023/12/Luc-Besson.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000108/",
+    "imdb": "https://www.imdb.com/name/nm0000108/"
     }],
     "actors": [{
       "name": "Scarlett Johansson",
       "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UQ836S9qDWRgX1TYCkzykIuWIK8=/1660x1107/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/63MMCIXPOAOUKAMXJMW7HTAWCU.jpg",
-      "imdb": "https://www.imdb.com/name/nm0424060/",
+      "imdb": "https://www.imdb.com/name/nm0424060/"
     },
     {
       "name": "Morgan Freeman",
       "image": "https://mediaproxy.salon.com/width/1200/height/675/https://media2.salon.com/2014/06/morgan_freeman.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000151/",
+      "imdb": "https://www.imdb.com/name/nm0000151/"
     },
   {
     "name": "Choi Min-sik",
@@ -674,17 +673,17 @@
     "director": [{
     "name": "Robert Rodriguez",
     "image": "https://ca-times.brightspotcdn.com/dims4/default/332357d/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2F13%2F0c4a3c7f45259b80d91f68ff6f35%2Fla-et-we-can-be-heroes-netflix-29.JPG",
-    "imdb": "https://www.imdb.com/name/nm0001675/",
+    "imdb": "https://www.imdb.com/name/nm0001675/"
     }],
     "actors": [{
       "name": "Antonio Banderas",
       "image": "https://www.undp.org/sites/g/files/zskgke326/files/styles/image_with_credit_caption_1392_x_651_/public/2021-05/shutterstock-Antonio-Banderas-95326390.jpg?itok=g_85lbar",
-      "imdb": "https://www.imdb.com/name/nm0000104/?ref_=fn_al_nm_1",
+      "imdb": "https://www.imdb.com/name/nm0000104/?ref_=fn_al_nm_1"
     },
     {
       "name": "Salma Hayek",
       "image": "https://hips.hearstapps.com/hmg-prod/images/salma-hayek-attends-the-2023-academy-museum-gala-at-academy-news-photo-1702312165.jpg?crop=1xw:0.45xh;center,top",
-      "imdb": "https://www.imdb.com/name/nm0000161/",
+      "imdb": "https://www.imdb.com/name/nm0000161/"
     }]
     },
 
@@ -700,12 +699,12 @@
     "director": [{
     "name": "Gina Prince-Bythewood",
     "image": "https://variety.com/wp-content/uploads/2023/02/gina-prince-bythewood-naacp.jpg?w=1000&h=563&crop=1",
-    "imdb": "https://www.imdb.com/name/nm0697656/",
+    "imdb": "https://www.imdb.com/name/nm0697656/"
     }],
     "actors": [{
       "name": "Viola Davis",
       "image": "https://m.media-amazon.com/images/M/MV5BNWNlNTk0ZWEtN2EyYi00YWM5LTlmYWItNjkyNmZjYjQzMzdmXkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg",
-      "imdb": "https://www.imdb.com/name/nm0205626/",
+      "imdb": "https://www.imdb.com/name/nm0205626/"
     }, {
       "name": "Lashana Lynch",
       "image": "https://d.newsweek.com/en/full/1512062/lashana-lynch-007.jpg",
@@ -713,7 +712,7 @@
     }, {
       "name": "Thuso Mbedu",
       "image": "https://deadline.com/wp-content/uploads/2022/04/Thuso-Mbedu_Gari-Askew-BS1.jpg",
-      "imdb": "https://www.imdb.com/name/nm9096847/",
+      "imdb": "https://www.imdb.com/name/nm9096847/"
     }]},
   
     {    
@@ -728,7 +727,7 @@
     "director": [{
     "name": "David Leitch",
     "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/08/David-Leitch-Bullet-Train-Premiere-Carpet-GettyImages-1412353499-H-2022.jpg?w=1296",
-    "imdb": "https://www.imdb.com/name/nm0500610/",
+    "imdb": "https://www.imdb.com/name/nm0500610/"
     }],
     "actors": [{
       "name": "Brad Pitt",
@@ -741,7 +740,7 @@
     }, {
       "name": "Aaron Taylor-Johnson",
       "image": "https://manofmany.com/wp-content/uploads/2022/12/Aaron-Taylor-Honson-Bond-1200x900.png",
-      "imdb": "https://www.imdb.com/name/nm1093951/bio/",
+      "imdb": "https://www.imdb.com/name/nm1093951/bio/"
     }]
     },
 
@@ -762,7 +761,7 @@
       "actors": [{
         "name": "Seth Rogen",
       "image": "https://media.gq.com/photos/5cd9879fb41d09d10bcd7657/16:9/w_2560%2Cc_limit/seth-rogen-gq-cover-june-july-2019-11.jpg",
-      "imdb": "https://www.imdb.com/name/nm0736622/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_seth%2520rogen",
+      "imdb": "https://www.imdb.com/name/nm0736622/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_seth%2520rogen"
       }, {
         "name": "Charlize Theron",
         "image": "https://variety.com/wp-content/uploads/2023/08/GettyImages-1490338443-e1692731846946.jpg",
@@ -824,7 +823,7 @@
       }, {
         "name": "Zac Efron",
         "image": "https://stylecaster.com/wp-content/uploads/2022/05/Zac-Efron-3.jpg?w=600&h=337&crop=1",
-        "imdb": "https://www.imdb.com/name/nm1374980/?ref_=tt_ov_st",
+        "imdb": "https://www.imdb.com/name/nm1374980/?ref_=tt_ov_st"
       }, {
         "name": "Zoey Deutch",
         "image": "https://www.j-14.com/wp-content/uploads/2022/11/zoey-deutch.jpg?fit=3984%2C2656&quality=86&strip=all",
@@ -847,12 +846,12 @@
     "director": [{
     "name": "Luis Llosa Urquidi",
     "image": "https://m.media-amazon.com/images/M/MV5BMTQ1ODM5NDQzOF5BMl5BanBnXkFtZTcwNzEzNjgwMw@@._V1_.jpg",
-    "imdb": "https://www.imdb.com/name/nm0515891/",
+    "imdb": "https://www.imdb.com/name/nm0515891/"
     }],
     "actors": [{
       "name": "Jennifer Lopez",
       "image": "https://variety.com/wp-content/uploads/2024/02/Jennifer-Lopez-Variety-Cover-Story-1.jpg?crop=0px%2C178px%2C1918px%2C1080px&resize=1920%2C1080",
-      "imdb": "https://www.imdb.com/name/nm0000182/?ref_=tt_cl_t_2",
+      "imdb": "https://www.imdb.com/name/nm0000182/?ref_=tt_cl_t_2"
     }, {
       "name": "Ice Cube",
       "image": "https://i.guim.co.uk/img/media/67eec8ab7e348a4152ff3f0ea2a3fc1060f38e28/493_44_4711_2827/master/4711.jpg?width=700&quality=85&auto=format&fit=max&s=da2aa1a6318e94a58e1272821e01b42c",
@@ -860,7 +859,7 @@
     }, {
       "name": "Jon Voight",
       "image": "https://www.24spoilers.com/wp-content/uploads/2008/06/Jon-Voight-Transformers.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000685/?ref_=tt_cl_t_1",
+      "imdb": "https://www.imdb.com/name/nm0000685/?ref_=tt_cl_t_1"
     }]
     },
 
@@ -876,12 +875,12 @@
     "director": [{
     "name": "Sam Hargrave",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSyDPtFrjP54KJY9LJei65qfHDBYwrDCbGqw&usqp=CAU",
-    "imdb": "https://www.imdb.com/name/nm1092087/",
+    "imdb": "https://www.imdb.com/name/nm1092087/"
     }],
     "actors": [{
       "name": "Chris Hemsworth",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRo-ENpCC-i10TwG6emtus3b4Ug8N9_GHUuw&usqp=CAU",
-      "imdb": "https://www.imdb.com/name/nm1165110/",
+      "imdb": "https://www.imdb.com/name/nm1165110/"
     }, {
       "name": "Golshifteh Farahani",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYir-y2FpjwtZUO6ROiW4lexfmUedv_-_Tbg&usqp=CAU",
@@ -901,12 +900,12 @@
     "director": [{
       "name": "Sam Hargrave",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSyDPtFrjP54KJY9LJei65qfHDBYwrDCbGqw&usqp=CAU",
-      "imdb": "https://www.imdb.com/name/nm1092087/",
+      "imdb": "https://www.imdb.com/name/nm1092087/"
       }],
       "actors": [{
         "name": "Chris Hemsworth",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRo-ENpCC-i10TwG6emtus3b4Ug8N9_GHUuw&usqp=CAU",
-        "imdb": "https://www.imdb.com/name/nm1165110/",
+        "imdb": "https://www.imdb.com/name/nm1165110/"
       }, {
       "name": "Rudhraksh Jaiswal",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTS1jrrMMalPs5F2BtgV26j-6pwFNaAivlw&usqp=CAU",
@@ -926,12 +925,12 @@
     "director": [{
     "name": "Scott Beck and Bryan Woods",
     "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/IMG_4294.jpg?w=1296",
-    "imdb": "https://www.imdb.com/name/nm1399714/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm1399714/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Adam Driver",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
-      "imdb": "https://www.imdb.com/name/nm3485845/",
+      "imdb": "https://www.imdb.com/name/nm3485845/"
     }, {
       "name": "Ariana Greenblat",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3i8tkG8XLq0SiMUdxFhhY_2pawyyovZN4nw&usqp=CAU",
@@ -951,7 +950,7 @@
     "director": [{
     "name": "Jon Turteltaub",
     "image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/03/gettyimages-455770877.jpg",
-    "imdb": "https://www.imdb.com/name/nm0005509/bio/",
+    "imdb": "https://www.imdb.com/name/nm0005509/bio/"
     }],
     "actors": [{
       "name": "Jason Statham",
@@ -964,7 +963,7 @@
     }, {
       "name": "Rainn Wilson",
       "image": "https://variety.com/wp-content/uploads/2023/04/TCDOFFI_EC251.jpg",
-      "imdb": "https://www.imdb.com/name/nm0933988/",
+      "imdb": "https://www.imdb.com/name/nm0933988/"
     }]
     },
 
@@ -980,7 +979,7 @@
     "director": [{
     "name": "Pete Travis",
     "image": "https://m.media-amazon.com/images/M/MV5BMTg3MjczOTI3OV5BMl5BanBnXkFtZTcwNzQ4NTg1MQ@@._V1_.jpg",
-    "imdb": "https://www.imdb.com/name/nm0871428/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0871428/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Karl Urban",
@@ -990,12 +989,12 @@
     {
       "name": "Lena Headey",
       "image": "https://static.independent.co.uk/2023/05/11/19/newFile-2.jpg",
-      "imdb": "https://www.imdb.com/name/nm0372176/",
+      "imdb": "https://www.imdb.com/name/nm0372176/"
     }, 
     {
       "name": "Olivia Thrilby",
       "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2023/06/newspress-collage-8305699-1686131265207.jpg?w=620",
-      "imdb": "https://www.imdb.com/name/nm1880888/",
+      "imdb": "https://www.imdb.com/name/nm1880888/"
     }]
     },
 
@@ -1016,7 +1015,7 @@
     "actors": [{
       "name": "Dwayne 'The Rock' Johnson",
       "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3bdb2575-9a92-42f8-8472-bb78c7bd118a_720x405.jpeg",
-      "imdb": "https://www.imdb.com/name/nm0425005/",
+      "imdb": "https://www.imdb.com/name/nm0425005/"
     }, {
       "name": "Pierce Brosnan",
       "image": "https://parade.com/.image/t_share/MjAyOTA4NzM0NDcxNTQ1OTI0/the-2023-met-gala-celebrating-karl-lagerfeld-a-line-of-beauty---arrivals.jpg",
@@ -1036,12 +1035,12 @@
     "director": [{
     "name": "Conrad Vernon",
     "image": "https://www.thewrap.com/wp-content/uploads/2016/09/conradvernon.jpg",
-    "imdb": "https://www.imdb.com/name/nm0970447/",
+    "imdb": "https://www.imdb.com/name/nm0970447/"
     }],
     "actors": [{
       "name": "Seth Rogen",
       "image": "https://media.gq.com/photos/5cd9879fb41d09d10bcd7657/16:9/w_2560%2Cc_limit/seth-rogen-gq-cover-june-july-2019-11.jpg",
-      "imdb": "https://www.imdb.com/name/nm0736622/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_seth%2520rogen",
+      "imdb": "https://www.imdb.com/name/nm0736622/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_seth%2520rogen"
     }, {
       "name": "Kristen Wiig",
       "image": "https://people.com/thmb/0dDxscDgChqOghle1f4GF2tzVKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(937x499:939x501)/kristen-wiig-1-a6ece2c7e8d943b6b5c93be0a25878f1.jpg",
@@ -1049,7 +1048,7 @@
     }, {
       "name": "Nick Kroll",
       "image": "https://www.nickiswift.com/img/gallery/who-is-nick-krolls-wife-lily-kwong/intro-1671142154.jpg",
-      "imdb": "https://www.imdb.com/name/nm1802209/?ref_=fn_al_nm_1",
+      "imdb": "https://www.imdb.com/name/nm1802209/?ref_=fn_al_nm_1"
     }]
     },
 
@@ -1065,12 +1064,12 @@
     "director": [{
     "name": "David Ayer",
     "image": "https://deadline.com/wp-content/uploads/2023/08/david-ayer-the-suicide-squad.jpg",
-    "imdb": "https://www.imdb.com/name/nm0043742/?ref_=fn_al_nm_1",
+    "imdb": "https://www.imdb.com/name/nm0043742/?ref_=fn_al_nm_1"
     }],
     "actors": [{
       "name": "Brad Pitt",
       "image": "https://m.media-amazon.com/images/M/MV5BMWRkMDE5MjUtN2MyYi00MzAyLWIwOWMtNWU0NzNkZDczOWUyXkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_QL75_UX500_CR0,0,500,281_.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000093/",
+      "imdb": "https://www.imdb.com/name/nm0000093/"
     }, {
       "name": "Shia Labeouf",
       "image": "https://media.gq.com/photos/5f4952b38dc8847e289114e8/4:3/w_1024%2Cc_limit/GQ-Shia-Grooming-082820.jpeg",
@@ -1078,7 +1077,7 @@
     }, {
       "name": "Jon Bernthal",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/10/gettyimages-529083674-h_2016.jpg?w=1296",
-      "imdb": "https://www.imdb.com/name/nm1256532/",
+      "imdb": "https://www.imdb.com/name/nm1256532/"
     }]
     },
 
@@ -1094,12 +1093,12 @@
     "director": [{
     "name": "Adam McKay",
     "image": "https://media.gq.com/photos/61ae8c6b5f5bc36144ea4ec9/16:9/w_2560%2Cc_limit/AMCKAY-22_R.jpg",
-    "imdb": "https://www.imdb.com/name/nm0570912/",
+    "imdb": "https://www.imdb.com/name/nm0570912/"
     }],
     "actors": [{
       "name": "Will Ferrell",
       "image": "https://ca-times.brightspotcdn.com/dims4/default/076a75b/2147483647/strip/false/crop/3500x1969+0+176/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F35%2F0c%2F568646e5482e8f5ce52d1d84b1cd%2Fny-premiere-of-apple-tvs-the-shrink-next-door-90227.jpg",
-      "imdb": "https://www.imdb.com/name/nm0002071/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_will%2520ferrell",
+      "imdb": "https://www.imdb.com/name/nm0002071/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_will%2520ferrell"
     }, {
       "name": "Mark Whalberg",
       "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cfa3810-fdb0-4f9e-a7e1-72dca5b4e25b/73639a9e-2747-4d85-9626-edd01a17a1aa/1280x720/match/image.jpg",
@@ -1107,7 +1106,7 @@
     }, {
       "name": "Eva Mendes",
       "image": "https://images.hola.com/us/images/0284-18a261c0ed85-736b2cc201e9-1000/horizontal-480/screenshot-2023-08-01-at-2-55-15-pm.png",
-      "imdb": "https://www.imdb.com/name/nm0578949/",
+      "imdb": "https://www.imdb.com/name/nm0578949/"
     }]
     },
 
@@ -1124,7 +1123,7 @@
     "actors": [{
       "name": "Sam Neill",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Sam-Neill-Sitges-Film-Festival-NEW-GettyImages-1180442124-H-2023.jpg?w=1296",
-      "imdb": "https://www.imdb.com/name/nm0000554/?ref_=nv_sr_srsg_0_tt_4_nm_4_q_sam%2520neill",
+      "imdb": "https://www.imdb.com/name/nm0000554/?ref_=nv_sr_srsg_0_tt_4_nm_4_q_sam%2520neill"
     }, {
       "name": "Laura Dern",
       "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-181307-129738520.jpg",
@@ -1132,7 +1131,7 @@
     }, {
       "name": "Jeff Goldblum",
       "image": "https://hips.hearstapps.com/hmg-prod/images/goldblum-1652377492.jpeg",
-      "imdb": "https://www.imdb.com/find/?q=jeff%20goldblum&ref_=nv_sr_smg",
+      "imdb": "https://www.imdb.com/find/?q=jeff%20goldblum&ref_=nv_sr_smg"
     }]
     },
 
@@ -1148,12 +1147,12 @@
     "director": [{
     "name": "Hans Petter Moland",
     "image": "https://i.ytimg.com/vi/V6BYC0aLtBg/sddefault.jpg",
-    "imdb": "https://www.imdb.com/name/nm0596407/",
+    "imdb": "https://www.imdb.com/name/nm0596407/"
     }],
     "actors": [{
       "name": "Liam Neeson",
       "image": "https://cdn01.justjared.com/wp-content/uploads/headlines/2008/05/liam-neeson-pees-in-his-pants.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000553/?ref_=fn_al_nm_1",
+      "imdb": "https://www.imdb.com/name/nm0000553/?ref_=fn_al_nm_1"
     }, {
       "name": "Tom Bateman",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/08/tom_bateman_-_the_entertainer_-_getty_-_h_2016.jpg",
@@ -1161,7 +1160,7 @@
     }, {
       "name": "Emmy Rossum",
       "image": "https://media.glamour.com/photos/5942abfb1bd81a664b29ce89/master/w_2560%2Cc_limit/GettyImages-513562652.jpg",
-      "imdb": "https://www.imdb.com/name/nm0002536/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_emmy%2520rossum",
+      "imdb": "https://www.imdb.com/name/nm0002536/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_emmy%2520rossum"
     }]
     },
 
@@ -1177,7 +1176,7 @@
     "director": [{
     "name": "Peter Berg",
     "image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/01/peter_berg_0.jpg?w=3000",
-    "imdb": "https://www.imdb.com/name/nm0000916/?ref_=fn_al_nm_1",
+    "imdb": "https://www.imdb.com/name/nm0000916/?ref_=fn_al_nm_1"
     }],
     "actors": [{
       "name": "Mark Whalberg",
@@ -1190,7 +1189,7 @@
     }, {
       "name": "Emile Hirsch",
       "image": "https://ew.com/thmb/sN2bcgci0G_CIrMhXY39TMrSbrY=/800x524/filters:no_upscale():max_bytes(150000):strip_icc()/Emile-Hirsch-061623-d3d29995d627474d931af09646cb6ea6.jpg",
-      "imdb": "https://www.imdb.com/name/nm0386472/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_emile%2520hirsch",
+      "imdb": "https://www.imdb.com/name/nm0386472/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_emile%2520hirsch"
     }]
     },
 
@@ -1206,12 +1205,12 @@
     "director": [{
     "name": "Gene Stupnitsky",
     "image": "https://media.gettyimages.com/id/1258717464/photo/berlin-germany-gene-stupnitsky-attends-the-berlin-premiere-of-no-hard-feelings-at-zoo-palast.jpg?s=612x612&w=gi&k=20&c=b2JpuisaDHmHfPJoMtnjXgf7RsNkDSTlI26Sea-DBME=",
-    "imdb": "https://www.imdb.com/name/nm1969144/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm1969144/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Jennifer Lawrence",
       "image": "https://media.vanityfair.com/photos/618c0614fdf674f0522a9fb7/master/w_2560%2Cc_limit/LBY_210805_JENNIFER_LAWRENCE_VF_09G_Shot_10_028_QC_sRGB_LR.jpg",
-      "imdb": "https://www.imdb.com/name/nm2225369/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm2225369/?ref_=tt_ov_st"
     }, {
       "name": "Andrew Barth Feldman",
       "image": "https://imaging.broadway.com/images/regular-43/w735/106373-17.jpg",
@@ -1219,7 +1218,7 @@
     }, {
       "name": "Ebon Moss-Bachrach",
       "image": "https://m.media-amazon.com/images/M/MV5BODJiNzIyMDktZDc5MC00ZDVmLTg1NWUtNzgyNzNhNGY3ZTJjXkEyXkFqcGdeQXVyMTI2Nzk3NzI4._V1_FMjpg_UX1000_.jpg",
-      "imdb": "https://www.imdb.com/name/nm0609114/?ref_=tt_cl_t_7",
+      "imdb": "https://www.imdb.com/name/nm0609114/?ref_=tt_cl_t_7"
     }]
     },
 
@@ -1235,12 +1234,12 @@
     "director": [{
     "name": "Pierre Coffin",
     "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/22/1434983738701/Pierre-Coffin-with-Minion-009.jpg?width=700&quality=85&auto=format&fit=max&s=ba4289a18ecab7396e4e912106ec8fb5",
-    "imdb": "https://www.imdb.com/name/nm1853544/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm1853544/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Sandra Bullock",
       "image": "https://media.vanityfair.com/photos/623353678ca53d3267e25b7c/16:9/w_3599,h_2024,c_limit/1384684341",
-      "imdb": "https://www.imdb.com/name/nm0000113/?ref_=tt_cl_t_1",
+      "imdb": "https://www.imdb.com/name/nm0000113/?ref_=tt_cl_t_1"
     }, {
       "name": "Jon Hamm",
       "image": "https://dbuff82.files.wordpress.com/2019/03/jon-hamm-1494357063.jpg?w=1024&h=666&crop=1",
@@ -1262,12 +1261,12 @@
     "director": [{
     "name": "Nicholas Stoller",
     "image": "https://wegotthiscovered.com/wp-content/uploads/2022/10/nicholas-stoller-Getty-Images-scaled.jpg",
-    "imdb": "https://www.imdb.com/name/nm0831557/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0831557/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Seth Rogen",
       "image": "https://media.gq.com/photos/5cd9879fb41d09d10bcd7657/16:9/w_2560%2Cc_limit/seth-rogen-gq-cover-june-july-2019-11.jpg",
-      "imdb": "https://www.imdb.com/name/nm0736622/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_seth%2520rogen",
+      "imdb": "https://www.imdb.com/name/nm0736622/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_seth%2520rogen"
     }, {
       "name": "Rose Byrne",
       "image": "https://static.independent.co.uk/2022/07/08/14/shutterstock_editorial_12845769bn.jpg",
@@ -1275,7 +1274,7 @@
     }, {
       "name": "Zac Efron",
       "image": "https://stylecaster.com/wp-content/uploads/2022/05/Zac-Efron-3.jpg?w=600&h=337&crop=1",
-      "imdb": "https://www.imdb.com/name/nm1374980/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm1374980/?ref_=tt_ov_st"
     }]
     },
 
@@ -1291,12 +1290,12 @@
     "director": [{
     "name": "James Gunn",
     "image": "https://people.com/thmb/GmyaejWdCqeibxv5oDJRfJ4AUWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(674x159:676x161)/James-Gunn-2-d8e531ba64ce42d0a812411302f4e4c0.jpg",
-    "imdb": "https://www.imdb.com/name/nm0348181/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0348181/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Margot Robbie",
       "image": "https://media.npr.org/assets/img/2015/03/02/margotrobbie-eb727edf7b18cbe8b755d8372cf271d4f4d6e3a7-s1100-c50.jpg",
-      "imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st"
     }, {
       "name": "Idris Elba",
       "image": "https://img.buzzfeed.com/buzzfeed-static/complex/images/c6pfzxavof3nf6emlmmb/idris-elba.jpg?output-format=jpg&output-quality=auto",
@@ -1304,7 +1303,7 @@
     }, {
       "name": "John Cena",
       "image": "https://deadline.com/wp-content/uploads/2023/09/john-cena-wwe.jpg?w=1024",
-      "imdb": "https://www.imdb.com/name/nm1078479/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm1078479/?ref_=tt_ov_st"
     }]
     },
 
@@ -1320,12 +1319,12 @@
     "director": [{
     "name": "Mel Brooks",
     "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/01/1140-mel-brooks-2016.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000316/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0000316/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Gene Wilder",
       "image": "https://cdn.britannica.com/44/193544-050-E82B9560/comic-actor-Gene-Wilder.jpg?w=400&h=300&c=crop",
-      "imdb": "https://www.imdb.com/name/nm0000698/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0000698/?ref_=tt_ov_st"
     }, {
       "name": "Cleavon Little",
       "image": "https://www.cowboysindians.com/wp-content/uploads/2017/01/cleavon-little-blazing-saddles.jpg",
@@ -1345,17 +1344,17 @@
     "director": [{
     "name": "Richard Linklater",
     "image": "https://www.rollingstone.com/wp-content/uploads/2020/11/dazed-and-confused-book.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000500/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0000500/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Jack Black",
       "image": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Jack-Black.jpg",
-      "imdb": "https://www.imdb.com/name/nm0085312/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0085312/?ref_=tt_ov_st"
     }, {
       "name": "Joan Cusack",
       "image": "https://www.tvguide.com/a/img/resize/dc8c2916c9153995813524b211dadcad3ca61711/catalog/provider/10/9/10-1BB60CDB-6198-4C75-AE88-FBBEDCB19C13.png?auto=webp&fit=crop&height=675&width=1200",
       "imdb": "https://www.imdb.com/name/nm0000349/?ref_=tt_ov_st"
-    },]},
+    }]},
 
     {    
       "item": "29",
@@ -1369,12 +1368,12 @@
     "director": [{
     "name": "Phyllida Lloyd",
     "image": "https://i.guim.co.uk/img/static/sys-images/Film/Pix/pictures/2012/1/4/1325688238811/Phyllida-Lloyd-007.jpg?width=620&quality=85&auto=format&fit=max&s=e708a04bc9b2a9c6bbad8167b39b4aef",
-    "imdb": "",
+    "imdb": ""
     }],
     "actors": [{
       "name": "Meryl Streep",
       "image": "https://ew.com/thmb/OnGb568VYP6eVGvjYBDiZQTSQC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Meryl-Streep-mamma-Mia-493688affb3e4be0a73d734baaec58e9.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000658/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0000658/?ref_=tt_ov_st"
     }, {
       "name": "Amanda Seyfried",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/02/Amanda_Seyfried_David_Needleman_THR_A_369-Splash-2022.jpg?w=1024",
@@ -1398,17 +1397,17 @@
     "director": [{
     "name": "Ivan Reitman",
     "image": "https://www.syfy.com/sites/syfy/files/2022/02/gettyimages-1353504563_0.jpg",
-    "imdb": "https://www.imdb.com/name/nm0718645/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0718645/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Arnold Schwarzenegger",
       "image": "https://cdn.sanity.io/images/dm4o0ui7/production/ab8622774dfd8bc6b2107656cc1d648ff48279b3-1200x600.png",
-      "imdb": "https://www.imdb.com/name/nm0000216/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0000216/?ref_=tt_ov_st"
     }, {
       "name": "Danny DeVito",
       "image": "https://imageio.forbes.com/specials-images/imageserve/60fa1c9e5ef6dd2f9a8f0946/Danny-DeVito-at--Dumbo--European-Premiere---Red-Carpet-Arrivals/960x0.jpg?format=jpg&width=960",
       "imdb": "https://www.imdb.com/name/nm0000362/?ref_=tt_ov_st"
-    },]
+    }]
     },
 
     {    
@@ -1418,17 +1417,17 @@
       "mpaa": "R",
       "poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXObR5eQlG4zRlefdTfrJJfYSNhYS-Zi670Dybl1UVN0EiMpvWaV5vtdeWQqOQu6tFsq8g_a5XnRZMgWzYPB6Bcjh-S3esIOhKU.jpg?r=612",
       "description": "Stressed-out moms Amy, Carla and Kiki are back, and the looming Christmas holiday gets even more daunting when their mothers show up for a visit.",
-	"genre": ["comedy", "christmas", ],
+	"genre": ["comedy", "christmas" ],
     "link": "https://www.netflix.com/title/80177872",
     "director": [{
     "name": "Jon Lucas and Scott Moore",
     "image": "https://i.ytimg.com/vi/w5lk9erkHXg/hqdefault.jpg",
-    "imdb": "https://www.imdb.com/name/nm0524190/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0524190/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Mila Kunis",
       "image": "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2022/03/16/d9293f6f-1f67-4f05-a8a6-768eb2c5b153_5b9b4d1a.jpg",
-      "imdb": "https://www.imdb.com/name/nm0005109/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0005109/?ref_=tt_ov_st"
     }, {
       "name": "Kirsten Bell",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/Kristen_Bell-Photo-by-Ricky-Middlesworth-H-2023.jpg?w=1296",
@@ -1436,7 +1435,7 @@
     }, {
       "name": "Kathyrn Hahn",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/GettyImages-1433881004-H-2023.jpg",
-      "imdb": "https://www.imdb.com/name/nm1063517/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm1063517/?ref_=tt_ov_st"
     }]
     },
 
@@ -1452,16 +1451,16 @@
     "director": [{
     "name": "Andy Fickman",
     "image": "https://deadline.com/wp-content/uploads/2024/02/GettyImages-1477286508.jpg?w=681&h=383&crop=1",
-    "imdb": "https://www.imdb.com/name/nm0275698/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0275698/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Amanda Bynes",
       "image": "https://d1fegwn2wjh0cs.cloudfront.net/12-20-2023/t_d2e98dfc5386435aa5b4d1826d1dea11_name_6d9455547295460aabac672c03f5c4e5.jpeg",
-      "imdb": "https://www.imdb.com/name/nm0004789/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0004789/?ref_=tt_ov_st"
     }, {
       "name": "Channing Tatum",
       "image": "https://variety.com/wp-content/uploads/2022/02/Channing-Tatum-Variety-Cover-Story-6-16x9-1.jpg",
-      "imdb": "https://www.imdb.com/name/nm1475594/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm1475594/?ref_=tt_ov_st"
     }]
     },
 
@@ -1477,12 +1476,12 @@
     "director": [{
     "name": "Jay Roach",
     "image": "https://wrapwomen.thewrap.com/wp-content/uploads/2019/10/JAY-ROACH.jpg",
-    "imdb": "https://www.imdb.com/name/nm0005366/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0005366/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Ben Stiller",
       "image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
-      "imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
     }, {
       "name": "Robert De Niro",
       "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
@@ -1490,7 +1489,7 @@
     }, {
       "name": "Teri Polo",
       "image": "https://facts.net/wp-content/uploads/2023/09/38-facts-about-teri-polo-1695436101.jpg",
-      "imdb": "https://www.imdb.com/name/nm0001632/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0001632/?ref_=tt_ov_st"
     }]
     },
   
@@ -1506,12 +1505,12 @@
     "director": [{
     "name": "Fred Wolf",
     "image": "https://variety.com/wp-content/uploads/2019/11/img_5065.jpg",
-    "imdb": "https://www.imdb.com/name/nm0937748/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0937748/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Anna Faris",
       "image": "https://nationaltoday.com/wp-content/uploads/2022/09/Anna-Faris-1200x834.jpg",
-      "imdb": "https://www.imdb.com/name/nm0267506/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0267506/?ref_=tt_ov_st"
     }, {
       "name": "Emma Stone",
       "image": "https://variety.com/wp-content/uploads/2023/12/Emma-Stone-Variety-Actors-on-Actors.jpg?w=1024",
@@ -1519,7 +1518,7 @@
     }, {
       "name": "Colin Hanks",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/02/colin_hanks.jpg",
-      "imdb": "https://www.imdb.com/name/nm0004988/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0004988/?ref_=tt_ov_st"
     }]
     },
 
@@ -1535,12 +1534,12 @@
     "director": [{
     "name": "Gary Winick",
     "image": "https://media.baselineresearch.com/images/370880/370880_full.jpg",
-    "imdb": "https://www.imdb.com/name/nm0935095/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0935095/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Jennifer Garner",
       "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2023_26/2008627/230629-shopping-diaries-jennifer-garner-kb-2x1.jpg",
-      "imdb": "https://www.imdb.com/name/nm0004950/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0004950/?ref_=tt_ov_st"
     }, {
       "name": "Mark Ruffalo",
       "image": "https://d.newsweek.com/en/full/2298700/mark-ruffalo-june-2023.png?w=1200&f=7082c879b50355fdc025b4e12f2a43d5",
@@ -1560,12 +1559,12 @@
     "director": [{
     "name": "PJ Hogan",
     "image": "https://thereelbits.com/wp-content/uploads/2012/09/pj-hogan001f.jpeg",
-    "imdb": "https://www.imdb.com/name/nm0389591/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0389591/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Julia Roberts",
       "image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
     }, {
       "name": "Cameron Diaz",
       "image": "https://nationaltoday.com/wp-content/uploads/2022/10/42-Cameron-Diaz-1200x834.jpg",
@@ -1573,7 +1572,7 @@
     }, {
       "name": "Rupert Everett",
       "image": "https://www.washingtonblade.com/content/files/2020/10/Rupert_Everett_in_Another_Country_insert_courtesy_20th_Century_Fox.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000391/?ref_=tt_cl_t_4",
+      "imdb": "https://www.imdb.com/name/nm0000391/?ref_=tt_cl_t_4"
     }]
     },
 
@@ -1589,12 +1588,12 @@
     "director": [{
     "name": "Robert Iscove",
     "image": "https://media.gettyimages.com/id/86472251/photo/los-angeles-ca-director-robert-iscove-arrives-at-the-premiere-of-screen-media-films-love.jpg?s=612x612&w=gi&k=20&c=QU_rIATXHMJ7wcovWsrvUUuGTkhTuAG-B-Dz_SI7hN8=",
-    "imdb": "https://www.imdb.com/name/nm0410769/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0410769/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Freddie Prinze Jr",
       "image": "https://www.goalcast.com/wp-content/uploads/2022/01/Freddie-Prinze-Jr..jpg",
-      "imdb": "https://www.imdb.com/name/nm0005327/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0005327/?ref_=tt_ov_st"
     }, {
       "name": "rachel Leigh Cook",
       "image": "https://deadline.com/wp-content/uploads/2020/12/MEGA474268_016-1-e1607989292851.jpg",
@@ -1602,7 +1601,7 @@
     }, {
       "name": "Matthew Lillard",
       "image": "https://facts.net/wp-content/uploads/2023/08/40-facts-about-matthew-lillard-1691407781.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000498/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0000498/?ref_=tt_ov_st"
     }]
     },
   
@@ -1618,20 +1617,20 @@
     "director": [{
       "name": "Adam McKay",
       "image": "https://media.gq.com/photos/61ae8c6b5f5bc36144ea4ec9/16:9/w_2560%2Cc_limit/AMCKAY-22_R.jpg",
-      "imdb": "https://www.imdb.com/name/nm0570912/",
+      "imdb": "https://www.imdb.com/name/nm0570912/"
       }],
     "actors": [{
       "name": "Leonardo DiCaprio",
       "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000138/",
+      "imdb": "https://www.imdb.com/name/nm0000138/"
     }, {
       "name": "Jennifer Lawrence",
       "image": "https://media.vanityfair.com/photos/618c0614fdf674f0522a9fb7/master/w_2560%2Cc_limit/LBY_210805_JENNIFER_LAWRENCE_VF_09G_Shot_10_028_QC_sRGB_LR.jpg",
-      "imdb": "https://www.imdb.com/name/nm2225369/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm2225369/?ref_=tt_ov_st"
     }, {
       "name": "Meryl Streep",
       "image": "https://ew.com/thmb/OnGb568VYP6eVGvjYBDiZQTSQC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Meryl-Streep-mamma-Mia-493688affb3e4be0a73d734baaec58e9.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000658/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0000658/?ref_=tt_ov_st"
     }]
     },
 
@@ -1647,12 +1646,12 @@
     "director": [{
     "name": "Baz Luhrmann",
     "image": "https://variety.com/wp-content/uploads/2022/09/Collage-Maker-07-Sep-2022-09.59-AM.jpg",
-    "imdb": "https://www.imdb.com/name/nm0525303/?ref_=tt_ov_wr",
+    "imdb": "https://www.imdb.com/name/nm0525303/?ref_=tt_ov_wr"
     }],
     "actors": [{
       "name": "Leonardo DiCaprio",
       "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000138/",
+      "imdb": "https://www.imdb.com/name/nm0000138/"
     }, {
       "name": "Tobey Maguire",
       "image": "https://m.economictimes.com/thumb/msid-105635855,width-1600,height-900,resizemode-4,imgsize-52340/spider-man-4-is-tobey-maguires-return-on-the-cards-heres-what-we-know-so-far.jpg",
@@ -1676,12 +1675,12 @@
     "director": [{
     "name": "Rian Johnson",
     "image": "https://media.newyorker.com/photos/6377bc34da27cea69260aa08/master/pass/Chotiner-RianJohnson-1.jpg",
-    "imdb": "https://www.imdb.com/name/nm0426059/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0426059/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Daniel Craig",
       "image": "https://64.media.tumblr.com/03d669f25cedc9d22cd392d52e75fe66/tumblr_inline_nxaqxfs4Y21sgm97w_500.jpg",
-      "imdb": "https://www.imdb.com/name/nm0185819/?ref_=tt_cl_t_1",
+      "imdb": "https://www.imdb.com/name/nm0185819/?ref_=tt_cl_t_1"
     }, {
       "name": "Edward Norton",
       "image": "https://images.hellomagazine.com/horizon/landscape/453850f68ae5-edward-norton.jpg",
@@ -1689,7 +1688,7 @@
     }, {
       "name": "Janelle Monae",
       "image": "https://media.allure.com/photos/64b7fe8b7da2db5de4be3871/16:9/w_2992,h_1683,c_limit/janelle%20monae%20blonde%20locs.jpg",
-      "imdb": "https://www.imdb.com/name/nm1847117/?ref_=tt_cl_t_5",
+      "imdb": "https://www.imdb.com/name/nm1847117/?ref_=tt_cl_t_5"
     }]
     },
 
@@ -1705,12 +1704,12 @@
     "director": [{
     "name": "Olivia Newman",
     "image": "https://images.prismic.io/tribeca-film-institute/NGNmMTlhYmQtNzQ4Yy00YmM0LWE5MzMtZGNmMjBmZWIxNDhm_olivia_newman_writerdirector_first_match.jpg?auto=compress,format&rect=0,0,1800,1200&w=1800&h=1200",
-    "imdb": "https://www.imdb.com/name/nm3229507/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm3229507/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Daisy Edgar-Jones",
       "image": "https://www.nme.com/wp-content/uploads/2022/03/Daisy_Edgar_Jones_Jason_Hetherington.jpg",
-      "imdb": "https://www.imdb.com/name/nm8402992/?ref_=tt_cl_t_1",
+      "imdb": "https://www.imdb.com/name/nm8402992/?ref_=tt_cl_t_1"
     }, {
       "name": "Harris Dickinson",
       "image": "https://hips.hearstapps.com/hmg-prod/images/harris-dickinson-attends-the-photocall-for-triangle-of-news-photo-1703021836.jpg?crop=0.676xw:0.445xh;0.147xw,0.0359xh&resize=1200:*",
@@ -1735,7 +1734,7 @@
       "actors": [{
         "name": "Julia Roberts",
         "image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st",
+        "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
       }, {
         "name": "Albert Finney",
         "image": "https://www.looper.com/img/gallery/the-untold-uruth-of-albert-finney/intro-1550008058.jpg",
@@ -1743,7 +1742,7 @@
       }, {
         "name": "Aaron Eckhardt",
         "image": "https://deadline.com/wp-content/uploads/2023/02/aaron.jpg",
-        "imdb": "https://www.imdb.com/name/nm0001173/",
+        "imdb": "https://www.imdb.com/name/nm0001173/"
       }]
     },
 
@@ -1761,12 +1760,12 @@
     "director": [{
     "name": "Michael Mann",
     "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/GettyImages-1830804960-H-2024.jpg?w=1296",
-    "imdb": "https://www.imdb.com/name/nm0000520/",
+    "imdb": "https://www.imdb.com/name/nm0000520/"
     }],
     "actors": [{
       "name": "Chris Hemsworth",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRo-ENpCC-i10TwG6emtus3b4Ug8N9_GHUuw&usqp=CAU",
-      "imdb": "https://www.imdb.com/name/nm1165110/",
+      "imdb": "https://www.imdb.com/name/nm1165110/"
     }, {
       "name": "Tang Wei",
       "image": "https://ca-times.brightspotcdn.com/dims4/default/8285503/2147483647/strip/true/crop/1600x900+0+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F31%2F88%2Ff194e1c74f77f92416aaee3dda5b%2Fla-1503576083-fhk065ufuy-snap-image",
@@ -1786,12 +1785,12 @@
     "director": [{
     "name": "Todd Phillips",
     "image": "https://m.media-amazon.com/images/M/MV5BNGY5MWRjM2MtNDkzNC00MDcwLWE2ZjYtOWNlZmM3MWIyNGZmXkEyXkFqcGdeQXVyMTAxMjM5NTA4._V1_.jpg",
-    "imdb": "https://www.imdb.com/name/nm0680846/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0680846/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Joaquin Phoenix",
       "image": "https://variety.com/wp-content/uploads/2018/03/shutterstock_editorial_9886170h.jpg?w=1000",
-      "imdb": "https://www.imdb.com/name/nm0001618/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0001618/?ref_=tt_ov_st"
     }, {
       "name": "Robert De Niro",
       "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
@@ -1799,7 +1798,7 @@
     }, {
       "name": "Zazie Beetz",
       "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2019%2F10%2Fzazie-beetz-facts-actress-joker-atlanta-deadpool-feminist-activist-david-rysdahl-boyfriend-1.jpg?cbr=1&q=90",
-      "imdb": "https://www.imdb.com/name/nm5939164/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm5939164/?ref_=tt_ov_st"
     }]
     },
   
@@ -1815,12 +1814,12 @@
     "director": [{
     "name": "John Singleton",
     "image": "https://media.vanityfair.com/photos/5cc75e77aa8a176cc69e3bb5/master/pass/John-Singleton-Obit.jpg",
-    "imdb": "https://www.imdb.com/name/nm0005436/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0005436/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Cuba Gooding Jr",
       "image": "https://cdn.abcotvs.com/dip/images/5345939_061319-wabc-ap-cuba-gooding-jr-img.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000421/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0000421/?ref_=tt_ov_st"
     }, {
       "name": "Laurence Fishburne",
       "image": "https://atlantablackstar.com/wp-content/uploads/2022/10/GettyImages-1434655767-scaled.jpg",
@@ -1846,7 +1845,7 @@
     "director": [{
       "name": "Antoine Fuqua",
       "image": "https://deadline.com/wp-content/uploads/2021/12/Antoine-Fuqua-e1638564950313.jpg?w=681&h=383&crop=1",
-      "imdb": "https://www.imdb.com/name/nm0298807/",
+      "imdb": "https://www.imdb.com/name/nm0298807/"
     }],
     "actors": [{
       "name": "Denzel Washington", "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Fdenzel-washington-the-equalizer-3-currently-in-the-works-confirmed-001.jpg?cbr=1&q=90", "imdb": "https://www.imdb.com/name/nm0000243/"
@@ -1869,12 +1868,12 @@
     "director": [{
     "name": "Alfonso Cuarón",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEPp10vDSnxNHdr87jtOCpuRVWbhHQfhY3WmcTiz3U_EABIYK",
-    "imdb": "https://www.imdb.com/name/nm0190859/",
+    "imdb": "https://www.imdb.com/name/nm0190859/"
     }],
     "actors": [{
       "name": "Sandra Bullock",
       "image": "https://media.vanityfair.com/photos/623353678ca53d3267e25b7c/16:9/w_3599,h_2024,c_limit/1384684341",
-      "imdb": "https://www.imdb.com/name/nm0000113/?ref_=tt_cl_t_1",
+      "imdb": "https://www.imdb.com/name/nm0000113/?ref_=tt_cl_t_1"
     }, {
       "name": "George Clooney",
       "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRYIaq1IibD0byPwoCA61TVzHOu11u8JjcIclfwijR0EvFA59KLCk0RM1DDpeeRnFaTZEO1mVmnMzzFKjg",
@@ -1894,12 +1893,12 @@
     "director": [{
     "name": "Quentin Tarantino",
     "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTfp1z_B7M3pWBZ__wU1PSwBAhIZRd6MyxYbc_25PDvGs6MlzsTLejJDtdOh772ILYJch3Fn-hOq8woi-o",
-    "imdb": "https://www.imdb.com/name/nm0000233/",
+    "imdb": "https://www.imdb.com/name/nm0000233/"
     }],
     "actors": [{
       "name": "Pam Grier",
       "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQNnoCH7aLvly8daVv9XSxQOqSEQMXlosliMVbqm24VBJoH9S1OggVzll9eiTEx7JWkfM3tvlynmrWDYwc",
-      "imdb": "https://www.imdb.com/name/nm0000427/",
+      "imdb": "https://www.imdb.com/name/nm0000427/"
     }, {
       "name": "Robert Forster",
       "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSVIoYFxVqE4aUCGWF3cPpeoOJgh-yYe8dACJXGns81moKd8JMU9cDIAl9FGgkEzBm2ccP4GaB1FlPmyyE",
@@ -1907,7 +1906,7 @@
     }, {
       "name": "Samuel L Jackson",
       "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSz_lJ-KbT6_kugv-NHRDoMVxpXtuS2XoD53cD6j6n1sIohIo1Qf9ESbwAfN5OO_r4kj8_TxeN17dGr_rQ",
-      "imdb": "https://www.imdb.com/name/nm0000168/",
+      "imdb": "https://www.imdb.com/name/nm0000168/"
     }]
     },
 
@@ -1923,12 +1922,12 @@
     "director": [{
     "name": "Curtis Hanson",
     "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTTVGOFnuatXBvuyQlXLWd-uhgqkNhMhCCmcHiNsAhU9YfL-CjRtGHLjL5qVP17Yhi47lQJlPtD6gIga9Y",
-    "imdb": "https://www.imdb.com/name/nm0000436/",
+    "imdb": "https://www.imdb.com/name/nm0000436/"
     }],
     "actors": [{
       "name": "Guy Pierce",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzXcT3BKfuF0l_nE8R5nLfeGAULDsvuSFSG4YlP3ZHfn4rN3p",
-      "imdb": "https://www.imdb.com/name/nm0001602/",
+      "imdb": "https://www.imdb.com/name/nm0001602/"
     }, {
       "name": "Russell Crowe",
       "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQQVu1IWPd39PkC0RTEJIXA3yW1ReLsHKPW2bz3b6Ja51Ycroi6htQO6uE90FmckK3KpN082yblaMb9bDs",
@@ -1936,7 +1935,7 @@
     }, {
       "name": "Kevin Spacey",
       "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTiyOulQsurY8yWv0QU0iGMagYmHcchpbMwH886xg98ySkrTPeLi6ptfXyIrbt6cOadxy0x8TldEiIntqU",
-      "imdb": "https://www.imdb.com/name/nm0000228/",
+      "imdb": "https://www.imdb.com/name/nm0000228/"
     }]
     },
 
@@ -1952,12 +1951,12 @@
     "director": [{
     "name": "Shane Black",
     "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQbQwNNbC-aJN-JLsVzfK5zzSLnMtIVCCWVWQ6gqR7YHFm6l0A2IVR2McHb6tdbX1Z7jJIZE_HAz3UlZFM",
-    "imdb": "https://www.imdb.com/name/nm0000948/",
+    "imdb": "https://www.imdb.com/name/nm0000948/"
     }],
     "actors": [{
       "name": "Ryan Gosling",
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQo19mduM602yfQenqFCY0mcAVU-KFkgrnBJJ4O8F4gIM_SZIVX",
-      "imdb": "https://www.imdb.com/name/nm0331516/",
+      "imdb": "https://www.imdb.com/name/nm0331516/"
     }, {
       "name": "Russell Crowe",
       "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQQVu1IWPd39PkC0RTEJIXA3yW1ReLsHKPW2bz3b6Ja51Ycroi6htQO6uE90FmckK3KpN082yblaMb9bDs",
@@ -1978,7 +1977,7 @@
     "director": [{
     "name": "Martin Scorcese",
     "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
-    "imdb": "https://www.imdb.com/name/nm0000217/",
+    "imdb": "https://www.imdb.com/name/nm0000217/"
     }],
     "actors": [{
       "name": "Robert De Niro",
@@ -1991,7 +1990,7 @@
     }, {
       "name": "Al Pacino",
       "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSvNvCnfwhUJomL6srW4j0x21ntqd2R0HDGGyD-MLZA7OUZ52_3XZtjGq_B4G0dmM9-WfF0zMp6seOS_BM",
-      "imdb": "https://www.imdb.com/name/nm0000199/",
+      "imdb": "https://www.imdb.com/name/nm0000199/"
     }]
     },
 
@@ -2007,12 +2006,12 @@
     "director": [{
       "name": "Zack Synder",
       "image": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQRkG0o6H2e9srDoKgYVGPoqGMQGX2DpEahimbzps-XdXK2Qc_sby0nJiRw3V0bePHNFOGKK3PdNwy1Z825FXZwDjmxVEuYKYQlsRdnmEnmK0XIzCGQ-PHCNrD8wJVCvhOqggGXSKLFhPBK7DxoiMtrO9.jpg?r=4ca",
-      "imdb": "https://www.imdb.com/name/nm0811583/",
+      "imdb": "https://www.imdb.com/name/nm0811583/"
     }],
     "actors": [{
       "name": "Henry Cavill",
       "image": "https://people.com/thmb/ADnDFyFZo356CcxH-4zHTR9ExG0=/400x262/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x9:721x11)/Henry-Cavill-Announces-Next-Project-After-Superman-Exit-Natalie-Viscuso-121622-1-95ca52d1d1c9429491654178637087ad.jpg",
-      "imdb": "https://www.imdb.com/name/nm0147147/",
+      "imdb": "https://www.imdb.com/name/nm0147147/"
     }, {
       "name": "Amy Adams",
       "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2023718/rs_1200x1200-230818082417-1200.enchanted-premiere-amy-adams-thumbnail-tb-081823.jpg?fit=around%7C660:372&output-quality=90&crop=660:372;center,top",
@@ -2020,7 +2019,7 @@
     }, {
       "name": "Michael Shannon",
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq4w4om64dz_90TYNuiu6sqEXWBN1Xoky_aV5hreDCTKg5c2iJ",
-      "imdb": "https://www.imdb.com/name/nm0788335/",
+      "imdb": "https://www.imdb.com/name/nm0788335/"
     }]
     },
 
@@ -2036,7 +2035,7 @@
       "director": [{
         "name": "Gina Prince-Bythewood",
     "image": "https://variety.com/wp-content/uploads/2023/02/gina-prince-bythewood-naacp.jpg?w=1000&h=563&crop=1",
-    "imdb": "https://www.imdb.com/name/nm0697656/",
+    "imdb": "https://www.imdb.com/name/nm0697656/"
       }],
       "actors": [{
         "name": "Charlize Theron",
@@ -2066,12 +2065,12 @@
     "director": [{
     "name": "Patty Jenkins",
     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_g013e6ri2TSJV4m0P4vjc_KdgQDtQ4Db44PGDYn3itA0ZDix",
-    "imdb": "https://www.imdb.com/name/nm0420941/",
+    "imdb": "https://www.imdb.com/name/nm0420941/"
     }],
     "actors": [{
       "name": "Gal Gadot",
       "image": "https://d.newsweek.com/en/full/2305821/gal-gadot.jpg",
-      "imdb": "https://www.imdb.com/name/nm2933757/",
+      "imdb": "https://www.imdb.com/name/nm2933757/"
     }, {
       "name": "Chris Pine",
       "image": "https://deadline.com/wp-content/uploads/2023/04/GettyImages-1482564450-e1701543056191.jpg",
@@ -2079,7 +2078,7 @@
     }, {
       "name": "David Thewlis",
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShJkMx47boXb3zDT_ofOwhGa5QhCk8D_DGv7j8CLkGohb3L4Fh",
-      "imdb": "https://www.imdb.com/name/nm0000667/",
+      "imdb": "https://www.imdb.com/name/nm0000667/"
     }]
     },
 
@@ -2096,12 +2095,12 @@
       "director": [{
       "name": "Patty Jenkins",
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_g013e6ri2TSJV4m0P4vjc_KdgQDtQ4Db44PGDYn3itA0ZDix",
-      "imdb": "https://www.imdb.com/name/nm0420941/",
+      "imdb": "https://www.imdb.com/name/nm0420941/"
       }],
       "actors": [{
         "name": "Gal Gadot",
         "image": "https://d.newsweek.com/en/full/2305821/gal-gadot.jpg",
-        "imdb": "https://www.imdb.com/name/nm2933757/",
+        "imdb": "https://www.imdb.com/name/nm2933757/"
       }, {
         "name": "Chris Pine",
         "image": "https://deadline.com/wp-content/uploads/2023/04/GettyImages-1482564450-e1701543056191.jpg",
@@ -2109,7 +2108,7 @@
       }, {
         "name": "Pedro Pascal",
         "image": "https://variety.com/wp-content/uploads/2023/06/Variety-Actors-on-Actors-16x9-Pedro-Pascal.jpg?w=681&h=383&crop=1",
-        "imdb": "https://www.imdb.com/name/nm0050959/",
+        "imdb": "https://www.imdb.com/name/nm0050959/"
       }]
       },
 
@@ -2126,12 +2125,12 @@
     "director": [{
     "name": "Martin Zandvliet",
     "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQzgooMTHERUMuS9x0MzDIDSLzGLEQ0sZnfeW99BtuakgkIkd4McZWBsSVHsKaHD6mzt79B_foG9TOQX_I",
-    "imdb": "https://www.imdb.com/name/nm1324710/",
+    "imdb": "https://www.imdb.com/name/nm1324710/"
     }],
     "actors": [{
       "name": "Jared Leto",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-GdNdn_M37DIDG3wY5UAepg5OMJxLw0yGJ8aIvRHTixdTxAUn",
-      "imdb": "https://www.imdb.com/name/nm0001467/",
+      "imdb": "https://www.imdb.com/name/nm0001467/"
     }, {
       "name": "Tadanobu Asano",
       "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSZ8DK0Rx75bz488KV1LscdgPYi4xwFYI5EPYGygNanqyddl5n2fXt-3fRBQ3k1qQRr0Xdw-hvhtXp0AUE",
@@ -2151,12 +2150,12 @@
     "director": [{
     "name": "Guillermo del Toro",
     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk5p15dyELCnVtHIz0MUu8YGmE3mW0XTDn5kLqqS-jCIc5IGmz",
-    "imdb": "https://www.imdb.com/name/nm0868219/",
+    "imdb": "https://www.imdb.com/name/nm0868219/"
     }],
     "actors": [{
       "name": "Charlie Hunnam",
       "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSdGuUN9FOqOsqPFh3rmtiQVE8p0aaLfgGx-n9_IfJ0H8op2S6G_bZ3pIFhCt_QlUAG8iQlemfwWTLQjhE",
-      "imdb": "https://www.imdb.com/name/nm0402271/",
+      "imdb": "https://www.imdb.com/name/nm0402271/"
     }, {
       "name": "Idris Elba",
       "image": "https://img.buzzfeed.com/buzzfeed-static/complex/images/c6pfzxavof3nf6emlmmb/idris-elba.jpg?output-format=jpg&output-quality=auto",
@@ -2164,7 +2163,7 @@
     }, {
       "name": "Rinko Kikuchi",
       "image": "https://images.businessoffashion.com/profiles/asset/402/5ec801e69c77afd89ef95fc73a8c9217d4b4c153.jpeg?auto=format%2Ccompress&fit=crop&h=360&w=660",
-      "imdb": "https://www.imdb.com/name/nm0452860/",
+      "imdb": "https://www.imdb.com/name/nm0452860/"
     }]
     },
 
@@ -2185,7 +2184,7 @@
     "actors": [{
       "name": "Ana de Armas",
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKB1h7dIm2oMW3TxlhFrmUDWqc5UvaRoCXhlzn9EsBXxusvmOd",
-      "imdb": "https://www.imdb.com/name/nm1869101/",
+      "imdb": "https://www.imdb.com/name/nm1869101/"
     }, {
       "name": "Adrien Brody",
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKSAL0z4xf6twkyjL4m4X7l7xV7i3qENaLYKenaDWwzlCKHa0_",
@@ -2193,7 +2192,7 @@
     }, {
       "name": "Bobby Cannavale",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/03/gettyimages-505188210_-_h_2016.jpg",
-      "imdb": "https://www.imdb.com/name/nm0134072/",
+      "imdb": "https://www.imdb.com/name/nm0134072/"
     }]
     },
 
@@ -2209,12 +2208,12 @@
     "director": [{
     "name": "Tom McGrath",
     "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSBP7b5Va4Ym_QZJvxZ1x3pabFxxD6QF47DgwqlE5zAJoT9bO7cNl2-O8jXzKspJfhpV-vBCXB7XsCrJJc",
-    "imdb": "https://www.imdb.com/name/nm0569891/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0569891/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Alec Baldwin",
       "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSuYBOiGP2ZAxJotmeQcYxn3DjFBL0zoMmurQS0QLxYVn9zGwvQoFUMQVjt4cgb-se_wUvvZhQdkblI2aA",
-      "imdb": "https://www.imdb.com/name/nm0000285/",
+      "imdb": "https://www.imdb.com/name/nm0000285/"
     }, {
       "name": "Lisa Kudrow",
       "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSJiqTGOQYSiL7l5wkM_8u9UaTBykM4DjxKgo-T6aZH8X_Q8QZA0JpHor26Oh-ZNJzuo3-8d5KgxwV-dUg",
@@ -2222,7 +2221,7 @@
     }, {
       "name": "Jimmy Kimmel",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/Jimmy-Kimmel-Show-ABC-165168_0222-Publicity-H-2022.jpg?w=1296",
-      "imdb": "https://www.imdb.com/name/nm0453994/",
+      "imdb": "https://www.imdb.com/name/nm0453994/"
     }]
     },
 
@@ -2238,12 +2237,12 @@
     "director": [{
     "name": "Brian Levant",
     "image": "https://static.wikia.nocookie.net/scoobydoo/images/3/33/Brian_Levant.png/revision/latest?cb=20130120182346",
-    "imdb": "https://www.imdb.com/name/nm0505152/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0505152/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Charles Grodin",
       "image": "https://dims.apnews.com/dims4/default/c0d141c/2147483647/strip/false/crop/1334x998+0+0/resize/1334x998!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F978ef4e7c9f640c3a43625988e9c25df%2F1334.jpeg",
-      "imdb": "https://www.imdb.com/name/nm0001301/",
+      "imdb": "https://www.imdb.com/name/nm0001301/"
     }, {
       "name": "Bonnie Hunt",
       "image": "https://www.emmys.com/sites/default/files/photos-article/bonnie-hunt-900x600.jpg",
@@ -2263,12 +2262,12 @@
     "director": [{
     "name": "Paul King",
     "image": "https://m.media-amazon.com/images/M/MV5BMTUxOTk3MzQ2MF5BMl5BanBnXkFtZTgwNDU4MTkwNDI@._V1_.jpg",
-    "imdb": "https://www.imdb.com/name/nm1653753/",
+    "imdb": "https://www.imdb.com/name/nm1653753/"
     }],
     "actors": [{
       "name": "Ben Whishaw",
       "image": "https://nypost.com/wp-content/uploads/sites/2/2022/01/ben-whishaw-q-bond-01.jpg?quality=75&strip=all",
-      "imdb": "https://www.imdb.com/name/nm0924210/",
+      "imdb": "https://www.imdb.com/name/nm0924210/"
     }, {
       "name": "Hugh Bonneville",
       "image": "https://cdn.comedy.co.uk/images/library/people/900x450/h/hugh_bonneville.jpg",
@@ -2276,7 +2275,7 @@
     }, {
       "name": "Sally Hawkins",
       "image": "https://deadline.com/wp-content/uploads/2023/07/GettyImages-635484128-e1690825268601.jpg",
-      "imdb": "https://www.imdb.com/name/nm1020089/",
+      "imdb": "https://www.imdb.com/name/nm1020089/"
     }]
     },
 
@@ -2292,12 +2291,12 @@
     "director": [{
     "name": "John Huston",
     "image": "https://cdn.britannica.com/45/177145-050-E4CC92B8/John-Huston-Chinatown-Jack-Nicholson-Roman-Polanski.jpg",
-    "imdb": "https://www.imdb.com/name/nm0001379/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0001379/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Aileen Quinn",
       "image": "https://nypost.com/wp-content/uploads/sites/2/2022/04/Aileen-Quinn-63-copy-2.jpg",
-      "imdb": "https://www.imdb.com/name/nm0703747/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0703747/?ref_=tt_ov_st"
     }, {
       "name": "Albert Finney",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2017/07/before_the_devil_knows_youre_dead_albert_finney.jpg?w=1296",
@@ -2305,7 +2304,7 @@
     }, {
       "name": "Carol Burnett",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2020/03/carol_burnett.jpg?w=1024",
-      "imdb": "https://www.imdb.com/name/nm0000993/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0000993/?ref_=tt_ov_st"
     }]
     },
 
@@ -2326,11 +2325,11 @@
     "actors": [{
       "name": "Austin Butler",
       "image": "https://media.glamour.com/photos/65d0e42c2edbfa4a616b6a90/master/w_2560%2Cc_limit/1469454324",
-      "imdb": "https://www.imdb.com/name/nm2581521/",
+      "imdb": "https://www.imdb.com/name/nm2581521/"
     }, {
       "name": "Tom Hanks",
       "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSAH3LQht3_OypUB0nTtNJyUvK0Ioa0F5NdL5ICq_QLNe6D0-aCEFTrjuxecO3rPMXj0ZeXV2mHqjvshJo",
-      "imdb": "https://www.imdb.com/name/nm0000158/",
+      "imdb": "https://www.imdb.com/name/nm0000158/"
     }]
     },
 
@@ -2346,16 +2345,16 @@
     "director": [{
     "name": "Steve Antin",
     "image": "https://m.media-amazon.com/images/M/MV5BMTk0MjA0Nzc4OF5BMl5BanBnXkFyZXN1bWU@._V1_.jpg",
-    "imdb": "https://www.imdb.com/name/nm0031078/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0031078/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Cher",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/12/GettyImages-1854395647-H-2023.jpg?w=1296",
       "imdb": "https://www.imdb.com/name/nm0000333/?ref_=ttfc_fc_cl_t1"
     }, {
-      "name": "	Christina Aguilera",
+      "name": "Christina Aguilera",
       "image": "https://hips.hearstapps.com/hmg-prod/images/christina-aguilera-lube-6426d2b8ee20f.jpg?crop=1xw:0.8433382137628112xh;center,top",
-      "imdb": "https://www.imdb.com/name/nm0000333/?ref_=ttfc_fc_cl_t1",
+      "imdb": "https://www.imdb.com/name/nm0000333/?ref_=ttfc_fc_cl_t1"
     }]
     },
 
@@ -2372,12 +2371,12 @@
     "director": [{
     "name": "Tom Hooper",
     "image": "https://variety.com/wp-content/uploads/2019/12/tom-hooper.jpg",
-    "imdb": "https://www.imdb.com/name/nm0393799/",
+    "imdb": "https://www.imdb.com/name/nm0393799/"
     }],
     "actors": [{
       "name": "Francesca Hayward",
       "image": "https://images.prismic.io/royal-opera-house/7163d1c8-9fda-45b8-93ca-b888c965689f_Francesca+Hayward+in+Ondine_+photo+Andrej+Uspenski+ROH.jpg?auto=compress,format&rect=0,0,4689,3517&w=1280&h=960",
-      "imdb": "https://www.imdb.com/name/nm8667557/",
+      "imdb": "https://www.imdb.com/name/nm8667557/"
     }, {
       "name": "Jennifer Hudson",
       "image": "https://static.independent.co.uk/2021/08/19/07/cats-jennifer-hudson.jpeg?width=1200",
@@ -2385,7 +2384,7 @@
     }, {
       "name": "Judi Dench",
       "image": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2017/11/07/16/damejudidench0711a.jpg?crop=8:5,smart&quality=75&auto=webp&width=960",
-      "imdb": "https://www.imdb.com/name/nm0001132/",
+      "imdb": "https://www.imdb.com/name/nm0001132/"
     }]
     },
 
@@ -2401,12 +2400,12 @@
     "director": [{
     "name": "Ol Parker",
     "image": "https://variety.com/wp-content/uploads/2019/06/ol-parker-the-giver-of-stars.jpg?w=1000",
-    "imdb": "https://www.imdb.com/name/nm0662530/",
+    "imdb": "https://www.imdb.com/name/nm0662530/"
     }],
     "actors": [{
       "name": "Meryl Streep",
       "image": "https://ew.com/thmb/OnGb568VYP6eVGvjYBDiZQTSQC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Meryl-Streep-mamma-Mia-493688affb3e4be0a73d734baaec58e9.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000658/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0000658/?ref_=tt_ov_st"
     }, {
       "name": "Amanda Seyfried",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/02/Amanda_Seyfried_David_Needleman_THR_A_369-Splash-2022.jpg?w=1024",
@@ -2414,7 +2413,7 @@
     }, {
       "name": "Lily James",
       "image": "https://deadline.com/wp-content/uploads/2023/08/GettyImages-1388098661.jpg",
-      "imdb": "https://www.imdb.com/name/nm4141252/",
+      "imdb": "https://www.imdb.com/name/nm4141252/"
     }]
     },
 
@@ -2431,12 +2430,12 @@
     "director": [{
     "name": "Eli Roth",
     "image": "https://hips.hearstapps.com/hmg-prod/images/eli-roth-attends-the-pearl-premiere-during-the-2022-toronto-news-photo-1699902004.jpg?crop=1.00xw:0.335xh;0,0.0722xh&resize=1200:*",
-    "imdb": "https://www.imdb.com/name/nm0744834/",
+    "imdb": "https://www.imdb.com/name/nm0744834/"
     }],
     "actors": [{
       "name": "Patrick Dempsey",
       "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS8CDscSygYmgcXVXr90v2H0XG-n12Z8CA52NkqcrtD8K_Awc3JSPOm3hZay_aSDIXoPGN3kpuU4ryF7vE",
-      "imdb": "https://www.imdb.com/name/nm0001131/",
+      "imdb": "https://www.imdb.com/name/nm0001131/"
     }, {
       "name": "Nell Verlaque",
       "image": "https://netstorage-legit.akamaized.net/images/5f71e92b4696eec9.jpg?imwidth=900",
@@ -2444,7 +2443,7 @@
     }, {
       "name": "Rick Hoffman",
       "image": "https://www.nickiswift.com/img/gallery/whatever-happened-to-suits-star-rick-hoffman/l-intro-1700243221.jpg",
-      "imdb": "https://www.imdb.com/name/nm0389069/",
+      "imdb": "https://www.imdb.com/name/nm0389069/"
     }]
     },
 
@@ -2460,12 +2459,12 @@
     "director": [{
     "name": "Dave Franco",
     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVGM4i5lk95Te-6hZ9TcECNSdi9z8CQTwUi1hrl8-BYICV_K-f",
-    "imdb": "https://www.imdb.com/name/nm2002649/",
+    "imdb": "https://www.imdb.com/name/nm2002649/"
     }],
     "actors": [{
       "name": "Alison Brie",
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6id550x5T8hH4DQsm3JoTGwa7FmnXV7gNnOV28TJzZ1ASYxIt",
-      "imdb": "https://www.imdb.com/name/nm1555340/",
+      "imdb": "https://www.imdb.com/name/nm1555340/"
     }, {
       "name": "Dan Stevens",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thewrap.com%2Fdan-stevens-im-your-man%2F&psig=AOvVaw2KFZvCiYDFtv2aDcLDmlcn&ust=1708458026473000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi8yaKUuIQDFQAAAAAdAAAAABAD",
@@ -2473,7 +2472,7 @@
     }, {
       "name": "Jeremy Allen White",
       "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSU7xjIMwxfd0P2heBKC5efZhpWfSdE53vKUWmpbTLL4LSQWn_FxT1rDF04WgICaQGS_btfXkAYLz-zBIA",
-      "imdb": "https://en.wikipedia.org/wiki/Jeremy_Allen_White",
+      "imdb": "https://en.wikipedia.org/wiki/Jeremy_Allen_White"
     }]
     },
 
@@ -2489,12 +2488,12 @@
     "director": [{
     "name": "David F. Sanberg",
     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYIqNlYD5bDLLVco_BGb9c74sq1ifUrAOq5mU9Y_JaMVnE4qCf",
-    "imdb": "https://www.imdb.com/name/nm2497546/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm2497546/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Teresa Palmer",
       "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTEyEOQnOECtGMZuu2RNmM-VPi3ksX96GaJqRkQSRO06m_g29gdstFJrRiz-dfuyA-4mt3iJsJdqa94nEY",
-      "imdb": "https://www.imdb.com/name/nm1954240/",
+      "imdb": "https://www.imdb.com/name/nm1954240/"
     }, {
       "name": "Gabriel Bateman,",
       "image": "https://i.ytimg.com/vi/bGjAOzW959c/maxresdefault.jpg",
@@ -2514,7 +2513,7 @@
     "director": [{
     "name": "Julius Avery",
     "image": "https://m.media-amazon.com/images/M/MV5BMTY4OTg4MTIxOV5BMl5BanBnXkFtZTgwMzI2NjkzNjM@._V1_.jpg",
-    "imdb": "https://www.imdb.com/name/nm1170339/",
+    "imdb": "https://www.imdb.com/name/nm1170339/"
     }],
     "actors": [{
       "name": "Russell Crowe",
@@ -2527,7 +2526,7 @@
     }, {
       "name": "Franco Nero",
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-bp_dPfT-T0s6lOBmYcxK5de6qKpJaIlkMmE1HME3xCkYx2cK",
-      "imdb": "https://www.imdb.com/name/nm0626259/",
+      "imdb": "https://www.imdb.com/name/nm0626259/"
     }]
     },
 
@@ -2543,12 +2542,12 @@
     "director": [{
     "name": "John Landis",
     "image": "https://i.ytimg.com/vi/5x7j1tgkJcI/maxresdefault.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000484/",
+    "imdb": "https://www.imdb.com/name/nm0000484/"
     }],
     "actors": [{
       "name": "John Belushi",
       "image": "https://cdn.britannica.com/06/245706-050-EC36893C/John-Belushi-The-Blues-Brothers.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000004/",
+      "imdb": "https://www.imdb.com/name/nm0000004/"
     }, {
       "name": "Dan Aykroyd",
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeC0My5GsFgVYszkVJ55lBjUqxD3Ohyy9HaYfkyxzVFu0hR-Ak",
@@ -2568,12 +2567,12 @@
     "director": [{
     "name": "Martin Brest",
     "image": "https://m.media-amazon.com/images/M/MV5BZmE0ODAyZGYtNTczNS00ZDc0LWFlMmQtMmZhOWRlNmZlYTYxXkEyXkFqcGdeQXVyMjA0MTYzNzI@._V1_.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000976/",
+    "imdb": "https://www.imdb.com/name/nm0000976/"
     }],
     "actors": [{
       "name": "Eddie Murphy",
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8fkdQvOZNVBowGHqmC6ZxWGY9C38ksf_oX6nCRbfkrxNyYxcX",
-      "imdb": "https://www.imdb.com/name/nm0000552/",
+      "imdb": "https://www.imdb.com/name/nm0000552/"
     }, {
       "name": "Judge Reinhold",
       "image": "https://images.discovery-prod.axs.com/2023/12/uploadedimage_65708e005a38f.jpg",
@@ -2581,7 +2580,7 @@
     }, {
       "name": "Bronson Pinchot",
       "image": "https://deadline.com/wp-content/uploads/2018/03/bronson-pinchot-2.jpg?w=670&h=383&crop=1",
-      "imdb": "https://www.imdb.com/name/nm0001621/",
+      "imdb": "https://www.imdb.com/name/nm0001621/"
     }]
     },
 
@@ -2597,17 +2596,17 @@
     "director": [{
     "name": "Jennifer Kent",
     "image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/09/gettyimages-1027609614-h_2018.jpg?w=1296",
-    "imdb": "https://www.imdb.com/name/nm0448768/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm0448768/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Essie Davis",
       "image": "https://media.npr.org/assets/img/2014/03/31/phryne2_custom-7475e3b06658722935c36e5813f20f815d7d8801.jpg",
-      "imdb": "https://www.imdb.com/name/nm0204583/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm0204583/?ref_=tt_ov_st"
     }, {
       "name": "Noah Wiseman",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUJPjliUzh.c/v1/1200x800.jpg",
       "imdb": "https://www.imdb.com/name/nm5231168/?ref_=tt_ov_st"
-    },]
+    }]
     },
 
 {    
@@ -2622,12 +2621,12 @@
     "director": [{
     "name": "JA Bayona",
     "image": "https://www.indiewire.com/wp-content/uploads/2019/07/JA-Bayona.jpg",
-    "imdb": "https://www.imdb.com/name/nm1291105/?ref_=tt_ov_dr",
+    "imdb": "https://www.imdb.com/name/nm1291105/?ref_=tt_ov_dr"
     }],
     "actors": [{
       "name": "Enzo Vogrincic",
       "image": "https://media.gq-magazine.co.uk/photos/65d2511d852ddbafe910164c/16:9/w_2560%2Cc_limit/240218_NETFLIX_ENZO_VOGRINCIC_SHOT_01_0083.jpg%2C240218_NETFLIX_ENZO_VOGRINCIC_SHOT_01_0083.jpg",
-      "imdb": "https://www.imdb.com/name/nm11193967/?ref_=tt_ov_st",
+      "imdb": "https://www.imdb.com/name/nm11193967/?ref_=tt_ov_st"
     }, {
       "name": "Agustín Pardella",
       "image": "https://i0.wp.com/www.homosensual.com/wp-content/uploads/2024/01/agustin-pardella-actor-la-sociedad-de-la-nieve-transformacion-sin-playera-biografia-pareja-nando.jpg?fit=1280%2C720&ssl=1",
@@ -2647,7 +2646,7 @@
     "director": [{
     "name": "Park Chan Wook",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/20130925%E2%80%94Park_Chan-wook_%EB%B0%95%EC%B0%AC%EC%9A%B1_Marie_Claire_Korea_photo_shoot_screenshot_%2800m01s%29_%28cropped%29.jpg/800px-20130925%E2%80%94Park_Chan-wook_%EB%B0%95%EC%B0%AC%EC%9A%B1_Marie_Claire_Korea_photo_shoot_screenshot_%2800m01s%29_%28cropped%29.jpg",
-    "imdb": "https://www.imdb.com/name/nm0661791/",
+    "imdb": "https://www.imdb.com/name/nm0661791/"
     }],
     "actors": [{
       "name": "Choi Min-sik",
