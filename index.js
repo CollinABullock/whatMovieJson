@@ -34,6 +34,9 @@ app.post("/netflixArray", (req, res) => {
   // Push the new item into the importData array
   importData.push(newItem);
 
+  // Update the netflixData array with the new item
+  netflixData.push(newItem);
+
   // Send a response indicating success
   res.status(201).json({ message: "You just added a movie", item: newItem });
 });
