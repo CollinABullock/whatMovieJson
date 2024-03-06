@@ -15,6 +15,15 @@ app.get("/netflixArray", (req, res) => {
   res.send (netflixData)
 })
 
+app.post("/netflixArray", (req, res) => {
+  const newItem = req.body;
+
+  netflixData.push(newItem);
+
+  // Send a response indicating success
+  res.status(201).json({ message: "You just added a movie", item: newItem });
+});
+
 app.get("/maxArray", (req, res) => {
   res.send (maxData)
 })
