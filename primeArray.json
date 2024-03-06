@@ -1,0 +1,3222 @@
+[
+  {
+    "item": 407,
+    "title": "Dear Zachary: A Letter to a Son About His Father",
+    "runtime": 95,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/4f8b22cf475e238cd11b02ded538ce69c4bf61389e219ec342ecd4239690f92d.jpg",
+    "description": "This heartbreaking documentary is a letter to Zachary, the son of Andrew Bagby, who was murdered by his ex-girlfriend. As his friends and family recount Andrew's life, the film also serves as a testament to the love and loss experienced by those left behind.",
+    "genre": ["documentary", "crime", "biography"],
+    "link": "https://www.amazon.com/gp/video/detail/B00MB6F3QW/ref=atv_ge_agd_1_c_hUhMb1_brws_1_4?jic=8%7CEgRzdm9k",
+    "director": [{
+      "name": "Kurt Kuenne",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2NzYyMzcyM15BMl5BanBnXkFtZTgwNjk3ODgxNDE@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0474155/"
+    }],
+    "actors": []
+  },
+
+  {
+    "item": 409,
+    "title": "Scandalous: The Untold Story of the National Enquirer",
+    "runtime": 97,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/ec46fe0de01698319e42be5cb3bce5ef077bb14379b394138eb86044448a31c3._SX1080_FMjpg_.jpg",
+    "description": "Delve into the controversial history and inner workings of the National Enquirer, a tabloid newspaper renowned for its sensationalist coverage of celebrity scandals. Through interviews and archival footage, explore the tabloid's rise to prominence, its impact on American culture, and the ethical dilemmas surrounding its reporting practices.",
+    "genre": ["documentary"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B7B9MH8D/ref=atv_ge_agd_1_c_hUhMb1_brws_1_2?jic=8%7CEgRzdm9k",
+    "director": [{
+      "name": "Mark Landsman",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/1*8P36gR9pdo-oh58ZqxAiQg.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0486469/"
+    }],
+    "actors": []
+  },
+
+  {
+    "item": 410,
+    "title": "Val",
+    "runtime": 108,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/a80ec7f05d4dc5a0517bf09fe9fc6548e70aeea50497f86702d543f04ee17805.jpg",
+    "description": "A look at the daily life of actor Val Kilmer with never-before-seen images spanning forty years of his career.",
+    "genre": ["documentary", "biopic"],
+    "link": "https://www.amazon.com/gp/video/detail/B0988VKGW6/ref=atv_ge_agd_1_c_hUhMb1_brws_1_6?jic=8%7CEgRzdm9k",
+    "director": [{
+      "name": "Ting Poo",
+      "image": "https://i.ytimg.com/vi/CZqb9g-DKh4/hqdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm2593979/"
+    }, {
+      "name": "Leo Scott",
+      "image": "https://i.ytimg.com/vi/CZqb9g-DKh4/hqdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm2816195/"
+    }],
+    "actors": [
+      {"name": "Val Kilmer",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/4c927758a4dc45b69f2d3ad7b8a887be/960x0.jpg?height=503&width=711&fit=bounds",
+      "imdb": "https://www.imdb.com/name/nm0000174/"}
+    ]
+  },
+  {
+    "item": 411,
+    "title": "When You're Strange",
+    "runtime": 86,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/004229387bbf3c29259a0a42ee0ea1bc024c9ac44ef7e59c54b533ec18479f1d.jpg",
+    "description": "Explore the captivating journey of the iconic rock band The Doors in this documentary narrated by Johnny Depp. Through rare footage and interviews, delve into the band's rise to fame, their tumultuous relationships, and the enduring legacy of their music.",
+    "genre": ["documentary", "music"],
+    "link": "https://www.amazon.com/gp/video/detail/B07QQ4D123/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Tom DiCillo",
+      "image": "https://www.tomdicillo.com/wp-content/uploads/2023/06/haleluyah-8-1-scaled.jpg",
+      "imdb": "https://www.imdb.com/name/nm0225726/"
+    }],
+    "actors": [{
+      "name": "Johnny Depp",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/Johnny-Depp-Puffins-Promotion-GettyImages-1235985361-H-2023.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000136/"
+    }]
+  },
+
+  {
+    "item": 412,
+    "title": "Soaked in Bleach",
+    "runtime": 90,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/e1f6c4723a4e2b3d6f8dcb818a4557f39ebf37a40ffdc4354657d5de42bb73e4._UR1920,1080_SX720_FMjpg_.jpg",
+    "description": "Investigate the controversial circumstances surrounding the death of Kurt Cobain, the lead singer of Nirvana, in this documentary. Through interviews and evidence examination, the film questions the official ruling of suicide and explores alternative theories.",
+    "genre": ["documentary", "crime", "music"],
+    "link": "https://www.amazon.com/gp/video/detail/B078PS557R/ref=atv_dp_amz_c_TS5124c5_1_5?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Benjamin Statler",
+      "image": "https://i.iheart.com/v3/re/assets.coast2coast/ba50f76a443213e6692ee0a87c261cc9?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+      "imdb": "https://www.imdb.com/name/nm1985356/"
+    }],
+    "actors": []
+  },
+
+  {
+    "item": 413,
+    "title": "Hype!",
+    "runtime": 83,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/94f155964d4936a4fe3e3f17780341d3dc76123d7c06f0dc2c7722fe4579232b.jpg",
+    "description": "Explore the emergence of the Seattle grunge music scene in the early 1990s through this documentary. Featuring interviews with musicians, journalists, and industry insiders, the film examines the cultural impact of bands like Nirvana, Pearl Jam, and Soundgarden.",
+    "genre": ["documentary", "music"],
+    "link": "https://www.amazon.com/gp/video/detail/B00D5C9T70/ref=atv_dp_amz_c_TS5124c5_1_5?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Doug Pray",
+      "image": "https://media.baselineresearch.com/images/255377/255377_full.jpg",
+      "imdb": "https://www.imdb.com/name/nm0695046/"
+    }],
+    "actors": []
+  },
+
+  {
+    "item": 414,
+    "title": "Hired Gun",
+    "runtime": 98,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/5a828da79c219e462671de35c2fc3b755d8c296c8c56468ae5b06cbe7c24dcd8.jpg",
+    "description": "Delve into the world of professional musicians known as 'hired guns' who are hired by famous artists and bands to accompany them on tours and recordings. Through interviews and performances, this documentary sheds light on the unsung heroes behind some of the biggest names in music.",
+    "genre": ["documentary", "music"],
+    "link": "https://www.amazon.com/gp/video/detail/B073RFVW36/ref=atv_dp_amz_c_TS5124c5_1_5?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Fran Strine",
+      "image": "https://media.gettyimages.com/id/1469318566/photo/fran-strine-documentary-award.jpg?s=612x612&w=gi&k=20&c=jkHXkBBzOzfDwIaTXHvq5inNQJ5xbYva9ppQGoVoSpM=",
+      "imdb": "https://www.imdb.com/name/nm1355010/"
+    }],
+    "actors": []
+  },
+
+  {
+    "item": 417,
+    "title": "Man on Wire",
+    "runtime": 94,
+    "mpaa": "PG-13",
+    "poster": "https://i.ytimg.com/vi/MhPSl00UDVE/maxresdefault.jpg",
+    "description": "Experience the astonishing true story of Philippe Petit, a French high-wire artist who walked between the Twin Towers of the World Trade Center in 1974. Through archival footage and reenactments, this documentary captures Petit's daring feat and the meticulous planning that went into it.",
+    "genre": ["documentary", "biopic", "crime"],
+    "link": "https://www.amazon.com/gp/video/detail/B00CV1AKWE/ref=atv_ge_agd_1_c_hUhMb1_brws_1_7?jic=8%7CEgRzdm9k",
+    "director": [{
+      "name": "James Marsh",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/03/gettyimages-461021666-h_2016.jpg",
+      "imdb": "https://www.imdb.com/name/nm0550321/"
+    }],
+    "actors": []
+  },
+
+  {
+"item": 418,
+"title": "The Resurrection of Jake the Snake",
+"runtime": 93,
+"mpaa": "Not Rated",
+"poster": "https://m.media-amazon.com/images/S/pv-target-images/4e1256356eac9b35c482dfbccdfcf2312fd7b1708e6c74faa074727ad235dda0.jpg",
+"description": "Follow the journey of professional wrestler Jake 'The Snake' Roberts as he attempts to overcome personal struggles and reclaim his life and career with the help of fellow wrestler Diamond Dallas Page. The film documents Roberts' battles with addiction and his transformation through yoga and rehabilitation, offering an intimate look into his life and the challenges he faces on his path to recovery.",
+"genre": ["documentary", "sports", "biopic"],
+"link": "https://www.amazon.com/gp/video/detail/B08BNKGZ9D/ref=atv_ge_agd_1_c_hUhMb1_brws_1_9?jic=8%7CEgRzdm9k",
+"director": [{
+  "name": "Steve Yu",
+  "image": "https://www.ajc.com/resizer/UNFgDHMLmj_2UqF8L3347tVPZjo=/500x282/cloudfront-us-east-1.images.arcpublishing.com/ajc/APJN5L76TSETBPNASIXSXBB4VM.jpg",
+  "imdb": "https://www.imdb.com/name/nm3201804/"
+}],
+"actors": [{
+  "name": "Jake Roberts",
+  "image": "https://m.media-amazon.com/images/M/MV5BNTdjMzYzMTUtNGZhNS00ZTRiLWI3Y2YtMjc3YTM1NjhkZjg3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+  "imdb": "https://www.imdb.com/name/nm0731195/"
+
+}]
+},
+
+{
+"item": 419,
+"title": "Conan O'Brien Can't Stop",
+"runtime": 89,
+"mpaa": "R",
+"poster": "https://m.media-amazon.com/images/S/pv-target-images/84aa591a3664b14fed2bda86d7fe8b41cb2257a06a3681644d782d63137aa31a.jpg",
+"description": "Follow Conan O'Brien's post-'Tonight Show' comedy tour as he struggles with the aftermath of losing his show and the pressures of creating new material. Despite setbacks and exhaustion, O'Brien's irrepressible energy and wit shine through as he entertains audiences across the country.",
+"genre": ["documentary", "comedy"],
+"link": "https://www.amazon.com/gp/video/detail/B00BR7Z4WY/ref=atv_ge_agd_1_c_hUhMb1_brws_1_10?jic=8%7CEgRzdm9k",
+"director": [{
+  "name": "Rodman Flender",
+  "image": "https://m.media-amazon.com/images/M/MV5BZTc2ZmU5NDMtOTEwZS00YjE4LWIxODctNWQ2YzY5MzljMWIxXkEyXkFqcGdeQXVyNTI5ODg0MjQ@._V1_.jpg",
+  "imdb": "https://www.imdb.com/name/nm0281635/"
+}],
+"actors": [{
+  "name": "Conan O'Brien",
+  "image": "https://dims.apnews.com/dims4/default/0bb131d/2147483647/strip/false/crop/3000x2122+0+0/resize/1486x1051!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F73c914338bd7484f9ee86b83132b1ac2%2F3000.jpeg",
+  "imdb": "https://www.imdb.com/name/nm0005277/"
+}]
+},
+
+{
+"item": 420,
+"title": "Jasper Mall",
+"runtime": 85,
+"mpaa": "Not Rated",
+"poster": "https://m.media-amazon.com/images/S/pv-target-images/55e96b4f5d1f9cdf061ea812d65abc8b092d8c5b7d7e422b2b9ef5f00fcd2857.jpg",
+"description": "Explore the fading glory of the Jasper Mall, once a bustling hub of community activity, now struggling to survive in the age of online shopping. Through intimate portraits of the mall's tenants and patrons, this documentary offers a poignant reflection on the changing landscape of American retail and small-town life.",
+"genre": ["documentary", "history"],
+"link": "https://www.amazon.com/gp/video/detail/B088MGQ7T1/ref=atv_ge_agd_1_c_hUhMb1_brws_1_15?jic=8%7CEgRzdm9k",
+"director": [{
+  "name": "Bradford Thomason",
+  "image": "https://images.mubicdn.net/images/film/231420/cache-419711-1552734304/image-w1280.jpg?size=400x",
+  "imdb": "https://www.imdb.com/name/nm9322203/"
+}, {
+  "name": "Brett Whitcomb",
+  "image": "https://tapeop.com/_m/photologue/photos/cache/rich_williams%20(1)_disp_horizontal_bw.jpg",
+  "imdb": "https://www.imdb.com/name/nm3581873/"
+}],
+"actors": []
+},
+
+
+
+  {    
+    "item": "202",
+    "title": "Saltburn",
+    "runtime": 131,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/9da992402ef719aa8fb362f29331e5313db7bc9f456833332c194877cdba79e1.png",
+    "description": "Academy Award winning filmmaker Emerald Fennell brings us a beautifully wicked tale of privilege and desire. Struggling to find his place at Oxford University, student Oliver Quick (Barry Keoghan) finds himself drawn into the world of the charming and aristocratic Felix Catton (Jacob Elordi), who invites him to Saltburn, his eccentric family’s sprawling estate, for a summer never to be forgotten.",
+"genre": ["comedy", "drama", "thriller"],
+  "link": "https://www.amazon.com/Saltburn-Barry-Keoghan/dp/B0CGHHFGBS",
+  "director": [{
+  "name": "Emerald Fennell",
+  "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRGe0cqPwCyCKEi7bQ2vrpvEv8Se_pB78RPEDJOBvroleFZWnlrx4xWeOntQv2fx6LaI9Jif1nWtR717Ks",
+  "imdb": "https://www.imdb.com/name/nm2193504/"
+  }],
+  "actors": [{
+    "name": "Barry Keoghan",
+    "image": "https://static.independent.co.uk/2024/02/23/15/GettyImages-1976097590.jpg",
+    "imdb": "https://www.imdb.com/name/nm4422686/"
+  }, {
+    "name": "Jacob Elordi",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY0YmViMTEtMWZkMy00YWZmLTkxMDQtMWU5YTVkZjYwODBmXkEyXkFqcGdeQXJoYW5uYWg@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "imdb": "https://www.imdb.com/name/nm8624059/"
+  }, {
+    "name": "Rosaumnd Pike",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTunY3406m3GAlafNhhBPYvx-go3XRwFHpD20FpQYhC8gT84-uKdanO_oNrYev8N3ZERWAKtK6_46MKF8o",
+    "imdb": "https://www.imdb.com/name/nm0683253/"
+  }]
+  },
+
+  {
+    "item": 203,
+    "title": "In the Cut",
+    "runtime": 119,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/e3346a7c90732f6da18ff0bc04da81ac2ad2929188b37fbc81c8b714ad236bda.jpg",
+    "description": "Frannie Avery, a New York City writing professor, becomes entangled in a dangerous affair with a homicide detective investigating a series of brutal murders in her neighborhood. As their relationship intensifies, Frannie finds herself drawn deeper into the investigation, risking her own safety and sanity to uncover the truth behind the killings.",
+    "genre": ["mystery", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B5N4YVVG/ref=atv_me_inc_c_5crrHZ_brws_2_3?jic=8%7CEgRzdm9k",
+    "director": [{
+      "name": "Jane Campion",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRIfZ_wA1a_ouGQNUTOqXrrhu1Ck1HOCrpsabxtD6K-nN9qunhieghg0Ps4aBvpTQELCIyyuR41s_vAPfY",
+      "imdb": "https://www.imdb.com/name/nm0001005/"
+    }],
+    "actors": [{
+      "name": "Meg Ryan",
+        "image": "https://crookedmarquee.com/wp-content/uploads/2021/03/meg1.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000212/"
+    }, {
+      "name": "Mark Ruffalo",
+      "image": "https://d.newsweek.com/en/full/2298700/mark-ruffalo-june-2023.png?w=1200&f=7082c879b50355fdc025b4e12f2a43d5",
+      "imdb": "https://www.imdb.com/name/nm0749263/?ref_=tt_ov_st"
+    }, {
+      "name": "Jennifer Jason Leigh",
+      "image": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/02/01/10/jenniferjasonleigh.jpg?crop=8:5,smart&quality=75&auto=webp&width=1024",
+      "imdb": "https://www.imdb.com/name/nm0000492/"
+    }]
+  },
+
+  {
+    "item": 204,
+    "title": "Cop Land",
+    "runtime": 105,
+    "mpaa": "R",
+    "poster": "https://www.tvguide.com/a/img/resize/f26e1e75f1ed0653363840910388b501297f5d25/catalog/provider/1/2/1-1280164515.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "description": "In 'Cop Land', the town of Garrison, New Jersey, is populated mostly by NYPD officers who have settled there. Sheriff Freddy Heflin, who is partially deaf, idolizes the officers but is barred from joining their ranks due to his disability. When a young officer's suspicious death exposes corruption and cover-ups among the police, Freddy is faced with a moral dilemma. As he investigates, Freddy must confront the loyalty he feels towards his fellow officers and decide where his allegiances lie.",
+    "genre": ["crime", "drama", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B63969QL/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "James Mangold",
+      "image": "https://www.indiewire.com/wp-content/uploads/2020/08/AP_20027819581673.jpg",
+      "imdb": "https://www.imdb.com/name/nm0003506/"
+    }],
+    "actors": [{
+      "name": "Sylvester Stallone",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/sylvester-stallone.jpg?ve=1&tl=1",
+      "imdb": "https://www.imdb.com/name/nm0000230/"
+    }, {
+      "name": "Harvey Keitel",
+  "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/896/500/keitel-getty.jpg?ve=1&tl=1",
+  "imdb": "https://www.imdb.com/name/nm0000172/"
+    }, {
+      "name": "Ray Liotta",
+      "image": "https://variety.com/wp-content/uploads/2022/06/MCDGOOD_EC028.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000501/"
+    }]
+  },
+   
+  {
+    "item": 205,
+    "title": "Kiss the Girls",
+    "runtime": 115,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/00d2f3933bd966441826b745505e8efbba464d37ffd54585c2bb0b2da3b005e7.jpg",
+    "description": "Forensic psychologist Alex Cross is drawn into a deadly game of cat and mouse with a serial kidnapper killer known as 'Casanova'. When Alex's niece becomes one of Casanova's victims, he teams up with detective Kate McTiernan, who survived an earlier encounter with the killer, to track him down.",
+    "genre": ["crime", "drama", "mystery"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CP3R36ZG/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Gary Fleder",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MjQ4MTUxMl5BMl5BanBnXkFtZTcwOTgwNDUzMw@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0281153/"
+    }],
+    "actors": [{
+      "name": "Morgan Freeman",
+      "image": "https://mediaproxy.salon.com/width/1200/height/675/https://media2.salon.com/2014/06/morgan_freeman.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000151/"
+    }, {
+      "name": "Ashley Judd",
+      "image": "https://facts.net/wp-content/uploads/2023/07/35-facts-about-ashley-judd-1689501720.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000171/"
+    }, {
+      "name": "Cary Elwes",
+      "image": "https://m.media-amazon.com/images/G/01/IMDb/carye_v1_1248x702._CB1562790284_.JPG",
+      "imdb": "https://www.imdb.com/name/nm0000144/"
+    }]
+  },
+
+  {    
+    "item": "206",
+    "title": "Bottoms",
+    "runtime": 91,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/3c98856c96698bf3c97189775152921ea9b1b9c21c3ae218547426602f9c5f4b.jpg",
+    "description": "In this refreshingly outspoken and raunchy comedy, two unpopular girls in their senior year of high school start a fight club to try to impress and hook up with cheerleaders. And their bizarre plan works! But are they in over their heads?",
+"genre": ["comedy", "teen"],
+  "link": "https://www.amazon.com/Bottoms-Rachel-Sennott/dp/B0CG8K3W7D/ref=sr_1_5?dib=eyJ2IjoiMSJ9.-Bie4jqbyquJoBZmmxf-Y8DXhjzi4Ro5NTyzupiyo_wG9aaDf-y1zDRMvDwfghQFNFcfQXVH9TUrR5Mtr7shLBxa2rMoe_nbkz_VG7W5Mkq2whX0lG0EqYu6oBPjcZYmJGY_xZ7tQlvAfsaIkU71TVEnpmd56VN0lTm31h4qXY9q2M63_AeqkDClQkRuZ8jz0Qm4DyEMHzfob-6qTw0-ggc-VORCrX9_iIhoTLjjgBk.v0mPIIcMDKf9yAm2C8BsHsgBVC_YRqh1wX4JIphHfng&dib_tag=se&qid=1709222230&refinements=p_n_ways_to_watch%3A12007865011&s=instant-video&sr=1-5",
+  "director": [{
+    "name": "Emma Seligman",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2EyOWExMGYtNzhhMC00OWY1LWJlZDEtY2QyMzFhYTBjMTlmXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm7364391/"
+  }],
+  "actors": [{
+    "name": "Rachel Sennott",
+    "image": "https://media.vanityfair.com/photos/651c6af98ee00428c46b5662/16:9/w_1280,c_limit/rachel-sennott-embed-site-story.jpg",
+    "imdb": "https://www.imdb.com/name/nm9429774/"
+  }, {
+    "name": "Ayo Edebri",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnahUUviUs-lFn293_PLU39MNRY6bQ84EX2gvOQEVXjcQuDio1",
+    "imdb": "https://www.imdb.com/name/nm8731249/"
+  }, {
+    "name": "Marshawn Lynch",
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ5nU7Dg_Z5srRlluYUBtT_ee1oF7LC3iMXFjxVA9a8tFXJW8qLLuUameeAYkwg17v-qgVlyjGgFXMq9TY",
+    "imdb": "https://www.imdb.com/name/nm2834234/"
+  }]
+  },
+
+  {
+    "item": 207,
+    "title": "Hot Fuzz",
+    "runtime": 121,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/7bbaad76719b0aa8a037b60abdf2fd7a31c45b28d305ba16235a596253923712.jpg",
+    "description": "Hot Fuzz follows two police officers investigating a series of mysterious deaths in a quaint English village.",
+    "genre": ["action", "comedy"],
+    "link": "https://www.amazon.com/Hot-Fuzz-Simon-Pegg/dp/B000UIVRXG",
+    "director": [
+      {
+        "name": "Edgar Wright",
+        "image": "https://variety.com/wp-content/uploads/2023/11/GettyImages-1787178453.jpg?w=1000&h=563&crop=1",
+        "imdb": "https://www.imdb.com/name/nm0942367/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Simon Pegg",
+        "image": "https://www.indiewire.com/wp-content/uploads/2022/07/Simon-Pegg.png",
+        "imdb": "https://www.imdb.com/name/nm0670408/"
+      },
+      {
+        "name": "Nick Frost",
+        "image": "https://static.independent.co.uk/2020/10/26/14/newFile-2.jpg?width=1200",
+        "imdb": "https://www.imdb.com/name/nm0296545/"
+      },
+      {
+        "name": "Timothy Dalton",
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQRAUExehPW_IAq7dtDj6owE6QaaToCVxcYEsfmfbmbeQy8miWQ4CBJYvAogusbFx06PYGOwra6r7CLaIU",
+        "imdb": "https://www.imdb.com/name/nm0001096/"
+      }
+    ]
+  },
+
+  {
+    "item": 208,
+    "title": "Highlander",
+    "runtime": 116,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/d2bcc328b8fbc5e3b80b902ec35a704d3a159983f8665d767943932056239625.jpg",
+    "description": "Highlander is a 1986 fantasy action film directed by Russell Mulcahy and based on a story by Gregory Widen. It stars Christopher Lambert, Sean Connery, and Clancy Brown. The film follows an immortal Scottish swordsman who must confront the last of his immortal opponents in modern-day New York City.",
+    "genre": ["fantasy", "action"],
+    "link": "https://www.amazon.com/Highlander-Movie-Christopher-Lambert/dp/B00578MLVQ/ref=sr_1_1?crid=3MLCQHWC4CQQ9&dib=eyJ2IjoiMSJ9.vQNR4VBVdFpfx_RLt6u9LRNY4KwlRn-nged8yzzBtkPhEoSPIhKawPKjsSzflJk4kvdm8bvGgG1utCctGs74kIM2x57oTwjMEhlQnm2qqdXRSR8i7uYi6EcU1pPMKhayIJqBDgY5JGPetY3Ti_oEUOlSu5FPdqBSrJTtDI4koS-dlfw0v_h_4vKc2f2TQtN17yYsbHpw2508kQOcyUQb9lZNdw0GcywDBPhyqX2glS4.V3OnL4MtPclPNH7cGCymjerx-nO-ZwY7kIJXab0KXWc&dib_tag=se&keywords=highlander+movie&qid=1709223038&s=instant-video&sprefix=highlander+movie%2Cinstant-video%2C173&sr=1-1",
+    "director": [
+      {
+        "name": "Russell Mulcahy",
+        "image": "https://www.billboard.com/wp-content/uploads/media/russell-mulcahy-1992-billboard-650.jpg",
+        "imdb": "https://www.imdb.com/name/nm0611603/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Christopher Lambert",
+        "image": "https://facts.net/wp-content/uploads/2023/10/16-extraordinary-facts-about-christopher-lambert-1697788174.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000483/"
+      },
+      {
+        "name": "Sean Connery",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/931/523/Getty_SeanConnery_Main.jpg?ve=1&tl=1",
+    "imdb": "https://www.imdb.com/name/nm0000125/"
+      },
+      {
+        "name": "Clancy Brown",
+        "image": "https://deadline.com/wp-content/uploads/2021/08/Clancy-Brown.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000317/"
+      }
+    ]
+  },
+
+  {
+    "item": 210,
+    "title": "Mission Impossible",
+    "runtime": 110,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/8031cad1c1cf347c12f793164dd28d1af005815aea9b13277ac4fc530bf1c4c2.jpg",
+    "description": "The film follows an IMF agent who is framed for the deaths of his entire team and must go on the run to clear his name.",
+    "genre": ["action", "thriller", "spy"],
+    "link": "https://www.amazon.com/Mission-Impossible-UHD-Tom-Cruise/dp/B07RP9BML9/ref=sr_1_8?dib=eyJ2IjoiMSJ9.9_rt37YF1lGMTg1GtgQAGdZwXh7L15JfB0pb_ZedD1VfEZsi6efthBHg4cJzNOilYgYu-9CV5127bXfw7dIh7TeeAfVX_m6Nj2SF8uMEg-anfhZcKJU2bDU5vrFXDhydkmlh5GCYWbqfjEwG4vKu4yiFnXUNx6_d0HBC6wY5jXZScd8Ha8ZAbUgcqc1IsOBgZP2AAjQKW1LMow_KHL7mnqvnHSXNj-iePoX3FqjDK4E.4xTxB6Th4tL9b56FKIcZwt2l7zOD2issMFVzQVbvcqo&dib_tag=se&qid=1709223544&refinements=p_n_ways_to_watch%3A12007865011%2Cp_n_theme_browse-bin%3A2650363011&rnid=2650362011&s=instant-video&sr=1-8",
+    "director": [
+      {
+        "name": "Brian De Palma",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjZkZTdlZjgtNmFmNi00ZDg1LWJkMDEtNjNhMWRlN2ViOGE1XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000361/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Tom Cruise",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/230710085438-tom-cruise-0703-restricted.jpg?c=16x9&q=h_833,w_1480,c_fill",
+        "imdb": "https://www.imdb.com/name/nm0000129/"
+      },
+      {
+        "name": "Jon Voight",
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/07/02/08/Angelina-Jon-Getty.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000685/"
+      },
+      {
+        "name": "Emmanuelle Béart",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjFiY2Y2YTctOGMwMC00Y2ViLWFmMzAtM2Q2YTAzYWM5MjY5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000304/"
+      }
+    ]
+  },
+
+  {
+    "item": "211",
+    "title": "Mission: Impossible 2",
+    "runtime": 123,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/a0d88767ad99815abc6d52a5791bb0a5415c6239096ec3a38d35bd352fa5765d._UR1920,1080_.jpg",
+    "description": "Mission: Impossible 2 follows Ethan Hunt as he is assigned to find and destroy a genetically modified virus called Chimera. To do so, he recruits Nyah Nordoff-Hall, a professional thief and former lover of the virus's creator. As Hunt and his team race against time to prevent the spread of the virus, they encounter a dangerous enemy named Sean Ambrose who has his own plans for Chimera.",
+    "genre": ["action", "thriller", "spy", "sequel"],
+    "link": "https://www.amazon.com/gp/video/detail/B00BW7FKU0/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "John Woo",
+      "image": "https://media.newyorker.com/photos/6557bd526acd9ffa64a6874b/4:3/w_2560,h_1920,c_limit/Interview_JohnWooV2.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000247/"
+    }],
+    "actors": [{
+      "name": "Tom Cruise",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230710085438-tom-cruise-0703-restricted.jpg?c=16x9&q=h_833,w_1480,c_fill",
+      "imdb": "https://www.imdb.com/name/nm0000129/"
+    }, {
+      "name": "Thandie Newton",
+      "image": "https://images.paramount.tech/uri/mgid:arc:imageassetref:bet.com:acbb9f21-55e7-449b-8e7a-c6bf5e2705de?quality=0.7&gen=ntrn&legacyStatusCode=true",
+      "imdb": "https://www.imdb.com/name/nm0628601/"
+    }, {
+      "name": "Dougray Scott",
+      "image": "https://facts.net/wp-content/uploads/2023/10/20-captivating-facts-about-dougray-scott-1697033105.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001715/"
+    }]
+  },
+  
+  {
+    "item": "212",
+    "title": "Mission: Impossible III",
+    "runtime": 126,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/188482471178f24f1649eaa261a5a5bc7df8081b905b2fd88a7b53c5b39358bb.jpg",
+    "description": "Mission: Impossible III follows Ethan Hunt as he is pulled back into action to rescue his former protégée, who has been captured by an arms dealer named Owen Davian. As Hunt delves deeper into the mission, he discovers a plot involving a dangerous weapon called the Rabbit's Foot. With the help of his team, Hunt races against time to stop Davian and prevent the weapon from falling into the wrong hands.",
+    "genre": ["action", "thriller", "spy", "sequel"],
+    "link": "https://www.amazon.com/gp/video/detail/B00BW7C4CW/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "J.J. Abrams",
+      "image": "https://cdn.britannica.com/23/129823-050-4B487943/TV-JJ-movie-Abrams.jpg?w=400&h=300&c=crop",
+      "imdb": "https://www.imdb.com/name/nm0009190/"
+    }],
+    "actors": [{
+      "name": "Tom Cruise",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230710085438-tom-cruise-0703-restricted.jpg?c=16x9&q=h_833,w_1480,c_fill",
+      "imdb": "https://www.imdb.com/name/nm0000129/"
+    }, {
+      "name": "Michelle Monaghan",
+      "image": "https://variety.com/wp-content/uploads/2021/07/Michelle-Monaghan.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0597388/"
+    }, {
+      "name": "Philip Seymour Hoffman",
+      "image": "https://static01.nyt.com/images/2014/02/03/movies/alt-obit-hoffman/alt-obit-hoffman-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "imdb": "https://www.imdb.com/name/nm0000450/"
+    }]
+  },
+  
+  {
+    "item": "213",
+    "title": "Mission: Impossible – Ghost Protocol",
+    "runtime": 133,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/f52851fe58806c55b521135f8675753348ac6c0974d0fbe05c559b471a2d498d.jpg",
+    "description": "Mission: Impossible – Ghost Protocol follows Ethan Hunt and his team as they are blamed for a terrorist bombing of the Kremlin. Disavowed and left without resources, they must go rogue to clear their names and prevent a nuclear war. Their mission takes them across the globe, from Moscow to Dubai and finally to Mumbai, as they race against time to stop a madman from triggering a global catastrophe.",
+    "genre": ["action", "thriller", "spy", "sequel"],
+    "link": "https://www.amazon.com/gp/video/detail/B00BR3ZP3Q/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Brad Bird",
+      "image": "https://image.cnbcfm.com/api/v1/image/107143620-1667248625867-gettyimages-968040438-AFP_15N5RN.jpeg?v=1667329443",
+      "imdb": "https://www.imdb.com/name/nm0083348/"
+    }],
+    "actors": [{
+      "name": "Tom Cruise",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230710085438-tom-cruise-0703-restricted.jpg?c=16x9&q=h_833,w_1480,c_fill",
+      "imdb": "https://www.imdb.com/name/nm0000129/"
+    }, {
+      "name": "Jeremy Renner",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/GettyImages-1481548516-copy.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0719637/"
+    }, {
+      "name": "Simon Pegg",
+      "image": "https://www.indiewire.com/wp-content/uploads/2022/07/Simon-Pegg.png",
+      "imdb": "https://www.imdb.com/name/nm0670408/"
+    }]
+  },
+
+  {    
+    "item": "214",
+    "title": "Top Gun:  Maverick",
+    "runtime": 125,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/5099b0bb5c1a20bc2f43fe3a4934c94412c842a595deb5220d70a7ee959aae29.jpg",
+    "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
+"genre": ["action", "war"],
+  "link": "https://www.amazon.com/gp/video/detail/B0B5PSJHKF/ref=atv_dp_amz_c_TS5124c5_1_7?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+  "director": [{
+  "name": "Joseph Kosinski",
+  "image": "https://m.media-amazon.com/images/M/MV5BZWJlODliYTEtYjc1Yy00MTZlLWFkNjgtYTJmOWUyNTNiNTNjXkEyXkFqcGdeQXVyNTQxNTQ4Mg@@._V1_.jpg",
+  "imdb": "https://www.imdb.com/name/nm2676052/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230710085438-tom-cruise-0703-restricted.jpg?c=16x9&q=h_833,w_1480,c_fill",
+    "imdb": "https://www.imdb.com/name/nm0000129/"
+  }, {
+    "name": "Jennifer Connelly",
+    "image": "https://deadline.com/wp-content/uploads/2022/08/GettyImages-1240775453.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000124/"
+  }, {
+    "name": "Glen Powell",
+    "image": "https://variety.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-21-at-10.54.55-AM.png?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm1412974/"
+  }, {
+  "name": "Ed Harris",
+  "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/the-truman-show-harris.jpg",
+  "imdb": "https://www.imdb.com/name/nm0000438/"
+}]
+  },
+
+  {
+    "item": "215",
+    "title": "Forrest Gump",
+    "runtime": 142,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/639bed0b369bc66a6d32450f296f3514c47aac9607add81df5155160131569cb._UR1920,1080_SX720_FMjpg_.jpg",
+    "description": "Tom Hanks gives an astonishing performance as Forrest, an everyman whose simple innocence comes to embody a generation.",
+    "genre": ["drama", "romance", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B00BQPIULY/ref=atv_dp_amz_c_TS5124c5_1_12?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Robert Zemeckis",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2020/01/robert_zemekis.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000709/"
+    }],
+    "actors": [{
+      "name": "Tom Hanks",
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSAH3LQht3_OypUB0nTtNJyUvK0Ioa0F5NdL5ICq_QLNe6D0-aCEFTrjuxecO3rPMXj0ZeXV2mHqjvshJo",
+    "imdb": "https://www.imdb.com/name/nm0000158/"
+    }, {
+      "name": "Robin Wright",
+      "image": "https://media13.s-nbcnews.com/i/mpx/2704722219/2024_02/tdy_pop_10a_robin_wright_240228_2-8a8icb.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000705/"
+    }, {
+      "name": "Gary Sinise",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/b496775/2147483647/strip/true/crop/600x354+0+0/resize/1200x708!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0b%2F1b%2F8fb5d8a5d6aaae3fcfd16ce76fd0%2Fla-xpm-photo-2012-oct-29-la-et-ms-gary-sinise-band-20121030",
+      "imdb": "https://www.imdb.com/name/nm0000641/"
+    }]
+  },
+
+  {
+    "item": "216",
+    "title": "Captain Phillips",
+    "runtime": 134,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/778a1e3a6a9c52e0cbd6ee74ed22357b2db2d541817d393f2162b0c53f6f3aeb.jpg",
+    "description": "Captain Phillips is a gripping thriller based on the true story of the 2009 Maersk Alabama hijacking by Somali pirates. The film follows Captain Richard Phillips and his crew as they sail through the dangerous waters off the coast of Somalia. When their ship is hijacked by armed pirates led by Abduwali Muse, Phillips must use all his wits and courage to try to protect his crew and navigate through the escalating crisis. As tensions mount and the situation becomes increasingly perilous, Phillips finds himself in a high-stakes battle for survival against the ruthless pirates.",
+    "genre": ["drama", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B00HQLFFPQ/ref=atv_dp_amz_c_TS5124c5_1_8?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Paul Greengrass",
+      "image": "https://variety.com/wp-content/uploads/2018/09/paul-greengrass-22_july_3665.jpg?crop=0px%2C0px%2C1000px%2C563px&resize=1000%2C563",
+      "imdb": "https://www.imdb.com/name/nm0339030/"
+    }],
+    "actors": [{
+      "name": "Tom Hanks",
+      "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSAH3LQht3_OypUB0nTtNJyUvK0Ioa0F5NdL5ICq_QLNe6D0-aCEFTrjuxecO3rPMXj0ZeXV2mHqjvshJo",
+      "imdb": "https://www.imdb.com/name/nm0000158/"
+    }, {
+      "name": "Barkhad Abdi",
+      "image": "https://variety.com/wp-content/uploads/2016/06/barkhad-abdi-blade-runner.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm4600440/"
+    }]
+  },
+
+  {
+    "item": "217",
+    "title": "The Transporter 3",
+    "runtime": 104,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/d3055080f359c859da49d170f46ab10c71cca1d6c30b61eade269ab0f044eb35.jpg",
+    "description": "Professional driver Frank Martin is pressured into moving the kidnapped daughter of a Ukrainian politician to safety.",
+    "genre": ["action", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B6RJC3KM/ref=atv_dp_amz_c_TS5124c5_1_8?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Olivier Megaton",
+      "image": "https://variety.com/wp-content/uploads/2013/04/olivier-megaton.jpg",
+      "imdb": "https://www.imdb.com/name/nm0571652/"
+    }],
+    "actors": [{
+      "name": "Jason Statham",
+      "image": "https://ew.com/thmb/bbpeT-u7BO2qVG43YbrTdg9arNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/meg-fp-0002-2000-7ed63879f64c475b821774b972f82ae5.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005458/?ref_=nv_sr_srsg_0_tt_3_nm_5_q_jason%2520stath"
+    }, {
+      "name": "Natalya Rudakova",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MjQ2NTYzMl5BMl5BanBnXkFtZTcwMjkxMzIwMg@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm2779195/"
+    }]
+  },
+
+  {
+    "item": "218",
+    "title": "Valerian and the City of a Thousand Planets",
+    "runtime": 137,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/d1c3bc50bd81b7d7785fc2c4f43c5950785a3eba60c135c570c9d315f0aea7c3.jpg",
+    "description": "In the 28th century, Valerian and Laureline are special operatives charged with maintaining order throughout the human territories. They embark on a mission to the intergalactic city of Alpha, where diverse species from across the universe converge to share knowledge and cultures. When a dark force threatens the peaceful existence of Alpha, Valerian and Laureline must race against time to uncover the truth and save the future of the city and the universe.",
+    "genre": ["action", "science-fiction"],
+    "link": "https://www.amazon.com/gp/video/detail/0SA6PQKEL1VYX4PI6J85OY7OFU/ref=atv_dp_cnc_0_3",
+    "director": [{
+      "name": "Luc Besson",
+      "image": "https://deadline.com/wp-content/uploads/2023/12/Luc-Besson.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000108/"
+    }],
+    "actors": [{
+      "name": "Dane DeHaan",
+      "image": "https://static.independent.co.uk/2021/01/22/15/dane%20dehaan.jpg",
+      "imdb": "https://www.imdb.com/name/nm2138334/"
+    }, {
+      "name": "Cara Delevingne",
+      "image": "https://media.glamour.com/photos/642dbaa223f44978bde39932/16:9/w_3600,h_2025,c_limit/cara%20delevingne%20short%20wavy%20bob%20haircut.jpg",
+      "imdb": "https://www.imdb.com/name/nm5353321/"
+    }]
+  },
+
+  {
+    "item": "219",
+    "title": "The Chronicles of Riddick",
+    "runtime": 119,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/8e7cfce4a5252e8e0d52fede941c4c8822fd8a5ea1eddf52fdbb8041b090211c._UR1920,1080_.jpg",
+    "description": "In this action-packed sci-fi adventure, notorious criminal Riddick finds himself caught in the middle of a power struggle between two opposing forces, the Necromongers and the resistance. With the fate of the universe hanging in the balance, Riddick must confront his own dark past and unlock the secrets of his own identity to save those he cares about and restore balance to the galaxy.",
+    "genre": ["action", "science-fiction"],
+    "link": "https://www.amazon.com/gp/video/detail/B00D5UGW5O/ref=atv_dp_amz_c_TS5124c5_1_17?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "David Twohy",
+      "image": "https://m.media-amazon.com/images/M/MV5BODhmMTFkMDAtOWY0NC00ODgxLTkzMWItMmI3NWNmZDdkNjlkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0875212/"
+    }],
+    "actors": [{
+      "name": "Vin Diesel",
+      "image": "https://phantom-marca.unidadeditorial.es/023de5244b791c5aa890a89e8a67ebbe/resize/828/f/jpg/assets/multimedia/imagenes/2023/05/19/16844885388361.jpg",
+      "imdb": "https://www.imdb.com/name/nm0004874/"
+    }, {
+      "name": "Judi Dench",
+      "image": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2017/11/07/16/damejudidench0711a.jpg?crop=8:5,smart&quality=75&auto=webp&width=960",
+      "imdb": "https://www.imdb.com/name/nm0001132/"
+    }]
+  },
+
+  {
+    "item": "220",
+    "title": "Stardust",
+    "runtime": 127,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/6580fe7d3bd2309fb1dd704e7e13a2cb6b553a04264dcacd67f5b3dd7bdd8cde._UR1920,1080_SX720_FMjpg_.jpg",
+    "description": "In this enchanting fantasy adventure, a young man named Tristan ventures into a magical realm to retrieve a fallen star for his beloved. Along the way, he encounters witches, pirates, and other mystical beings, embarking on a journey that will test his courage and reveal his true destiny.",
+    "genre": ["kids", "fantasy"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CFVBMNTF/ref=atv_dp_amz_c_TS5124c5_1_20?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Matthew Vaughn",
+      "image": "https://deadline.com/wp-content/uploads/2021/08/Matthew-Vaughn-2.jpg?w=681&h=383&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0891216/"
+    }],
+    "actors": [{
+      "name": "Charlie Cox",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0Mzg5MTU3MV5BMl5BanBnXkFtZTgwOTUxMTQ5NzE@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm1210332/"
+    }, {
+      "name": "Claire Danes",
+    "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1344844543.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0000132/"
+    }, {
+      "name": "Robert De Niro",
+      "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+      "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+    }]
+  },
+  
+  {
+    "item": "221",
+    "title": "The Last Airbender",
+    "runtime": 103,
+    "mpaa": "PG",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/25969b99231fdc394ce254482d4278cf023ee14c65d59a9ca6dc7472132d7e4c.jpg",
+    "description": "In a world where people can manipulate the elements of air, water, earth, and fire, a young boy named Aang discovers he is the Avatar, capable of bending all four elements. With the help of his friends Katara and Sokka, Aang embarks on a journey to master his abilities and bring balance to the world.",
+    "genre": ["action", "kids", "fantasy"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CPWQL4TB/ref=atv_dp_amz_c_TS5124c5_1_9?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "M. Night Shyamalan",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTczMTA5OTMxMl5BMl5BanBnXkFtZTcwMDA4NDg1Mw@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0796117/"
+    }],
+    "actors": [{
+      "name": "Noah Ringer",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Q4YzAxMDAtMDJjOC00YTMxLTlhZDctMDA5ZGIyYWUwZmUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm3253003/"
+    }, {
+      "name": "Nicola Peltz",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQxMTk4MzQ1MF5BMl5BanBnXkFtZTgwMDIxNTQwMjE@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm2534714/"
+    }, {
+      "name": "Jackson Rathbone",
+      "image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/tdrdvvjeldrwgk0ztrcf.jpg",
+      "imdb": "https://www.imdb.com/name/nm0718647/"
+    }]
+  },
+
+  {
+    "item": 329,
+    "title": "The Good, the Bad, and the Ugly",
+    "runtime": 161,
+    "mpaa": "R",
+    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/442730a0-10b1-4ded-a3d5-ca359c0cc155/91c0b59c0fb6aaa9f2c76f4dd8f2c20e13c20f88.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+    "description": "Three gunslingers, Blondie, Tuco, and Angel Eyes, embark on a quest to find a buried treasure during the American Civil War. As they navigate through the brutal landscape of the Wild West, they encounter betrayal, deception, and epic gunfights. 'The Good, the Bad, and the Ugly' is renowned for its iconic characters, gripping storytelling, and unforgettable soundtrack, making it a timeless masterpiece of cinema.",
+    "genre": ["western", "foreign", "classic"],
+    "link": "https://www.max.com/movies/good-the-bad-and-the-ugly/442730a0-10b1-4ded-a3d5-ca359c0cc155",
+    "director": [{
+      "name": "Sergio Leone",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjNlZmVjMjYtYjdjOC00ZjgwLTkxOWYtMDgyZmY5NjcyMGZjXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001466/"
+    }],
+    "actors": [
+      {
+        "name": "Clint Eastwood",
+        "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+        "imdb": "https://www.imdb.com/name/nm0000142/"
+      },
+      {
+        "name": "Eli Wallach",
+        "image": "https://ichef.bbci.co.uk/news/624/mcs/media/images/75812000/jpg/_75812787_167b9325-2567-413e-979d-0776ffc4527f.jpg",
+        "imdb": "https://www.imdb.com/name/nm0908919/"
+      },
+      {
+        "name": "Lee Van Cleef",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/1*0XMqpJwc8tzrveeja1WqmA.png",
+        "imdb": "https://www.imdb.com/name/nm0001812/"
+      }
+    ]
+  },
+
+
+  
+
+  {
+    "item": "222",
+    "title": "Grown Ups",
+    "runtime": 102,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/23317d315fe4b420308cccfc56226ce3164127a089a30b1e9122e1423290879a.jpg",
+    "description": "After their childhood basketball coach passes away, five childhood friends and former teammates reunite for a Fourth of July holiday weekend at a lake house. As they reminisce about the good old days and navigate the challenges of adulthood, they realize the importance of friendship and family.",
+    "genre": ["comedy"],
+    "link": "https://www.amazon.com/gp/video/detail/B00BR9VLBK/ref=atv_dp_amz_c_TS5124c5_1_12?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Dennis Dugan",
+  "image": "https://vz.cnwimg.com/wp-content/uploads/2014/01/GettyImages-102356833.jpg",
+  "imdb": "https://www.imdb.com/name/nm0241187/"
+    }],
+    "actors": [{
+      "name": "Adam Sandler",
+  "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+  "imdb": "https://www.imdb.com/name/nm0001191/"
+    }, {
+      "name": "Kevin James",
+      "image": "https://deadline.com/wp-content/uploads/2023/11/KVJM_2023_UT_230127_CONTRO_00073-e1699914440353.jpg",
+      "imdb": "https://www.imdb.com/name/nm0416673/"
+    }, {
+      "name": "Chris Rock",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/20e397b/2147483647/strip/true/crop/3905x2604+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7c%2Fdc%2F07d45ff2456db783669e81cf0828%2Fla-et-comedy-timeline-oscars-slap.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001674/"
+    }]
+  },
+  
+  {
+    "item": "n423",
+    "title": "Grown Ups 2",
+    "runtime": 101,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/8ace51bc542d914ab7a28253510e35fc602139eacaa35cd914b470955cd8bcbf.jpg",
+    "description": "Three years after the events of the first film, Lenny Feder moves back to his hometown with his family. During the last day of school, he and his friends learn valuable life lessons as they face various comedic mishaps and encounters with eccentric locals.",
+    "genre": ["comedy"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CLVTQ7W5/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Dennis Dugan",
+  "image": "https://vz.cnwimg.com/wp-content/uploads/2014/01/GettyImages-102356833.jpg",
+  "imdb": "https://www.imdb.com/name/nm0241187/"
+    }],
+    "actors": [{
+      "name": "Adam Sandler",
+  "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+  "imdb": "https://www.imdb.com/name/nm0001191/"
+    }, {
+      "name": "Kevin James",
+      "image": "https://deadline.com/wp-content/uploads/2023/11/KVJM_2023_UT_230127_CONTRO_00073-e1699914440353.jpg",
+      "imdb": "https://www.imdb.com/name/nm0416673/"
+    }, {
+      "name": "Chris Rock",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/20e397b/2147483647/strip/true/crop/3905x2604+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7c%2Fdc%2F07d45ff2456db783669e81cf0828%2Fla-et-comedy-timeline-oscars-slap.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001674/"
+    }]
+  },
+
+  {
+    "item": "225",
+    "title": "White Chicks",
+    "runtime": 109,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/752392ec8d42a5e86f3dd273db2ed0686d01deaeb262957fd72cc857221b30ad.jpg",
+    "description": "When two FBI agents, Marcus and Kevin Copeland, botch a drug bust, they are assigned to protect the heiresses to a hotel fortune, Brittany and Tiffany Wilson. To do so, they go undercover as the Wilson sisters, leading to hilarious and outrageous situations.",
+    "genre": ["comedy", "crime"],
+    "link": "https://www.amazon.com/gp/video/detail/B00BRKXG9O/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Keenen Ivory Wayans",
+      "image": "https://d3n6g6ften713.cloudfront.net/guests/_800x418_crop_center-center_82_none/Keenen-Ivory-Wayans.jpg?mtime=1569420906",
+      "imdb": "https://www.imdb.com/name/nm0005540/"
+    }],
+    "actors": [{
+      "name": "Marlon Wayans",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2023-10/231020-Marlon-Wayans-al-1046-33b7cd.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005541/"
+    }, {
+      "name": "Shawn Wayans",
+      "image": "https://i.ticketweb.com/i/00/00/49/60/01/Original.jpg?v=7?v=8?v=9?v=1?v=2?v=3",
+      "imdb": "https://www.imdb.com/name/nm0005542/"
+    }, {
+      "name": "Busy Philipps",
+      "image": "https://images.hellomagazine.com/horizon/landscape/aaf47b0b0902-busy-t.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005315/"
+    }]
+  },
+  
+  {
+    "item": "226",
+    "title": "Talladega Nights: The Ballad of Ricky Bobby",
+    "runtime": 121,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/958ccc5bca2267a09dfe9e0f6521bca22dbfd3c9ef38711893e3665647c359e0.jpg",
+    "description": "NASCAR superstar Ricky Bobby faces various challenges when French Formula One driver Jean Girard challenges him for the top spot in auto racing.",
+    "genre": ["comedy", "sports"],
+    "link": "https://www.amazon.com/Talladega-Nights-Ballad-Ricky-Unrated/dp/B018R7MTPQ/ref=sr_1_1?crid=LEKN8CA76OEA&dib=eyJ2IjoiMSJ9.SmdnXU1uP0uAnfQNH2LwoxHi9HYYPXbjKQqTPiGclCxNwWn9YRYOzUIeYs2ci9kwMfeQ-DH5BhuIMvb1FIDXNrQ_qL2wptPxfsWQygCUNBTJUP77eloFlC3mbyMdVpmauivjFA9e8ELWIvYfkLTmQ8d1UwfiH4m4FjPG5qJZqjTTGjyNq5br3nATYxjb7Vyv4riEI0SELtsKS_cDttykblvYl04x45jr_-v1cSzFKoI.JQnYBtMrEfl7Tyc9WOh9kslrb17xzfsIuzS6t9hfOns&dib_tag=se&keywords=talladega+nights+the+ballad+of+ricky+bobby&qid=1709231475&s=instant-video&sprefix=talla%2Cinstant-video%2C215&sr=1-1",
+    "director": [{
+      "name": "Adam McKay",
+      "image": "https://media.gq.com/photos/61ae8c6b5f5bc36144ea4ec9/16:9/w_2560%2Cc_limit/AMCKAY-22_R.jpg",
+      "imdb": "https://www.imdb.com/name/nm0570912/"
+    }],
+    "actors": [{
+      "name": "Will Ferrell",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/076a75b/2147483647/strip/false/crop/3500x1969+0+176/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F35%2F0c%2F568646e5482e8f5ce52d1d84b1cd%2Fny-premiere-of-apple-tvs-the-shrink-next-door-90227.jpg",
+    "imdb": "https://www.imdb.com/name/nm0002071/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_will%2520ferrell"
+    }, {
+      "name": "John C. Reilly",
+      "image": "https://variety.com/wp-content/uploads/2023/05/John-C.-Reilly-.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0000604/"
+    }, {
+      "name": "Sacha Baron Cohen",
+      "image": "https://i.ytimg.com/vi/1_4Pzc7GSOc/maxresdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm0056187/"
+    }]
+  },
+
+  {
+    "item": "227",
+    "title": "Borat Subsequent Moviefilm",
+    "runtime": 96,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/2ccd210214c7423fc376fdf91fc4fd568bf5d73164217c37a8d6150b9a535e7c.jpg",
+    "description": "Borat returns to America with his daughter and his plan to offer her as a gift to someone in the Trump administration goes awry.",
+    "genre": ["comedy"],
+    "link": "https://www.amazon.com/Borat-Subsequent-Moviefilm-Sacha-Baron/dp/B08K4723DQ/ref=sr_1_3?crid=1U1IZLR1EXLRZ&dib=eyJ2IjoiMSJ9.dlXYRZNHrVz0KNT8SfbMDERqCpfwaSi420cxqP_4nI6xN39WCZ-D6Ypz1cuA-6QFqD49_pwHBqZ4BQmDBjGAtXGkAxIEWbJGoOutTgmbyTdjjDv3PoGAC1vl-3tEgAbtsIUAJ79vkvf8JRfQxiz2z5iPQq2sCUQrtod4fstkyDWd310RjZmLIltIXfnSoNmUiTr4OhYsuHo0bCZ129jR0v77F11CBsnJ_NXIXadTPcQ.Zkd8o0gYzndIdksrIqR4rVHd3Mo2iqeqIYgxZQZWTi0&dib_tag=se&keywords=borat&qid=1709231615&s=instant-video&sprefix=borat%2Cinstant-video%2C188&sr=1-3",
+    "director": [{
+      "name": "Jason Woliner",
+      "image": "https://variety.com/wp-content/uploads/2022/05/Jason_Woliner_by_Joscelynne_Feinstein-e1652291010768.jpg",
+      "imdb": "https://www.imdb.com/name/nm0938751/"
+    }],
+    "actors": [{
+      "name": "Sacha Baron Cohen",
+      "image": "https://i.ytimg.com/vi/1_4Pzc7GSOc/maxresdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm0056187/"
+    }, {
+      "name": "Maria Bakalova",
+      "image": "https://deadline.com/wp-content/uploads/2022/06/Maria-Bakalova-3.jpg",
+      "imdb": "https://www.imdb.com/name/nm11948816/"
+    }]
+  },
+  {
+    "item": "228",
+    "title": "Step Brothers",
+    "runtime": 98,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/7791d26a0028c4577144dcfe0d7f73ef0a97e6edb5b33714bb55baaede8e2bef._UR1920,1080_.jpg",
+    "description": "Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.",
+    "genre": ["comedy"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B8SL76R8/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Adam McKay",
+      "image": "",
+      "imdb": "https://www.imdb.com/name/nm0570912/"
+    }],
+    "actors": [{
+      "director": [{
+        "name": "Adam McKay",
+        "image": "https://media.gq.com/photos/61ae8c6b5f5bc36144ea4ec9/16:9/w_2560%2Cc_limit/AMCKAY-22_R.jpg",
+        "imdb": "https://www.imdb.com/name/nm0570912/"
+      }],
+      "actors": [{
+        "name": "Will Ferrell",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/076a75b/2147483647/strip/false/crop/3500x1969+0+176/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F35%2F0c%2F568646e5482e8f5ce52d1d84b1cd%2Fny-premiere-of-apple-tvs-the-shrink-next-door-90227.jpg",
+      "imdb": "https://www.imdb.com/name/nm0002071/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_will%2520ferrell"
+      }, {
+        "name": "John C. Reilly",
+        "image": "https://variety.com/wp-content/uploads/2023/05/John-C.-Reilly-.jpg?w=1000",
+        "imdb": "https://www.imdb.com/name/nm0000604/"
+      }, {  
+      "name": "Richard Jenkins",
+      "image": "https://www.trbimg.com/img-5a2e0c07/turbine/la-et-golden-globes-2018-nominees-winners-pict-036/1200/16x9/",
+      "imdb": "https://www.imdb.com/name/nm0005460/"
+    }]
+  }]
+  },
+  
+  
+  {
+    "item": "229",
+    "title": "Bridesmaids",
+    "runtime": 125,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/6dbabdbde8cba15d99300d8d51389f1ebeb510ba3e74c5a042e0cd8a2e1a0968.jpg",
+    "description": "Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.",
+    "genre": ["comedy", "romance"],
+    "link": "https://www.amazon.com/gp/video/detail/B00BUBKRV0/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Paul Feig",
+      "image": "https://the-talks.com/wp-content/uploads/2020/11/Paul-Feig-01.jpg",
+      "imdb": "https://www.imdb.com/name/nm0272173/"
+    }],
+    "actors": [{
+      "name": "Kristen Wiig",
+    "image": "https://people.com/thmb/0dDxscDgChqOghle1f4GF2tzVKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(937x499:939x501)/kristen-wiig-1-a6ece2c7e8d943b6b5c93be0a25878f1.jpg",
+    "imdb": "https://www.imdb.com/name/nm1325419/?ref_=nv_sr_srsg_0_tt_2_nm_6_q_kristen%2520wi"
+    }, {
+      "name": "Maya Rudolph",
+      "image": "https://parade.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgxMzA2NDU1MDQxOTE2/maya-rudolph-paul-thomas-anderson-ftr.jpg",
+      "imdb": "https://www.imdb.com/name/nm0748973/"
+    }, {
+      "name": "Rose Byrne",
+    "image": "https://static.independent.co.uk/2022/07/08/14/shutterstock_editorial_12845769bn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0126284/?ref_=tt_ov_st"
+    }, {
+      "name": "Melissa McCarthy",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTUiOdSk6gvfr9Xg5ymcayA_p3NKiN6BmfLOUMUq2xuixYGNcJ_o4t5KnmUm8R5ademoLEkkHRjn2tLNUw",
+      "imdb": "https://www.imdb.com/name/nm0565250/"
+    }]
+  },
+
+  {    
+    "item": "230",
+    "title": "Role Play",
+    "runtime": 101,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/7aee56ce21b1dfc58bde4e38baaafa21022a93f3a49a1f8db47b9ba13a769a85.png",
+    "description": "Emma (Kaley Cuoco) and Dave (David Oyelowo) spice up their wedding anniversary with a night of role-play in New York City. But things turn perilous when Emma's secret life as an international assassin, unknown to Dave, is exposed by Bob (Bill Nighy), jeopardizing her family. Emma must rely on her lethal skills and determination to protect her family at all costs.",
+"genre": ["comedy", "action", "romance"],
+  "link": "https://www.amazon.com/Role-Play-Kaley-Cuoco/dp/B0CLZ4P155/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-Bie4jqbyquJoBZmmxf-Y8DXhjzi4Ro5NTyzupiyo_wG9aaDf-y1zDRMvDwfghQFNFcfQXVH9TUrR5Mtr7shLKWfY1UE-5_JPNlexBSHAPi2whX0lG0EqYu6oBPjcZYmmpEEdnWS4wKM78yDJk1e31Enpmd56VN0lTm31h4qXY85rZvf_yTD0JFWFlFyPX-aley-_dhqmYTFcVIJLS8mMzuT_K7ngcQFiI8lF38btbs.ubBHd--RrVObAzDP0mhV6GeOWGSs1mRhHUwdkVcajSo&dib_tag=se&qid=1709239431&refinements=p_n_ways_to_watch%3A12007865011&s=instant-video&sr=1-1",
+  "director": [{
+  "name": "Paul Vincent",
+  "image": "https://cineuropa.org/imgCache/2015/04/07/1428398505000_0550x0360_0x0x0x0_1679290012297.jpg",
+  "imdb": "https://www.imdb.com/name/nm0898773/"
+  }],
+  "actors": [{
+    "name": "Kaley Cuoco",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/big-bang-theory-kaley-cuoco-instagram-horse-bella-tribute-65085bf8bd59d.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0192505/"
+  }, {
+    "name": "David Oyelowo",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRtf7N9IhFztQ_wOx9-1K14OeiQ0rtM-btuRQTfTOLacCLz8ouZx2iTH0paKqyr3KkUqKkMPJP7laIn_I4",
+    "imdb": "https://www.imdb.com/name/nm0654648/"
+  }]
+  },
+
+  {
+    "item": 231,
+    "title": "Like A Boss",
+    "runtime": 83,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/de637230610f8c94d37bdea1a85d459487ef178b1e0bac5d79d695b2466c7942._UR1920,1080_.jpg",
+    "description": "Best friends Mia and Mel run their own cosmetics company — a business they built from the ground up. But they're also in over their heads financially, and the prospect of a buyout offer from an industry titan proves too tempting to pass up. The beauty business is now about to get ugly as the proposal puts Mia and Mel's lifelong friendship to the ultimate test.",
+    "genre": ["comedy"],
+    "link": "https://www.amazon.com/gp/video/detail/B083JNR8L7/ref=atv_dp_amz_c_TS5124c5_1_7?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Miguel Arteta",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/86f2d97/2147483647/strip/false/crop/2048x1152+0+0/resize/1486x836!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F20%2F02%2F23a8c40e50a0aae0d196f00e6298%2Fla-1496852592-snzud6skew-snap-image",
+      "imdb": "https://www.imdb.com/name/nm0037736/"
+    }],
+    "actors": [{
+      "name": "Tiffany Haddish",
+      "image": "https://static.independent.co.uk/2024/02/22/00/newFile.jpg",
+      "imdb": "https://www.imdb.com/name/nm0250081/"
+    }, {
+      "name": "Rose Byrne",
+      "image": "https://static.independent.co.uk/2022/07/08/14/shutterstock_editorial_12845769bn.jpg",
+      "imdb": "https://www.imdb.com/name/nm0126284/?ref_=tt_ov_st"
+    }, {
+      "name": "Salma Hayek",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/salma-hayek-attends-the-2023-academy-museum-gala-at-academy-news-photo-1702312165.jpg?crop=1xw:0.45xh;center,top",
+      "imdb": "https://www.imdb.com/name/nm0000161/"
+    }]
+  },
+
+  {
+    "item": 232,
+    "title": "The Hustle",
+    "runtime": 94,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/d42d1e55e4aae495555f224dbe319c83b4a28784e81e0a6eede8cc8e90e3fdc3.jpg",
+    "description": "Josephine Chesterfield is a glamorous, seductive British woman who has a penchant for defrauding gullible men out of their money. Into her well-ordered world comes Penny Rust, a cunning and fun-loving Australian woman who lives to swindle unsuspecting marks. Despite their different methods, the two grifters soon join forces for the ultimate score.",
+    "genre": ["comedy", "crime"],
+    "link": "https://www.amazon.com/gp/video/detail/B0BRHM8JSN/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Chris Addison",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzMzY4Mjk4OV5BMl5BanBnXkFtZTgwOTMyNjU4OTE@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0011988/"
+    }],
+    "actors": [{
+      "name": "Anne Hathaway",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzhiN2Y0ZTktOWU2NC00Y2M0LWFiODEtMTQ2NTFiZGVlZmI3XkEyXkFqcGdeQW1pYnJ5YW50._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0004266/"
+    }, {
+      "name": "Rebel Wilson",
+      "image": "https://compote.slate.com/images/afc5bfe4-f532-4634-aab5-4f36bd8b3f61.jpg",
+      "imdb": "https://www.imdb.com/name/nm2313103/"
+    }, {
+      "name": "Alex Sharp",
+      "image": "https://static01.nyt.com/images/2014/09/03/multimedia/alexander-sharpe/alexander-sharpe-superJumbo-v2.jpg",
+      "imdb": "https://www.imdb.com/name/nm6669292/"
+    }]
+  },
+
+  {
+    "item": 233,
+    "title": "Pitch Perfect",
+    "runtime": 112,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/81f65d490b07b76ab2e44c7e083cd8a43d2391025a3a500ee0ca3d9ff01cfd3e.jpg",
+    "description": "Beca, a freshman at Barden University, is cajoled into joining The Bellas, her school's all-girls singing group. Injecting some much-needed energy into their repertoire, The Bellas take on their male rivals in a campus competition.",
+    "genre": ["comedy", "musical"],
+    "link": "https://www.amazon.com/gp/video/detail/B00BQO4PMS/ref=atv_dp_amz_c_TS5124c5_1_14?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Jason Moore",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjY4MjUzNjUyM15BMl5BanBnXkFtZTcwMjE0NDI1OA@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0608346/"
+    }],
+    "actors": [{
+      "name": "Anna Kendrick",
+      "image": "https://images.bauerhosting.com/legacy/empire-images/articles/5ce70dfd133d503e3a4a2bec/anna-kendrick.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+      "imdb": "https://www.imdb.com/name/nm0447695/"
+    }, {
+      "name": "Brittany Snow",
+      "image": "https://people.com/thmb/MNu6gE3qivpWA4Rhs2Oh6EjRy5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(699x195:701x197)/Brittany-Snow-Red-White-and-Blue-022224-6-2ce4ab45fc464fbd9eb2b37edcad87c4.jpg",
+      "imdb": "https://www.imdb.com/name/nm0811243/"
+    }, {
+      "name": "Rebel Wilson",
+      "image": "https://compote.slate.com/images/afc5bfe4-f532-4634-aab5-4f36bd8b3f61.jpg",
+      "imdb": "https://www.imdb.com/name/nm2313103/"
+    }]
+  },
+
+  {
+    "item": 234,
+    "title": "Pitch Perfect 3",
+    "runtime": 93,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/34aefdb59e877650eaa248542cd786dce8e3f22e1e7854521e8febbe11ac2035.jpg",
+    "description": "Following their win at the world championship, the now-separated Bellas reunite for one last singing competition at an overseas USO tour, but face a group who uses both instruments and voices.",
+    "genre": ["comedy", "musical", "sequel"],
+    "link": "https://www.amazon.com/gp/video/detail/B078GZXMD9/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Trish Sie",
+      "image": "https://variety.com/wp-content/uploads/2016/06/trish-sie-pitch-perfect-3.jpg",
+      "imdb": "https://www.imdb.com/name/nm0796536/"
+    }],
+    "actors": [{
+      "name": "Anna Kendrick",
+      "image": "https://images.bauerhosting.com/legacy/empire-images/articles/5ce70dfd133d503e3a4a2bec/anna-kendrick.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+      "imdb": "https://www.imdb.com/name/nm0447695/"
+    }, {
+      "name": "Brittany Snow",
+      "image": "https://people.com/thmb/MNu6gE3qivpWA4Rhs2Oh6EjRy5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(699x195:701x197)/Brittany-Snow-Red-White-and-Blue-022224-6-2ce4ab45fc464fbd9eb2b37edcad87c4.jpg",
+      "imdb": "https://www.imdb.com/name/nm0811243/"
+    }, {
+      "name": "Rebel Wilson",
+      "image": "https://compote.slate.com/images/afc5bfe4-f532-4634-aab5-4f36bd8b3f61.jpg",
+      "imdb": "https://www.imdb.com/name/nm2313103/"
+    }]
+  },
+
+  {
+    "item": 235,
+    "title": "F9: The Fast Saga",
+    "runtime": 145,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/fa2377c213f10b33c3690ddf97b69f7cc5abcb74bf9557795f64f9c004726623.jpg",
+    "description": "Dom Toretto is living the quiet life off the grid with Letty and his son, but they know that danger always lurks just over the peaceful horizon. This time, that threat forces Dom to confront the sins of his past to save those he loves most. His crew soon comes together to stop a world-shattering plot by the most skilled assassin and high-performance driver they've ever encountered -- Dom's forsaken brother.",
+    "genre": ["action", "crime", "sequel"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B8582VBR/ref=atv_dp_amz_c_TS5124c5_1_5?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Justin Lin",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDQ5NzRjNTMtMTllZC00ODdlLTgyMWQtNWI4ZThhZmFiOTc1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0510912/"
+    }],
+    "actors": [{
+      "name": "Vin Diesel",
+      "image": "https://phantom-marca.unidadeditorial.es/023de5244b791c5aa890a89e8a67ebbe/resize/828/f/jpg/assets/multimedia/imagenes/2023/05/19/16844885388361.jpg",
+      "imdb": "https://www.imdb.com/name/nm0004874/"
+    }, {
+      "name": "Michelle Rodriguez",
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSw1YKrHrTAhn4YGwrGTxlBlIZIlBu3LpWFFLHD_Ypm_ccqk9XdXAJUVWgDLyTz_fHc549s8EWVPjDHN-s",
+      "imdb": "https://www.imdb.com/name/nm0735442/"
+    }, {
+      "name": "Jordana Brewster",
+      "image": "https://s.abcnews.com/images/GMA/f9-fast-furious-ht-ml-210603_1622730161069_hpMain_16x9_992.jpg",
+      "imdb": "https://www.imdb.com/name/nm0108287/"
+    }]
+  },
+
+  {
+    "item": 236,
+    "title": "The Fate of the Furious",
+    "runtime": 136,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/fa6b96e4cbf7943e6a32d79963c49e4cb5b30043122e00bf60e4a3063785bc05.jpg",
+    "description": "When a mysterious woman seduces Dominic Toretto into the world of terrorism and a betrayal of those closest to him, the crew faces trials that will test them as never before.",
+    "genre": ["action", "crime", "thriller", "sequel"],
+    "link": "https://www.amazon.com/gp/video/detail/B06ZY1YGHT/ref=atv_dp_amz_c_TS5124c5_1_8?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "F. Gary Gray",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5ODcyMzExMF5BMl5BanBnXkFtZTgwMTgxMjAwMjE@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0336620/"
+    }],
+    "actors": [{
+      "name": "Vin Diesel",
+      "image": "https://phantom-marca.unidadeditorial.es/023de5244b791c5aa890a89e8a67ebbe/resize/828/f/jpg/assets/multimedia/imagenes/2023/05/19/16844885388361.jpg",
+      "imdb": "https://www.imdb.com/name/nm0004874/"
+    }, {
+      "name": "Dwayne 'The Rock' Johnson",
+      "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3bdb2575-9a92-42f8-8472-bb78c7bd118a_720x405.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0425005/"
+    }, {
+      "name": "Jason Statham",
+      "image": "https://ew.com/thmb/bbpeT-u7BO2qVG43YbrTdg9arNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/meg-fp-0002-2000-7ed63879f64c475b821774b972f82ae5.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005458/?ref_=nv_sr_srsg_0_tt_3_nm_5_q_jason%2520stath"
+    }]
+  },
+
+  {
+    "item": 237,
+    "title": "Lucky Number Slevin",
+    "runtime": 110,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/95a7e069f6c1860b085ab744594ea8b3b9b18dc80a7bea8a90c9b1f856ca594b.jpg",
+    "description": "A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's most rival crime bosses: The Rabbi and The Boss. Slevin is under constant surveillance by relentless Detective Brikowski as well as the infamous assassin Goodkat and finds himself having to hatch his own ingenious plot to get them before they get him.",
+    "genre": ["crime", "drama", "mystery", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B0BRNQDPP4/ref=atv_ge_aga_1_c_hUhMb1_brws_1_7?jic=8%7CEgRzdm9k",
+    "director": [{
+      "name": "Paul McGuigan",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjQ3Njk5OV5BMl5BanBnXkFtZTgwOTgzODI0MzI@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0570084/"
+    }],
+    "actors": [{
+      "name": "Josh Hartnett",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230720133007-josh-hartnett-july-13.jpg?c=16x9&q=h_833,w_1480,c_fill",
+      "imdb": "https://www.imdb.com/name/nm0001326/"
+    }, {
+      "name": "Bruce Willis",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLg_SIgxsuQOn9hifx7kAH4YJK4Mdl3ulS-5nzfMDHjDIwxgNb",
+    "imdb": "https://www.imdb.com/name/nm0000246/"
+    }, {
+      "name": "Lucy Liu",
+      "image": "https://media.vanityfair.com/photos/64149a1ceb68a24cc7524b69/16:9/w_5648,h_3177,c_limit/1410518984",
+      "imdb": "https://www.imdb.com/name/nm0005154/"
+    }]
+  },
+
+  {
+    "item": 238,
+    "title": "Burn After Reading",
+    "runtime": 96,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/6c4a0788b6f85f82dd03ee76910bab7a54963c66f382a8e7105da5bfb1fb1659.jpg",
+    "description": "A dark comedy about two gym employees who stumble upon a disk containing the memoirs of a former CIA agent. Believing it to be classified information, they attempt to sell it, setting off a series of events involving blackmail, deception, and unintended consequences.",
+    "genre": ["comedy", "crime", "drama"],
+    "link": "https://www.amazon.com/gp/video/detail/B00BS1UE3I/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "The Coen Brothers",
+    "image": "https://facts.net/wp-content/uploads/2023/11/10-astounding-facts-about-joel-coen-1699443401.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001054/"
+    }],
+    "actors": [{
+      "name": "George Clooney",
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRYIaq1IibD0byPwoCA61TVzHOu11u8JjcIclfwijR0EvFA59KLCk0RM1DDpeeRnFaTZEO1mVmnMzzFKjg",
+      "imdb": "https://www.imdb.com/name/nm0000123/"
+    }, {
+      "name": "Frances McDormand",
+      "image": "https://media.gq.com/photos/55ee376989c0d3e261b1df3b/master/pass/francis-almost-famous.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000531/"
+    }, {
+      "name": "Brad Pitt",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRkMDE5MjUtN2MyYi00MzAyLWIwOWMtNWU0NzNkZDczOWUyXkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000093/"
+    }]
+  },
+
+  {
+    "item": 239,
+    "title": "Ava",
+    "runtime": 96,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/6fa59e622ef779b10ff3ecaf96e6d84a4486912009976550b962de9baa4244eb.jpg",
+    "description": "Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high-profile hits. When a job goes dangerously wrong, she is forced to fight for her own survival.",
+    "genre": ["action", "crime", "drama"],
+    "link": "https://www.amazon.com/gp/video/detail/B08DVWZVJQ/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Tate Taylor",
+      "image": "https://variety.com/wp-content/uploads/2015/01/tate-taylor-uss-indianapolis-movie.jpg",
+      "imdb": "https://www.imdb.com/name/nm0852622/"
+    }],
+    "actors": [{
+      "name": "Jessica Chastain",
+      "image": "https://res.akamaized.net/domain/image/fetch/t_web/https://static.domain.com.au/twr/production/uploads/2018/01/31025706/MollysGame_Pic01-e1517290103345.jpg",
+      "imdb": "https://www.imdb.com/name/nm1567113/"
+    }, {
+      "name": "John Malkovich",
+      "image": "https://www.nme.com/wp-content/uploads/2020/05/John_Malkovich_Featured_Image.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000518/"
+    }, {
+      "name": "Colin Farrell",
+      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/0203/03/OFF-PLATFORM-colin-farrell.jpg?strip=all&w=1620&h=1080&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0268199/"
+    }]
+  },
+  
+  {
+    "item": 240,
+    "title": "Chaos",
+    "runtime": 106,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/2614b1f32e105e3060579fdafb558f903feed03647b2532e0d82272c2b32f2ef.jpg",
+    "description": "In the movie Chaos, Detective Quentin Conners and narcotics agent Shane Dekker are compelled to work together again to track down a serial killer who's killing cops.",
+    "genre": ["action", "crime", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B00D5WDBM4/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Tony Giglio",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxNzc4MzgyNl5BMl5BanBnXkFyZXN1bWU@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0318121/"
+    }],
+    "actors": [{
+      "name": "Jason Statham",
+    "image": "https://ew.com/thmb/bbpeT-u7BO2qVG43YbrTdg9arNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/meg-fp-0002-2000-7ed63879f64c475b821774b972f82ae5.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005458/?ref_=nv_sr_srsg_0_tt_3_nm_5_q_jason%2520stath"
+    }, {
+      "name": "Ryan Phillippe",
+      "image": "https://static.independent.co.uk/2021/02/15/15/155670_5100.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000200/"
+    }, {
+      "name": "Wesley Snipes",
+  "image": "https://m.media-amazon.com/images/M/MV5BYWY3MDY5ZDQtNjUxNS00OGZiLTkzZGEtN2Q5YTBhMDFlOWJjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+  "imdb": "https://www.imdb.com/name/nm0000648/"
+    }]
+  },
+
+  {
+    "item": 241,
+    "title": "24 Hours to Live",
+    "runtime": 93,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/1c873c4360c117c929ff8deb8766e5dd881a12f9f7feb4ce1457e959f3edb46d.jpg",
+    "description": "In the movie 24 Hours to Live, an assassin seeks redemption after being given a second chance at life when he is brought back from the dead for 24 hours to track down his killers.",
+    "genre": ["action", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B08QDVKXS8/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Brian Smrz",
+      "image": "https://i.ytimg.com/vi/yDbb68NgOVs/maxresdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm0810429/"
+    }],
+    "actors": [{
+      "name": "Ethan Hawke",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTY_Cck_wjMxiCBBh9Jni8vqQryFpv5XXSiWkrUU5EngmkTMF8e",
+    "imdb": "https://www.imdb.com/name/nm0000160/"
+    }, {
+      "name": "Xu Qing",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGUwZTQxOWEtNWQ2OS00YWYyLWE4ZWMtMTljM2I2NTI5OGE2XkEyXkFqcGdeQXVyNDg5Mzk5Mg@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0703641/"
+    }]
+  },
+
+  {
+    "item": 242,
+    "title": "Seeking Justice",
+    "runtime": 105,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/61425dbc64f28b80e8b38d33216250139981fc7356138fc5b64f0838ad76a3a1.jpg",
+    "description": "In the movie Seeking Justice, a man seeks vengeance against the person who assaulted his wife, but soon finds himself entangled in a web of conspiracy and danger.",
+    "genre": ["action", "drama", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B085MDMWDV/ref=atv_dp_amz_c_TS5124c5_1_12?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Roger Donaldson",
+      "image": "https://deadline.com/wp-content/uploads/2020/02/roger-donaldson.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001152/"
+    }],
+    "actors": [{
+      "name": "Nicolas Cage",
+      "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0000115/"
+    }, {
+      "name": "January Jones",
+      "image": "https://media.allure.com/photos/622b69c71cafecc72b4720f4/16:9/w_2560%2Cc_limit/462945954",
+      "imdb": "https://www.imdb.com/name/nm0005064/"
+    }, {
+      "name": "Guy Pearce",
+      "image": "https://facts.net/wp-content/uploads/2023/07/41-facts-about-guy-pearce-1689510791.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001602/"
+    }]
+  },
+
+  {
+    "item": 243,
+    "title": "Kill Chain",
+    "runtime": 91,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/c82d0b5435e714b410f1b8047a238792a3ce51f278de901280ba15ccba87d546.png",
+    "description": "In the movie Kill Chain, a hotel room shootout between two assassins draws a third into the action. Soon, the gunman's employer and his wife also become involved.",
+    "genre": ["action", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B098BQW128/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Ken Sanzel",
+      "image": "https://i0.wp.com/www.actionreloaded.com/wp-content/uploads/2021/04/Ken_Sanzel_Photo_50-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "imdb": "https://www.imdb.com/name/nm0763818/"
+    }],
+    "actors": [{
+      "name": "Nicolas Cage",
+      "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0000115/"
+    }, {
+      "name": "Anabelle Acosta",
+      "image": "https://variety.com/wp-content/uploads/2017/10/anabelle-acosta.jpg",
+      "imdb": "https://www.imdb.com/name/nm3729684/"
+    }, {
+      "name": "Ryan Kwanten",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjk5MTkzNjctYzhmYi00YjliLTljMDYtY2I0YmY0OTI4NDNjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm1213163/"
+    }]
+  },
+  
+  {
+    "item": 244,
+    "title": "211",
+    "runtime": 86,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/128f0b36cbac315e29a92c697a2f3b7810ab743ae04c9623cccc040dcf1cec08.jpg",
+    "description": "In the film 211, a group of heavily armed men storm a bank in Providence, Rhode Island. With hostages' lives on the line, a veteran police officer and his inexperienced partner must navigate a dangerous situation to bring the perpetrators to justice.",
+    "genre": ["action", "drama", "crime"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B8ML8VRB/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "York Shackleton",
+      "image": "https://pop-culturalist.com/wp-content/uploads/2020/01/york-shackleton-disturbing-the-peace-pop-culturalist-1280x720.jpg",
+      "imdb": "https://www.imdb.com/name/nm0788755/"
+    }],
+    "actors": [{
+      "name": "Nicolas Cage",
+      "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0000115/"
+    }, {
+      "name": "Sophie Skelton",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmEwM2JjMWQtZDQxOS00YmIxLWEzYzgtYjQ0MjQzOGJmZjcyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm4903373/"
+    }, {
+      "name": "Michael Rainey Jr.",
+      "image": "https://360baseline.org/wp-content/uploads/2023/02/Michael-Rainey-Jr-1.webp",
+      "imdb": "https://www.imdb.com/name/nm2112204/"
+    }]
+  },
+
+  {
+    "item": 245,
+    "title": "Stolen",
+    "runtime": 96,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/1cb7ec29843355d1e8cfd3a78e0b91e1c1b2e06582d6242a2a79a17fcae24e20.jpg",
+    "description": "A former thief, Will Montgomery, finds himself forced to return to his criminal ways when his daughter is kidnapped by his former partner. With time running out, Montgomery must pull off one last heist to save her before it's too late.",
+    "genre": ["action", "crime", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B07FCVYLRG/ref=atv_dp_amz_c_TS5124c5_1_11?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Simon West",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjA2Njg4OV5BMl5BanBnXkFtZTcwMTcyNTEwOQ@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0921082/"
+    }],
+    "actors": [{
+      "name": "Nicolas Cage",
+      "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0000115/"
+    }, {
+      "name": "Malin Akerman",
+  "image": "https://www.hollywoodreporter.com/wp-content/uploads/2019/02/malin_akerman-getty-h_2019.jpg?w=1296",
+  "imdb": "https://www.imdb.com/name/nm0015194/"
+    }, {
+      "name": "Josh Lucas",
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2021/04/josh-lucas-rachel-mortenson-01.jpg?quality=75&strip=all&w=1024",
+      "imdb": "https://www.imdb.com/name/nm0524197/"
+    }]
+  },
+  
+  {
+    "item": 246,
+    "title": "The Cable Guy",
+    "runtime": 96,
+    "mpaa": "PG-13",
+    "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18112_v_h9_ap.jpg",
+    "description": "A lonely and disturbed cable guy raised on television just wants a new friend, but his target, a designer, rejects him, with bad consequences.",
+    "genre": ["comedy", "drama", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B648BCGK/ref=atv_dp_amz_c_TS5124c5_1_6?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Ben Stiller",
+      "image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
+    }],
+    "actors": [{
+      "name": "Jim Carrey",
+    "image": "https://cdn.britannica.com/84/200584-050-7EC3F3F6/Jim-Carrey-2012.jpg?w=400&h=300&c=crop",
+    "imdb": "https://www.imdb.com/name/nm0000120/"
+    }, {
+      "name": "Matthew Broderick",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg5NGM3YTMtYjNjZS00MmQyLTk1YjItN2Y5YTkwOThmOGU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000111/"
+    }, {
+      "name": "Leslie Mann",
+      "image": "https://parade.com/.image/t_share/MTkwNTgwODMzNDgzMjM2NDc3/leslie-mann-ftr.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005182/"
+    }]
+  },
+
+  {
+    "item": 247,
+    "title": "Blades of Glory",
+    "runtime": 93,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/e60627e0080707b1c3a63aff289fb4993177bd526c89d94cd770776816f6826c._UR1920,1080_.jpg",
+    "description": "In 2002, two rival Olympic ice skaters were stripped of their gold medals and permanently banned from men's single competition. Presently, however, they've found a loophole that will allow them to qualify as a pairs team.",
+    "genre": ["comedy", "sports"],
+    "link": "https://www.amazon.com/gp/video/detail/B00C3MTMSO/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Josh Gordon & Will Speck",
+      "image": "https://deadline.com/wp-content/uploads/2023/03/JOSH-GORDON-AND-WILL-SPECK.jpg",
+      "imdb": "https://www.imdb.com/name/nm1166013/"
+    }],
+    "actors": [{
+      "name": "Will Ferrell",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/076a75b/2147483647/strip/false/crop/3500x1969+0+176/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F35%2F0c%2F568646e5482e8f5ce52d1d84b1cd%2Fny-premiere-of-apple-tvs-the-shrink-next-door-90227.jpg",
+    "imdb": "https://www.imdb.com/name/nm0002071/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_will%2520ferrell"
+    }, {
+      "name": "Jon Heder",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2014/02/jon_heder.jpg",
+      "imdb": "https://www.imdb.com/name/nm1416215/"
+    }, {
+      "name": "Amy Poehler",
+      "image": "https://www.nbc.com/sites/nbcblog/files/2023/09/amy-poehler.jpg",
+      "imdb": "https://www.imdb.com/name/nm0688132/"
+    }]
+  },
+
+  {
+    "item": 248,
+    "title": "Just Friends",
+    "runtime": 96,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/71e7ddb93fe4680f14262df6eb0fee8f3ccead65caf0d9071f1f9f92e3299e55.jpg",
+    "description": "While visiting his hometown during Christmas, a man comes face-to-face with his old high school crush whom he was best friends with -- a woman whose rejection of him turned him into a ferocious womanizer.",
+    "genre": ["comedy", "romance"],
+    "link": "https://www.amazon.com/gp/video/detail/B00D5VGFY6/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Roger Kumble",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI1OTUxOTYwM15BMl5BanBnXkFtZTgwMjc3ODYyODE@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0477881/"
+    }],
+    "actors": [{
+      "name": "Ryan Reynolds",
+      "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/15/16632689757665.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005351/"
+    }, {
+      "name": "Amy Smart",
+      "image": "https://www.thelist.com/img/gallery/the-real-reason-you-dont-hear-about-amy-smart-anymore/intro-1551459507.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005440/"
+    }, {
+      "name": "Anna Faris",
+    "image": "https://nationaltoday.com/wp-content/uploads/2022/09/Anna-Faris-1200x834.jpg",
+    "imdb": "https://www.imdb.com/name/nm0267506/?ref_=tt_ov_st"
+    }]
+  },
+
+  {
+    "item": 249,
+    "title": "Event Horizon",
+    "runtime": 96,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/86c047af702678c12b43f3f906db3330a01205c6713b3724bd0e404031b1fe98.jpg",
+    "description": "A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board.",
+    "genre": ["horror", "science-fiction"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CPWQY2PG/ref=atv_mv_hom_c_LvG2mH_2_1?jic=44%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9uEgRzdm9k",
+    "director": [{
+      "name": "Paul W.S. Anderson",
+      "image": "https://variety.com/wp-content/uploads/2016/12/director-paul-w-s-anderson-resident-evil.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0027271/"
+    }],
+    "actors": [{
+      "name": "Laurence Fishburne",
+    "image": "https://atlantablackstar.com/wp-content/uploads/2022/10/GettyImages-1434655767-scaled.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000401/?ref_=tt_ov_st"
+    }, {
+      "name": "Sam Neill",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Sam-Neill-Sitges-Film-Festival-NEW-GettyImages-1180442124-H-2023.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000554/?ref_=nv_sr_srsg_0_tt_4_nm_4_q_sam%2520neill"
+    }, {
+      "name": "Kathleen Quinlan",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDZmOWQ5NWQtMzJjMy00ZDU1LWJlNDEtZmYzNWQwNjFmMTk4XkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001648/"
+    }]
+  },
+  
+  {
+    "item": 250,
+    "title": "Get Out",
+    "runtime": 104,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/8e49148580e2ef6a3055123acb67e4cd9f7a5ddbeac90a987c80038db41c6c92.jpg",
+    "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+    "genre": ["horror", "mystery", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B06Y1FYX25/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Jordan Peele",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/complex/images/rarqmehmmaxkvw8akwkr/jordan-peele-nope-complex-interview.jpg?output-format=jpg&output-quality=auto",
+      "imdb": "https://www.imdb.com/name/nm1443502/"
+    }],
+    "actors": [{
+      "name": "Daniel Kaluuya",
+      "image": "https://www.indiewire.com/wp-content/uploads/2019/11/Get-Out.jpg",
+      "imdb": "https://www.imdb.com/name/nm2257207/"
+    }, {
+      "name": "Allison Williams",
+      "image": "https://i.guim.co.uk/img/media/e1625fb0cb84c2f79507e030619e20caec033f4c/356_427_4632_2778/master/4632.jpg?width=1200&quality=85&auto=format&fit=max&s=c0966b870f9cf3cfd7f6cd049952a028",
+      "imdb": "https://www.imdb.com/name/nm0931329/"
+    }, {
+      "name": "Bradley Whitford",
+      "image": "https://ew.com/thmb/0kYq6Dj6Bz9bV07xbxckm9Y8zH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Handmaids-Tale-110122-d5b5fc7f856b4d09b68331347a68f3a8.jpg",
+      "imdb": "https://www.imdb.com/name/nm0925967/"
+    }]
+  },
+
+  {
+    "item": 251,
+    "title": "The Lazarus Effect",
+    "runtime": 83,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/9d32c11dd728feec183d71d59db14e93c5dcef4b67dc3018911cc1886aeb8560.jpg",
+    "description": "A team of medical researchers discover a way to bring dead patients back to life, but their experiments unleash terrifying supernatural consequences.",
+    "genre": ["horror", "mystery", "science-fiction"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B6WV323S/ref=atv_dp_amz_c_TS5124c5_1_17?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "David Gelb",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAyMDgzNDYzOF5BMl5BanBnXkFtZTgwNTIzMzIzNTE@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm2336791/"
+    }],
+    "actors": [{
+      "name": "Mark Duplass",
+      "image": "https://tci-assets.s3.amazonaws.com/uploads/MARK_SOCIAL.jpg",
+      "imdb": "https://www.imdb.com/name/nm0244330/"
+    }, {
+      "name": "Olivia Wilde",
+      "image": "https://media.glamour.com/photos/65df4efe9f651b72617e452e/master/w_2560%2Cc_limit/GettyImages-2044097592.jpg",
+      "imdb": "https://www.imdb.com/name/nm1312575/"
+    }, {
+      "name": "Donald Glover",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2NkM2Q4MDktOWU0ZC00YzQ2LTllY2ItOGYwMmJkZjg4NDQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm2255973/"
+    }]
+  },
+
+  {
+    "item": 252,
+    "title": "Jeepers Creepers 2",
+    "runtime": 104,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/05429fc0057d87f756faf584f62302b9b687292c6afc8047fce8a64f1a120c34.jpg",
+    "description": "A group of high school students on a bus returning from a championship basketball game become stranded alongside a highway when their bus breaks down. Little do they know that they are about to become the prey of a flesh-eating creature known as the Creeper.",
+    "genre": ["horror", "mystery", "sequel"],
+    "link": "https://www.amazon.com/gp/video/detail/B09Y1QGLMY/ref=atv_dp_amz_c_TS5124c5_1_12?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Victor Salva",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/29/12/victor-salva.jpg?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp",
+      "imdb": "https://www.imdb.com/name/nm0758567/"
+    }],
+    "actors": [{
+      "name": "Ray Wise",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjIwYjMwZmUtY2FlNy00MjFiLTgxNzYtNDEyZjQ1YjdkNmYwXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0936473/"
+    }, {
+      "name": "Jonathan Breck",
+      "image": "https://assets1.ignimgs.com/2017/09/25/jc3-1506305750509_160w.jpg?width=1280",
+      "imdb": "https://www.imdb.com/name/nm0106712/"
+    }, {
+      "name": "Garikayi Mutambirwa",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcwODM0MzExOV5BMl5BanBnXkFtZTYwOTU5MTQ3._V1_FMjpg_UX1000_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0616446/"
+    }]
+  },
+  
+  {
+    "item": 253,
+    "title": "The Descent",
+    "runtime": 99,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/607df474af75dc4960d8fe9b84c101f398f884f4b9c3573f3b0de36aa11eb3a8._UR1920,1080_.jpg",
+    "description": "A caving expedition goes horribly wrong, as the explorers become trapped and ultimately pursued by a strange breed of predators underground.",
+    "genre": ["horror", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B08KH912P5/ref=atv_dp_amz_c_TS5124c5_1_5?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Neil Marshall",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Neil_Marshall_2006.JPG",
+      "imdb": "https://www.imdb.com/name/nm1234199/"
+    }],
+    "actors": [{
+      "name": "Shauna Macdonald",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2VmYzFiYmQtZTllYi00YzBmLTg2NmQtZTY4ZTIzMzYwYzUzXkEyXkFqcGdeQXVyMjEyNDQ2MA@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0532707/"
+    }, {
+      "name": "Natalie Mendoza",
+      "image": "https://imaging.broadway.com/images/regular-43/w735/120149-15.jpg",
+      "imdb": "https://www.imdb.com/name/nm0577009/"
+    }, {
+      "name": "Alex Reid",
+      "image": "https://m.media-amazon.com/images/M/MV5BODE4NWYyNjUtNWQ1Yi00MzhkLTgwYTMtMmRkZmUwNmFlYzEwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0717444/"
+    }]
+  },
+
+  {
+    "item": 254,
+    "title": "Centurion",
+    "runtime": 97,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/bb094a295ca9d022160c3e3e4510cafe82d775b3e8cdb42b9f170e546f9dc246.jpg",
+    "description": "A splinter group of Roman soldiers fight for their lives behind enemy lines after their legion is decimated in a devastating guerrilla attack.",
+    "genre": ["action", "adventure", "drama"],
+    "link": "https://www.amazon.com/gp/video/detail/0JT9JCUV98NSEHLJ5M67P7TOAP/ref=atv_dp_cnc_0_2",
+    "director": [{
+      "name": "Neil Marshall",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Neil_Marshall_2006.JPG",
+      "imdb": "https://www.imdb.com/name/nm1234199/"
+    }],
+    "actors": [{
+      "name": "Michael Fassbender",
+      "image": "https://variety.com/wp-content/uploads/2024/02/fassbender-e1709057463472.jpg?w=861",
+      "imdb": "https://www.imdb.com/name/nm1055413/"
+    }, {
+      "name": "Dominic West",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM1MDU1Mzg3N15BMl5BanBnXkFtZTgwNTcwNzcyMzI@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0922035/"
+    }, {
+      "name": "Olga Kurylenko",
+      "image": "https://ew.com/thmb/w8N2Xmo7STfx08SBIxcCam3npis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1177709564-8ad1eacb7f944a7daed9a4239d8c5767.jpg",
+      "imdb": "https://www.imdb.com/name/nm1385871/"
+    }]
+  },
+
+  {
+    "item": 255,
+    "title": "Love Liza",
+    "runtime": 90,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/f2540db168916fe007d9cdbc3c583980a79e5cd89d1245c75ba28d52645cf3fb.jpg",
+    "description": "Following the sudden suicide of his wife, a grieving man finds solace and escape in gasoline fumes and remote-control model airplanes.",
+    "genre": ["drama"],
+    "link": "https://www.amazon.com/gp/video/detail/B00CS74WJ8/ref=atv_mv_hom_c_LvG2mH_2_4?jic=44%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9uEgRzdm9k",
+    "director": [{
+      "name": "Todd Louiso",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzY1OTlmNTMtMjZmZi00M2MyLTlhZWUtYWUxYzMyZGQ1N2RiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0521902/"
+    }],
+    "actors": [{
+      "name": "Philip Seymour Hoffman",
+    "image": "https://www.usatoday.com/gcdn/-mm-/0c6797d862acf1666f83178798c8107f42310354/c=0-357-3504-2334/local/-/media/USATODAY/USATODAY/2014/02/02//1391369092003--PHILIPSHOFFMAN-03.JPG?width=3200&height=1806&fit=crop&format=pjpg&auto=webp",
+    "imdb": "https://www.imdb.com/name/nm0000450/"
+    }, {
+      "name": "Kathy Bates",
+      "image": "https://ew.com/thmb/fY_alMWGPpE4JVNVSw19WnFomOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ap_4346621549-2000-a4f5b5004ec84decb7c1ed85a0050271.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000870/"
+    }, {
+      "name": "Jack Kehler",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1Mzg4OTk2MV5BMl5BanBnXkFtZTYwMDI0NjEz._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0444960/"
+    }]
+  },
+
+  {
+    "item": 256,
+    "title": "Trees Lounge",
+    "runtime": 95,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/018364e20ac7af70edfe6cefac1e161c20a07652b41cc215300de5dc67fb5156._SX1080_FMjpg_.jpg",
+    "description": "A regular at a bar called Trees Lounge is in a rut. He lives with his mother, has a dead-end job, and his ex-wife is about to marry another man.",
+    "genre": ["drama", "comedy"],
+    "link": "https://www.amazon.com/gp/video/detail/B07CVJ5793/ref=atv_dp_amz_c_TS5124c5_1_8?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Steve Buscemi",
+    "image": "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2015/05/buscemi-1.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000114/"
+    }],
+    "actors": [{
+      "name": "Steve Buscemi",
+      "image": "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2015/05/buscemi-1.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000114/"
+    }, {
+      "name": "Carol Kane",
+      "image": "https://m.media-amazon.com/images/M/MV5BODQyY2FjNjMtOTc5OS00ZmNlLWI2NmYtOTJjZDJjNjk0ZjIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001409/"
+    }, {
+      "name": "Mark Boone Junior",
+      "image": "https://www.looper.com/img/gallery/soas-mark-boone-jr-was-certainly-not-a-rookie-in-motorcycle-riding/l-intro-1679421018.jpg",
+      "imdb": "https://www.imdb.com/name/nm0095460/"
+    }]
+  },
+
+  {
+    "item": 257,
+    "title": "Buffalo '66",
+    "runtime": 110,
+    "mpaa": "R",
+    "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20506_v_h10_ae.jpg",
+    "description": "After being released from prison, Billy kidnaps a young tap dancer named Layla and forces her to pretend to be his wife when he visits his parents.",
+    "genre": ["drama", "crime"],
+    "link": "https://www.amazon.com/gp/video/detail/B088Y28NM4/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Vincent Gallo",
+      "image": "https://people.com/thmb/ZtHxZhIOPygksbmIqUzSH3Z2qc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(529x0:531x2)/vincent-gallo-tout-11124-199276e760394ff18592590b9e00cfac.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001256/"
+    }],
+    "actors": [{
+      "name": "Vincent Gallo",
+      "image": "https://people.com/thmb/ZtHxZhIOPygksbmIqUzSH3Z2qc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(529x0:531x2)/vincent-gallo-tout-11124-199276e760394ff18592590b9e00cfac.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001256/"
+    }, {
+      "name": "Christina Ricci",
+      "image": "https://people.com/thmb/oF-9r1skeXzbGj3l4ids_8kEmbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Christina-Ricci-on-Her-Son-Freddie-Being-a-Feminist-122722-12e1e223f2e0478d94651ee365393e0a.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000207/"
+    }, {
+      "name": "Ben Gazzara",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/2/4/1328326725086/Ben-Gazzara-in-2011-008.jpg?width=620&quality=85&auto=format&fit=max&s=7a46c0e50b755767ad43a562fb3069fe",
+      "imdb": "https://www.imdb.com/name/nm0001260/"
+    }]
+  },
+  
+  {
+    "item": 258,
+    "title": "Licorice Pizza",
+    "runtime": 133,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/7dfe30cda248888efb7a89c495fb129913ecf9515b841c0ba80ec45eaaea1e8d.jpg",
+    "description": "The story of Alana Kane and Gary Valentine growing up, running around and falling in love in the San Fernando Valley in 1973.",
+    "genre": ["comedy", "drama", "romance"],
+    "link": "https://www.amazon.com/gp/video/detail/B09SNXZ2D5/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Paul Thomas Anderson",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2MzgwNDctZGEwMS00MzAwLWI0YWItNzc2NWIwNmZiZmRkXkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000759/"
+    }],
+    "actors": [{
+      "name": "Cooper Hoffman",
+      "image": "https://storage.googleapis.com/afs-prod/media/bc4f2164a7b94d1bb1400f3abdda8d58/3000.jpeg",
+      "imdb": "https://www.imdb.com/name/nm10644078/"
+    }, {
+      "name": "Alana Haim",
+      "image": "https://static.independent.co.uk/2024/01/31/22/alana-haim.jpg",
+      "imdb": "https://www.imdb.com/name/nm10644079/"
+    }, {
+      "name": "Bradley Cooper",
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTWMU-hTEfE9uijYMdXLmGszgxLyiWtA_lBOaTUq82IDM__vhe-JaCEK8Cx_OKdoXKZ8YCGL8Mf2PR6-7Q",
+    "imdb": "https://www.imdb.com/name/nm0177896/bio/"
+    }]
+  },
+  
+  {
+    "item": 259,
+    "title": "Manchester by the Sea",
+    "runtime": 137,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/e9bdf0929905a638846848f50698c94084d58deaf0b4ec9029d17d02ae86e107._UR1920,1080_SX720_FMjpg_.jpg",
+    "description": "After the death of his brother, a depressed handyman named Lee Chandler returns to his hometown in Massachusetts to take care of his teenage nephew. As he confronts his tragic past, Lee struggles to find a way forward amidst grief and guilt.",
+    "genre": ["drama"],
+    "link": "https://www.amazon.com/gp/video/detail/B089YDN4RN/ref=atv_dp_amz_c_TS5124c5_1_17?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Kenneth Lonergan",
+      "image": "https://www.indiewire.com/wp-content/uploads/2017/02/director_lonergan_kenneth_1.jpg",
+      "imdb": "https://www.imdb.com/name/nm0515060/"
+    }],
+    "actors": [{
+      "name": "Casey Affleck",
+      "image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/7/4/5/1250745_Casey-Affleck.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000729/"
+    }, {
+      "name": "Michelle Williams",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/michelle-williams-attends-the-28th-annual-critics-choice-news-photo-1674217477.jpg",
+      "imdb": "https://www.imdb.com/name/nm0931329/"
+    }, {
+      "name": "Kyle Chandler",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2013/12/kylechandlercover.jpg?quality=75&strip=all",
+      "imdb": "https://www.imdb.com/name/nm0151419/"
+    }]
+  },
+
+  {
+    "item": 260,
+    "title": "Beautiful Boy",
+    "runtime": 120,
+    "mpaa": "R",
+    "poster": "https://i.ytimg.com/vi/y23HyopQxEg/maxresdefault.jpg",
+    "description": "Based on the memoirs of David and Nic Sheff, this film tells the heartbreaking and inspiring story of a father struggling to save his son from addiction. As Nic grapples with substance abuse, his father David embarks on a turbulent journey of love, pain, and hope.",
+    "genre": ["biography", "drama"],
+    "link": "https://www.amazon.com/gp/video/detail/B08B4XJPZQ/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Felix Van Groeningen",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4NjI2NzUyMF5BMl5BanBnXkFtZTgwMTMyNTEyMTE@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0881103/"
+    }],
+    "actors": [{
+      "name": "Steve Carell",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0E4JvlpFYatER0RLZ-4qX6z7T9YMG7MavoQsCjen58CK6JqJa",
+      "imdb": "https://www.imdb.com/name/nm0136797/"
+    }, {
+      "name": "Timothee Chalamet",
+      "image": "https://assets.vogue.com/photos/645cd9ef8ce475c1df7ded6d/4:3/pass/PA2023_22_0041_RGB.jpg",
+      "imdb": "https://www.imdb.com/name/nm3154303/"
+    }, {
+      "name": "Maura Tierney",
+      "image": "https://i.pinimg.com/736x/82/12/0a/82120a56c0bd229308256c4222fd76a0.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001807/"
+    }]
+  },
+
+  {
+    "item": 261,
+    "title": "Peanut Butter Falcon",
+    "runtime": 97,
+    "mpaa": "PG-13",
+    "poster": "https://i.ytimg.com/vi/kfj1MezDByI/maxresdefault.jpg",
+    "description": "A modern Mark Twain-style adventure, 'The Peanut Butter Falcon' tells the story of Zak, a young man with Down syndrome who dreams of becoming a professional wrestler. When he escapes from his care home to pursue his dream, he crosses paths with Tyler, a small-time outlaw, and together they embark on an unforgettable journey of friendship and self-discovery.",
+    "genre": ["adventure", "comedy", "drama"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B8TQG871/ref=atv_dp_amz_c_TS5124c5_1_7?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Tyler Nilson & Michael Schwartz",
+      "image": "https://deadline.com/wp-content/uploads/2019/04/tyler-nilson-michael-schwartz-e1556309175471.jpg",
+      "imdb": "https://www.imdb.com/name/nm2732831/"
+    }],
+    "actors": [{
+      "name": "Shia Labeouf",
+      "image": "https://media.gq.com/photos/5f4952b38dc8847e289114e8/4:3/w_1024%2Cc_limit/GQ-Shia-Grooming-082820.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0479471/?ref_=nv_sr_srsg_0_tt_2_nm_6_q_shia%2520leb"
+    }, {
+      "name": "Zack Gottsagen",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/a5147ac/2147483647/strip/true/crop/6720x4480+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcb%2F1f%2F2bd54ec3461594541630d6982c49%2Fla-photos-1staff-471771-en-1114-zack-gottsagen-03-gem.jpg",
+      "imdb": "https://www.imdb.com/name/nm5867451/"
+    }, {
+      "name": "Dakota Johnson",
+      "image": "https://media.vanityfair.com/photos/6579d2bbda411f2113c7c9c5/16:9/w_1280,c_limit/dakota-johnson-sleep.jpg",
+      "imdb": "https://www.imdb.com/name/nm0424848/"
+    }]
+  },
+
+  {
+    "item": 262,
+    "title": "My Spy",
+    "runtime": 99,
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/17293df9d4009c1a2a6bf9708d79e0bd33a7452c59c42e6e59a9afe020accdc0.jpg",
+    "description": "In 'My Spy', a hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl named Sophie after he's sent undercover to surveil her family. As he reluctantly teaches her the art of espionage, he finds himself falling for her charms, leading to hilarious and heartwarming moments.",
+    "genre": ["action", "comedy", "family"],
+    "link": "https://www.amazon.com/My-Spy-Dave-Bautista/dp/B08DK7KZQ8",
+    "director": [{
+      "name": "Peter Segal",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Peter_Segal_WonderCon2008.jpg/1200px-Peter_Segal_WonderCon2008.jpg",
+  "imdb": "https://www.imdb.com/name/nm0781842/"
+    }],
+    "actors": [{
+      "name": "Dave Bautista",
+      "image": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=720&fit=contain&gravity=null&url=https://s3-images.sportbible.com/s3/content/e906c8595f6372c1c61292ead3129922.png",
+      "imdb": "https://www.imdb.com/name/nm1176985/"
+    }, {
+      "name": "Chloe Coleman",
+      "image": "https://deadline.com/wp-content/uploads/2020/12/fta6yfC-e1607980231689.jpeg",
+      "imdb": "https://www.imdb.com/name/nm8626704/"
+    }, {
+      "name": "Kristen Schaal",
+      "image": "https://www.washingtonpost.com/resizer/8u01Li-lX_tX4nrDsdoYf7UEJSg=/arc-anglerfish-washpost-prod-washpost/public/NQAWSLW4HII6ZPBVVEOQVFESHM.jpg",
+      "imdb": "https://www.imdb.com/name/nm0773435/"
+    }]
+  },
+
+  {
+    "item": 263,
+    "title": "Chasing Amy",
+    "runtime": 113,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/899c0d259c0a9cac75bedbabed1ee1d43f8b75a9005dfe4f491cb633441f14fb.jpg",
+    "description": "In 'Chasing Amy', a comic book artist falls for a fellow artist, who happens to be a lesbian. As he pursues a romantic relationship with her, he struggles with his own insecurities and past experiences, leading to complications and self-discovery.",
+    "genre": ["comedy", "drama", "romance", "indie"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CP33C55T/ref=atv_mv_hom_c_5crrHZ_brws_4_2?jic=44%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9uEgRzdm9k",
+    "director": [{
+      "name": "Kevin Smith",
+      "image": "https://content.fortune.com/wp-content/uploads/2019/10/Kevin-Smith-.jpg",
+      "imdb": "https://www.imdb.com/name/nm0003620/"
+    }],
+    "actors": [{
+      "name": "Ben Affleck",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/10ea0b4/2147483647/strip/true/crop/6316x4210+0+1/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fd8%2Ff1ec7c954d10ab8f645895faa29b%2Fla-photos-1staff-885832-ca-ben-affleck-portrait-tender-bar-jlc-1213-12331.JPG",
+      "imdb": "https://www.imdb.com/name/nm0000255/"
+    }, {
+      "name": "Joey Lauren Adams",
+      "image": "https://i.ytimg.com/vi/Pbg0aPiTLM0/maxresdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000720/"
+    }, {
+      "name": "Jason Lee",
+      "image": "https://i.ytimg.com/vi/Wtn7OThBfrU/maxresdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005134/"
+    }]
+  },
+  
+  {
+    "item": 264,
+    "title": "Clerks",
+    "runtime": 92,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/77d50bc55abd68d7cf70d4105105fd90de5ffc271505eeca95af5c5d2bf78399._UR1920,1080_SX720_FMjpg_.jpg",
+    "description": "In 'Clerks', a day in the lives of two convenience clerks named Dante and Randal unfolds as they tackle various challenges, interact with eccentric customers, and ponder their own existence while working at the Quick Stop and RST Video.",
+    "genre": ["comedy", "indie"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CLWW5PGB/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Kevin Smith",
+      "image": "https://content.fortune.com/wp-content/uploads/2019/10/Kevin-Smith-.jpg",
+      "imdb": "https://www.imdb.com/name/nm0003620/"
+    }],
+    "actors": [{
+      "name": "Brian O'Halloran",
+      "image": "https://www.detroitnews.com/gcdn/presto/2023/03/01/PDTN/293852aa-99d0-4025-9b14-f9a062b19e9a-Brian-O-Halloran-Press-Photo.jpg?crop=1499,1124,x1,y32",
+      "imdb": "https://www.imdb.com/name/nm0641055/"
+    }, {
+      "name": "Jeff Anderson",
+      "image": "https://cdn1.sixthman.net/2024/jsb/images/artists/jeff_anderson_2024-1500x1000_113454.png",
+      "imdb": "https://www.imdb.com/name/nm0026965/"
+    }, {
+      "name": "Marilyn Ghigliotti",
+      "image": "https://i.ebayimg.com/images/g/vKEAAOSwPGlisloG/s-l1600.jpg",
+      "imdb": "https://www.imdb.com/name/nm0316804/"
+    }]
+  },
+
+  {
+    "item": 265,
+    "title": "Jay and Silent Bob Strike Back",
+    "runtime": 104,
+    "mpaa": "R",
+    "poster": "https://lh3.googleusercontent.com/KEU7rJrWR0CiD_1T5zkDbns4wm4UY_86RTcIZlay7PbDM-bjeksr9gh0vpR3UGsd5ljt1Z7at4M=w1280-h720",
+    "description": "In 'Jay and Silent Bob Strike Back', the titular duo set out on a cross-country mission to sabotage a film adaptation of a comic book based on their lives, encountering various characters and absurd situations along the way.",
+    "genre": ["comedy"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CN2GZN8H/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Kevin Smith",
+      "image": "https://content.fortune.com/wp-content/uploads/2019/10/Kevin-Smith-.jpg",
+      "imdb": "https://www.imdb.com/name/nm0003620/"
+    }],
+    "actors": [{
+      "name": "Jason Mewes",
+      "image": "https://ew.com/thmb/hhNZr175wWnEi-KUPJJp38wkc1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kevin-Smith-Jason-Mewes-029d8d502d8e4b8fa02418612ae5be31.jpg",
+      "imdb": "https://www.imdb.com/name/nm0583600/"
+    }, {
+      "name": "Kevin Smith",
+      "image": "https://content.fortune.com/wp-content/uploads/2019/10/Kevin-Smith-.jpg",
+      "imdb": "https://www.imdb.com/name/nm0003620/"
+    }, {
+      "name": "Will Ferrell",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/076a75b/2147483647/strip/false/crop/3500x1969+0+176/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F35%2F0c%2F568646e5482e8f5ce52d1d84b1cd%2Fny-premiere-of-apple-tvs-the-shrink-next-door-90227.jpg",
+    "imdb": "https://www.imdb.com/name/nm0002071/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_will%2520ferrell"
+    }]
+  },
+
+  {
+    "item": 266,
+    "title": "The Boondock Saints",
+    "runtime": 108,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/959dcc0fbd778377efe8a50620565e17ae1248a42f0eda74713cac9e4b8bcdbe.jpg",
+    "description": "Twin brothers, Connor and Murphy MacManus, become vigilantes after killing two members of the Russian Mafia in self-defense. As they embark on a mission to rid Boston of crime lords, they gain both local fame and the attention of an eccentric FBI agent.",
+    "genre": ["action", "crime", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B01LWPP9Q2/ref=atv_dp_amz_c_TS5124c5_1_11?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Troy Duffy",
+      "image": "https://variety.com/wp-content/uploads/2017/06/troy-duffy.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0241141/"
+    }],
+    "actors": [{
+      "name": "Willem Dafoe",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6Hvi13NmYEbgnHS11IP2mKe4HRmNgSSJrtasMlAp4dtozy1y",
+    "imdb": "https://www.imdb.com/name/nm0000353/"
+    }, {
+      "name": "Sean Patrick Flanery",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDZlY2VmM2YtOTk3My00OGU1LWI5YmItOGQyMzA4YmMwZDY4XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001226/"
+    }, {
+      "name": "Norman Reedus",
+      "image": "https://people.com/thmb/rFCNf7SGrOssvvonOL2T2dnwmtg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(674x359:676x361)/norman-reedus-7d50a766cdc346138e42671ed7888d7c.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005342/"
+    }]
+  },
+
+  {
+    "item": 267,
+    "title": "The General's Daughter",
+    "runtime": 116,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/17ab8c1c0fada86ed5b10784cae1644572152e79fe23ee2bf4fdec7b46f064d9.jpg",
+    "description": "An army officer investigates the brutal murder of Captain Elisabeth Campbell, the daughter of a respected general. As the investigation progresses, disturbing secrets about the victim's past and the military hierarchy are revealed, casting suspicion on those closest to her. As the truth unfolds, the investigator must confront the complexities of honor, loyalty, and justice within the military.",
+    "genre": ["crime", "drama", "mystery"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CQ1GC9DM/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Simon West",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjA2Njg4OV5BMl5BanBnXkFtZTcwMTcyNTEwOQ@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0921082/"
+    }],
+    "actors": [{
+      "name": "John Travolta",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS02OuabypnBpCE9KCFh_ojnkUXabzlyabfIdfluZlnT78Bt2fpca875cBMt5RTXRiAErqxdA",
+      "imdb": "https://www.imdb.com/name/nm0000237/"
+    }, {
+      "name": "Madeleine Stowe",
+      "image": "https://www.looper.com/img/gallery/whatever-happened-to-madeleine-stowe/l-intro-1687324955.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000655/"
+    }, {
+      "name": "James Cromwell",
+      "image": "https://pyxis.nymag.com/v1/imgs/d9c/0b8/2c362ca74d70dcc89e8bf5b6395bd05e5c-james-cromwell-.1x.rsocial.w1200.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000342/"
+    }]
+  },
+
+  {
+    "item": 268,
+    "title": "Witness",
+    "runtime": 112,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/bb5d56e895c407f31bbcf103205d130a01f9ade2435c8bb4904ee563aa39419f.jpg",
+    "description": "In 'Witness', a young Amish boy witnesses a brutal murder while visiting Philadelphia. Detective John Book is assigned to investigate the case and protect the boy, Samuel, and his mother, Rachel, from the killers. As John delves deeper into the investigation, he discovers corruption within the police force and must rely on the Amish community's support to unravel the truth and bring the perpetrators to justice.",
+    "genre": ["crime", "drama", "romance"],
+    "link": "https://www.amazon.com/gp/video/detail/B07GSF9XR5/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Peter Weir",
+      "image": "https://www.nme.com/wp-content/uploads/2020/09/peter-weir-on-set-mosquito-coast-credit-moviestore-collection-ltd-alamy@2000x1270-copy.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001837/"
+    }],
+    "actors": [{
+      "name": "Harrison Ford",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000148/"
+    }, {
+      "name": "Kelly McGillis",
+      "image": "https://www.etonline.com/sites/default/files/images/2019-07/spl5105035_001.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000535/"
+    }, {
+      "name": "Lukas Haas",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTc2NmVhMmQtMzI1MC00MzMxLTlhYjctNGNjYWI1Y2I5NGQ0XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001306/"
+    }]
+  },
+
+  {
+    "item": 269,
+    "title": "The Way Back",
+    "runtime": 133,
+    "mpaa": "PG-13",
+    "poster": "https://i0.wp.com/streamondemandathome.com/wp-content/uploads/2016/08/Way-Back.jpg?fit=1134%2C850&ssl=1",
+    "description": "In 'The Way Back', a group of prisoners, including former Polish soldier Janusz, engineer Mr. Smith, and American convict Flanagan, escape from a Soviet gulag in Siberia during World War II. With no supplies and facing extreme conditions, they embark on a perilous journey to freedom across thousands of miles of hostile terrain. As they traverse the wilderness, they must confront physical and emotional challenges while forging bonds of camaraderie and resilience.",
+    "genre": ["adventure", "drama", "history"],
+    "link": "https://www.amazon.com/gp/video/detail/0R9VQUTL1SYRH2BBQAVLAIIQ2U/ref=atv_dp_cnc_0_0",
+    "director": [{
+      "name": "Peter Weir",
+      "image": "https://www.nme.com/wp-content/uploads/2020/09/peter-weir-on-set-mosquito-coast-credit-moviestore-collection-ltd-alamy@2000x1270-copy.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001837/"
+    }],
+    "actors": [{
+      "name": "Jim Sturgess",
+      "image": "https://www.telegraph.co.uk/content/dam/men/2016/11/04/107316497_May0072205_The_Daily_Telegraph_Portrait_of_British_actor_Jim_Sturgess_photographed_on_the_trans_NvBQzQNjv4BqEduPGWXTgvtbFyMaMlYatt5HfJMDGz2ut_fb3D_DyLc.jpg",
+      "imdb": "https://www.imdb.com/name/nm0836345/"
+    }, {
+      "name": "Ed Harris",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/the-truman-show-harris.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000438/"
+    }, {
+      "name": "Colin Farrell",
+      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/0203/03/OFF-PLATFORM-colin-farrell.jpg?strip=all&w=1620&h=1080&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0268199/"
+    }]
+  },
+
+  {
+    "item": 270,
+    "title": "Glengarry Glen Ross",
+    "runtime": 100,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/4e4ed4e0e8241a612f7e91d47b22df4933acaa672bb5944e35c63359635ee656.png",
+    "description": "In 'Glengarry Glen Ross', a group of desperate real estate agents resort to unethical and cutthroat tactics to survive in a highly competitive sales environment. When their office is robbed and the leads stolen, tensions escalate as the agents vie for survival and success. Loyalties are tested, and the men must confront their own morality as they navigate the ruthless world of sales and deception.",
+    "genre": ["crime", "drama"],
+    "link": "https://www.amazon.com/gp/video/detail/0P0TGDPE6TESFCCNYC21WGW4AB/ref=atv_dp_cnc_3_10",
+    "director": [{
+      "name": "James Foley",
+      "image": "https://deadline.com/wp-content/uploads/2016/10/james-foley-e1555112543364.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001221/"
+    }],
+    "actors": [{
+      "name": "Al Pacino",
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSvNvCnfwhUJomL6srW4j0x21ntqd2R0HDGGyD-MLZA7OUZ52_3XZtjGq_B4G0dmM9-WfF0zMp6seOS_BM",
+    "imdb": "https://www.imdb.com/name/nm0000199/"
+    }, {
+      "name": "Jack Lemmon",
+    "image": "https://qph.cf2.quoracdn.net/main-qimg-4b3a6edd2e2f1c1d048a6a110017d00e-lq",
+    "imdb": "https://www.imdb.com/name/nm0000493/"
+    }, {
+      "name": "Alec Baldwin",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSuYBOiGP2ZAxJotmeQcYxn3DjFBL0zoMmurQS0QLxYVn9zGwvQoFUMQVjt4cgb-se_wUvvZhQdkblI2aA",
+      "imdb": "https://www.imdb.com/name/nm0000285/"
+    }, {
+      "name": "Ed Harris",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/the-truman-show-harris.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000438/"
+    }]
+  },
+
+  {
+    "item": 271,
+    "title": "Before the Devil Knows You're Dead",
+    "runtime": 117,
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/bfdb9c56b6cde065817f3620a4ca9b87b5d6e4399e6c1c7c3bbb9d277c7baee2._UR1920,1080_SX720_FMjpg_.jpg",
+    "description": "In 'Before the Devil Knows You're Dead', two brothers, Andy and Hank Hanson, hatch a plan to rob their parents' jewelry store to solve their financial woes. However, the robbery goes horribly wrong, leading to a chain of tragic events that spiral out of control. As the brothers' lives unravel, secrets are exposed, and they find themselves entangled in a web of betrayal, guilt, and violence.",
+    "genre": ["crime", "drama", "thriller"],
+    "link": "https://www.amazon.com/gp/video/detail/B082KG61B8/ref=atv_dp_amz_c_TS5124c5_1_5?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Sidney Lumet",
+      "image": "https://media.baselineresearch.com/images/418115/418115_full.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001486/"
+    }],
+    "actors": [{
+      "name": "Philip Seymour Hoffman",
+    "image": "https://www.usatoday.com/gcdn/-mm-/0c6797d862acf1666f83178798c8107f42310354/c=0-357-3504-2334/local/-/media/USATODAY/USATODAY/2014/02/02//1391369092003--PHILIPSHOFFMAN-03.JPG?width=3200&height=1806&fit=crop&format=pjpg&auto=webp",
+    "imdb": "https://www.imdb.com/name/nm0000450/"
+    }, {
+      "name": "Ethan Hawke",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTY_Cck_wjMxiCBBh9Jni8vqQryFpv5XXSiWkrUU5EngmkTMF8e",
+      "imdb": "https://www.imdb.com/name/nm0000160/"
+    }, {
+      "name": "Albert Finney",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2017/07/before_the_devil_knows_youre_dead_albert_finney.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0001215/?ref_=tt_ov_st"
+    }, {
+      "name": "Marisa Tomei",
+      "image": "https://pyxis.nymag.com/v1/imgs/9c7/c60/2f972609f30487793afe60949c7148dd23-20180424-marisatomei-1652-2.rsocial.w1200.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000673/"
+    }]
+  },
+
+  {
+    "item": 272,
+    "title": "12 Angry Men",
+    "runtime": 96,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/b92d2865829416e35e7102a3934a2ee745f3b903a95678710442d4299d86f39c.jpg",
+    "description": "In '12 Angry Men', a jury deliberates the fate of a young man accused of murder. As they gather in the jury room, tensions run high as the jurors, each with their own biases and preconceptions, must reach a unanimous decision. Over the course of intense deliberations, prejudices are challenged, and the true nature of justice is tested. '12 Angry Men' is a gripping exploration of human nature, morality, and the power of persuasion.",
+    "genre": ["drama", "court-room", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/0R1DYZPH9XC72I479NEXF195HL/ref=atv_dp_cnc_0_1",
+    "director": [{
+      "name": "Sidney Lumet",
+      "image": "https://media.baselineresearch.com/images/418115/418115_full.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001486/"
+    }],
+    "actors": [{
+      "name": "Henry Fonda",
+      "image": "https://cdn.britannica.com/48/194748-050-98A6C24B/Henry-Fonda-12-Angry-Men-Sidney-Lumet.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000020/"
+    }, {
+      "name": "Lee J. Cobb",
+      "image": "https://www.bestmoviesbyfarr.com/static-assets/blobs/images/articles/background/2019/11/LeeCobb2.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0002012/"
+    }, {
+      "name": "Martin Balsam",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTYyYjhmY2QtMjc1YS00Y2Y0LTljOWMtMWE1NmVkOWExNTk5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000842/"
+    }]
+  },
+
+  {
+    "item": 331,
+    "title": "Judas and the Black Messiah",
+    "runtime": 126,
+    "mpaa": "R",
+    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/986a5167-329c-4263-bd9f-01caa4e3d9a7/97becb3418e9c83ab9573b7e13a343e202b68b8f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+    "description": "The true story of Fred Hampton, chairman of the Illinois Black Panther Party, and William O'Neal, the FBI informant who infiltrated the organization. As Hampton rises to prominence as a charismatic leader and advocate for social justice, O'Neal becomes entangled in a web of deceit and betrayal.",
+    "genre": ["biopic", "drama"],
+    "link": "",
+    "director": [{
+      "name": "Shaka King",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5ZWM5OGItZWQwYS00Y2UyLWI3ZmQtNDRjM2YzNTNjNTY4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm1991099/"
+    }],
+    "actors": [
+      {
+        "name": "Daniel Kaluuya",
+      "image": "https://www.indiewire.com/wp-content/uploads/2019/11/Get-Out.jpg",
+      "imdb": "https://www.imdb.com/name/nm2257207/"
+      },
+      {
+        "name": "LaKeith Stanfield",
+        "image": "https://media.gq.com/photos/599ddf9b021601733ff6a615/16:9/w_2560%2Cc_limit/lakeith-stanfield.jpg",
+        "imdb": "https://www.imdb.com/name/nm3147750/"
+      },
+      {
+        "name": "Jesse Plemons",
+        "image": "https://img.texasmonthly.com/2021/06/jesse-plemons.jpg?auto=compress&crop=faces&fit=crop&fm=jpg&h=900&ixlib=php-3.3.1&q=45&w=1600",
+        "imdb": "https://www.imdb.com/name/nm0687146/"
+      },
+      {
+        "name": "Dominique Fishback",
+        "image": "https://variety.com/wp-content/uploads/2022/03/Dominique-Fishbeck.jpg?w=1000",
+        "imdb": "https://www.imdb.com/name/nm5166024/"
+      }
+    ]
+  }
+,    
+
+{
+"item": 332,
+"title": "Room",
+"runtime": 118,
+"mpaa": "R",
+"poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/6d2e7888-b410-4bfb-a638-a6a2ab5f37e1/c976f2dfa9ba54abf8d8d01922c0480a17ee2f2b.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+"description": "In 'Room', a gripping drama film directed by Lenny Abrahamson, follows the harrowing story of Joy Newsome and her five-year-old son, Jack, who are held captive in a small shed by a man known as Old Nick. As Joy and Jack struggle to survive in their confined space, they form a powerful bond that sustains them through unimaginable circumstances. 'Room' is a poignant exploration of resilience, love, and the indomitable human spirit.",
+"genre": ["drama"],
+"link": "https://www.max.com/movies/room/6d2e7888-b410-4bfb-a638-a6a2ab5f37e1",
+"director": [{
+  "name": "Lenny Abrahamson",
+  "image": "https://ew.com/thmb/Wk7ymP7Wgpd7J6rJ7AFVcOHFgfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lenny-abrahamson_0-960fbdce539c4280b4f611362cc0885a.jpg",
+  "imdb": "https://www.imdb.com/name/nm0009707/"
+}],
+"actors": [
+  {
+    "name": "Brie Larson",
+    "image": "https://people.com/thmb/2MILsdf35weyJcQtQAWYwrY0PfA=/400x262/filters:no_upscale():max_bytes(150000):strip_icc():focal(750x224:752x226)/sag-awards-2024-brie-larson-tout-022424-5d61b688c3834c0f9745692d3f083697.jpg",
+    "imdb": "https://www.imdb.com/name/nm0488953/"
+  },
+  {
+    "name": "Jacob Tremblay",
+    "image": "https://people.com/thmb/BR5BXJ6fRyC1Npb0EPJgZAanTL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(979x225:981x227)/jacob-tremblay-the-little-mermaid-051223-5066f6b5f3d242deb6474a11c34605df.jpg",
+    "imdb": "https://www.imdb.com/name/nm5016878/"
+  },
+  {
+    "name": "Sean Bridgers",
+    "image": "https://trainwreckdsociety.files.wordpress.com/2017/08/seanbridgersjugface.png",
+    "imdb": "https://www.imdb.com/name/nm0108818/"
+  },
+  {
+    "name": "Joan Allen",
+    "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1600/fl_lossy,q_auto/v1623139458/210503-stern-joan-allen-tease_onhudn",
+    "imdb": "https://www.imdb.com/name/nm0000260/"
+  },
+  {
+    "name": "William H. Macy",
+    "image": "https://variety.com/wp-content/uploads/2022/10/William-H-Macy_headshot93-e1666278479375.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0000513/"
+  }
+]
+}
+,
+
+{
+"item": 333,
+"title": "Godzilla vs. Kong",
+"runtime": 113,
+"mpaa": "PG-13",
+"poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/f1c6ef16-40b2-4ef5-89ed-547decd9e620/5dea83be6452c285c4bcf58f0f1c951146040f2b.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+"description": "In 'Godzilla vs. Kong', a thrilling action-packed film directed by Adam Wingard, follows the epic clash between two iconic titans, Godzilla and Kong, as they battle for supremacy. As humanity looks on in awe and terror, the fate of the world hangs in the balance.",
+"genre": ["action", "science-fiction", "disaster"],
+"link": "https://www.max.com/movies/godzilla-vs-kong/f1c6ef16-40b2-4ef5-89ed-547decd9e620",
+"director": [{
+  "name": "Adam Wingard",
+  "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/20/14/adam-wingard-blair-witch.jpg?width=1200",
+  "imdb": "https://www.imdb.com/name/nm0933250/"
+}],
+"actors": [
+  {
+    "name": "Alexander Skarsgård",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/04/4179_PP_D001_00695_RC-h-2022.jpg?w=1296",
+    "imdb": "https://www.imdb.com/name/nm0002907/"
+  },
+  {
+    "name": "Millie Bobby Brown",
+    "image": "https://assets.teenvogue.com/photos/5e4d5a38badfd6000806d228/16:9/w_2560%2Cc_limit/GettyImages-1200682231.jpg",
+    "imdb": "https://www.imdb.com/name/nm5611121/"
+  },
+  {
+    "name": "Rebecca Hall",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2021/08/Rebecca-Hall-attends-22The-Night-House22-Getty-H-2021.jpg?w=1296",
+    "imdb": "https://www.imdb.com/name/nm0356017/"
+  },
+  {
+    "name": "Brian Tyree Henry",
+    "image": "https://a.scpr.org/213247_cee6b174751105acd8ffdf64a08ccf62_original.jpg",
+    "imdb": "https://www.imdb.com/name/nm3078932/"
+  }
+]
+}
+,
+
+{
+"item": 334,
+"title": "Smallfoot",
+"runtime": 96,
+"mpaa": "PG",
+"poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/7933961a-b64e-4c42-8d5b-ddec6d51f03a/fbe3e3ec4ab70782598133b57ddbcaabe544face.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+"description": "In 'Smallfoot', an animated adventure-comedy film directed by Karey Kirkpatrick, follows the story of a yeti named Migo who encounters a human, known as a 'smallfoot', despite the yeti community's belief that humans are mythical creatures. Determined to prove the existence of smallfoots, Migo embarks on a journey to the human world, where he discovers a whole new perspective on life. 'Smallfoot' is a heartwarming tale about friendship, courage, and the importance of questioning assumptions.",
+"genre": ["animation", "comedy", "adventure", "kids"],
+"link": "https://www.max.com/movies/smallfoot/7933961a-b64e-4c42-8d5b-ddec6d51f03a",
+"director": [{
+  "name": "Karey Kirkpatrick",
+  "image": "https://m.media-amazon.com/images/M/MV5BMjAwOTYwMTU4M15BMl5BanBnXkFtZTcwMTc0MjA2Mg@@._V1_.jpg",
+  "imdb": "https://www.imdb.com/name/nm0456292/"
+}],
+"actors": [
+  {
+    "name": "Channing Tatum",
+    "image": "https://images.wsj.net/im-721591?width=1280&size=1.33333333",
+    "imdb": "https://www.imdb.com/name/nm1475594/"
+  },
+  {
+    "name": "James Corden",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/240125134441-01-james-corden-2023-file.jpg?c=16x9&q=h_833,w_1480,c_fill",
+    "imdb": "https://www.imdb.com/name/nm0179479/"
+  },
+  {
+    "name": "Zendaya",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/zendaya-attends-the-dune-part-two-premiere-at-lincoln-news-photo-1708942668.jpg?crop=1xw:0.44055xh;center,top",
+    "imdb": "https://www.imdb.com/name/nm3918035/"
+  },
+  {
+    "name": "Common",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/common_photo_by_maarten_de_boer_getty_images_entertainment_getty_461469844.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0179599/"
+  }
+]
+}
+,
+
+
+
+  {
+    "item": 273,
+    "title": "Inherit the Wind",
+    "runtime": 128,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/f8887ec28fc91523a93963af76debfa4ada9b16bdd69f03e38415f5a6757b17c._UR1920,1080_SX720_FMjpg_.jpg",
+    "description": "In 'Inherit the Wind', a small-town schoolteacher is put on trial for teaching evolution in violation of state law. As the case unfolds, renowned lawyers Henry Drummond and Matthew Brady clash in a courtroom battle that captivates the nation. Inspired by the Scopes Monkey Trial, the film explores themes of freedom of speech, intellectual freedom, and the conflict between religion and science.",
+    "genre": ["court-room", "drama", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B0B6DGTJHT/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Stanley Kramer",
+      "image": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/15368/article_full%401x.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001445/"
+    }],
+    "actors": [{
+      "name": "Spencer Tracy",
+      "image": "https://cdn.britannica.com/85/174785-050-6708708D/Spencer-Tracy-Fury-Fritz-Lang.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000073/"
+    }, {
+      "name": "Fredric March",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/08/Fredric-March-Portrait-1-Everett-PBDFRMA_EC209-H-2022.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000054/"
+    }, {
+      "name": "Gene Kelly",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*PQfWhDZY1lwCjQ7kx4gDfA.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0000037/"
+    }]
+  },
+
+  {
+    "item": 274,
+    "title": "Sayonara",
+    "runtime": 147,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/37998ccf83517ba4412c011bda8690fd95df58cd29f2e9768687c23c12f70801._SX1080_FMjpg_.jpg",
+    "description": "In 'Sayonara', Major Gruver, an American air force officer stationed in Japan during the Korean War, falls in love with Hana-Ogi, a Japanese actress. Their interracial romance faces opposition from both American and Japanese society, leading to conflicts with military regulations and cultural norms. As they struggle to overcome prejudice and find happiness, 'Sayonara' explores themes of love, identity, and the impact of war.",
+    "genre": ["drama", "romance", "war", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B0817RWPN8/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Joshua Logan",
+      "image": "https://images.nypl.org/index.php?id=TH-52118&t=w",
+      "imdb": "https://www.imdb.com/name/nm0517035/"
+    }],
+    "actors": [{
+      "name": "Marlon Brando",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/06/marlon_brando_last_tango.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000008/"
+    }, {
+      "name": "Patricia Owens",
+      "image": "https://media.assettype.com/outlookindia/import/uploadimage/library/16_9/16_9_5/IMAGE_1693511313.webp?w=1080&auto=format%2Ccompress&fit=max",
+      "imdb": "https://www.imdb.com/name/nm0654074/"
+    }, {
+      "name": "James Garner",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-19008-140720-jim-rockford-james-garner-1800-1405872967.jpg?w=1581&h=1054&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0001258/"
+    }]
+  },
+
+  {
+    "item": 275,
+    "title": "Marty",
+    "runtime": 90,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/e9d6d508f9f2cb49c960058c9256f858193b0472878e33432d8fb129cf56dc95._SX1080_FMjpg_.jpg",
+    "description": "In 'Marty', a lonely and unassuming butcher in the Bronx, Marty Piletti, struggles to find love and companionship. Despite pressure from his family and friends to settle down, Marty remains skeptical of his chances at romance. However, when he meets Clara, a shy schoolteacher, Marty's life takes an unexpected turn as he finds himself falling for her. 'Marty' is a heartwarming tale of love, self-discovery, and the search for happiness.",
+    "genre": ["drama", "romance", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B00D5WUIVQ/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Delbert Mann",
+      "image": "https://static01.nyt.com/images/2007/11/13/arts/mann600.jpg",
+      "imdb": "https://www.imdb.com/name/nm0542776/"
+    }],
+    "actors": [{
+      "name": "Ernest Borgnine",
+      "image": "https://images01.military.com/sites/default/files/styles/full/public/media/veteran-jobs/content-images/2012/07/ernest-borgnine.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000308/"
+    }, {
+      "name": "Betsy Blair",
+      "image": "https://1.bp.blogspot.com/-jxDshZy0SOY/Vz8Q-r1VYnI/AAAAAAAAAVc/n1HySiXhBZIe73W_1j0kHuXGehLN4jX9gCLcB/s1600/betsy%2Bblair%252C%2Bmarty.PNG",
+      "imdb": "https://www.imdb.com/name/nm0086374/"
+    }, {
+      "name": "Esther Minciotti",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTlhMDIxZmUtZmM5Yi00OWY3LThjYzktMjhhNDNhZTcwMDM3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0590381/"
+    }]
+  },
+
+  {
+    "item": 276,
+    "title": "The Blue Gardenia",
+    "runtime": 88,
+    "mpaa": "Not Rated",
+    "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7913_v_h8_ac.jpg",
+    "description": "In 'The Blue Gardenia', Norah Larkin, a telephone operator, goes on a blind date with a man named Harry Prebble. When Harry tries to seduce her, Norah defends herself, leading to a tragic accident. Fearing the consequences, Norah flees the scene and struggles with guilt and uncertainty. As the police investigation intensifies, Norah's life becomes increasingly entangled in a web of suspicion and deception.",
+    "genre": ["crime", "drama", "film-noir", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B08SBY2J99/ref=atv_dp_amz_c_TS5124c5_1_9?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Fritz Lang",
+      "image": "https://cdn.britannica.com/29/177229-050-ED8DDC93/Fritz-Lang-The-Woman-in-the-Moon.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000485/"
+    }],
+    "actors": [{
+      "name": "Anne Baxter",
+      "image": "https://m.media-amazon.com/images/M/MV5BODZlNTQ3MTItYzNkZi00NmIyLWJhZGUtMGVhNWM3ZGJhZjhkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000879/"
+    }, {
+      "name": "Richard Conte",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFjZDM5Y2QtNzQ2MS00ZDM4LTlkZjgtZDE5MGE0YmMyZTU2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0002019/"
+    }, {
+      "name": "Ann Sothern",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/a4c6827/2147483647/strip/false/crop/2048x1634+0+0/resize/1486x1186!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff4%2F03%2F7e8639bc3ca7108e66056e7ff7cd%2Fla-me-ann-sothern-20010321-001",
+      "imdb": "https://www.imdb.com/name/nm0815180/"
+    }]
+  },
+
+  {
+    "item": 278,
+    "title": "Finger of Guilt",
+    "runtime": 84,
+    "mpaa": "not-rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/39954a728a0b0e3eb6255d6c1e0a986ed0d74a4c5c91343c4dbc023bcf3fbd75.jpg",
+    "description": "In 'Finger of Guilt', a hard-boiled detective is hired to investigate a murder case that seems open and shut. However, as he delves deeper into the shadows of the criminal underworld, he uncovers a web of lies, deceit, and betrayal. With time running out and the pressure mounting, the detective must navigate through a maze of danger and deception to uncover the truth before it's too late.",
+    "genre": ["crime", "drama", "film-noir", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B09GW7VF7B/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Joseph Losey",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/39954a728a0b0e3eb6255d6c1e0a986ed0d74a4c5c91343c4dbc023bcf3fbd75.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001480/"
+    }],
+    "actors": [{
+      "name": "Richard Basehart",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWU3ZDk2ZGMtMmI4NS00MmUxLThkODEtNzgzNzU0MGJjMGU1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000853/"
+    }, {
+      "name": "Mary Murphy",
+      "image": "https://i.pinimg.com/736x/0c/92/83/0c92834015304539b605a8b40e7068e4.jpg",
+      "imdb": "https://www.imdb.com/name/nm0614328/"
+    }, {
+      "name": "Paul Douglas",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTgzNjViZTItMDNjNy00OTEzLTk1YzctMWFiODU4NzdlZWNkXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0235539/"
+    }]
+  },
+
+  {
+    "item": 279,
+    "title": "Please Murder Me!",
+    "runtime": 71,
+    "mpaa": "not rated",
+    "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p60924_v_h8_ac.jpg",
+    "description": "In 'Please Murder Me!', attorney Craig Carlson finds himself defending his best friend, who is accused of murdering his wife. As Carlson delves into the case, he uncovers a tangled web of deceit, jealousy, and betrayal. With the stakes high and the evidence mounting against his friend, Carlson must race against time to unravel the truth and prove his innocence.",
+    "genre": ["crime", "drama", "film-noir", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B0BXPBGRF7/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Peter Godfrey",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjZmMjBiYzUtZmE2Ni00MjA1LThkZjktNjY0Y2JiMDk5MGUzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0323758/"
+    }],
+    "actors": [{
+      "name": "Raymond Burr",
+      "image": "https://www.remindmagazine.com/wp-content/uploads/2023/09/ironside-burr-1014x570.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000994/"
+    }, {
+      "name": "Angela Lansbury",
+      "image": "https://static01.nyt.com/images/2022/10/12/obituaries/lw-angela-lansbury-video/lw-angela-lansbury-video-superJumbo.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001450/"
+    }, {
+      "name": "Dick Foran",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDMwN2MyMWEtODNhNC00ZjYxLTg3NDctYjE3YWU0ZjFkNDUxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0286249/"
+    }]
+  },
+
+  {
+    "item": 280,
+    "title": "Shed No Tears",
+    "runtime": 68,
+    "mpaa": "not rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/0f54365b4dc41e6e8f206b546cff59ccbc246e2d3b3538a56609aee48745fb9e._UR1920,1080_.jpg",
+    "description": "In 'Shed No Tears', a woman named Phyllis Burton returns to her hometown to confront her past and reconcile with her estranged family. However, she soon discovers that dark secrets and buried resentments threaten to tear her family apart. As Phyllis navigates the complexities of familial relationships, she must confront her own demons and find a way to shed the tears of the past to embrace the future.",
+    "genre": ["drama", "film-noir", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B01N2Z3MFU/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Jean Yarbrough",
+      "image": "https://static.wikia.nocookie.net/absolutehorror/images/b/b0/Jean_Yarbrough.jpg/revision/latest/scale-to-width-down/320?cb=20211004173543",
+      "imdb": "https://www.imdb.com/name/nm0945469/"
+    }],
+    "actors": [{
+      "name": "Wallace Ford",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTdkZDBlZGQtNDZjZC00ODhkLTk1ODgtYTZjZGVhMDg4NDA4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0286030/"
+    }, {
+      "name": "June Vincent",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDRmNjNlOWEtNTQ1Zi00MjM3LWE5ZGUtNWNhODIxZDM4YWJhXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0898554/"
+    }, {
+      "name": "Mark Roberts",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTVhMzIyZGQtNmRhZC00YWIxLWEwM2UtMWRjYTZhZTBjMmZkXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0731312/"
+    }]
+  },
+
+  {
+    "item": 281,
+    "title": "Apology for Murder",
+    "runtime": 64,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/fbab127255e90c74b1d4bb8ad36d255243850de9857fa97904a9b55250bd9b90.jpg",
+    "description": "In 'Apology for Murder', a renowned lawyer, Howard Malloy, finds himself entangled in a web of deceit and betrayal when he takes on the case of a woman accused of murder. As Malloy delves deeper into the investigation, he uncovers shocking truths and hidden motives that challenge his beliefs about justice and morality. With time running out and the stakes higher than ever, Malloy must race against the clock to uncover the truth and prove his client's innocence.",
+    "genre": ["crime", "drama", "mystery", "film-noir", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B09HLZM21H/ref=atv_dp_amz_c_TS5124c5_1_5?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Sam Newfield",
+      "image": "https://global.discourse-cdn.com/business7/uploads/mst3k/original/3X/1/2/12bce2fd6de334d3f30b11ccbdc5645af223f8fa.png",
+      "imdb": "https://www.imdb.com/name/nm0627869/"
+    }],
+    "actors": [{
+      "name": "Ann Savage",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2E4NzQ2ZjktMWUxYi00ZGRkLTgxZjctYzgxYzU5YWZiNjNlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0767634/"
+    }, {
+      "name": "Hugh Beaumont",
+      "image": "https://movieguide.b-cdn.net/wp-content/uploads/2020/08/Hugh-Beaumont.jpg",
+      "imdb": "https://www.imdb.com/name/nm0064675/"
+    }, {
+      "name": "Russell Hicks",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWFhNTNjZmItNDlhOC00NWRmLTk3MTUtMWEwZDliZjMwMDE5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0382830/"
+    }]
+  },
+
+  {
+    "item": 282,
+    "title": "The Man in the Net",
+    "runtime": 97,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/399008f9d3ebd48cd3b28d6cba83b6967017f961cfa1fc451e7a0192736413a8.jpg",
+    "description": "In 'The Man in the Net', an artist named John Hamilton relocates to a small town with his wife, Linda, seeking peace and inspiration. However, their idyllic life is shattered when John becomes the prime suspect in a murder investigation. As the evidence mounts against him and the town turns against him, John must fight to clear his name and uncover the truth behind the crime.",
+    "genre": ["crime", "drama", "mystery", "film-noir", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B00GUXQV2W/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Michael Curtiz",
+      "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/L3A3TSUEMLYW2CT3ZDPR5HFLGY.jpg",
+      "imdb": "https://www.imdb.com/name/nm0002031/"
+    }],
+    "actors": [{
+      "name": "Alan Ladd",
+      "image": "https://lh3.googleusercontent.com/proxy/OZJOmFl7xqye8fdBPUJj9ohDkqJn2KK1fyJCkGhzOTCuKl6XFMBxdb47urJqG9z3Wf5nN_p-ZYlCdbeWBqFiFnJ9O538zlXWzX7-Z6u5-SaGRaneJNBNbvGvzOvgEuW85FTc1B5-lXd9DzZlc669Vwc",
+      "imdb": "https://www.imdb.com/name/nm0000040/"
+    }, {
+      "name": "Carolyn Jones",
+      "image": "https://i.ytimg.com/vi/ITr-5ZJAGyk/hqdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm0428985/"
+    }, {
+      "name": "Diane Brewster",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWE2N2RmN2UtZjRkNC00Mjg4LTkxZTgtMzFmOWRhNmQ5NzQxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0108261/"
+    }]
+  },
+  
+  {
+    "item": 283,
+    "title": "Dark Mountain",
+    "runtime": null,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/731a0daff177251485f019ed75b8969046c90c7b456e804c7ed5171a03b4222d._UR1920,1080_.jpg",
+    "description": "In 'Dark Mountain', a group of hikers embarks on a journey to explore the remote and treacherous Dark Mountain. However, their adventure takes a sinister turn when they stumble upon a hidden cabin inhabited by a reclusive and mysterious figure. As they unravel the secrets of the mountain, they must confront their deepest fears and fight for survival against unknown dangers lurking in the shadows.",
+    "genre": ["adventure", "drama", "thriller", "film-noir", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B07BSXH8CW/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "William Berke",
+      "image": "https://i.ytimg.com/vi/X1H8R1xnKog/hqdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm0073758/"
+    }],
+    "actors": [{
+      "name": "Robert Lowery",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjhhNTdjNDMtYzUyNS00N2Y3LTk2MzgtM2I5MzRhNTQ1OWQ1XkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0523157/"
+    }, {
+      "name": "Ellen Drew",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGI4Y2JmZTAtMjM1Yy00MGMxLTg1OGYtMzhlODA4ZDFhYzE5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0237947/"
+    }, {
+      "name": "Regis Toomey",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDIwYjU1ZjctNTBjMy00N2RkLWFjOGItZTg5MTgxNzc4NWQzXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0868674/"
+    }]
+  },
+
+  {
+    "item": 284,
+    "title": "Borderline",
+    "runtime": 87,
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/0590b4e52381e89da532a3d976ab8713ba492b0961c9c8f5e03abde8ecbba920.jpg",
+    "description": "In 'Borderline', tensions rise when a group of individuals from different walks of life find themselves stranded at a remote border town. As they wait for transportation to their respective destinations, suspicion and mistrust grow among them. With each passing moment, secrets are revealed, alliances are formed, and the true nature of humanity is put to the test in this gripping tale of survival and intrigue.",
+    "genre": ["drama", "thriller", "film-noir", "classic"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CHDV1SZX/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "William A. Seiter",
+      "image": "https://media.baselineresearch.com/images/424669/424669_full.jpg",
+      "imdb": "https://www.imdb.com/name/nm0782974/"
+    }],
+    "actors": [{
+      "name": "Fred MacMurray",
+      "image": "https://metvcdn.metv.com/dYytz-1598973703-1555-lists-fredmacmurray_main_1200.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001506/"
+    }, {
+      "name": "Claire Trevor",
+      "image": "https://i.ytimg.com/vi/vR3psmNdtFI/maxresdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm0871883/"
+    }, {
+      "name": "Raymond Burr",
+      "image": "https://www.remindmagazine.com/wp-content/uploads/2023/09/ironside-burr-1014x570.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000994/"
+    }]
+  },
+
+  {
+    "item": 285,
+    "title": "Force Majeure",
+    "runtime": "120 minutes",
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/1ea4d2fbb3d6d54eb81a860083b8501dc5f79a33b26ac2390e4f6dc3b3c7cdb4.jpg",
+    "description": "In 'Force Majeure', a family's ski vacation in the French Alps takes a dramatic turn when an avalanche threatens their safety. As the avalanche approaches, the father makes a split-second decision that exposes rifts in their relationships and challenges their perceptions of bravery and responsibility. With tensions mounting and emotions running high, the family must confront the aftermath of the incident and navigate the complexities of forgiveness and reconciliation.",
+    "genre": ["drama", "comedy", "foreign"],
+    "link": "https://www.amazon.com/gp/video/detail/B09PYD2FR4/ref=atv_mv_hom_c_LvG2mH_2_4?jic=44%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9uEgRzdm9k",
+    "director": [{
+      "name": "Ruben Östlund",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzY1MzQ0M2UtZjNkZi00NGQzLWFiYmQtNjIzNzk1YTRhN2RiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0653882/"
+    }],
+    "actors": [{
+      "name": "Johannes Bah Kuhnke",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/25/1429974518453/63dd5049-accc-41f7-9a24-6fa7dbb8a30a-2060x1371.jpeg?width=465&dpr=1&s=none",
+      "imdb": "https://www.imdb.com/name/nm0473726/"
+    }, {
+      "name": "Lisa Loven Kongsli",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/1f86a8ecbd44f1f7890dbf62322dbe15398305423efe0566055c8b06e0132ccb.jpg",
+      "imdb": "https://www.imdb.com/name/nm1704306/"
+    }, {
+      "name": "Clara Wettergren",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NjMyMjkwMF5BMl5BanBnXkFtZTgwOTMyNjc0MjE@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm6009534/"
+    }]
+  },
+  
+  {
+    "item": 286,
+    "title": "Shoplifters",
+    "runtime": "121 minutes",
+    "mpaa": "Not Rated",
+    "poster": "https://www.metacritic.com/a/img/resize/a7c9e139d9def4ca18f84965633ac72009610206/catalog/provider/2/13/2-b29fe7124cfefe38f340682be6b18af7.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "description": "In 'Shoplifters', a Japanese family living on the margins of society relies on shoplifting to make ends meet. When they take in a young girl they find on the streets, their tight-knit existence is disrupted, leading to revelations about their past and the true nature of their bonds. As authorities close in and their secrets threaten to unravel, the family must decide what it truly means to be a family and where their loyalties lie.",
+    "genre": ["drama", "crime", "foreign"],
+    "link": "https://www.amazon.com/gp/video/detail/B07KQJHWKJ/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Hirokazu Kore-eda",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDczMTBmODUtZjNjNS00ODcyLTg2MzQtMjYxNzliMjk2ZTM1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0466153/"
+    }],
+    "actors": [{
+      "name": "Lily Franky",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTMxZGNlZTAtNWQ3MS00M2Y5LTgxY2MtNmQwYjRlOWM4ZDU3XkEyXkFqcGdeQXNvbG5vbXM@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm1880386/"
+    }, {
+      "name": "Sakura Ando",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzdjNzNlZGQtNjNlZS00NDZhLWI1YzEtMTFhOTBiNzRhYTVjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm1948533/"
+    }, {
+      "name": "Mayu Matsuoka",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDBhZTExOTMtZDkwNi00NGZhLTk3ODEtNmEwZGE3MmUyMDEzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm2596314/"
+    }]
+  },
+
+  {
+    "item": 287,
+    "title": "Biutiful",
+    "runtime": "148 minutes",
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/8fd61f535a4694cad709b4037e9de5a684a9a67ef57ffb6f2d5d0a35e5979734.jpg",
+    "description": "In 'Biutiful', Uxbal, a troubled man living in Barcelona, struggles to reconcile his role as a single father with his involvement in illegal activities. As he grapples with his terminal illness and confronts the consequences of his actions, Uxbal navigates the gritty underworld of the city while striving to find redemption and protect his children. Through moments of darkness and despair, Uxbal seeks beauty and meaning in the midst of life's struggles.",
+    "genre": ["drama", "foreign"],
+    "link": "https://www.amazon.com/gp/video/detail/B094F2CQMX/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Alejandro González Iñárritu",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQzNjk2MTM5MV5BMl5BanBnXkFtZTcwOTk2MDE1Mw@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0327944/"
+    }],
+    "actors": [{
+      "name": "Javier Bardem",
+      "image": "https://img.huffingtonpost.com/asset/5cf826312500005f0ddbfdd9.jpeg?ops=scalefit_720_noupscale",
+      "imdb": "https://www.imdb.com/name/nm0000849/"
+    }, {
+      "name": "Maricel Álvarez",
+      "image": "https://media.gettyimages.com/id/1412242309/photo/portrait-de-lactrice-maricel-alvarez-le-3-septembre-2021-%C3%A0-venise.jpg?s=612x612&w=gi&k=20&c=W--NwYURhIuTq0v2DpEJ0rLorLZw9u-_TZHblDP_HHY=",
+      "imdb": "https://www.imdb.com/name/nm2356887/"
+    }, {
+      "name": "Hanaa Bouchaib",
+      "image": "https://images.squarespace-cdn.com/content/v1/5a7dcf69d7bdce185884a6b5/1550087758501-4EHFQBQWRA21CGDK4R75/1305116243_1.jpg",
+      "imdb": "https://www.imdb.com/name/nm4014791/"
+    }]
+  },
+
+  {
+    "item": 288,
+    "title": "Another Round",
+    "runtime": "117 minutes",
+    "mpaa": "Not Rated",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/a567f43be5a589e93f2144f68c432edb94b99971035a7acb6ee70b566caaa509.jpg",
+    "description": "In 'Another Round', four high school teachers, stuck in a rut and feeling uninspired, decide to experiment with maintaining a constant level of alcohol in their blood throughout the day. Initially, the experiment leads to increased productivity and a renewed sense of vitality. However, as they push the boundaries of their experiment further, they find themselves grappling with the consequences of their actions and questioning the true meaning of happiness and fulfillment.",
+    "genre": ["drama", "foreign"],
+    "link": "https://www.amazon.com/gp/video/detail/B08PCQVX94/ref=atv_dp_amz_c_TS5124c5_1_14?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Thomas Vinterberg",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/thomas-vinterberg-and-helene-reingaard-neumann-attend-the-news-photo-1619398993.?crop=1xw:0.7515xh;center,top&resize=1200:*",
+      "imdb": "https://www.imdb.com/name/nm0899123/"
+    }],
+    "actors": [{
+      "name": "Mads Mikkelsen",
+      "image": "https://the-talks.com/wp-content/uploads/2023/10/Mads-Mikkelsen-01.jpg",
+      "imdb": "https://www.imdb.com/name/nm0586568/"
+    }, {
+      "name": "Thomas Bo Larsen",
+      "image": "https://bt.bmcdn.dk/media/cache/resolve/image_1240/image/148/1484299/23418092-the-lawyer_ep201_13-002---20.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0479262/"
+    }, {
+      "name": "Magnus Millang",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI5NzcxNGYtMmY1ZC00NGQyLWJhZTEtNzYyNDY0ZTM4Yzc5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0589292/"
+    }]
+  },
+
+  {
+    "item": 289,
+    "title": "Ghost World",
+    "runtime": "111 minutes",
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/bd9d98edcf28563d5e619df7319c44581ee5b2eb22be1954c21263f904c6ab9e._UR1920,1080_SX720_FMjpg_.jpg",
+    "description": "In 'Ghost World', best friends Enid and Rebecca navigate the complexities of adolescence and the transition to adulthood in their suburban hometown. As they grapple with the pressures of conformity and societal expectations, they embark on a series of misadventures that lead them to confront their own identities and the uncertain future that lies ahead. With sharp wit and keen observation, 'Ghost World' offers a poignant exploration of friendship, disillusionment, and the search for authenticity.",
+    "genre": ["comedy", "drama", "teen"],
+    "link": "https://www.amazon.com/gp/video/detail/B0CR9HCBZD/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Terry Zwigoff",
+      "image": "https://www.nme.com/wp-content/uploads/2019/09/terry-zwigoff.jpg",
+      "imdb": "https://www.imdb.com/name/nm0957240/"
+    }],
+    "actors": [{
+      "name": "Thora Birch",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/23/1390492409802/Thora-Birch-011.jpg?width=465&dpr=1&s=none",
+      "imdb": "https://www.imdb.com/name/nm0000301/"
+    }, {
+      "name": "Scarlett Johansson",
+    "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UQ836S9qDWRgX1TYCkzykIuWIK8=/1660x1107/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/63MMCIXPOAOUKAMXJMW7HTAWCU.jpg",
+    "imdb": "https://www.imdb.com/name/nm0424060/"
+    }, {
+      "name": "Steve Buscemi",
+    "image": "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2015/05/buscemi-1.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000114/"
+    }]
+  },
+
+  {
+    "item": 290,
+    "title": "Living in Oblivion",
+    "runtime": "90 minutes",
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/22ef16c0e05bfb5df6f308b29e31a1ad73b7ff31fd5d4160be969e6be4bc8f90.jpg",
+    "description": "'Living in Oblivion' follows a film director struggling to shoot a low-budget independent film. As he contends with a myriad of obstacles, including technical difficulties, egotistical actors, and personal insecurities, the line between reality and fiction blurs, leading to a series of comedic and surreal encounters on set. Through its satirical lens, the film explores the chaotic and unpredictable nature of the filmmaking process, while offering insights into the dreams, frustrations, and aspirations of those involved.",
+    "genre": ["comedy", "drama", "indie"],
+    "link": "https://www.amazon.com/gp/video/detail/B07SZBX8VV/ref=atv_dp_amz_c_TS5124c5_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Tom DiCillo",
+      "image": "https://www.tomdicillo.com/wp-content/uploads/2023/06/haleluyah-8-1-scaled.jpg",
+      "imdb": "https://www.imdb.com/name/nm0225726/"
+    }],
+    "actors": [{
+      "name": "Steve Buscemi",
+    "image": "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2015/05/buscemi-1.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000114/"
+    }, {
+      "name": "Catherine Keener",
+      "image": "https://www.looper.com/img/gallery/catherine-keeners-seinfeld-appearance-was-all-thanks-to-a-last-minute-casting-change/intro-1673446797.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001416/"
+    }, {
+      "name": "Dermot Mulroney",
+      "image": "https://deadline.com/wp-content/uploads/2024/02/Dermot-Mulroney.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000551/"
+    }, {
+      "name": "Peter Dinklage",
+"image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/8/5/1438770901233/Peter-Dinklage--009.jpg?width=700&quality=85&auto=format&fit=max&s=2ded45e451e959c1404eabe01bb1ec7d",
+"imdb": "https://www.imdb.com/name/nm0227759/"
+    }]
+  },
+
+  {
+    "item": 291,
+    "title": "The Real Blonde",
+    "runtime": "105 minutes",
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/2009d3cabf855b1a07ff5c833193922332f71db2c2d3da853c4d9f27f7814f9f.jpg",
+    "description": "In 'The Real Blonde', a group of New Yorkers navigates the complexities of love, relationships, and career aspirations in the bustling city. As they grapple with their own insecurities and desires, their lives intersect in unexpected ways, leading to humorous and poignant moments of self-discovery. Set against the backdrop of the fashion and entertainment industries, the film explores themes of identity, authenticity, and the pursuit of happiness.",
+    "genre": ["comedy", "drama", "indie"],
+    "link": "https://www.amazon.com/gp/video/detail/B09RSWHX4V/ref=atv_dp_amz_c_TS5124c5_1_12?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Tom DiCillo",
+      "image": "https://www.tomdicillo.com/wp-content/uploads/2023/06/haleluyah-8-1-scaled.jpg",
+      "imdb": "https://www.imdb.com/name/nm0225726/"
+    }],
+    "actors": [{
+      "name": "Matthew Modine",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/1200/675/GettyImages-1131721580.jpg?ve=1&tl=1",
+    "imdb": "https://www.imdb.com/name/nm0000546/"
+    }, {
+      "name": "Catherine Keener",
+      "image": "https://www.looper.com/img/gallery/catherine-keeners-seinfeld-appearance-was-all-thanks-to-a-last-minute-casting-change/intro-1673446797.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001416/"
+    }, {
+      "name": "Daryl Hannah",
+      "image": "https://hollywoodlife.com/wp-content/uploads/2021/12/daryl-hannah-social-image.jpg?quality=100",
+      "imdb": "https://www.imdb.com/name/nm0000435/"
+    }]
+  },
+
+  {
+    "item": 292,
+    "title": "A Walk to Remember",
+    "runtime": "101 minutes",
+    "mpaa": "PG",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/945071b03fd8aebe3dc89a6f0034fb5f9f65c178dfae77a1d69e85c3f9512b39.jpg",
+    "description": "In 'A Walk to Remember', a high school student named Landon Carter is forced to participate in community service after getting into trouble. He is drawn to Jamie Sullivan, a quiet and religious girl, who helps him with his lines for the school play. Despite their differences, Landon and Jamie develop a deep connection, and their relationship transforms both of their lives in unexpected ways. As they navigate the challenges of love and faith, they discover the true meaning of compassion and redemption.",
+    "genre": ["drama", "romance", "teen"],
+    "link": "https://www.amazon.com/gp/video/detail/0RC04XI04XCILK7RCDXTKW32FX/ref=atv_dp_cnc_3_6",
+    "director": [{
+      "name": "Adam Shankman",
+      "image": "https://variety.com/wp-content/uploads/2019/02/adam-shankman.jpg",
+      "imdb": "https://www.imdb.com/name/nm0787474/"
+    }],
+    "actors": [{
+      "name": "Mandy Moore",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/AXSXJ5L6FZBRPDPLJFDVPEAV5E.JPG",
+      "imdb": "https://www.imdb.com/name/nm0601553/"
+    }, {
+      "name": "Shane West",
+      "image": "https://facts.net/wp-content/uploads/2023/07/42-facts-about-shane-west-1690385766.jpg",
+      "imdb": "https://www.imdb.com/name/nm0928095/"
+    }, {
+      "name": "Peter Coyote",
+      "image": "https://petercoyote.com/wp-content/uploads/2023/11/DSC_6220-copy.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001075/"
+    }, {
+      "name": "Daryl Hannah",
+      "image": "https://hollywoodlife.com/wp-content/uploads/2021/12/daryl-hannah-social-image.jpg?quality=100",
+      "imdb": "https://www.imdb.com/name/nm0000435/"
+    }]
+  },
+
+  {
+    "item": 293,
+    "title": "Notting Hill",
+    "runtime": "124 minutes",
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/c9b2b3067dc4913f5c26f3a8aae9ba2b28aa2d28f5197f802e087ceda3d11f2a.jpg",
+    "description": "In 'Notting Hill', the life of a London bookstore owner named William Thacker takes an unexpected turn when he meets Anna Scott, a famous American actress. Despite their vastly different worlds, William and Anna develop a romantic connection. As they navigate the challenges of fame, media scrutiny, and personal insecurities, they must confront the realities of their relationship and decide if love can truly conquer all.",
+    "genre": ["comedy", "romance"],
+    "link": "https://www.amazon.com/gp/video/detail/B00D5DQJKE/ref=atv_dp_amz_c_TS5124c5_1_15?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Roger Michell",
+      "image": "https://variety.com/wp-content/uploads/2021/09/Roger-Michell-1.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0584934/"
+    }],
+    "actors": [{
+      "name": "Julia Roberts",
+      "image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
+    }, {
+      "name": "Hugh Grant",
+      "image": "https://westernnews.media.clients.ellingtoncms.com/img/photos/2023/11/30/hugh-grant-brutally-honest-opinion-love-actually-ftr_t715.png?529764a1de2bdd0f74a9fb4f856b01a9d617b3e9",
+      "imdb": "https://www.imdb.com/name/nm0000424/"
+    }, {
+      "name": "Rhys Ifans",
+      "image": "https://static.independent.co.uk/2022/09/23/23/newFile-1.jpg?width=1200",
+      "imdb": "https://www.imdb.com/name/nm0408597/"
+    }]
+  },
+
+  {
+    "item": 294,
+    "title": "Eat Pray Love",
+    "runtime": "140 minutes",
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/784cf5cfd9738977b4d36284e5e5cb2565e0a7401a5f7b3054438eb21619bdff.jpg",
+    "description": "'Eat Pray Love' follows the journey of Elizabeth Gilbert, a woman who embarks on a year-long trip around the world in search of self-discovery and fulfillment. After a painful divorce and a period of soul-searching, Elizabeth decides to leave her old life behind and explore new cultures, cuisines, and spiritual practices. From Italy to India to Bali, she learns valuable lessons about love, forgiveness, and the importance of finding balance in life.",
+    "genre": ["drama", "romance"],
+    "link": "https://www.amazon.com/gp/video/detail/B00BR9YSBA/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Ryan Murphy",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/03/ryan_murphy_a_l.jpg",
+      "imdb": "https://www.imdb.com/name/nm0614682/"
+    }],
+    "actors": [{
+      "name": "Julia Roberts",
+      "image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
+    }, {
+      "name": "Javier Bardem",
+      "image": "https://img.huffingtonpost.com/asset/5cf826312500005f0ddbfdd9.jpeg?ops=scalefit_720_noupscale",
+      "imdb": "https://www.imdb.com/name/nm0000849/"
+    }, {
+      "name": "Richard Jenkins",
+      "image": "https://www.trbimg.com/img-5a2e0c07/turbine/la-et-golden-globes-2018-nominees-winners-pict-036/1200/16x9/",
+      "imdb": "https://www.imdb.com/name/nm0005460/"
+    }]
+  },
+
+  {
+    "item": 295,
+    "title": "Couples Retreat",
+    "runtime": "113 minutes",
+    "mpaa": "PG-13",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/c34ed88f364dce96f8c596869053b22c4e336ebecf6e53a9e872f9219ef62ef7.jpg",
+    "description": "In 'Couples Retreat', four couples embark on a tropical vacation to a luxurious resort in order to work on their relationships. However, they soon discover that the retreat's therapy sessions are mandatory for all couples, leading to unexpected challenges and revelations. As they navigate the ups and downs of their relationships, the couples must confront their own issues and redefine their priorities in order to find true happiness.",
+    "genre": ["comedy", "romance"],
+    "link": "https://www.amazon.com/gp/video/detail/B00D5UH4G0/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Peter Billingsley",
+      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2100/2023/12/22190000/e_peter_billingsley_11162022241634.webp",
+      "imdb": "https://www.imdb.com/name/nm0000949/"
+    }],
+    "actors": [{
+      "name": "Vince Vaughn",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-181661-98943931_c.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000681/"
+    }, {
+      "name": "Jason Bateman",
+      "image": "https://variety.com/wp-content/uploads/2022/05/Jason-Bateman-Variety-Emmy-Awards-Season-Ozark.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000867/"
+    }, {
+      "name": "Kristen Bell",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/Kristen_Bell-Photo-by-Ricky-Middlesworth-H-2023.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0068338/"
+    }]
+  },
+  
+  {
+    "item": 296,
+    "title": "Role Models",
+    "runtime": "99 minutes",
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/12886e5f2cd17980164a4d4406bb60314b5e054e7d86270f15e8d5bf4220720e._UR1920,1080_SX720_FMjpg_.jpg",
+    "description": "In 'Role Models', two energy drink salesmen, Danny and Wheeler, find themselves in trouble with the law after crashing their company truck. To avoid jail time, they agree to perform community service by participating in a mentorship program. Assigned to mentor troubled youths, Danny and Wheeler embark on a series of misadventures as they struggle to connect with their assigned charges and navigate the challenges of adulthood.",
+    "genre": ["comedy"],
+    "link": "https://www.amazon.com/gp/video/detail/B00D5UHLTK/ref=atv_dp_amz_c_TS5124c5_1_11?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "David Wain",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2019/11/david_wain.jpg",
+      "imdb": "https://www.imdb.com/name/nm0906107/"
+    }],
+    "actors": [{
+      "name": "Paul Rudd",
+      "image": "https://facts.net/wp-content/uploads/2023/09/37-facts-about-paul-rudd-1695473637.jpg",
+      "imdb": "https://www.imdb.com/name/nm0748620/"
+    }, {
+      "name": "Seann William Scott",
+      "image": "https://www.usmagazine.com/wp-content/uploads/2023/05/Sean-William-Scott-Dishes-On-the-Possibility-of-Reprising-His-American-Pie-Role-1.jpg?crop=0px%2C148px%2C1419px%2C746px&resize=1200%2C630&quality=86&strip=all",
+      "imdb": "https://www.imdb.com/name/nm0005405/"
+    }, {
+      "name": "Elizabeth Banks",
+      "image": "https://deadline.com/wp-content/uploads/2017/09/elizabeth-banks1.jpg?w=681&h=383&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0006969/"
+    }]
+  },
+
+  {
+    "item": 297,
+    "title": "Goon",
+    "runtime": "92 minutes",
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/c0553658c9aa9cfa5741c3f68169726bf62799b4a05fa4d0bde2ef6908395ead.jpg",
+    "description": "In 'Goon', Doug Glatt, a bouncer with a talent for fighting, finds himself recruited as an enforcer for a minor league hockey team. Despite lacking skill on the ice, Doug's physical prowess and dedication make him an asset to the team. As he navigates the rough and tumble world of professional hockey, Doug must confront his own insecurities and prove himself on the ice.",
+    "genre": ["comedy", "sports"],
+    "link": "https://www.amazon.com/gp/video/detail/B00C3MMCT0/ref=atv_dp_amz_c_TS5124c5_1_12?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "Michael Dowse",
+      "image": "https://undertheradarmag.com/uploads/article_images/MichaelDowse.jpg",
+      "imdb": "https://www.imdb.com/name/nm0236095/"
+    }],
+    "actors": [{
+      "name": "Seann William Scott",
+      "image": "https://www.usmagazine.com/wp-content/uploads/2023/05/Sean-William-Scott-Dishes-On-the-Possibility-of-Reprising-His-American-Pie-Role-1.jpg?crop=0px%2C148px%2C1419px%2C746px&resize=1200%2C630&quality=86&strip=all",
+      "imdb": "https://www.imdb.com/name/nm0005405/"
+    }, {
+      "name": "Jay Baruchel",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/14/13/jay-baruchel.jpg",
+      "imdb": "https://www.imdb.com/name/nm0059431/"
+    }, {
+      "name": "Alison Pill",
+      "image": "https://static.wikia.nocookie.net/snowpiercer-tbs/images/d/df/Alison_Pill.jpg/revision/latest?cb=20200422235456",
+      "imdb": "https://www.imdb.com/name/nm0687146/"
+    }]
+  },
+  
+  {
+    "item": 298,
+    "title": "Baseketball",
+    "runtime": "103 minutes",
+    "mpaa": "R",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/f1c631bc405eca99b400af2172735977be0e2560e45e162635a3ac160376dd06.jpg",
+    "description": "In 'Baseketball', two friends, Coop and Remer, invent a new sport combining elements of basketball and baseball. The sport, also called Baseketball, becomes incredibly popular and attracts a passionate fan base. However, as the sport gains commercial success, Coop and Remer must navigate the challenges of fame, greed, and corporate influence. With humor and satire, 'Baseketball' explores the absurdities of professional sports and the commercialization of athletics.",
+    "genre": ["comedy", "sports"],
+    "link": "https://www.amazon.com/gp/video/detail/B00D5UG92K/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+    "director": [{
+      "name": "David Zucker",
+      "image": "https://deadline.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-10-at-2.42.44-PM.png?w=681&h=383&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0002659/"
+    }],
+    "actors": [{
+      "name": "Trey Parker",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/01/15/18/pg-24-power-couple-1-getty.jpg?quality=75&width=640&height=614&fit=bounds&format=pjpg&crop=16%3A9%2Coffset-y0.5&auto=webp",
+      "imdb": "https://www.imdb.com/name/nm0005295/"
+    }, {
+      "name": "Matt Stone",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/01/15/18/pg-24-power-couple-1-getty.jpg?quality=75&width=640&height=614&fit=bounds&format=pjpg&crop=16%3A9%2Coffset-y0.5&auto=webp",
+      "imdb": "https://www.imdb.com/name/nm0001778/"
+    }, {
+      "name": "Dian Bachar",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFkNDZlMjQtYzJlNS00ZWIzLWFjZDgtMWY4YTQwNDkyN2NlL2ltYWdlXkEyXkFqcGdeQXVyNzAzNzgzNTI@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000839/"
+    }, {
+        "name": "Jenny McCarthy",
+        "image": "https://people.com/thmb/xR5O1T5d7sf7wP5UmHMCGh_VK6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/jenny-mccarthy-the-masked-singer-060923-1-00dc9102c3c141369dd2e02e7cbce798.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000189/" 
+    }]
+  },
+
+  {
+"item": 299,
+"title": "The Crow",
+"runtime": "102 minutes",
+"mpaa": "R",
+"poster": "https://m.media-amazon.com/images/S/pv-target-images/4b9ad3bdb06a657edb2bda823df5cc907c451ed66aa0fd1c16b3b7ee01392acc.jpg",
+"description": "In 'The Crow', Eric Draven, a musician, returns from the dead to seek vengeance against those responsible for his and his fiancée's brutal murders. Empowered by a mystical crow, Eric embarks on a relentless quest to rid the city of crime and corruption. As he dispenses justice with supernatural abilities, Eric confronts his own inner demons and grapples with the consequences of his actions.",
+"genre": ["action", "drama", "fantasy"],
+"link": "https://www.amazon.com/gp/video/detail/B0CPPN5TTM/ref=atv_dp_amz_c_TS5124c5_1_13?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+"director": [{
+  "name": "Alex Proyas",
+  "image": "https://pyxis.nymag.com/v1/imgs/4a3/fbe/913e9d8519b843ee42622b39f1ab952b9d-29-alex-proyas.2x.rsocial.w600.jpg",
+  "imdb": "https://www.imdb.com/name/nm0001639/"
+}],
+"actors": [{
+  "name": "Brandon Lee",
+  "image": "https://media.distractify.com/brand-img/KeWJUCY59/0x0/how-did-brandon-lee-actually-die-1591394357913.jpg",
+  "imdb": "https://www.imdb.com/name/nm0000488/"
+}, {
+  "name": "Ernie Hudson",
+  "image": "https://www.nbc.com/sites/nbcblog/files/2022/10/ernie-hudson-quantum-leap-105.jpg",
+  "imdb": "https://www.imdb.com/name/nm0001368/"
+}, {
+  "name": "Rochelle Davis",
+  "image": "https://m.media-amazon.com/images/M/MV5BZTIyNmFkY2QtMjRhMi00MzVlLTk1NzEtMzZiYWViMWE2MjY1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+  "imdb": "https://www.imdb.com/name/nm0204847/"
+}]
+},
+
+{
+"item": 300,
+"title": "Conan the Barbarian",
+"runtime": "129 minutes",
+"mpaa": "R",
+"poster": "https://m.media-amazon.com/images/S/pv-target-images/fb008607a7da4541cd413a244c20e3169420145caeae5e9bcd4658544fbb489f.jpg",
+"description": "In 'Conan the Barbarian', a young Conan witnesses the brutal murder of his parents and his village's destruction at the hands of the warlord Thulsa Doom. Determined to avenge their deaths, Conan embarks on a quest for vengeance, honing his skills as a warrior and seeking out Thulsa Doom. Along the way, Conan encounters allies and enemies alike, battling sorcery, treachery, and mythical beasts in his quest to defeat his nemesis.",
+"genre": ["action", "adventure", "fantasy"],
+"link": "https://www.amazon.com/gp/video/detail/B00D5UKWNW/ref=atv_dp_amz_c_TS5124c5_1_17?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
+"director": [{
+  "name": "John Milius",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNOLCx2fePrA1JhZTtcfyY-Kx6aI-Uxab6ik3r9zgFGS5G02Tc",
+  "imdb": "https://www.imdb.com/name/nm0587518/"
+}],
+"actors": [{
+  "name": "Arnold Schwarzenegger",
+  "image": "https://cdn.sanity.io/images/dm4o0ui7/production/ab8622774dfd8bc6b2107656cc1d648ff48279b3-1200x600.png",
+  "imdb": "https://www.imdb.com/name/nm0000216/?ref_=tt_ov_st"
+}, {
+  "name": "James Earl Jones",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTVB_XE1gdVLfcfExhAnJ-mBRlgLs5v7YO_ZkzGojKGWL-nZtQyIcEwPijscTdCuXWT_Lu",
+  "imdb": "https://www.imdb.com/name/nm0000469/"
+}, {
+  "name": "Sandahl Bergman",
+  "image": "https://netstorage-tuko.akamaized.net/images/34083aa498e4be66.png?imwidth=900",
+  "imdb": "https://www.imdb.com/name/nm0000298/"
+}]
+}
+]
