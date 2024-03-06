@@ -38,7 +38,7 @@ app.post("/netflixArray", (req, res) => {
   netflixData.push(newItem);
 
   // Send a response indicating success
-  res.status(201).json({ message: "You just added a movie", item: newItem });
+  res.status(201).json({ message: "You just added a movie bucko", item: newItem });
 });
 
 app.get("/maxArray", (req, res) => {
