@@ -76,7 +76,7 @@
         "image": "https://i.ytimg.com/vi/ETM3gKH9mYQ/maxresdefault.jpg",
         "imdb": "https://www.imdb.com/name/nm1682101/"
       }],
-      "actors": [{}]
+      "actors": []
     },
     
     {
@@ -93,7 +93,7 @@
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/Skye-Borgman-te-230123-3e126c.jpg",
         "imdb": "https://www.imdb.com/name/nm1453337/"
       }],
-      "actors": [{}]
+      "actors": []
     },
     
     {
@@ -110,7 +110,7 @@
         "image": "https://www.goldderby.com/wp-content/uploads/2023/11/Michael-Harte.jpg",
         "imdb": "https://www.imdb.com/name/nm1192488/"
       }],
-      "actors": [{}]
+      "actors": []
     },
     
     {
@@ -127,7 +127,7 @@
         "image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/7/7/6/1273776_jennypopplewell_203552.jpg",
         "imdb": "https://www.imdb.com/name/nm1418469/"
       }],
-      "actors": [{}]
+      "actors": []
     },
 
     {    
@@ -144,7 +144,7 @@
       "image": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/Skye-Borgman-te-230123-3e126c.jpg",
       "imdb": "https://www.imdb.com/name/nm1453337/"
     }],
-    "actors": [{}]
+    "actors": []
     },
 
     {    
@@ -616,23 +616,7 @@
       "imdb": "https://www.imdb.com/name/nm0943104/?ref_=tt_cl_t_2"
     }]},
 
-  {"item": "6", "title": "Rebel Moon — Part One: A Child of Fire", "runtime": 136, "mpaa": "PG-13", "poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABTb83RN3VhDCH8tVBV5GPva_qAulKy1DQclvAOCVza7Xe_Waz-TdBZsfAZB0vWxpY9ky8jV9HGzalrnDhT8XALZjaMAa6Mp2u7GNtK9WcWeYUpVt-0HunLKKeTNFxNfVs2w_.jpg?r=7c8", 
-  "link": "https://www.netflix.com/title/81464239",
-  "description": "When the ruthless forces of the Motherworld threaten a quiet farming village on a distant moon, a mysterious outsider becomes its best hope for survival.",
-  "Director": [{
-    "name": "Zack Synder",
-    "image": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQRkG0o6H2e9srDoKgYVGPoqGMQGX2DpEahimbzps-XdXK2Qc_sby0nJiRw3V0bePHNFOGKK3PdNwy1Z825FXZwDjmxVEuYKYQlsRdnmEnmK0XIzCGQ-PHCNrD8wJVCvhOqggGXSKLFhPBK7DxoiMtrO9.jpg?r=4ca",
-    "imdb": "https://www.imdb.com/name/nm0811583/"
-    }],
-    "actors": [{
-      "name": "Sofia Boutella",
-      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/13/15/sofia-boutella.jpg",
-      "imdb": "https://www.imdb.com/name/nm1154749/"
-    },
-    {
-      "name": "Djimon Hounsou",
-      "image": "https://deadline.com/wp-content/uploads/2023/03/Djimon-Honsou.jpg",
-      "imdb": "https://www.imdb.com/name/nm0005023/"},
+
 
 
 
@@ -3707,6 +3691,6 @@
       "imdb": "https://www.imdb.com/name/nm0991810/"
     }]
     }
-    ]
+  ]
 
 
