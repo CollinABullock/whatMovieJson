@@ -41,16 +41,80 @@ app.get("/maxArray", (req, res) => {
   res.send(maxData);
 });
 
+app.post("/maxArray", (req, res) => {
+  const newItem = req.body;
+
+  // Generate a unique item number using UUID
+  const newItemNumber = uuid.v4(); // Generate a version 4 UUID
+
+  // Add the generated item number to the newItem object
+  newItem.item = newItemNumber;
+
+  // Update the netflixData array with the new item
+  maxData.push(newItem);
+
+  // Send a response indicating success
+  res.status(201).json({ message: "You just added a movie bucko", item: newItem });
+});
+
 app.get("/primeArray", (req, res) => {
   res.send(primeData);
+});
+
+app.post("/primeArray", (req, res) => {
+  const newItem = req.body;
+
+  // Generate a unique item number using UUID
+  const newItemNumber = uuid.v4(); // Generate a version 4 UUID
+
+  // Add the generated item number to the newItem object
+  newItem.item = newItemNumber;
+
+  // Update the netflixData array with the new item
+  primeData.push(newItem);
+
+  // Send a response indicating success
+  res.status(201).json({ message: "You just added a movie bucko", item: newItem });
 });
 
 app.get("/huluArray", (req, res) => {
   res.send(huluData);
 });
 
+app.post("/huluArray", (req, res) => {
+  const newItem = req.body;
+
+  // Generate a unique item number using UUID
+  const newItemNumber = uuid.v4(); // Generate a version 4 UUID
+
+  // Add the generated item number to the newItem object
+  newItem.item = newItemNumber;
+
+  // Update the netflixData array with the new item
+  huluData.push(newItem);
+
+  // Send a response indicating success
+  res.status(201).json({ message: "You just added a movie bucko", item: newItem });
+});
+
 app.get("/peacockArray", (req, res) => {
   res.send(peacockData);
+});
+
+app.post("/peacockArray", (req, res) => {
+  const newItem = req.body;
+
+  // Generate a unique item number using UUID
+  const newItemNumber = uuid.v4(); // Generate a version 4 UUID
+
+  // Add the generated item number to the newItem object
+  newItem.item = newItemNumber;
+
+  // Update the netflixData array with the new item
+  peacockData.push(newItem);
+
+  // Send a response indicating success
+  res.status(201).json({ message: "You just added a movie bucko", item: newItem });
 });
 
 app.listen(port, () => {
