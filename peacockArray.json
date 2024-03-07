@@ -97,5 +97,203 @@
       "imdb": "https://www.imdb.com/name/nm0000491/"
     }]
   }
+  ,
+  {
+    "item": "131",
+    "title": "13 Assassins",
+    "runtime": 141,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/a2496c62-690d-37c8-988e-10e92d5ebe74/LAND_16_9?language=eng&territory=US&proposition=NBCUOTT&version=7594b1ba-582d-3f29-831d-55ffa5130cf0",
+    "description": "A group of assassins come together for a suicide mission to kill an evil lord.",
+    "genre": ["action", "drama", "thriller", "history", "foreign"],
+    "link": "https://www.peacocktv.com/watch-online/movies/13-assassins/8dc180d6-9168-3013-aae2-24c58c9f9c55",
+    "director": [{
+      "name": "Takashi Miike",
+      "image": "https://variety.com/wp-content/uploads/2022/10/Miike-Connect-2-lcr-res.jpg?w=1024",
+      "imdb": "https://www.imdb.com/name/nm0586281/"
+    }],
+    "actors": [{
+      "name": "Koji Yakusho",
+      "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2023/12/CMS-Koji-Yakusho.jpg?fit=990%2C557&ssl=1",
+      "imdb": "https://www.imdb.com/name/nm0946473/"
+    }, {
+      "name": "Takayuki Yamada",
+      "image": "https://variety.com/wp-content/uploads/2018/10/takayuki-yamada-landscape-crop-rexfeatures_8861210z.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm1061979/"
+    }, {
+      "name": "Yusuke Iseya",
+      "image": "https://i0.wp.com/www.celebrity-cutouts.com/wp-content/uploads/2018/11/yusuke-iseya-moustache-celebrity-mask.png?fit=1200%2C600&ssl=1",
+      "imdb": "https://www.imdb.com/name/nm1026949/"
+    }, {
+      "name": "Goro Inagaki",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2FlOTBiNzctODFhOS00NmZiLTllMDItZmM2YjJiZTJkZTU3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0407598/"
+    }]
+  },
+  {
+    "item": "132",
+    "title": "Season of the Witch",
+    "runtime": 95,
+    "mpaa": "PG-13",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/0779b3d7-e8ae-3557-91be-b949e31b339b/TITLE_ART_3_4/640/480?language=eng&territory=US&version=69ff98d8-1cdf-390e-9d42-9d03735f5c32&output-format=webp",
+    "description": "A knight and his friend are tasked with transporting a suspected witch to a monastery, where monks will perform a ritual to rid her of her supposed powers.",
+    "genre": ["action", "adventure", "fantasy"],
+    "link": "https://www.peacocktv.com/watch-online/movies/season-of-the-witch/9671be41-ee42-3cda-915a-7000426940a5",
+    "director": [{
+      "name": "Dominic Sena",
+      "image": "https://c8.alamy.com/comp/F6HWN5/jul-23-2002-hollywood-ca-usa-director-dominic-sena-actor-delroy-lindo-F6HWN5.jpg",
+      "imdb": "https://www.imdb.com/name/nm0786485/"
+    }],
+    "actors": [{
+      "name": "Nicolas Cage",
+        "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+        "imdb": "https://www.imdb.com/name/nm0000115/"
+    }, {
+      "name": "Ron Perlman",
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQEQMGZGDHTkHlBHShM7dMDS7THQOMZvXvstjDsXs_c1WeIdoQpPjMubbNEev4DhVBFgOl2cRF5ECKjOGY",
+      "imdb": "https://www.imdb.com/name/nm0000579/"
+    }, {
+      "name": "Claire Foy",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTMyNjk2NjI0Ml5BMl5BanBnXkFtZTgwMDgxOTA5NDM@._CR229,77,1638,922_QL75_UX500_CR0,0,500,281_.jpg",
+      "imdb": "https://www.imdb.com/name/nm2946516/"
+    }, {
+      "name": "Stephen Graham",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjU0MjhlN2ItZGIwZC00YTk2LTg5OTYtZmE1OGI3N2EyOGE0XkEyXkFqcGdeQWFybm8@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0334475/"
+    }]
+  }
+  ,
+  {
+    "item": "133",
+    "title": "The VelociPastor",
+    "runtime": 75,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/352d947a-cb15-36c0-88c1-7c8ad9eaad34/TITLE_ART_3_4/640/480?language=eng&territory=US&version=cfaa75d5-f91b-3a4b-946b-7d7332c8ae0f&output-format=webp",
+    "description": "After losing his parents, a priest travels to China, where he inherits a mysterious ability that allows him to turn into a dinosaur. He uses his newfound power to fight crime and ninjas.",
+    "genre": ["action", "comedy", "horror"],
+    "link": "https://www.peacocktv.com/watch-online/movies/the-velocipastor/64cfd9c8-1ae2-34fb-852a-48cba69df3ac",
+    "director": [{
+      "name": "Brendan Steere",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg4NzhhMTgtY2JlOC00OTFlLWFjNTktNDM1MDcwOTFhOGYyXkEyXkFqcGdeQXVyMTAyNDc1MTg5._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm4011460/"
+    }],
+    "actors": [{
+      "name": "Greg Cohan",
+      "image": "https://static.wixstatic.com/media/28ddcc_e39dc4aa6965413a970869a9d88b9a3e~mv2_d_3861_2574_s_4_2.jpg/v1/fill/w_3861,h_2574,al_c/28ddcc_e39dc4aa6965413a970869a9d88b9a3e~mv2_d_3861_2574_s_4_2.jpg",
+      "imdb": "https://www.imdb.com/name/nm4685059/"
+    }, {
+      "name": "Alyssa Kempinski",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWIxNGRlZWUtYmY3Mi00MDI3LTkwZjItNGZiMzJmNzQ5MTc4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm6308509/"
+    }, {
+      "name": "Daniel Steere",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTJiNmQ3MmEtNjYwMi00ODFlLTk1YWYtNDA2ZTEyMWFiY2UwXkEyXkFqcGdeQXVyNjgzNDU2ODI@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm4684851/"
+    }, {
+      "name": "Fernando Pacheco De Castro",
+      "image": "https://media.licdn.com/dms/image/C5605AQGDqg_1GuB90A/feedshare-thumbnail_720_1280/0/1672859055240?e=2147483647&v=beta&t=ohaNcWSqKVV9BdpAo0OoT15CAPVH8QeSVPVk0mAPB-g",
+      "imdb": "https://www.imdb.com/name/nm8708685/"
+    }]
+  }
+  ,
+  {
+    "item": "134",
+    "title": "Violet & Daisy",
+    "runtime": 88,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/cbfaf6f3-ec93-3464-9d98-c072ed0d50ee/TITLE_ART_3_4/640/480?language=eng&territory=US&version=d362fa95-a3d5-3df0-8411-6712b22f53a7&output-format=webp",
+    "description": "Two teenage assassins, Violet and Daisy, accept what they think will be a quick-and-easy job, until an unexpected target throws them off their plan.",
+    "genre": ["action", "comedy", "crime"],
+    "link": "https://www.peacocktv.com/watch-online/movies/action-and-adventure/violet-and-daisy/227c77f3-9a9c-38b0-9208-af80389c0fbc",
+    "director": [{
+      "name": "Geoffrey Fletcher",
+      "image": "https://deadline.com/wp-content/uploads/2018/01/geoffrey-fletcher.jpg",
+      "imdb": "https://www.imdb.com/name/nm0281670/"
+    }],
+    "actors": [{
+      "name": "Saoirse Ronan",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzRmZDc4MjEtY2VmMC00NGY5LWFmNmYtOTRiYWJiYmUzNzg2XkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm1519680/"
+    }, {
+      "name": "Alexis Bledel",
+      "image": "https://www.thelist.com/img/gallery/alexis-bledel-playfully-reveals-which-gilmore-girls-character-she-wanted-rory-to-end-up-with/l-intro-1656538166.jpg",
+      "imdb": "https://www.imdb.com/name/nm0088127/"
+    }, {
+      "name": "James Gandolfini",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2021/12/hbo-concern-james-gandolfini-02.jpg?quality=75&strip=all",
+      "imdb": "https://www.imdb.com/name/nm0001254/"
+    }, {
+      "name": "Marianne Jean-Baptiste",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/12/1434105239180/a9c43334-85e9-481b-bff6-f483b6942b5b-2060x1236.jpeg?width=700&quality=85&auto=format&fit=max&s=0fdebdb7717d41cd8350852c7fb3acfe",
+      "imdb": "https://www.imdb.com/name/nm0419956/"
+    }]
+  }
+  ,
+  {
+    "item": "135",
+    "title": "Turbo Kid",
+    "runtime": 93,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/0cec71a1-25d9-3dc7-8c5e-b5587bb58e49/TITLE_ART_3_4/640/480?language=eng&territory=US&version=5a4f76b2-6b9d-3982-8eac-e6b2579ad7b5&output-format=webp",
+    "description": "In a post-apocalyptic wasteland, a young scavenger becomes the unlikely hero known as Turbo Kid when he meets a mysterious girl named Apple and embarks on a quest to save his friend and stop an evil warlord.",
+    "genre": ["action", "adventure", "science-fiction", "kids"],
+    "link": "https://imageservice.disco.peacocktv.com/uuid/0cec71a1-25d9-3dc7-8c5e-b5587bb58e49/TITLE_ART_3_4/640/480?language=eng&territory=US&version=5a4f76b2-6b9d-3982-8eac-e6b2579ad7b5&output-format=webp",
+    "director": [{
+      "name": "François Simard",
+      "image": "https://pbs.twimg.com/profile_images/1268267336529858565/cW-C-XR6_400x400.jpg",
+      "imdb": "https://www.imdb.com/name/nm1339945/"
+    }, {
+      "name": "Anouk Whissell",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRlYzk3YzMtM2E0Yi00ODlmLWFlZGItOWUyYWMzZWJlN2JjXkEyXkFqcGdeQXVyMzk3NDMxNTM@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm4178155/"
+    }, {
+      "name": "Yoann-Karl Whissell",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5NDU3MDMxNl5BMl5BanBnXkFtZTgwODQwNjc5NTM@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm4178148/"
+    }],
+    "actors": [{
+      "name": "Munro Chambers",
+      "image": "https://i.ytimg.com/vi/j93zRXnNwjA/hqdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm1831604/"
+    }, {
+      "name": "Laurence Leboeuf",
+      "image": "https://www.bellmedia.ca/lede/wp-content/uploads/2023/11/transplant_406_UHD_still_865672-1.jpg",
+      "imdb": "https://www.imdb.com/name/nm0495461/"
+    }, {
+      "name": "Michael Ironside",
+      "image": "https://www.slashfilm.com/img/gallery/michael-ironside-didnt-understand-why-paul-verhoeven-would-direct-starship-troopers/l-intro-1668513992.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000461/"
+    }]
+  }
+  ,
+  {
+    "item": "136",
+    "title": "A Christmas in Vermont",
+    "runtime": 86,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/bf9deb6a-7344-3149-b225-b6051f669db0/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=c45c5ebe-8551-347b-9a4a-92f2c2970fa8&output-format=webp",
+    "description": "After being fired, a woman travels to a small town in Vermont for a holiday job as a housekeeper at the local inn. While there, she discovers the true spirit of Christmas and finds unexpected love.",
+    "genre": ["romance", "comedy", "drama", "christmas"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy/a-christmas-in-vermont/468812c0-7b58-31ba-a686-134096fd2303",
+    "director": [{
+      "name": "Fred Olen Ray",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzhmYWQ4NjktZDA5ZC00ZTQ0LTg3MjgtMTU0NjA4Njc4ZjMxXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0712956/"
+    }],
+    "actors": [{
+      "name": "Ashley Williams",
+      "image": "https://heavy.com/wp-content/uploads/2021/02/1750584-e1614273753765.jpg?quality=65&strip=all",
+      "imdb": "https://www.imdb.com/name/nm0931396/"
+    }, {
+      "name": "Erin Boyes",
+      "image": "https://static.wixstatic.com/media/865f01_c0997a41bbc04f03bc55727f4b3e0a11.jpg/v1/fill/w_570,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/865f01_c0997a41bbc04f03bc55727f4b3e0a11.jpg",
+      "imdb": "https://www.imdb.com/name/nm5791185/"
+    }, {
+      "name": "Kate Bolger",
+      "image": "",
+      "imdb": "https://www.imdb.com/name/nm2593322/"
+    }]
+  }
+  
   
 ]
