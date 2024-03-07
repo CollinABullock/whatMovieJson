@@ -1,4 +1,39 @@
 [
+
+  {    
+    "item": "99999999",
+    "title": "Poor Things",
+    "runtime": 141,
+    "mpaa": "R",
+    "poster": "https://img1.hulu.com/user/v3/artwork/72867b3c-0c4e-4107-aff7-a1f876c7242f?base_image_bucket_name=image_manager&base_image=16cf2cf7-ab40-4d68-8059-54999a996b11&size=1200x630&format=jpeg",
+    "description": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+"genre": ["comedy", "drama", "science-fiction", "fantasy"],
+  "link": "https://www.hulu.com/movie/72867b3c-0c4e-4107-aff7-a1f876c7242f",
+  "director": [{
+  "name": "Yorgos Lanthimos",
+  "image": "https://media.gq.com/photos/6598539348b417bfbe03de34/16:9/w_2560%2Cc_limit/1670418730",
+  "imdb": "https://www.imdb.com/name/nm0487166/"
+  }],
+  "actors": [{
+    "name": "Emma Stone",
+    "image": "https://variety.com/wp-content/uploads/2023/12/Emma-Stone-Variety-Actors-on-Actors.jpg?w=1024",
+    "imdb": "https://www.imdb.com/name/nm1297015/?ref_=tt_ov_st"
+  }, {
+    "name": "Mark Ruffalo",
+    "image": "https://d.newsweek.com/en/full/2298700/mark-ruffalo-june-2023.png?w=1200&f=7082c879b50355fdc025b4e12f2a43d5",
+    "imdb": "https://www.imdb.com/name/nm0749263/?ref_=tt_ov_st"
+  }, {
+    "name": "Willem Dafoe",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6Hvi13NmYEbgnHS11IP2mKe4HRmNgSSJrtasMlAp4dtozy1y",
+    "imdb": "https://www.imdb.com/name/nm0000353/"
+  }, {
+    "name": "Christopher Abbott",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSY7jcsMLvXrm55FAxL81f7TBVRjCfFV3g7GelQ--ox2j8Zx7VCEs1ILUYx7tqFjL2XjRiQQa3ObOxs5_4",
+    "imdb": "https://www.imdb.com/name/nm3571592/"
+  }]
+  },
+
+
   
   {
     "item": 429,
@@ -701,10 +736,10 @@
 "title": "Geostorm",
 "runtime": 109,
 "mpaa": "PG-13",
-"poster": "",
+"poster": "https://img2.hulu.com/user/v3/artwork/1c547b32-ee23-4e66-aba7-fa36459df5b2?base_image_bucket_name=image_manager&base_image=36550aac-a719-406b-85bb-2d7cc09384b5&size=1200x630&format=jpeg",
 "description": "'Geostorm' is a disaster science fiction film directed by Dean Devlin. In a future where climate-controlling satellites have been deployed to prevent natural disasters, a malfunction in the system creates a series of catastrophic weather events, threatening to unleash a global geostorm that could wipe out humanity. Jake Lawson, the creator of the satellite program, is called upon to fix the malfunction and prevent the impending disaster. As he races against time, Jake uncovers a conspiracy that could lead to the end of the world as we know it. 'Geostorm' is a thrilling and action-packed film that explores the consequences of tampering with nature and the resilience of the human spirit in the face of disaster.",
 "genre": ["action", "science-fiction", "thriller", "disaster"],
-"link": "",
+"link": "https://www.hulu.com/movie/1c547b32-ee23-4e66-aba7-fa36459df5b2",
 "director": [
   {
     "name": "Dean Devlin",
@@ -2565,5 +2600,6 @@
   "image": "https://media.vanityfair.com/photos/57fd117d0c3020dd42f78599/master/w_1440,h_960,c_limit/t-makenzie-leigh-vanities-girl-november-2016-ss.jpg",
   "imdb": "https://www.imdb.com/name/nm3005535/"
 }]
-}
+},
+
 ]
