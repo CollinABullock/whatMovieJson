@@ -66,6 +66,35 @@
   }]
   },
 
+  {
+    "item": "h420",
+    "title": "The Abyss",
+    "runtime": 140,
+    "mpaa": "PG-13",
+    "poster": "https://img1.hulu.com/user/v3/artwork/733df76b-d280-4f96-b13e-3b0c0c345dee?base_image_bucket_name=image_manager&base_image=7e99857b-7032-47d3-af9d-12c65e57da44&region=US&format=jpeg&size=952x536",
+    "description": "Ed Harris and Mary Elizabeth Mastrantonio are formerly married petroleum engineers who still have some issues to work out. They are drafted to assist a gung-ho Navy SEAL (Michael Biehn) with a top-secret recovery operation: a nuclear sub has been ambushed and sunk, under mysterious circumstances, in some of the deepest waters on Earth.",
+    "genre": ["action", "adventure", "drama", "science-fiction"],
+    "link": "https://www.hulu.com/movie/733df76b-d280-4f96-b13e-3b0c0c345dee",
+    "director": [{
+      "name": "James Cameron",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQTffSHnEbSAPLrSn1CDMselzUqIzB7k1FWsM_wzaW9gNO6MKYYs47AZoD30L0LeKKIJW_JFLg2p1EMizU",
+      "imdb": "https://www.imdb.com/name/nm0000116/"
+    }],
+    "actors": [{
+      "name": "Ed Harris",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/the-truman-show-harris.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000438/"
+    }, {
+      "name": "Mary Elizabeth Mastrantonio",
+      "image": "https://facts.net/wp-content/uploads/2023/10/9-astounding-facts-about-mary-elizabeth-mastrantonio-1697535719.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001512/"
+    }, {
+      "name": "Michael Biehn",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzIxZTU5YjYtM2NmNy00M2JkLTg1NTEtMjk3MDEwYzcxNjZjXkEyXkFqcGdeQXVyMjQ3MzgyNzE@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000290/"
+    }]
+  },
+  
 
 
 
@@ -2635,6 +2664,6 @@
   "image": "https://media.vanityfair.com/photos/57fd117d0c3020dd42f78599/master/w_1440,h_960,c_limit/t-makenzie-leigh-vanities-girl-november-2016-ss.jpg",
   "imdb": "https://www.imdb.com/name/nm3005535/"
 }]
-},
+}
 
 ]
