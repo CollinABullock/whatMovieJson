@@ -31,4 +31,71 @@
   "imdb": "https://www.imdb.com/name/nm2185547/"
   }]
   }
+  ,
+  {
+    "item": "129",
+    "title": "Kick-Ass",
+    "runtime": 117,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/b8700949-f8da-37ff-bc59-5f70678e68ea/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=47ff2ddc-b9ff-39ca-afd8-19456cbee91d",
+    "description": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.",
+    "genre": ["action", "comedy", "comic-book"],
+    "link": "https://www.peacocktv.com/watch-online/movies/action-and-adventure/kick-ass/56c20b1c-2447-3777-a737-722f262d48f3",
+    "director": [{
+      "name": "Matthew Vaughn",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Matthew-Vaughn-getty-H-2023.jpg",
+      "imdb": "https://www.imdb.com/name/nm0891216/"
+    }],
+    "actors": [{
+      "name": "Aaron Taylor-Johnson",
+      "image": "https://manofmany.com/wp-content/uploads/2022/12/Aaron-Taylor-Honson-Bond-1200x900.png",
+      "imdb": "https://www.imdb.com/name/nm1093951/bio/",
+    }, {
+      "name": "Chloë Grace Moretz",
+      "image": "https://people.com/thmb/9IFHq7ro_NpRArFus-8z2TDvLSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Chloe-Grace-40f6ae15bfc5493097f606b0a08d408f.jpg",
+      "imdb": "https://www.imdb.com/name/nm1631269/"
+    }, {
+      "name": "Nicolas Cage",
+      "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0000115/"
+    }, {
+      "name": "Christopher Mintz-Plasse",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU4NjQyOTk1Nl5BMl5BanBnXkFtZTgwNzkxNTgxMzI@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm1561971/"
+    }]
+  }
+  ,
+  {
+    "item": "130",
+    "title": "One for the Money",
+    "runtime": 91,
+    "mpaa": "PG-13",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/4a4c81af-dd1e-3dbd-b831-253d33b32ada/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=26ec94fd-64d6-3275-995e-468fc86db061",
+    "description": "Unemployed and newly-divorced Stephanie Plum lands a job at her cousin's bail-bond business, where her first assignment puts her on the trail of a wanted local cop from her romantic past.",
+    "genre": ["comedy", "crime", "mystery"],
+    "link": "https://www.peacocktv.com/watch-online/movies/one-for-the-money/26b026f1-6883-3b73-81a6-32ef0824b6eb",
+    "director": [{
+      "name": "Julie Anne Robinson",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGMxNWM3ODAtYzI1Yi00ZGRmLTlmMWQtNzc4M2FkNWU2M2I0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0732966/"
+    }],
+    "actors": [{
+      "name": "Katherine Heigl",
+      "image": "https://media.zenfs.com/en/bang_showbiz_628/3556a4b24c2928e8c1973e304d5c3a1b",
+      "imdb": "https://www.imdb.com/name/nm0001337/"
+    }, {
+      "name": "Jason O'Mara",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/08/jason_omara_getty_h_2016.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0641924/"
+    }, {
+      "name": "Daniel Sunjata",
+      "image": "https://www.essence.com/wp-content/uploads/2022/01/PTQ2_203_040921_0141_a_1800x1200.jpg",
+      "imdb": "https://www.imdb.com/name/nm0838971/"
+    }, {
+      "name": "John Leguizamo",
+      "image": "https://images.hola.com/us/images/027f-17a87ad07fda-6c31393b7469-1000/horizontal-1200/prime-video-39-s-quot-the-power-quot-new-york-premiere.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000491/"
+    }]
+  }
+  
 ]
