@@ -1,5 +1,72 @@
 [
 	{
+		"item": "movie",
+		"title": "Dumb and Dumber",
+		"runtime": 107,
+		"mpaa": "PG-13",
+		"poster": "",
+		"description": "Two incredibly stupid friends set out on a cross-country trip to return a briefcase full of money to its rightful owner.",
+		"genre": ["comedy"],
+		"link": "",
+		"director": [{
+			"name": "Peter Farrelly",
+			"image": "",
+			"imdb": "https://www.imdb.com/name/nm0268380/"
+		}, {
+			"name": "Bobby Farrelly",
+			"image": "",
+			"imdb": "https://www.imdb.com/name/nm0268381/"
+		}],
+		"actors": [{
+			"name": "Jim Carrey",
+			"image": "",
+			"imdb": "https://www.imdb.com/name/nm0000120/"
+		}, {
+			"name": "Jeff Daniels",
+			"image": "",
+			"imdb": "https://www.imdb.com/name/nm0000353/"
+		}]
+	}
+	,
+	{
+		"item": "n922",
+		"title": "Dumb and Dumber",
+		"runtime": 107,
+		"mpaa": "PG-13",
+		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa5nYFw0e7NZ27XKo7YK9PfcX1iODfc8ms78qboF4lB3ecs2qwIfUDUIob_whKip4wW-NsKzMoyG_RPW0nscu2l0V3KM9cXgGc8.jpg?r=3f6",
+		"description": "Imbecilic best friends Lloyd Christmas (Jim Carrey) and Harry Dunne (Jeff Daniels) stumble across a suitcase full of money left behind in Harry's car by Mary Swanson (Lauren Holly), who was on her way to the airport. The pair decide to go to Aspen, Colo., to return the money, unaware that it is connected to a kidnapping. As Harry and Lloyd -- who has fallen in love with Mary -- are pursued across the country by hired killers and police, they find both their friendship and their brains tested.",
+		"genre": ["comedy"],
+		"link": "https://www.netflix.com/title/464246",
+		"director": [{
+			"name": "Peter Farrelly",
+			"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBM7eqrgRHdis-0nqMdAH8PIqhAXEc5f8I6ZUHcmqV564Qq5am",
+			"imdb": "https://www.imdb.com/name/nm0268380/"
+		}, {
+			"name": "Bobby Farrelly",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0uQW7BlfZcKsadKETvZ1bdmebS5ndpPc7-j9asR4AnY-BwsJ",
+			"imdb": "https://www.imdb.com/name/nm0268381/"
+		}],
+		"actors": [{
+			"name": "Jim Carrey",
+				"image": "https://cdn.britannica.com/84/200584-050-7EC3F3F6/Jim-Carrey-2012.jpg?w=400&h=300&c=crop",
+				"imdb": "https://www.imdb.com/name/nm0000120/"
+		}, {
+			"name": "Jeff Daniels",
+			"image": "https://media.gettyimages.com/id/905611128/fr/photo/pasadena-ca-jeff-daniels-of-hulus-looming-tower-poses-for-a-portrait-during-the-2018-winter.jpg?s=612x612&w=gi&k=20&c=m0QyEA-OFOhw0ciOaWdnzd1BAVjYOJ1cy7AZBbtQLN8=",
+			"imdb": "https://www.imdb.com/name/nm0000353/"
+		}, {
+			"name": "Mike Starr",
+			"image": "https://vz.cnwimg.com/thumb-600x300/wp-content/uploads/2018/06/Mike-Starr.jpg",
+			"imdb": "https://www.imdb.com/name/nm0821232/"
+		}, {
+			"name": "Lauren Holly",
+			"image": "https://img.huffingtonpost.com/asset/56f181121500002a000b2dbc.jpeg?cache=sycRAo2Y0W&ops=1778_1000",
+			"imdb": "https://www.imdb.com/name/nm0000451/"
+		}]
+	}
+	,
+	
+	{
 		"item": "N911",
 		"title": "You Are Not Alone: Fighting the Wolf Pack",
 		"runtime": 102,

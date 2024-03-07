@@ -228,7 +228,23 @@
     "image": "https://m.media-amazon.com/images/M/MV5BMjY1MzA2MTUyMF5BMl5BanBnXkFtZTgwNTgzMTQ3MjE@._V1_.jpg",
     "imdb": "https://www.imdb.com/name/nm2262535/"
   }]
+},
+{
+  "item": "h426",
+  "title": "Too Funny to Fail",
+  "runtime": 95,
+  "mpaa": "Not Rated",
+  "poster": "https://img4.hulu.com/user/v3/artwork/c6c29995-0c40-4442-aed6-156bd11e2d9e?base_image_bucket_name=image_manager&base_image=14a455b8-c273-4272-a75e-95bd4741d5cb&region=US&format=jpeg&size=952x536",
+  "description": "This documentary chronicles the rise and fall of the American sketch comedy show 'The Dana Carvey Show', which was short-lived but influential.",
+  "genre": ["documentary", "comedy"],
+  "link": "https://www.hulu.com/movie/c6c29995-0c40-4442-aed6-156bd11e2d9e",
+  "director": [{
+    "name": "Josh Greenbaum",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM4YzQyOTctYjU1YS00YTk2LWI0MzYtOTk5ZTExOTI4N2UwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm2409697/"
+  }]
 }
+,
 
 
 
