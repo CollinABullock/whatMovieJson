@@ -294,6 +294,63 @@
       "imdb": "https://www.imdb.com/name/nm2593322/"
     }]
   }
+  {
+    "item": "137",
+    "title": "A Cinderella Christmas",
+    "runtime": 93,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/0d3a95ab-719b-3267-b259-687215cebe75/TITLE_ART_3_4/640/480?language=eng&territory=US&version=990a7e05-b7c1-31ad-8a86-ff9bafa17a82&output-format=webp",
+    "description": "A woman named Angie works hard to run her uncle's events business while her cousin Candace takes the credit. At a Christmas Masquerade Ball, Angie meets a wealthy bachelor and must hide her identity, while Candace gets to know him as herself.",
+    "genre": ["romance", "comedy", "christmas"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy/a-cinderella-christmas/3f4906a3-c234-3090-9306-c546051b1f5b",
+    "director": [{
+      "name": "Tosca Musk",
+      "image": "https://www.tampabay.com/resizer/f46uzDXXKscmxVa9nB-a6KB8NLw=/1200x900/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/EA6UT6WIIYI6TGNIIBWI6S7HAY.jpg",
+      "imdb": "https://www.imdb.com/name/nm2304373/"
+    }],
+    "actors": [{
+      "name": "Emma Rigby",
+      "image": "https://i.dailymail.co.uk/1s/2020/07/18/10/30909372-0-image-a-25_1595063435941.jpg",
+      "imdb": "https://www.imdb.com/name/nm2668955/"
+    }, {
+      "name": "Peter Porte",
+      "image": "https://www.soapsindepth.com/wp-content/uploads/sites/3/2023/05/Peter-Porte.jpg",
+      "imdb": "https://www.imdb.com/name/nm1653476/"
+    }, {
+      "name": "Sarah Stouffer",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2IzZDIyOWQtYjA2Yy00OWZmLWIyNWYtMDkyNzAxZjgwNjU2XkEyXkFqcGdeQXVyMjA1OTU1MTM@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm2494266/"
+    }]
+  }
+  ,
+  {
+    "item": "138",
+    "title": "A Doggone Christmas",
+    "runtime": 82,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/40764a8f-c9de-3d77-9161-dc5745f0d9e6/TITLE_ART_3_4/640/480?language=eng&territory=US&version=c2d42c44-3ba1-33f8-b6c7-aaca9cb13a54&output-format=webp",
+    "description": "When the CIA and the K-9 cyber units learn that Santa Claus has been kidnapped by an alien impostor, they team up to rescue him and save Christmas.",
+    "genre": ["family", "comedy", "adventure", "christmas"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy/a-doggone-christmas/eb39ee17-c547-3d7c-a48f-1776c9974452",
+    "director": [{
+      "name": "Jim Wynorski",
+      "image": "https://www.joblo.com/wp-content/uploads/2022/05/jim-wynorski-interview-1280x720.jpg",
+      "imdb": "https://www.imdb.com/name/nm0944186/"
+    }],
+    "actors": [{
+      "name": "Rib Hillis",
+      "image": "https://www.naludamagazine.com/wp-content/uploads/2024/01/naluda-Rib-Hillis.jpg",
+      "imdb": "https://www.imdb.com/name/nm0384419/"
+    }, {
+      "name": "Lauren Parkinson",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzgyMjU4MmItMDRmNi00ZjUwLWEwYjAtYjlhNzQ0YmNjNjExXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm3728150/"
+    }, {
+      "name": "David DeLuise",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTlmOWFhZGYtMjNhOC00MTE1LWJjZjMtODFmZWIxNTI3ZTE0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0216176/"
+    }]
+  }
   
   
 ]
