@@ -65,7 +65,90 @@
 		}]
 	}
 	,
-	
+	{
+		"item": "mn933",
+		"title": "Love and Basketball",
+		"runtime": 124,
+		"mpaa": "PG-13",
+		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSoNsy3TmnvJEP4Nxy9YrZ_V6jfIDyrx7LwpBCy6HEKZaRbYLNT4MxNQHp1kcyd7KQWPzYPnSVqQIBwhkdRAZ1sLn-xZFNlziMU.jpg?r=44b",
+		"description": "A young African-American couple navigates the challenges of love and ambition while pursuing careers as professional basketball players.",
+		"genre": ["drama", "romance", "sport"],
+		"link": "https://www.netflix.com/title/60000904",
+		"director": [{
+			"name": "Gina Prince-Bythewood",
+			"image": "https://variety.com/wp-content/uploads/2023/02/gina-prince-bythewood-naacp.jpg?w=1000&h=563&crop=1",
+			"imdb": "https://www.imdb.com/name/nm0697656/"
+		}],
+		"actors": [{
+			"name": "Sanaa Lathan",
+			"image": "https://images.paramount.tech/uri/mgid:arc:imageassetref:bet.com:811dd2ee-5027-4a71-963a-99f267af51f9?quality=0.7&gen=ntrn",
+			"imdb": "https://www.imdb.com/name/nm0005123/"
+		}, {
+			"name": "Omar Epps",
+			"image": "https://images.paramount.tech/uri/mgid:arc:imageassetref:bet.com:ea2106e4-d2ac-47f2-a6ce-bdb40db3d8a5?quality=0.7&gen=ntrn",
+			"imdb": "https://www.imdb.com/name/nm0004898/"
+		}]
+	}
+,	
+
+{
+  "item": "n909",
+  "title": "The Commuter",
+  "runtime": 105,
+  "mpaa": "PG-13",
+  "poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABccNsdWWMT4WcIiBe5uETG8yCotlFyeCGFWS-W5OpzWvJTL0Pyhdzcr08YpEI6OPIPqkoIx3ruDi4AsXpy8xGndwU5hS9ZwxEC8.jpg?r=c0d",
+  "description": "A businessman is caught up in a criminal conspiracy during his daily commute home.",
+  "genre": ["action", "crime", "drama"],
+  "link": "https://www.netflix.com/title/80195765",
+  "director": [{
+    "name": "Jaume Collet-Serra",
+				"image": "https://www.looper.com/img/gallery/jaume-collet-serra-apparently-studied-for-six-months-to-load-black-adam-with-deep-cut-easter-eggs/l-intro-1667616728.jpg",
+				"imdb": "https://www.imdb.com/name/nm1429471/"
+  }],
+  "actors": [{
+    "name": "Liam Neeson",
+				"image": "https://cdn01.justjared.com/wp-content/uploads/headlines/2008/05/liam-neeson-pees-in-his-pants.jpg",
+				"imdb": "https://www.imdb.com/name/nm0000553/?ref_=fn_al_nm_1"
+  }, {
+    "name": "Vera Farmiga",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIwNTU3NDUyMl5BMl5BanBnXkFtZTgwODEwODg5NDE@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0267812/"
+  }, {
+    "name": "Patrick Wilson",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjhlYjBjMWMtNDQzYS00Njg3LWIyMmItODcyM2Q2NTlhYTkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0933940/"
+  }]
+}
+,
+{
+  "item": "n912",
+  "title": "Turbo",
+  "runtime": 96,
+  "mpaa": "PG",
+  "poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABegbtM4jpgk9lqRcHbUwKlyq-rAYdN6LIQ69-3P-XDH-DKLYQEraNJ8ZietcBIu_JbVXAB0PCwxynoDUHgiaqD8MZ3Vloe5M9vs2vlzU14whastDFmpqxyOBd_VvMYHpUgb2I4_UyEA7j7V8Vv8-ztMlGK1t4nLStEQ.jpg?r=28b",
+  "description": "After a freak accident, a garden snail gains incredible speed and sets out to fulfill his dream of racing in the Indianapolis 500.",
+  "genre": ["animation", "adventure", "comedy", "kids"],
+  "link": "https://www.netflix.com/title/70267728",
+  "director": [{
+    "name": "David Soren",
+    "image": "https://i.ytimg.com/vi/KODhALh0EVY/maxresdefault.jpg",
+    "imdb": "https://www.imdb.com/name/nm0815210/"
+  }],
+  "actors": [{
+		"name": "Ryan Reynolds",
+		"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/15/16632689757665.jpg",
+		"imdb": "https://www.imdb.com/name/nm0005351/"
+  }, {
+    "name": "Paul Giamatti",
+    "image": "https://people.com/thmb/7vnf3B_fcUWGT7MIacFocGbb37c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(734x120:736x122)/paul-giamatti-mag-rollout-1-tout-120523-1cb744c7221f4defb5576b9a6c04207b.jpg",
+    "imdb": "https://www.imdb.com/name/nm0316079/"
+  }, {
+    "name": "Michael Peña",
+    "image": "https://m.media-amazon.com/images/M/MV5BNThiNWE4Y2ItMGM5ZS00ZWFiLTllOWQtMzBkMjIwMDBmZjcyXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0578957/"
+  }]
+}
+,
 	{
 		"item": "N911",
 		"title": "You Are Not Alone: Fighting the Wolf Pack",
