@@ -95,6 +95,140 @@
     }]
   },
   
+  {
+    "item": "movie",
+    "title": "Pretty Woman",
+    "runtime": 119,
+    "mpaa": "R",
+    "poster": "https://img1.hulu.com/user/v3/artwork/d4cddf96-fc7c-4a1a-ab19-f70f51e66252?base_image_bucket_name=image_manager&base_image=cc4c17a5-6258-4750-948c-8c0959b8575d&size=1200x630&format=jpeg",
+    "description": "While on a business trip in L.A., Edward (Richard Gere), who makes a living buying and breaking up companies, picks up a hooker, Vivian (Julia Roberts), on a lark. After Edward hires Vivian to stay with him for the weekend, the two get closer, only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
+    "genre": ["romance", "comedy", "drama"],
+    "link": "https://www.hulu.com/movie/d4cddf96-fc7c-4a1a-ab19-f70f51e66252",
+    "director": [{
+      "name": "Garry Marshall",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTdkNmQ5YjAtMDUzNS00OGZjLWJmZjktNDgzMTUyMDViODBjXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0551128/"
+    }],
+    "actors": [{
+      "name": "Richard Gere",
+      "image": "https://i.dailymail.co.uk/i/pix/2018/01/02/20/47B4153B00000578-0-image-a-13_1514924708055.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000152/"
+    }, {
+      "name": "Julia Roberts",
+        "image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
+    }, {
+      "name": "Jason Alexander",
+      "image": "https://www.leadingauthorities.com/sites/default/files/styles/650x430/public/2022-01/alexander_jason_speaker.png",
+      "imdb": "https://www.imdb.com/name/nm0004517/"
+    }]
+  }
+  ,
+  {
+    "item": "movie",
+    "title": "The Sound of Music",
+    "runtime": 174,
+    "mpaa": "G",
+    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4D54035BAC198B450C172573E7AC612EC60C611CC53DEFA023D5D1DCE0461257/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
+    "description": "A tuneful, heartwarming story based on the real life Von Trapp Family singers, one of the world's best-known concert groups in the era immediately preceding World War II. Julie Andrews plays the role of Maria, the tomboyish postulant at an Austrian abbey who becomes a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music into the home.",
+    "genre": ["musical", "drama", "romance", "classic"],
+    "link": "https://www.hulu.com/movie/244ba86a-ad0f-4fb2-8c5f-18cc8623f809",
+    "director": [{
+      "name": "Robert Wise",
+      "image": "https://cdn.britannica.com/39/123339-050-CE20D0E6/set-Robert-Wise-television-series-Star-Trek.jpg",
+      "imdb": "https://www.imdb.com/name/nm0935988/"
+    }],
+    "actors": [{
+      "name": "Julie Andrews",
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/19/USAT/e1ee73b1-bfc5-492d-a34e-62ecb9ded76e-GTY_1402072418.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000267/"
+    }, {
+      "name": "Christopher Plummer",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7LEPIRTH3YI6XDDESWKYRDFKCU.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001626/"
+    }, {
+      "name": "Eleanor Parker",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2013/12/eleanor_parker_a_p.jpg?crop=5px%2C148px%2C1019px%2C571px&resize=2000%2C1126",
+      "imdb": "https://www.imdb.com/name/nm0661752/"
+    }]
+  }
+  ,
+  {
+    "item": "h422",
+    "title": "Scarface",
+    "runtime": 170,
+    "mpaa": "R",
+    "poster": "https://img1.hulu.com/user/v3/artwork/df471734-b23c-4d66-9124-960173810541?base_image_bucket_name=image_manager&base_image=c3685453-bc24-423f-bdd0-aa6069787173&size=1200x630&format=jpeg",
+    "description": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana (Al Pacino) stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+    "genre": ["crime", "drama", "action", "classic", "biopic"],
+    "link": "https://www.hulu.com/movie/df471734-b23c-4d66-9124-960173810541",
+    "director": [{
+      "name": "Brian De Palma",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTU0MjRhYmQtYjJlNi00MjExLWExODUtMjEyYTAwMWNiZjg0XkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000361/"
+    }],
+    "actors": [{
+      "name": "Al Pacino",
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSvNvCnfwhUJomL6srW4j0x21ntqd2R0HDGGyD-MLZA7OUZ52_3XZtjGq_B4G0dmM9-WfF0zMp6seOS_BM",
+      "imdb": "https://www.imdb.com/name/nm0000199/"
+    }, {
+      "name": "Michelle Pfeiffer",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/actress-michelle-pfeiffer-attends-the-33rd-annual-news-photo-1707149533.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000201/"
+    }, {
+      "name": "Steven Bauer",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzgwMzFmOWItOTIxMy00Nzk5LWI1MWYtZDI3Yzc2YmMzNGQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000882/"
+    }]
+  }
+  ,
+  {
+    "item": "h423",
+    "title": "Client 9: The Rise and Fall of Eliot Spitzer",
+    "runtime": 117,
+    "mpaa": "R",
+    "poster": "https://img1.hulu.com/user/v3/artwork/19ccc256-57d0-4011-8ab9-71e0ac2b1bbd?base_image_bucket_name=image_manager&base_image=588c1991-7ad2-4897-a68b-69888c0c1fcb&size=1200x630&format=jpeg",
+    "description": "This documentary feature takes an in-depth look at the rapid rise and dramatic fall of New York Governor Eliot Spitzer.",
+    "genre": ["documentary"],
+    "link": "https://www.hulu.com/movie/19ccc256-57d0-4011-8ab9-71e0ac2b1bbd",
+    "director": [{
+      "name": "Alex Gibney",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/Alex-Gibney-Gotham-Awards-GettyImages-1356266610-H-2022.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0316795/"
+    }]
+  }
+  ,
+  {
+    "item": "documentary",
+    "title": "Enron: The Smartest Guys in the Room",
+    "runtime": 110,
+    "mpaa": "Not Rated",
+    "poster": "https://img.hulu.com/user/v3/artwork/a11a18e4-b417-4cff-affa-ac0971c94c3f?base_image_bucket_name=image_manager&base_image=c6a90209-825d-4d3d-98ae-ed75ee6dcc3b&size=1200x630&format=jpeg",
+    "description": "This documentary examines the collapse of the Enron Corporation, focusing on the company's fraudulent accounting practices and the resulting scandal.",
+    "genre": ["documentary", "crime"],
+    "link": "https://www.hulu.com/movie/a11a18e4-b417-4cff-affa-ac0971c94c3f",
+    "director": [{
+      "name": "Alex Gibney",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/Alex-Gibney-Gotham-Awards-GettyImages-1356266610-H-2022.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0316795/"
+    }]
+  }
+,  
+{
+  "item": "documentary",
+  "title": "A Glitch in the Matrix",
+  "runtime": 108,
+  "mpaa": "Not Rated",
+  "poster": "https://img3.hulu.com/user/v3/artwork/e2b1d118-9f19-4264-9655-dccb68fd1301?base_image_bucket_name=image_manager&base_image=0c0364b4-85c5-48a7-868d-ba1a8c065f2a&size=1200x630&format=jpeg",
+  "description": "This documentary explores the theory that the universe and all its contents might be a computer simulation.",
+  "genre": ["documentary", "science-fiction"],
+  "link": "https://www.hulu.com/movie/e2b1d118-9f19-4264-9655-dccb68fd1301",
+  "director": [{
+    "name": "Rodney Ascher",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjY1MzA2MTUyMF5BMl5BanBnXkFtZTgwNTgzMTQ3MjE@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm2262535/"
+  }]
+}
 
 
 
