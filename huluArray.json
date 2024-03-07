@@ -33,6 +33,41 @@
   }]
   },
 
+  {    
+    "item": "991122",
+    "title": "All Of Us Strangers",
+    "runtime": 105,
+    "mpaa": "R",
+    "poster": "https://img2.hulu.com/user/v3/artwork/37b675ee-b81b-4589-9784-20bbe4700ba8?base_image_bucket_name=image_manager&base_image=def485e6-2609-4d99-8e3e-9348f6688fb9&size=1200x630&format=jpeg",
+    "description": "One night in his near-empty London tower block, screenwriter Adam has a chance encounter with mysterious neighbor Harry, puncturing the rhythm of his everyday life. As a relationship develops between them, Adam finds himself drawn back to his childhood home, where his parents appear to be living just as they were on the day they died 30 years ago.",
+"genre": ["romance", "drama", "fantasy"],
+  "link": "https://www.hulu.com/movie/all-of-us-strangers-37b675ee-b81b-4589-9784-20bbe4700ba8",
+  "director": [{
+  "name": "Andrew Haigh",
+  "image": "https://s.yimg.com/ny/api/res/1.2/CoYy0lcchMlXv22AqZbCMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQxNg--/https://media.zenfs.com/en/bang_showbiz_628/3928972318f8ed5cf7bde094861e4d39",
+  "imdb": "https://www.imdb.com/name/nm0354091/"
+  }],
+  "actors": [{
+    "name": "Andrew Scott",
+    "image": "https://i.guim.co.uk/img/media/abe697000ac74a17b3f01f8dbfbf6b05c585462b/694_848_4623_2774/master/4623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&s=aa1b8dffd9f96c652831e0225c2cbc60",
+    "imdb": "https://www.imdb.com/name/nm0778831/"
+  }, {
+    "name": "Claire Foy",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTMyNjk2NjI0Ml5BMl5BanBnXkFtZTgwMDgxOTA5NDM@._CR229,77,1638,922_QL75_UX500_CR0,0,500,281_.jpg",
+    "imdb": "https://www.imdb.com/name/nm2946516/"
+  }, {
+    "name": "Jamie Bell",
+    "image": "https://deadline.com/wp-content/uploads/2024/01/Jamie-Bell-01.jpg",
+    "imdb": "https://www.imdb.com/name/nm0068260/"
+  }, {
+    "name": "Paul Mescal",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRZW7jD7bJYiNl4yWJE4edXxMgSlzFDq1SFbkXYsFHoSD90cP5xTdSx5p94SX4B_jIRZiMjbAZXCTVTFLc",
+    "imdb": "https://www.imdb.com/name/nm8958770/"
+  }]
+  },
+
+
+
 
   
   {
