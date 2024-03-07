@@ -508,6 +508,98 @@
       "imdb": "https://www.imdb.com/name/nm1558220/"
     }]
   }
+  ,
+  {
+    "item": "78787878",
+    "title": "8 Mile",
+    "runtime": 110,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/8daa17dd-25dc-3347-a886-f00526c79022/TITLE_ART_3_4/640/480?language=eng&territory=US&version=a8d767bb-6a09-3187-b21b-8efd889e0722&output-format=webp",
+    "description": "8 Mile is a gripping drama that follows the struggles of Jimmy Smith Jr., a young man from Detroit trying to make a name for himself in the rap scene. Set against the backdrop of the city's gritty underground hip-hop culture, Jimmy battles personal demons and societal obstacles as he pursues his dream of becoming a successful rapper. With raw emotion and powerful performances, 8 Mile is a tale of determination, resilience, and the power of self-expression.",
+    "genre": ["drama", "music"],
+    "link": "https://www.peacocktv.com/watch-online/movies/8-mile/5fe50394-8758-3d89-92c8-3147b7ca522d",
+    "director": [{
+      "name": "Curtis Hanson",
+      "image": "https://variety.com/wp-content/uploads/2015/03/curtis-hanson-dead1.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0001310/"
+    }],
+    "actors": [{
+      "name": "Eminem",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6XSiyGcXWei4bA4Lu96214yjOjx90SEXbg-udQNpMiGyShSrB",
+      "imdb": "https://www.imdb.com/name/nm0004896/"
+    }, {
+      "name": "Kim Basinger",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/11/59-Kim-Basinger-1200x834.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000107/"
+    }, {
+      "name": "Mekhi Phifer",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTCy4ZKMCv2GbHeraJ54RuGPHAxRoefaV7Ffp7ZG14vYt0ElsOE1Z-ZdcpRFC2P0KxcbQnX2P1Ou1vAZhk",
+      "imdb": "https://www.imdb.com/name/nm0001615/"
+    }, {
+      "name": "Brittany Murphy",
+      "image": "https://cdn.jwplayer.com/v2/media/WvlZoNIO/poster.jpg?width=720",
+      "imdb": "https://www.imdb.com/name/nm0005261/"
+    }
+    ]
+  }
+  ,
+  {
+    "item": "111115",
+    "title": "9 to 5",
+    "runtime": 109,
+    "mpaa": "PG",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/49746fa5-ead3-3c82-983c-bc905b7638a5/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=e7067512-8132-33ae-a4d9-e484aa0a9325&output-format=webp",
+    "description": "9 to 5 is a classic workplace comedy that follows the misadventures of three women - Judy, Violet, and Doralee - who team up to overthrow their sexist and egotistical boss. Frustrated by his chauvinistic behavior, the trio takes matters into their own hands, concocting hilarious schemes to teach him a lesson while revolutionizing the workplace in the process. With its sharp wit, memorable performances, and timeless message of female empowerment, 9 to 5 remains a beloved comedy favorite.",
+    "genre": ["comedy"],
+    "link": "https://www.peacocktv.com/watch-online/movies/9-to-5/db423ac8-88f4-353d-9e4c-04df41dc6689",
+    "director": [{
+      "name": "Colin Higgins",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGMxMTg0NTItNzY3Ni00Y2FkLThjYTYtOWViMGMwM2M3N2IxXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0383484/"
+    }],
+    "actors": [{
+      "name": "Jane Fonda",
+      "image": "https://media.vanityfair.com/photos/63e6611d8f7ab1e0a87404f2/master/w_2560%2Cc_limit/Jane%2520Fonda%2520HnM.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000404/"
+    }, {
+      "name": "Lily Tomlin",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDM3OTU2YzItMmNkYy00MTA3LTk5NmEtMzQ3ZTFiYTdlZmZjXkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005499/"
+    }, {
+      "name": "Dolly Parton",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/DollyPartonDallasCowboys.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000573/"
+    }]
+  }
+  ,
+  {
+    "item": "P911",
+    "title": "9/11",
+    "runtime": 90,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/14ddceb3-ec94-3701-8327-2bf8b37e1ba4/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=8a01125b-b3c9-3319-b901-35bc2689be48&output-format=webp",
+    "description": "9/11 is a gripping drama that unfolds in the aftermath of the tragic events of September 11, 2001. The film follows five strangers trapped in an elevator inside the World Trade Center's North Tower during the terrorist attacks. As they struggle to survive and come to terms with the harrowing reality unfolding outside, tensions rise, and bonds are formed amidst the chaos. With its powerful performances and poignant storytelling, 9/11 offers a raw and emotional portrayal of hope and humanity in the face of unspeakable tragedy.",
+    "genre": ["drama", "thriller", "history"],
+    "link": "https://www.peacocktv.com/watch-online/movies/911/7bcce21c-47a6-3b91-bea9-f36872db7e6e",
+    "director": [{
+      "name": "Martin Guigui",
+      "image": "https://images.squarespace-cdn.com/content/v1/60285869663ff80493496a21/1630539583825-U2CNMJXCAPE5HUQXC14Y/Screen+Shot+2021-09-01+at+4.39.31+PM.png",
+      "imdb": "https://www.imdb.com/name/nm0345865/"
+    }],
+    "actors": [{
+      "name": "Charlie Sheen",
+      "image": "https://cdn.24.co.za/files/Cms/General/d/9463/12eba3f95f2a4090a6a40b4ba391e26d.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000221/"
+    }, {
+      "name": "Whoopi Goldberg",
+      "image": "https://achievement.org/wp-content/uploads/2016/10/2-tumblr_nbyuw3x3bY1rujq2eo1_1280.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000155/"
+    }, {
+      "name": "Gina Gershon",
+      "image": "https://imgc.allpostersimages.com/img/posters/gina-gershon_u-L-PW5V9T0.jpg?artHeight=350&artPerspective=n&artWidth=550&background=fbfbfb",
+      "imdb": "https://www.imdb.com/name/nm0000155/"
+    }]
+  }
   
 
   
