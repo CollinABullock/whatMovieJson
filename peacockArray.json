@@ -49,7 +49,7 @@
     "actors": [{
       "name": "Aaron Taylor-Johnson",
       "image": "https://manofmany.com/wp-content/uploads/2022/12/Aaron-Taylor-Honson-Bond-1200x900.png",
-      "imdb": "https://www.imdb.com/name/nm1093951/bio/",
+      "imdb": "https://www.imdb.com/name/nm1093951/bio/"
     }, {
       "name": "Chloë Grace Moretz",
       "image": "https://people.com/thmb/9IFHq7ro_NpRArFus-8z2TDvLSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Chloe-Grace-40f6ae15bfc5493097f606b0a08d408f.jpg",
@@ -294,6 +294,7 @@
       "imdb": "https://www.imdb.com/name/nm2593322/"
     }]
   }
+  ,
   {
     "item": "137",
     "title": "A Cinderella Christmas",
@@ -351,6 +352,166 @@
       "imdb": "https://www.imdb.com/name/nm0216176/"
     }]
   }
+  ,
+  {
+    "item": "139",
+    "title": "A Dogwalker's Christmas Tale",
+    "runtime": 86,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/a4d07587-1ff6-356a-a649-eb77ce6c8852/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=bee035b1-aa10-3f6e-89f9-a90bfd38a433&output-format=webp",
+    "description": "When Luce Lockhart, a dogwalker, falls in love with a businessman, she finds herself in the middle of a dog show competition and must win over his skeptical daughter while trying to hide her true identity.",
+    "genre": ["romance", "comedy", "christmas"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy-drama/a-dogwalkers-christmas-tale/643e046e-a063-3787-99b0-519a183b5f97",
+    "director": [{
+      "name": "Letia Clouston",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjljOTMyZTItNDJlZi00MTI3LThmNDQtOWRjMmFmNTc3YWY1XkEyXkFqcGdeQXVyMTkxMDYwMDI@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm1933371/"
+    }],
+    "actors": [{
+      "name": "Lexi Giovagnoli",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWU5MjI1OTgtY2E0NS00NDU3LTkyM2UtYzIxYzcwNDE0ZDE1XkEyXkFqcGdeQWRpZWdtb25n._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "imdb": "https://www.imdb.com/name/nm2399321/"
+    }, {
+      "name": "Jonathan Bennett",
+      "image": "https://hallmark.brightspotcdn.com/dims4/default/b354fbd/2147483647/strip/true/crop/1874x984+0+192/resize/1200x630!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2F7b%2F9c%2F86c634134a65b1559e32fd04d0a8%2Fthechristmashouse-brandon-0021g-cb.jpg",
+      "imdb": "https://www.imdb.com/name/nm1251729/"
+    }, {
+      "name": "Dina Meyer",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTc2OGMzNmQtY2VlYS00NmVjLTlhYTgtODZlNTk0MWQ3ZGM3XkEyXkFqcGdeQXVyMzY1MDkyMTM@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0582561/"
+    }]
+  }
+  ,
+  {
+    "item": "140",
+    "title": "A Jersey Christmas",
+    "runtime": 90,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/0b096add-c396-331b-9ea2-3eb75e59300b/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=f449865b-23d2-3cdc-9cce-8a3581a6c653&output-format=webp",
+    "description": "In this heartwarming holiday tale, a single mother from New Jersey struggles to make ends meet. With Christmas approaching, she finds unexpected joy and love when she opens her heart to the magic of the season.",
+    "genre": ["romance", "drama", "christmas"],
+    "link": "https://www.peacocktv.com/watch-online/movies/a-jersey-christmas/35bcf3c6-c0e6-32d9-bf05-82edb82e77b8",
+    "director": [{
+      "name": "Bernard Salzmann",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjY3Y2QwYzAtZmRkMS00YWYyLTkwZjYtNTdhMmI4ZTFhOTBmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0759268/"
+    }],
+    "actors": [{
+      "name": "Alan Powell",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmNlMGM5MGQtOGI3My00NDI4LWE1MDQtM2ZiMmFiNDIzZmI5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm2767414/"
+    }, {
+      "name": "Annie Heise",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAyMTU3MTg2OF5BMl5BanBnXkFtZTgwOTI4NTYxMTE@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "imdb": "https://www.imdb.com/name/nm1914185/"
+    }, {
+      "name": "Ion Overman",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDA5MmIxNGEtNGI5Mi00NjNiLWFjYTMtODY3NjA5NzFmN2RiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0653280/"
+    }]
+  }
+  ,
+  {
+    "item": "141",
+    "title": "A Fantastic Fear of Everything",
+    "runtime": 100,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/073878e4-126f-384b-b871-51d9dcc6513b/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=76e944c5-eada-3cb8-8560-4c938a3769fb&output-format=webp",
+    "description": "A former children's author turned crime novelist experiences a deep-seated fear of everything after researching the lives of Victorian serial killers for his latest book. Paranoia and madness ensue as he locks himself in his apartment, becoming increasingly afraid of even the most mundane things.",
+    "genre": ["comedy", "thriller"],
+    "link": "https://www.peacocktv.com/watch-online/movies/a-fantastic-fear-of-everything/95379635-72d0-3909-b3f6-eae9bf723eb7",
+    "director": [{
+      "name": "Crispian Mills",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU5MTQ1MjU1Ml5BMl5BanBnXkFtZTgwMTQwMjc2NjM@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0590154/"
+    }, {
+      "name": "Chris Hopewell",
+      "image": "https://i.discogs.com/XBbLzYLfx8MZwgPQUDeCzZaulrtO7mF4fV7ClpMVxPM/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY5OTU1/MS0xNTU2NDY2Nzg2/LTU5NjguanBlZw.jpeg",
+      "imdb": "https://www.imdb.com/name/nm2799751/"
+    }],
+    "actors": [{
+      "name": "Simon Pegg",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/simon-pegg-visits-siriusxm-at-siriusxm-studios-on-july-13-news-photo-1658584819.jpg?crop=1xw:0.8526xh;center,top",
+      "imdb": "https://www.imdb.com/name/nm0670408/"
+    }, {
+      "name": "Amara Karan",
+      "image": "https://www.telegraph.co.uk/multimedia/archive/02215/amarakaran_2215902b.jpg",
+      "imdb": "https://www.imdb.com/name/nm2590158/"
+    }, {
+      "name": "Alan Drake",
+      "image": "https://e6ywb98uq7m.exactdn.com/wp-content/uploads/2020/06/Alan-Drake-Headshot.jpg?strip=all&lossy=1&ssl=1",
+      "imdb": "https://www.imdb.com/name/nm1730274/"
+    }, {
+      "name": "Paul Freeman",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjI0YzVjZDItMjllZi00ZjU0LTk1NWEtMTVhMjUxOWNkYjBlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0293455/"
+    }]
+  },
+  {
+    "item": "142",
+    "title": "A Little Bit of Heaven",
+    "runtime": 106,
+    "mpaa": "PG-13",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/b2a2461f-82d5-3d00-b873-31cf34b28f14/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=bd5ec0a6-8cef-3088-967b-c2774e8447ca&output-format=webp",
+    "description": "A vivacious woman named Marley discovers she has terminal cancer and embarks on a journey of self-discovery and love. Despite her diagnosis, she finds joy and humor in life, forming deep connections with those around her.",
+    "genre": ["drama", "romance", "comedy"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy-drama/a-little-bit-of-heaven/bfac6b85-3556-3fd3-bfa0-f51101d61c02",
+    "director": [{
+      "name": "Nicole Kassell",
+      "image": "https://deadline.com/wp-content/uploads/2021/02/Nicole-Kassell-featured.jpg",
+      "imdb": "https://www.imdb.com/name/nm0441348/"
+    }],
+    "actors": [{
+      "name": "Kate Hudson",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/210914103244-01-kate-hudson-met-gala-2021.jpg?q=w_4062,h_2708,x_0,y_0,c_fill",
+      "imdb": "https://www.imdb.com/name/nm0005028/"
+    }, {
+      "name": "G+ael García Bernal",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/3/1433331232979/Gael-Garcia-Bernalin-The--009.jpg?width=700&quality=85&auto=format&fit=max&s=09af5e12994f777cfbea4114b5c9e162",
+      "imdb": "https://www.imdb.com/name/nm0305558/"
+    }, {
+      "name": "Kathy Bates",
+      "image": "https://lwlies.com/wp-content/uploads/2022/05/kathy-bates-misery.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000870/"
+    }, {
+      "name": "Peter Dinklage",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/8/5/1438770901233/Peter-Dinklage--009.jpg?width=700&quality=85&auto=format&fit=max&s=2ded45e451e959c1404eabe01bb1ec7d",
+      "imdb": "https://www.imdb.com/name/nm0227759/"
+    }]
+  }
+  ,
+  {
+    "item": "143",
+    "title": "12 Days of Christmas Eve",
+    "runtime": 89,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/6ff7ba51-463e-3f2d-94a8-8eb55e4ac1fe/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=0993024e-6225-3116-b760-d88f86c11742&output-format=webp",
+    "description": "On Christmas Eve, a cold-hearted businessman named Calvin Carter finds himself trapped in a time loop, forced to relive the same Christmas Eve repeatedly. As he begins to understand the true meaning of the holiday, he strives to make amends for past mistakes and find redemption.",
+    "genre": ["comedy", "drama", "fantasy", "christmas"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy/12-days-of-christmas-eve/a96dbc64-e0b9-3267-896d-b31906476155",
+    "director": [{
+      "name": "Martha Coolidge",
+      "image": "https://media.baselineresearch.com/images/287546/287546_full.jpg",
+      "imdb": "https://www.imdb.com/name/nm0177933/"
+    }],
+    "actors": [{
+      "name": "Steven Weber",
+      "image": "https://www.audiofilemagazine.com/content/uploaded/articlesprevious/2020/05/Steven-Weber-by-Getty-Images.jpg",
+      "imdb": "https://www.imdb.com/name/nm0916387/"
+    }, {
+      "name": "Molly Shannon",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWMzMDNkOTMtNTkxOS00ZTRiLWFhOGItMGJiNmM0ZDA2ZDJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0789716/"
+    }, {
+      "name": "Mark Krysko",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjFkMWQ5ZWYtMWY4ZS00ZGRkLTg0NGQtYzZjNzdlYzQ0YWFiXkEyXkFqcGdeQXVyMTE0MTY1MjM@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm1558220/"
+    }]
+  }
+  
+
+  
+
   
   
 ]
