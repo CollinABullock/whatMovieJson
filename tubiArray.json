@@ -1,0 +1,27 @@
+[
+  {
+    "item": "5678",
+    "title": "Mean Streets",
+    "runtime": 112,
+    "mpaa": "R",
+    "poster": "https://canvas-bridge02.tubitv.com/HV22ihFbsWr14zm4SVavhC_ZMd4=/395x226:3405x1897/448x252/smart/img.adrise.tv/fdcc5005-b5c8-410a-b42f-2d3b34043786.jpg",
+    "description": "A small-time hood aspires to work his way up the ranks of the mob in Little Italy, but struggles with his Catholic upbringing and loyalty to his reckless friend.",
+    "genre": ["crime", "drama"],
+    "link": "https://tubitv.com/movies/100012517/mean-streets",
+    "director": [{
+      "name": "Martin Scorsese",
+      "image": "https://static01.nyt.com/images/2020/01/05/arts/05martin-scorsese3/05martin-scorsese3-facebookJumbo.jpg?year=2020&h=550&w=1050&s=0f5a5899d5c57e3c87edbc90e8b8228d7cbefa0f663d4992e768874ce09cd2f4&k=ZQJBKqZ0VN",
+      "imdb": "https://www.imdb.com/name/nm0000217/"
+    }],
+    "actors": [{
+      "name": "Robert De Niro",
+      "image": "https://people.com/thmb/5m8WUpuC38Opy51dL4fTaz_MaKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/gettyimages-1202357729-c8f22c1ef5db4bfa9ecc67df3bbb5738.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000134/"
+    }, {
+      "name": "Harvey Keitel",
+      "image": "https://static.timesofisrael.com/www/uploads/2021/06/6-25-21-harvey-keitel.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0000172/"
+    }]
+  }
+  
+]
