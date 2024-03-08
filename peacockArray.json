@@ -1123,5 +1123,87 @@
       "imdb": "https://www.imdb.com/name/nm0492961/"
     }]
   },
-  
+
+{
+  "item": "5482",
+  "title": "Eternal Sunshine of the Spotless Mind",
+  "runtime": 108,
+  "mpaa": "R",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/2e26dbea-b75c-3722-8afc-949113bf7d7e/TITLE_ART_3_4/640/480?language=eng&territory=US&version=129157c9-ad62-3450-a1bb-0564c37c4096&output-format=webp",
+  "description": "After a painful breakup, Joel Barish decides to undergo a procedure to erase memories of his ex-girlfriend Clementine Kruczynski. As the process unfolds, Joel reconsiders his decision and fights to hold onto the memories of their tumultuous relationship.",
+  "genre": ["drama", "romance", "science-fiction"],
+  "link": "https://www.peacocktv.com/watch-online/movies/drama/eternal-sunshine-of-the-spotless-mind/788c8e18-2d35-355e-b9c5-f25133c76ae1",
+  "director": [{
+    "name": "Michel Gondry",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2MzY2UwYmEtMDkwNC00MTM3LWJkZGYtYjljMjZkNTVkYjdlXkEyXkFqcGdeQXVyMTk5NTk1MDI@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0327273/"
+  }],
+  "actors": [{
+      "name": "Jim Carrey",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8f8vfM285BNBppHh9aILItafPdiSyk4eJwF25L0MdPzY-HZ6K",
+      "imdb": "https://www.imdb.com/name/nm0000120/"
+    }, {
+      "name": "Kate Winslet",
+      "image": "https://people.com/thmb/CnN__ZQPUiWoOqMp7_mpMS4gNVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x389:751x391)/cannes-kate-winslet-091922-c6e4e620bd014eeca15399d3462bd92d.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000701/"
+    }, {
+      "name": "Tom Wilkinson",
+      "image": "https://ichef.bbci.co.uk/news/480/cpsprodpb/A84E/production/_130068034_tomwilkinsonjpeg.jpgcrop.jpg.webp",
+      "imdb": "https://www.imdb.com/name/nm0929489/"
+    }, {
+      "name": "Elijah Wood",
+      "image": "https://parade.com/.image/t_share/MjAyOTc0MzIxMzA2NTEwNDA0/elijah-wood-net-worth.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000704/"
+    }]
+},
+{
+  "item": "3910",
+  "title": "American Psycho 2",
+  "runtime": 88,
+  "mpaa": "R",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/66323580-8da7-3b81-a30f-0b7f6d893555/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=73a1f247-eb50-3983-ad03-1f45a6a453e7&output-format=webp",
+  "description": "In this direct-to-video sequel to 'American Psycho,' a driven criminology student becomes obsessed with her professor and begins to eliminate anyone who stands in her way of becoming his teaching assistant.",
+  "genre": ["horror", "thriller", "comedy", "sequel"],
+  "link": "https://www.peacocktv.com/watch-online/movies/horror/american-psycho-ii-all-american-girl/549c73eb-6f24-365b-86f8-6d726bcfa2cd",
+  "director": [{
+    "name": "Morgan J. Freeman",
+    "image": "https://static01.nyt.com/images/2010/08/29/arts/29freeman-span/29freeman-span-articleLarge.jpg",
+    "imdb": "https://www.imdb.com/name/nm0293531/"
+  }],
+  "actors": [{
+    "name": "Mila Kunis",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1OlgZOAEREvkIiPGoDLAFknCi64mLLBzw7XuaWZwcr3guueme",
+    "imdb": "https://www.imdb.com/name/nm0005109/"
+  }, {
+    "name": "William Shatner",
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRqGypLfmTmtwtPC4kbBsVi71aMh26q4XkTjZpgoDlUmPKauet1e9-_Bpsn8c6OVfy43ZpzlrEiQ3bfXZI",
+    "imdb": "https://www.imdb.com/name/nm0000638/"
+  }]
+},
+{
+  "item": "1923",
+  "title": "Birdemic: Shock and Terror",
+  "runtime": 93,
+  "mpaa": "Not Rated",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/306151f4-b6d4-36ec-93fd-ca3444684da7/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=a588fa72-f284-30d0-9aa8-33e5ef48ddf9&output-format=webp",
+  "description": "A romantic couple's date night is interrupted by a series of deadly bird attacks. As they struggle to survive, they join forces with other survivors in a fight against the avian menace.",
+  "genre": ["horror", "romance", "science-fiction", "comedy"],
+  "link": "https://www.peacocktv.com/watch-online/movies/birdemic-shock-and-terror/bd79975e-25c8-3d0d-8288-b88e7c3ec6e6",
+  "director": [{
+    "name": "James Nguyen",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRd6GaIGyEv_nMcDulGESHtWQjJuL4jP4-a6rnP6gKxXcm-D62K",
+    "imdb": "https://www.imdb.com/name/nm2199030/"
+  }],
+  "actors": [{
+    "name": "Alan Bagh",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzM4NGFkNDMtNzA3MC00MGEwLTkyZDItNjI5N2RlMGIyMzVmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm3247232/"
+  }, {
+    "name": "Whitney Moore",
+    "image": "https://m.media-amazon.com/images/M/MV5BODAwOTM4ZDYtM2VlNy00MWViLWI3YTYtZjU1YzFkNGI4YWEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+    "imdb": "https://www.imdb.com/name/nm2756127/"
+  }]
+},
+
+
 ]
