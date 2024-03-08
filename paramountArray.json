@@ -1,0 +1,36 @@
+[
+  {
+    "item": "1357",
+    "title": "Zodiac",
+    "runtime": 157,
+    "mpaa": "R",
+    "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/movie_asset/92/68/23/zod_salone_16_9_1920x1080_nb_0.jpg",
+    "description": "A San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.",
+    "genre": ["crime", "drama", "mystery"],
+    "link": "https://www.paramountplus.com/movies/video/wjQ4RChi6BHHu4MVTncppVuCwu44uq2Q/",
+    "director": [{
+      "name": "David Fincher",
+      "image": "https://www.premiumbeat.com/blog/wp-content/uploads/2022/11/featuredimage.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000399/"
+    }],
+    "actors": [{
+      "name": "Jake Gyllenhaal",
+      "image": "https://ew.com/thmb/OxGAWrPlakpTLx74Tpvuj90BhAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Jake-Gylenhaal-Prime-Video-122123-6ae193e59d6441cbb52162857980d58b.jpg",
+      "imdb": "https://www.imdb.com/name/nm0350453/"
+    }, {
+      "name": "Mark Ruffalo",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2023/10/AP22228189216991-1.jpeg?strip=1",
+      "imdb": "https://www.imdb.com/name/nm0749263/"
+    }, {
+      "name": "Robert Downey Jr.",
+      "image": "https://people.com/thmb/1k_nt6T3iqA1JN0EIrz3IAqYH9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(968x455:970x457)/Robert-Downey-Jr-021824-03-3ea1e16232d845a6a3470797b4414f3c.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000375/"
+    }, {
+      "name": "Anthony Edwards",
+      "image": "https://s.wsj.net/public/resources/images/BN-YC885_NYEDWA_M_20180404163843.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000383/"
+    }]
+  }
+  
+  
+]
