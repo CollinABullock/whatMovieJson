@@ -2747,7 +2747,7 @@
   {
     "item": 285,
     "title": "Force Majeure",
-    "runtime": "120 minutes",
+    "runtime": 120,
     "mpaa": "R",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/1ea4d2fbb3d6d54eb81a860083b8501dc5f79a33b26ac2390e4f6dc3b3c7cdb4.jpg",
     "description": "In 'Force Majeure', a family's ski vacation in the French Alps takes a dramatic turn when an avalanche threatens their safety. As the avalanche approaches, the father makes a split-second decision that exposes rifts in their relationships and challenges their perceptions of bravery and responsibility. With tensions mounting and emotions running high, the family must confront the aftermath of the incident and navigate the complexities of forgiveness and reconciliation.",
@@ -2776,7 +2776,7 @@
   {
     "item": 286,
     "title": "Shoplifters",
-    "runtime": "121 minutes",
+    "runtime": 121,
     "mpaa": "Not Rated",
     "poster": "https://www.metacritic.com/a/img/resize/a7c9e139d9def4ca18f84965633ac72009610206/catalog/provider/2/13/2-b29fe7124cfefe38f340682be6b18af7.jpg?auto=webp&fit=crop&height=675&width=1200",
     "description": "In 'Shoplifters', a Japanese family living on the margins of society relies on shoplifting to make ends meet. When they take in a young girl they find on the streets, their tight-knit existence is disrupted, leading to revelations about their past and the true nature of their bonds. As authorities close in and their secrets threaten to unravel, the family must decide what it truly means to be a family and where their loyalties lie.",
@@ -2805,7 +2805,7 @@
   {
     "item": 287,
     "title": "Biutiful",
-    "runtime": "148 minutes",
+    "runtime": 148,
     "mpaa": "R",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/8fd61f535a4694cad709b4037e9de5a684a9a67ef57ffb6f2d5d0a35e5979734.jpg",
     "description": "In 'Biutiful', Uxbal, a troubled man living in Barcelona, struggles to reconcile his role as a single father with his involvement in illegal activities. As he grapples with his terminal illness and confronts the consequences of his actions, Uxbal navigates the gritty underworld of the city while striving to find redemption and protect his children. Through moments of darkness and despair, Uxbal seeks beauty and meaning in the midst of life's struggles.",
@@ -2834,7 +2834,7 @@
   {
     "item": 288,
     "title": "Another Round",
-    "runtime": "117 minutes",
+    "runtime": 117,
     "mpaa": "Not Rated",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/a567f43be5a589e93f2144f68c432edb94b99971035a7acb6ee70b566caaa509.jpg",
     "description": "In 'Another Round', four high school teachers, stuck in a rut and feeling uninspired, decide to experiment with maintaining a constant level of alcohol in their blood throughout the day. Initially, the experiment leads to increased productivity and a renewed sense of vitality. However, as they push the boundaries of their experiment further, they find themselves grappling with the consequences of their actions and questioning the true meaning of happiness and fulfillment.",
@@ -2863,7 +2863,7 @@
   {
     "item": 289,
     "title": "Ghost World",
-    "runtime": "111 minutes",
+    "runtime": 111,
     "mpaa": "R",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/bd9d98edcf28563d5e619df7319c44581ee5b2eb22be1954c21263f904c6ab9e._UR1920,1080_SX720_FMjpg_.jpg",
     "description": "In 'Ghost World', best friends Enid and Rebecca navigate the complexities of adolescence and the transition to adulthood in their suburban hometown. As they grapple with the pressures of conformity and societal expectations, they embark on a series of misadventures that lead them to confront their own identities and the uncertain future that lies ahead. With sharp wit and keen observation, 'Ghost World' offers a poignant exploration of friendship, disillusionment, and the search for authenticity.",
@@ -2892,7 +2892,7 @@
   {
     "item": 290,
     "title": "Living in Oblivion",
-    "runtime": "90 minutes",
+    "runtime": 90,
     "mpaa": "R",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/22ef16c0e05bfb5df6f308b29e31a1ad73b7ff31fd5d4160be969e6be4bc8f90.jpg",
     "description": "'Living in Oblivion' follows a film director struggling to shoot a low-budget independent film. As he contends with a myriad of obstacles, including technical difficulties, egotistical actors, and personal insecurities, the line between reality and fiction blurs, leading to a series of comedic and surreal encounters on set. Through its satirical lens, the film explores the chaotic and unpredictable nature of the filmmaking process, while offering insights into the dreams, frustrations, and aspirations of those involved.",
@@ -2925,7 +2925,7 @@
   {
     "item": 291,
     "title": "The Real Blonde",
-    "runtime": "105 minutes",
+    "runtime": 105,
     "mpaa": "R",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/2009d3cabf855b1a07ff5c833193922332f71db2c2d3da853c4d9f27f7814f9f.jpg",
     "description": "In 'The Real Blonde', a group of New Yorkers navigates the complexities of love, relationships, and career aspirations in the bustling city. As they grapple with their own insecurities and desires, their lives intersect in unexpected ways, leading to humorous and poignant moments of self-discovery. Set against the backdrop of the fashion and entertainment industries, the film explores themes of identity, authenticity, and the pursuit of happiness.",
@@ -2954,7 +2954,7 @@
   {
     "item": 292,
     "title": "A Walk to Remember",
-    "runtime": "101 minutes",
+    "runtime": 101,
     "mpaa": "PG",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/945071b03fd8aebe3dc89a6f0034fb5f9f65c178dfae77a1d69e85c3f9512b39.jpg",
     "description": "In 'A Walk to Remember', a high school student named Landon Carter is forced to participate in community service after getting into trouble. He is drawn to Jamie Sullivan, a quiet and religious girl, who helps him with his lines for the school play. Despite their differences, Landon and Jamie develop a deep connection, and their relationship transforms both of their lives in unexpected ways. As they navigate the challenges of love and faith, they discover the true meaning of compassion and redemption.",
@@ -2987,7 +2987,7 @@
   {
     "item": 293,
     "title": "Notting Hill",
-    "runtime": "124 minutes",
+    "runtime": 124,
     "mpaa": "PG-13",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/c9b2b3067dc4913f5c26f3a8aae9ba2b28aa2d28f5197f802e087ceda3d11f2a.jpg",
     "description": "In 'Notting Hill', the life of a London bookstore owner named William Thacker takes an unexpected turn when he meets Anna Scott, a famous American actress. Despite their vastly different worlds, William and Anna develop a romantic connection. As they navigate the challenges of fame, media scrutiny, and personal insecurities, they must confront the realities of their relationship and decide if love can truly conquer all.",
@@ -3016,7 +3016,7 @@
   {
     "item": 294,
     "title": "Eat Pray Love",
-    "runtime": "140 minutes",
+    "runtime": 140,
     "mpaa": "PG-13",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/784cf5cfd9738977b4d36284e5e5cb2565e0a7401a5f7b3054438eb21619bdff.jpg",
     "description": "'Eat Pray Love' follows the journey of Elizabeth Gilbert, a woman who embarks on a year-long trip around the world in search of self-discovery and fulfillment. After a painful divorce and a period of soul-searching, Elizabeth decides to leave her old life behind and explore new cultures, cuisines, and spiritual practices. From Italy to India to Bali, she learns valuable lessons about love, forgiveness, and the importance of finding balance in life.",
@@ -3045,7 +3045,7 @@
   {
     "item": 295,
     "title": "Couples Retreat",
-    "runtime": "113 minutes",
+    "runtime": 113,
     "mpaa": "PG-13",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/c34ed88f364dce96f8c596869053b22c4e336ebecf6e53a9e872f9219ef62ef7.jpg",
     "description": "In 'Couples Retreat', four couples embark on a tropical vacation to a luxurious resort in order to work on their relationships. However, they soon discover that the retreat's therapy sessions are mandatory for all couples, leading to unexpected challenges and revelations. As they navigate the ups and downs of their relationships, the couples must confront their own issues and redefine their priorities in order to find true happiness.",
@@ -3074,7 +3074,7 @@
   {
     "item": 296,
     "title": "Role Models",
-    "runtime": "99 minutes",
+    "runtime": 99,
     "mpaa": "R",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/12886e5f2cd17980164a4d4406bb60314b5e054e7d86270f15e8d5bf4220720e._UR1920,1080_SX720_FMjpg_.jpg",
     "description": "In 'Role Models', two energy drink salesmen, Danny and Wheeler, find themselves in trouble with the law after crashing their company truck. To avoid jail time, they agree to perform community service by participating in a mentorship program. Assigned to mentor troubled youths, Danny and Wheeler embark on a series of misadventures as they struggle to connect with their assigned charges and navigate the challenges of adulthood.",
@@ -3103,7 +3103,7 @@
   {
     "item": 297,
     "title": "Goon",
-    "runtime": "92 minutes",
+    "runtime": 92,
     "mpaa": "R",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/c0553658c9aa9cfa5741c3f68169726bf62799b4a05fa4d0bde2ef6908395ead.jpg",
     "description": "In 'Goon', Doug Glatt, a bouncer with a talent for fighting, finds himself recruited as an enforcer for a minor league hockey team. Despite lacking skill on the ice, Doug's physical prowess and dedication make him an asset to the team. As he navigates the rough and tumble world of professional hockey, Doug must confront his own insecurities and prove himself on the ice.",
@@ -3132,7 +3132,7 @@
   {
     "item": 298,
     "title": "Baseketball",
-    "runtime": "103 minutes",
+    "runtime": 103,
     "mpaa": "R",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/f1c631bc405eca99b400af2172735977be0e2560e45e162635a3ac160376dd06.jpg",
     "description": "In 'Baseketball', two friends, Coop and Remer, invent a new sport combining elements of basketball and baseball. The sport, also called Baseketball, becomes incredibly popular and attracts a passionate fan base. However, as the sport gains commercial success, Coop and Remer must navigate the challenges of fame, greed, and corporate influence. With humor and satire, 'Baseketball' explores the absurdities of professional sports and the commercialization of athletics.",
@@ -3165,7 +3165,7 @@
   {
 "item": 299,
 "title": "The Crow",
-"runtime": "102 minutes",
+"runtime": 102,
 "mpaa": "R",
 "poster": "https://m.media-amazon.com/images/S/pv-target-images/4b9ad3bdb06a657edb2bda823df5cc907c451ed66aa0fd1c16b3b7ee01392acc.jpg",
 "description": "In 'The Crow', Eric Draven, a musician, returns from the dead to seek vengeance against those responsible for his and his fiancée's brutal murders. Empowered by a mystical crow, Eric embarks on a relentless quest to rid the city of crime and corruption. As he dispenses justice with supernatural abilities, Eric confronts his own inner demons and grapples with the consequences of his actions.",
