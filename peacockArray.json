@@ -1046,4 +1046,82 @@
       }]
   }
   ,
+  {
+    "item": "5987",
+    "title": "Delirious",
+    "runtime": 107,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/e1de0fac-f9e7-3641-b5ce-322eececb718/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=9dc276e3-5894-36dc-a822-aa078d2668e5&output-format=webp",
+    "description": "A homeless man befriends a celebrity photographer and gets a job as his assistant. As he becomes more involved in the celebrity world, their relationship becomes strained.",
+    "genre": ["comedy", "drama"],
+    "link": "https://www.peacocktv.com/watch-online/movies/delirious/de141f37-d980-3174-ae7f-afd250faddfb",
+    "director": [{
+      "name": "Tom DiCillo",
+      "image": "https://geekwithclipons.files.wordpress.com/2020/07/img_7043.png?w=840",
+      "imdb": "https://www.imdb.com/name/nm0225219/"
+    }],
+    "actors": [{
+      "name": "Steve Buscemi",
+      "image": "https://media.gq.com/photos/5ec54119c3bdb476c711d4c0/16:9/w_1280,c_limit/steve-buscemi-gq-june-july-2020-02-16x9.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000114/"
+    }, {
+      "name": "Michael Pitt",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBQwna8jqAslelLvbm65r3LxyHtkSz4u6vQDrtG7Sji-lv--Rk",
+      "imdb": "https://www.imdb.com/name/nm0685854/"
+    }]
+  },
+  {
+    "item": "7856",
+    "title": "Egg",
+    "runtime": 90,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/2c501f89-56ad-3f04-9e52-cdb104c541a9/TITLE_ART_3_4/640/480?language=eng&territory=US&version=c13991a5-9a7b-3c54-9799-617a3e36eb3b&output-format=webp",
+    "description": "A comedic look at the complexities of female friendship and motherhood, as two artistic couples come together to discuss parenthood over dinner.",
+    "genre": ["comedy", "drama"],
+    "link": "https://www.peacocktv.com/watch-online/movies/egg/dedee6d3-8285-38a0-bebb-81635015d179",
+    "director": [{
+      "name": "Marianna Palka",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2GywDUvUE4xhx9SIr5-vKDccQf-d1-98qtMN85VBg9eKF8B5o",
+      "imdb": "https://www.imdb.com/name/nm1702442/"
+    }],
+    "actors": [{
+      "name": "Christina Hendricks",
+      "image": "https://static.independent.co.uk/2023/12/15/08/GettyImages-1205172956.jpg",
+      "imdb": "https://www.imdb.com/name/nm0376716/"
+    }, {
+      "name": "Alysia Reiner",
+      "image": "https://www.kveller.com/wp-content/uploads/2019/11/reiner6.jpg",
+      "imdb": "https://www.imdb.com/name/nm0717613/"
+    }]
+  }
+  ,
+  {
+    "item": "3974",
+    "title": "Fear of a Black Hat",
+    "runtime": 88,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/edee143d-d906-398f-add6-4cb2390c996f/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=998d40d1-a7c8-38e0-aae4-528d24dda94a&output-format=webp",
+    "description": "A mockumentary that satirizes the world of hip hop, following the rise and fall of the rap group NWH (Niggaz With Hats) as they navigate the music industry.",
+    "genre": ["comedy", "music"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy/fear-of-a-black-hat/935d471c-829b-3835-978c-cec7a033179d",
+    "director": [{
+      "name": "Rusty Cundieff",
+      "image": "https://app.blacklivingknowledge.com/wp-content/uploads/2016/02/rusty-cundieff.jpg",
+      "imdb": "https://www.imdb.com/name/nm0192112/"
+    }],
+    "actors": [{
+      "name": "Larry B. Scott",
+      "image": "https://facts.net/wp-content/uploads/2023/11/20-astounding-facts-about-larry-b-scott-1700031249.jpg",
+      "imdb": "https://www.imdb.com/name/nm0778750/"
+    }, {
+      "name": "Rusty Cundieff",
+      "image": "https://app.blacklivingknowledge.com/wp-content/uploads/2016/02/rusty-cundieff.jpg",
+      "imdb": "https://www.imdb.com/name/nm0192112/"
+    }, {
+      "name": "Mark Christopher Lawrence",
+      "image": "https://imengine.prod.srp.navigacloud.com/?uuid=bced944a-94d7-5d2d-b808-0fc26d909ebc&type=primary&q=72&width=960&height=720&function=cropresize&crop_w=0.99999&crop_h=0.6&x=1.0E-5&y=0.128",
+      "imdb": "https://www.imdb.com/name/nm0492961/"
+    }]
+  },
+  
 ]
