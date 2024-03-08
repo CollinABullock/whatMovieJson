@@ -1204,6 +1204,97 @@
     "imdb": "https://www.imdb.com/name/nm2756127/"
   }]
 },
-
-
+{
+  "item": "5942",
+  "title": "Black Christmas",
+  "runtime": 98,
+  "mpaa": "R",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/9690ee2a-cdeb-31be-81f0-a24fe15a594c/TITLE_ART_3_4/640/480?language=eng&territory=US&version=f34c3f7c-6097-3bd0-a1a0-632fd64785bb&output-format=webp",
+  "description": "During the Christmas break, a group of sorority sisters begin receiving threatening phone calls from a mysterious stranger. As their housemates start to disappear, they realize that they are being targeted by a deranged killer.",
+  "genre": ["horror", "christmas", "classic"],
+  "link": "https://www.peacocktv.com/watch-online/movies/horror/black-christmas/324ebbad-8030-3dd3-9e0e-b04c49ee80c2",
+  "director": [{
+    "name": "Bob Clark",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA3Njg5Mzc0NF5BMl5BanBnXkFtZTcwMDQxNDgwMw@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0164334/"
+  }],
+  "actors": [{
+    "name": "Olivia Hussey",
+    "image": "https://nilsendavid.files.wordpress.com/2017/04/hussey-2.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001376/"
+  }, {
+    "name": "Keir Dullea",
+    "image": "https://lh3.googleusercontent.com/proxy/SSNcHxhJZW0QdnBdggpVJpJsfQdaVXXsGSCtymCTvQDyuRrhw0LdDb0o2oI_l9BCUyUoLmkUYu3KCk0o04QtLsJAO41ScEwDqtwmpxWeZOaLIwXW6lTOMMnhxWSabBlvD_6KVmLLT3IrZFgSFsKwjjaDTf5_9n78EI8",
+    "imdb": "https://www.imdb.com/name/nm0001159/"
+  }, {
+    "name": "Margot Kidder",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/margot-kidder-f39426fd-cc9a-410a-a832-abc38847bad4.jpg",
+    "imdb": "https://www.imdb.com/name/nm0450943/"
+  }]
+},
+{
+  "item": "1345",
+  "title": "Class of Nuke 'Em High",
+  "runtime": 85,
+  "mpaa": "R",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/ab91228d-cf7f-37e4-aaec-7674f1896763/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=530bbd47-a85e-355f-9092-c99c21eb9287&output-format=webp",
+  "description": "At Tromaville High School, a nearby nuclear power plant leaks toxic waste into the school's water supply, resulting in bizarre mutations among the student body.",
+  "genre": ["comedy", "horror", "science-fiction"],
+  "link": "https://www.peacocktv.com/watch-online/movies/class-of-nuke-em-high/c7be24ed-94b6-3f2e-a737-c2bdad3bbbdd",
+  "director": [{
+    "name": "Lloyd Kaufman",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2022/06/220614_Yang_NYP_Features___Lloyd_Kaufman_and_Pat_Swinney_Kaufma_20.jpg?quality=75&strip=all&w=1024",
+    "imdb": "https://www.imdb.com/name/nm0442910/"
+  }],
+  "actors": [{
+    "name": "Janelle Brady",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGYxOWE2NGItNjMxMS00ZjQwLWE4NmQtODgyMWFkZTEyYTU3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0103835/"
+  }, {
+    "name": "Gil Brenton",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDY0MGZlYjktMWI3NS00NmU2LWFkZGQtZjg0NThmNDQxMDZmXkEyXkFqcGdeQXVyOTY5NjI2Mg@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0107547/"
+  }]
+},
+{
+  "item": "2768",
+  "title": "Dead Snow 2: Red vs. Dead",
+  "runtime": 100,
+  "mpaa": "Not Rated",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/45acc490-c770-3075-b726-48f2760c04e3/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=f9523047-387b-3691-966c-31475dc112be&output-format=webp",
+  "description": "In this sequel to 'Dead Snow,' Martin teams up with a group of American zombie enthusiasts to fight against Herzog and his horde of Nazi zombies, who are terrorizing a small town.",
+  "genre": ["action", "comedy", "horror"],
+  "link": "https://www.peacocktv.com/watch-online/movies/horror/dead-snow-2-red-vs.-dead/fd030398-351b-331b-9105-c79cff6fa91b",
+  "director": [{
+    "name": "Tommy Wirkola",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTViNDhhMTktNTk0Ni00MDUzLTk2ODgtYjkwZTQ3ZDQ0N2M1XkEyXkFqcGdeQXVyMTM4MzMxMzk@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm1321650/"
+  }],
+  "actors": []
+},
+{
+  "item": "8312",
+  "title": "Final Girl",
+  "runtime": 90,
+  "mpaa": "R",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/d48b0d67-ce7e-332c-b806-e508f66d715f/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=581797a9-9d7b-3858-a936-137178e0e992",
+  "description": "A group of sadistic boys lure beautiful young women into the woods to hunt them down for sport. However, their latest target, Veronica, turns out to be more than they bargained for as she possesses lethal skills taught to her by a mysterious mentor.",
+  "genre": ["action", "thriller"],
+  "link": "https://www.peacocktv.com/watch-online/movies/horror/final-girl/8a1e7c3c-6af4-3afd-8cea-cf8ec0a6ac46",
+  "director": [{
+    "name": "Tyler Shields",
+    "image": "https://i.ytimg.com/vi/kNAAfSHB9Ms/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDryJJZ8uk23XdREZiOBFdaQiEn_w",
+    "imdb": "https://www.imdb.com/name/nm1325222/"
+  }],
+  "actors": [{
+    "name": "Abigail Breslin",
+    "image": "https://variety.com/wp-content/uploads/2015/07/abigail_breslin_new.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm1113550/"
+  }, {
+    "name": "Wes Bentley",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/wes-bentley-1673250691.jpg?crop=1.00xw:0.691xh;0,0.0224xh&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0004747/"
+  }]
+}
+,
 ]
