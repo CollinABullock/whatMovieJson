@@ -843,5 +843,207 @@
         "image": "https://variety.com/wp-content/uploads/2024/03/madonna-GettyImages-1736271104-e1709666829226.jpg?w=1000&h=563&crop=1",
         "imdb": "https://www.imdb.com/name/nm0000187/"
       }]
+  },
+  {
+    "item": "5914",
+    "title": "A Map of the World",
+    "runtime": 125,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/f11e7805-b5a5-3320-807a-40ed08d8cdc4/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=b6a70f05-bdf1-3bb5-b176-81beaa66739c&output-format=webp",
+    "description": "A rural Wisconsin couple's lives are shattered when their daughter's friend drowns in their pond and their best friend is accused of abusing their children.",
+    "genre": ["drama"],
+    "link": "https://www.peacocktv.com/watch-online/movies/drama/a-map-of-the-world/31a804f8-0ca4-3f22-829e-cc154934289f",
+    "director": [{
+      "name": "Scott Elliott",
+      "image": "https://assets.playbill.com/editorial/_articleLeadImage/e53c2df8d5e8742279b010237b467b54-newdramat16.jpg",
+      "imdb": "https://www.imdb.com/name/nm0254305/"
+    }],
+    "actors": [{
+        "name": "Sigourney Weaver",
+        "image": "https://ew.com/thmb/-ongROf-gKybPgetJRMh5jV96yk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ghostbusters-02-6796c544dc2443578df3b5370640d2f5.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000244/"
+      }, {
+        "name": "Julianne Moore",
+        "image": "https://www.livingwellmag.com/wp-content/uploads/2016/05/Julianne-Moore.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000194/"
+      }, {
+        "name": "David Strathairn",
+        "image": "https://facts.net/wp-content/uploads/2023/10/16-astounding-facts-about-david-strathairn-1697336945.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000657/"
+      }]
+  },
+  {
+    "item": "3847",
+    "title": "A Rainy Day in New York",
+    "runtime": 92,
+    "mpaa": "PG-13",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/183e6270-2bd0-34ea-97d8-4f9ae44c3181/TITLE_ART_3_4/640/480?language=eng&territory=US&version=5d94bd28-bc7b-3a37-9504-171ffa0db009&output-format=webp",
+    "description": "Two young people, Gatsby and Ashleigh, spend a weekend in New York City where their romantic and career aspirations clash with the realities of adulthood.",
+    "genre": ["comedy", "romance"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy/a-rainy-day-in-new-york/090f687d-477d-3256-9e44-e4ce378bc01d",
+    "director": [{
+      "name": "Woody Allen",
+      "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000095/"
+    }],
+    "actors": [{
+        "name": "Timothée Chalamet",
+        "image": "https://m.media-amazon.com/images/M/MV5BNThiOTM4NTAtMDczNy00YzlkLWJhNTEtZTZhNDVmYzlkZWI0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "imdb": "https://www.imdb.com/name/nm3154303/"
+      }, {
+        "name": "Elle Fanning",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/elle-fanning-attends-the-6th-annual-instyle-awards-on-news-photo-1637084431.jpg?crop=1xw:0.78537xh;center,top",
+        "imdb": "https://www.imdb.com/name/nm1102577/"
+      }, {
+        "name": "Selena Gomez",
+        "image": "https://assets.teenvogue.com/photos/646a4a3a51b8bb13dc4475d4/16:9/w_2560%2Cc_limit/1455627681",
+        "imdb": "https://www.imdb.com/name/nm1411125/"
+      }]
+  },
+  {
+    "item": "9275",
+    "title": "Addicted to Fresno",
+    "runtime": 85,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/983c9af2-6bf9-3d81-94e0-0ef03a8885b4/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=40fb7e3a-04bb-3ab2-8a19-56265c5023fe&output-format=webp",
+    "description": "Sisters Shannon and Martha accidentally kill a guest while working at a hotel in Fresno, California. As they try to cover up the crime, their lives spiral out of control.",
+    "genre": ["comedy", "crime"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy/addicted-to-fresno/8067e94b-f493-3463-aa97-20dd0cff50ef",
+    "director": [{
+      "name": "Jamie Babbit",
+      "image": "https://shaker.life/wp-content/uploads/2017/04/Jamie_CoverPic.jpg",
+      "imdb": "https://www.imdb.com/name/nm0044796/"
+    }],
+    "actors": [{
+        "name": "Natasha Lyonne",
+        "image": "https://media.npr.org/assets/img/2023/01/27/gettyimages-14566283971_wide-3c03ce4ee0a594f9db3643abd2530b1ccad83df8.jpg",
+        "imdb": "https://www.imdb.com/name/nm0005169/"
+      }, {
+        "name": "Judy Greer",
+        "image": "https://media.vanityfair.com/photos/55b8f5d79e9755183d97bed0/1:1/w_957,h_638,c_limit/a-judy-greer-jurassic-world-tomorrowland-antman.jpg",
+        "imdb": "https://www.imdb.com/name/nm0339460/"
+      }, {
+        "name": "Aubrey Plaza",
+        "image": "https://static.wikia.nocookie.net/snl/images/c/ce/Aubrey-Plaza.jpeg/revision/latest?cb=20230109042920",
+        "imdb": "https://www.imdb.com/name/nm2201555/"
+      }]
+  },
+  {
+    "item": "6318",
+    "title": "Afternoon Delight",
+    "runtime": 97,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/3fcc1fb2-01c6-3d4c-9310-749a1327e85f/TITLE_ART_3_4/640/480?language=eng&territory=US&version=43647785-f416-347b-bcf6-2d48dc78cd18&output-format=webp",
+    "description": "Rachel, a stay-at-home mom feeling unfulfilled, seeks to spice up her marriage by visiting a strip club. There, she meets McKenna, a young stripper, and decides to hire her as a live-in nanny, leading to unexpected consequences.",
+    "genre": ["comedy", "drama"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy-drama/afternoon-delight/17f0935c-5c7e-358e-a1a4-be48a8d1c5af",
+    "director": [{
+      "name": "Jill Soloway",
+      "image": "https://media.gq.com/photos/5bcded2fd4f009539e0d94b2/master/pass/Jill-Soloway-interview-she-wants-it-memoir-gq.jpg",
+      "imdb": "https://www.imdb.com/name/nm0811181/"
+    }],
+    "actors": [{
+        "name": "Kathryn Hahn",
+        "image": "https://ew.com/thmb/1bHz8RV1b3LR1DWnlnOGJfDiH4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kathryn-Hahn-73fb8599864d45dbb0c065131220592a.jpg",
+        "imdb": "https://www.imdb.com/name/nm0352373/"
+        }, {
+          "name": "Juno Temple",
+          "image": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe44f6d2e-cc4f-11ea-b702-e559f69f5512.jpg?crop=5714%2C3214%2C162%2C296",
+          "imdb": "https://www.imdb.com/name/nm1013538/"
+        }, {
+          "name": "Josh Radnor",
+          "image": "https://people.com/thmb/lZnWSpFt3qDA88X7K3QwAX5xsg8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(911x369:913x371)/Josh-Radnors-Wedding-tout-012224-eb9f8b9ada734f53b65c73af7e3ad3bd.jpg",
+          "imdb": "https://www.imdb.com/name/nm0707/"
+        }, {
+        "name": "Jane Lynch",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYzODY3OTg2MV5BMl5BanBnXkFtZTgwMjM3Nzg3NjM@._CR38,34,1984,1116_UX1248_UY702_QL75_UX500_CR0,0,500,281_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0528331/"
+      }]
+  },
+  {
+    "item": "2719",
+    "title": "Basmati Blues",
+    "runtime": 106,
+    "mpaa": "Not Rated",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/40979f75-e826-33ad-a848-a77fc9c1b096/TITLE_ART_3_4/640/480?language=eng&territory=US&version=2e5883f9-e3b7-374c-8642-da0e25bcb5e2&output-format=webp",
+    "description": "A young scientist is sent to India to sell genetically modified rice to rural farmers. However, as she learns more about the impact of her work on the local community and environment, she begins to question her company's motives.",
+    "genre": ["comedy", "romance", "musical"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy/basmati-blues/9de5a0e5-ff0f-3b62-b956-f6942c50eb8a",
+    "director": [{
+      "name": "Dan Baron",
+      "image": "https://pyxis.nymag.com/v1/imgs/bcf/cec/cf5a4626de3c8a36c4f5953061b8b5aa14-06-basmati-blues-3.rsocial.w1200.jpg",
+      "imdb": "https://www.imdb.com/name/nm1573841/"
+    }],
+    "actors": [{
+        "name": "Brie Larson",
+        "image": "https://www.screengeek.net/wp-content/uploads/2023/04/brie-larson-1.jpg",
+        "imdb": "https://www.imdb.com/name/nm0488953/"
+      }, {
+        "name": "Utkarsh Ambudkar",
+        "image": "https://facts.net/wp-content/uploads/2023/07/34-facts-about-utkarsh-ambudkar-1690738729.jpg",
+        "imdb": "https://www.imdb.com/name/nm2431912/"
+      }, {
+        "name": "Scott Bakula",
+        "image": "https://i.guim.co.uk/img/media/680baf08ad1d73c171acd3af1b02a87eea497ada/0_288_2129_1277/master/2129.jpg?width=465&dpr=1&s=none",
+        "imdb": "https://www.imdb.com/name/nm0000835/"
+      }]
+  },
+  {
+    "item": "1254",
+    "title": "Behaving Badly",
+    "runtime": 97,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/af27c713-e302-3b9d-8f33-c436580e532f/TITLE_ART_3_4/640/480?language=eng&territory=US&version=33d83eab-76db-324b-b69c-cf1da0d2cdc0&output-format=webp",
+    "description": "Teenager Rick Stevens becomes infatuated with his friend's mother while dealing with various misadventures, including drug dealers, mobsters, and strippers.",
+    "genre": ["comedy", "crime"],
+    "link": "https://www.peacocktv.com/watch-online/movies/romance/behaving-badly/7bc09cca-d1f9-313a-a69a-430683d0eb8e",
+    "director": [{
+      "name": "Tim Garrick",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTU4ZjQ3NmMtZjc5NC00MTY1LTkwYTEtMzlmOTBhZmE1YzI4XkEyXkFqcGdeQXVyMDY2MTg1MQ@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0308679/"
+    }],
+    "actors": [{
+        "name": "Nat Wolff",
+        "image": "https://deadline.com/wp-content/uploads/2019/03/nat-wolff.jpg",
+        "imdb": "https://www.imdb.com/name/nm1894936/"
+      }, {
+        "name": "Selena Gomez",
+        "image": "https://parade.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkzNDg3NzQzODQwNDI5NzU3/selena-gomez-net-worth.jpg",
+        "imdb": "https://www.imdb.com/name/nm1411125/"
+      }, {
+        "name": "Mary-Louise Parker",
+        "image": "https://people.com/thmb/cS6srJKVwCVfcSNS2FggTA3ryKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(704x299:706x301)/Mary-Louise-Parker_01-815680ff39b64f6da48d9586c47ea194.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000571/"
+      }]
   }
+  ,
+  {
+    "item": "7458",
+    "title": "Death Becomes Her",
+    "runtime": 104,
+    "mpaa": "PG-13",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/b3daad96-523e-39fb-b764-e4728aae89aa/TITLE_ART_3_4/640/480?language=eng&territory=US&version=b8daf304-45a7-39a9-83ac-fe5188f233f9&output-format=webp",
+    "description": "In this dark comedy, two rivals, a fading actress and a writer, both drink a potion that promises eternal youth. However, they soon discover that immortality comes with unexpected consequences.",
+    "genre": ["comedy", "fantasy"],
+    "link": "https://www.peacocktv.com/watch-online/movies/comedy/death-becomes-her/fb6c2b9d-2d4f-3a26-8659-b5123b26c11c",
+    "director": [{
+      "name": "Robert Zemeckis",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcT5u8sjV1AbBhjSgq2QV0XmosLZfjdcxpebi41ZTZjnHcBu5NM-mKO_eN-KtmMfrSt54Yp5gUQXDzdbHb4",
+      "imdb": "https://www.imdb.com/name/nm0000709/"
+    }],
+    "actors": [{
+        "name": "Meryl Streep",
+        "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRqC_eLgeqOO6G9MIyuy4rSNP0qjOyP2lGuEbAniOY20uEQW5FrSAxdls0mN187JOwW8MERxHJQ4oiE338",
+        "imdb": "https://www.imdb.com/name/nm0000658/"
+      }, {
+        "name": "Goldie Hawn",
+        "image": "https://images.squarespace-cdn.com/content/v1/59f76c9af14aa1219138e485/1708359395995-L85XTN21199V7TKPL0OL/GoldieHawn-21.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000445/"
+      }, {
+        "name": "Bruce Willis",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLg_SIgxsuQOn9hifx7kAH4YJK4Mdl3ulS-5nzfMDHjDIwxgNb",
+        "imdb": "https://www.imdb.com/name/nm0000246/"
+      }]
+  }
+  ,
 ]
