@@ -15,14 +15,11 @@ const primeData = require("./primeArray.json");
 const huluData = require("./huluArray.json");
 const peacockData = require("./peacockArray.json");
 const paramountData = require ("./paramountArray.json")
+const criterionData = require ("./criterionArray.json")
 
 app.get("/", (req, res) => {
   res.send("movies are gay");
 });
-
-app.get("/paramountArray", (req, res) => {
-  res.send(paramountData)
-})
 
 app.get("/netflixArray", (req, res) => {
   res.send(netflixData);
@@ -119,6 +116,46 @@ app.post("/peacockArray", (req, res) => {
 
   // Update the netflixData array with the new item
   peacockData.push(newItem);
+
+  // Send a response indicating success
+  res.status(201).json({ message: "You just added a movie bucko", item: newItem });
+});
+
+app.get("/paramountArray", (req, res) => {
+  res.send(paramountData)
+})
+
+app.post("/paramountArray", (req, res) => {
+  const newItem = req.body;
+
+  // Generate a unique item number using UUID
+  const newItemNumber = uuid.v4(); // Generate a version 4 UUID
+
+  // Add the generated item number to the newItem object
+  newItem.item = newItemNumber;
+
+  // Update the netflixData array with the new item
+  paramountData.push(newItem);
+
+  // Send a response indicating success
+  res.status(201).json({ message: "You just added a movie bucko", item: newItem });
+});
+
+app.get("/criterionArray", (req, res) => {
+  res.send(criterionData)
+})
+
+app.post("/criterionArray", (req, res) => {
+  const newItem = req.body;
+
+  // Generate a unique item number using UUID
+  const newItemNumber = uuid.v4(); // Generate a version 4 UUID
+
+  // Add the generated item number to the newItem object
+  newItem.item = newItemNumber;
+
+  // Update the netflixData array with the new item
+  criterionData.push(newItem);
 
   // Send a response indicating success
   res.status(201).json({ message: "You just added a movie bucko", item: newItem });
