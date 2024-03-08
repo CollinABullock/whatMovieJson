@@ -600,9 +600,68 @@
       "imdb": "https://www.imdb.com/name/nm0000155/"
     }]
   }
-  
-
-  
+  ,
+  {
+    "item": "5832",
+    "title": "99 Homes",
+    "runtime": 112,
+    "mpaa": "R",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/c8a50c7a-d4ef-310e-893e-0867bf59777e/TITLE_ART_3_4/640/480?language=eng&territory=US&version=2e769952-b5a5-370a-af8c-ba73928d8f86&output-format=webp",
+    "description": "After being evicted from his home, a father struggles to get it back by working for the greedy real estate broker who's the source of his frustration.",
+    "genre": ["drama", "thriller"],
+    "link": "https://www.peacocktv.com/watch-online/movies/99-homes/454a3245-41b6-3ebf-9ef7-fb0f64e29f61",
+    "director": [{
+      "name": "Ramin Bahrani",
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQJbaJYN9Z1Vdy831spH_HYQQmMg5uts_D1Y7aDopIC_K02CsUj809vvUcfOH7Oz8KmqBIqxH4pSs8tEJI",
+      "imdb": "https://www.imdb.com/name/nm1176096/"
+    }],
+    "actors": [{
+        "name": "Andrew Garfield",
+        "image": "https://media.vanityfair.com/photos/629e56c32347921cee05b4aa/16:9/w_2560%2Cc_limit/andrew-garfield-lgm.jpg",
+        "imdb": "https://www.imdb.com/name/nm1940449/"
+      }, {
+        "name": "Michael Shannon",
+        "image": "https://i.insider.com/648f0d3751ea980019d6c580?width=700",
+        "imdb": "https://www.imdb.com/name/nm0788335/"
+      }, {
+        "name": "Laura Dern",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8B1L_gE8-8JVy9hp_U0BE_s0XTMEloq5JGv5dQAGBXBERFig",
+        "imdb": "https://www.imdb.com/name/nm0000368/"
+      }, {
+        "name": "Noah Lomax",
+        "image": "https://i0.wp.com/thekoalition.com/images/2020/09/Screenshot-2020-09-27-at-4.47.12-PM.png?fit=747%2C497&ssl=1",
+        "imdb": "https://www.imdb.com/name/nm2849872/"
+      }]
+  }
+,
+{
+  "item": "7621",
+  "title": "A Child's Christmas in Wales",
+  "runtime": 55,
+  "mpaa": "Not Rated",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/1d2c14dd-78bb-3671-9cda-67e3a6b82664/TITLE_ART_3_4/640/480?language=eng&territory=US&version=03d5af09-79fc-33ba-8292-dc676e9828cf&output-format=webp",
+  "description": "Based on the classic story by Dylan Thomas, this film recalls a Christmas from the viewpoint of a young boy in Wales.",
+  "genre": ["drama", "family", "christmas"],
+  "link": "https://www.peacocktv.com/watch-online/movies/a-childs-christmas-in-wales/8510b396-f5bf-3ce7-b0c6-a74dcd16d8f8",
+  "director": [{
+    "name": "Donovan Cook",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQyODEyMDk1NF5BMl5BanBnXkFtZTYwOTYyOTAz._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0177124/"
+  }],
+  "actors": [{
+      "name": "Denholm Elliott",
+      "image": "https://cdn.britannica.com/33/254833-050-272A166C/english-actor-denholm-elliott-roles-in-indiana-jones-films.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001185/"
+    }, {
+      "name": "Mathonwy Reeves",
+      "image": "https://images.mubicdn.net/images/film/128849/cache-179123-1703516464/image-w1280.jpg?size=400x",
+      "imdb": "https://www.imdb.com/name/nm0716227/"
+    }, {
+      "name": "Glynis Davies",
+      "image": "https://static.wikia.nocookie.net/stargate/images/2/29/Glynis_Davies.jpg/revision/latest/scale-to-width-down/1200?cb=20150527040334",
+      "imdb": "https://www.imdb.com/name/nm0204036/"
+    }]
+}  
 
   
   
