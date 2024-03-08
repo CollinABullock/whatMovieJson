@@ -1,9 +1,11 @@
 const express = require("express");
 const app = express();
+const cors = require('cors');
 const bodyParser = require("body-parser");
 const uuid = require("uuid"); // Import the uuid package to generate unique IDs
 
 app.use(bodyParser.json());
+app.use(cors());
 
 let port = process.env.PORT || 3000;
 
