@@ -1,0 +1,32 @@
+[
+  {
+    "item": "5793",
+    "title": "The Master",
+    "runtime": 138,
+    "mpaa": "R",
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/164e3b6d-bc7f-4828-8e99-a8b87db59964.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640",
+    "description": "A Navy veteran arrives home from war unsettled and uncertain of his future – until he is tantalized by the Cause and its charismatic leader.",
+    "genre": ["drama"],
+    "link": "https://www.criterionchannel.com/videos/the-master",
+    "director": [{
+      "name": "Paul Thomas Anderson",
+			"image": "https://www.indiewire.com/wp-content/uploads/2020/07/AP_18036792087466.jpg",
+			"imdb": "https://www.imdb.com/name/nm0000759/"
+    }],
+    "actors": [{
+      "name": "Joaquin Phoenix",
+      "image": "https://static01.nyt.com/images/2017/09/06/t-magazine/joaquin-phoenix-slide-EUHZ-copy/joaquin-phoenix-slide-EUHZ-copy-superJumbo-v2.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001618/"
+    }, {
+      "name": "Philip Seymour Hoffman",
+      "image": "https://image.cnbcfm.com/api/v1/image/101432506-151109167.jpg?v=1392920292",
+      "imdb": "https://www.imdb.com/name/nm0000450/"
+    }, {
+      "name": "Amy Adams",
+      "image": "https://cdn.britannica.com/67/137467-050-326A44D6/Amy-Adams-2007.jpg?w=400&h=300&c=crop",
+      "imdb": "https://www.imdb.com/name/nm0010736/"
+    }]
+  }
+  ,
+  
+]

@@ -14,10 +14,15 @@ const maxData = require("./maxArray.json");
 const primeData = require("./primeArray.json");
 const huluData = require("./huluArray.json");
 const peacockData = require("./peacockArray.json");
+const paramountData = require ("./paramountArray.json")
 
 app.get("/", (req, res) => {
-  res.send("Movies are gay");
+  res.send("movies are gay");
 });
+
+app.get("/paramountArray", (req, res) => {
+  res.send(paramountData)
+})
 
 app.get("/netflixArray", (req, res) => {
   res.send(netflixData);
@@ -118,6 +123,7 @@ app.post("/peacockArray", (req, res) => {
   // Send a response indicating success
   res.status(201).json({ message: "You just added a movie bucko", item: newItem });
 });
+
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);

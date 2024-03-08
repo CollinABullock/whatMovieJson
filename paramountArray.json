@@ -30,7 +30,92 @@
       "image": "https://s.wsj.net/public/resources/images/BN-YC885_NYEDWA_M_20180404163843.jpg",
       "imdb": "https://www.imdb.com/name/nm0000383/"
     }]
+  },
+
+  {
+    "item": "2468",
+    "title": "48 Hrs.",
+    "runtime": 96,
+    "mpaa": "R",
+    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/08/10/1931558467898/48hrs_Template_SAlone_16_9_1920x1080_1164656_1920x1080.jpg",
+    "description": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal to track down a pair of killers before they strike again.",
+    "genre": ["action", "comedy", "crime"],
+    "link": "https://www.paramountplus.com/movies/video/B63lJ0XPqPNW09A3DaioEVPUSaRdgvQ8/",
+    "director": [{
+      "name": "Walter Hill",
+      "image": "https://s.yimg.com/ny/api/res/1.2/HM2T8gS8EUa9BLhGf0q9Dg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/thewrap.com/36bfca593584c6ae02f8608ac5504787",
+      "imdb": "https://www.imdb.com/name/nm0001352/"
+    }],
+    "actors": [{
+      "name": "Nick Nolte",
+      "image": "https://variety.com/wp-content/uploads/2017/11/nick-nolte-walk-of-fame-honor.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000560/"
+    }, {
+      "name": "Eddie Murphy",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2219,h_1248,x_0,y_589/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01gwtnnpwp8zw4rh9rj2.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000552/"
+    }]
   }
+  ,
+  {
+    "item": "4682",
+    "title": "There Will Be Blood",
+    "runtime": 158,
+    "mpaa": "R",
+    "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/movie_asset/57/95/34/twbb_us_2007_sa_16x9_1920x1080.jpg",
+    "description": "Silver miner Daniel Plainview leads a hardscrabble life with his son, H.W. When he hears about oil oozing from the ground near the Western town of Little Boston, Daniel takes his son on a mission to find their fortune. Daniel makes his lucky strike and becomes a self-made tycoon but, as his fortune grows, he deviates into moral bankruptcy.",
+    "genre": ["drama"],
+    "link": "https://www.paramountplus.com/movies/video/4d8PJlAU9RPkOM0j4e6Qb_BNFRobgkvL/",
+    "director": [{
+      "name": "Paul Thomas Anderson",
+			"image": "https://www.indiewire.com/wp-content/uploads/2020/07/AP_18036792087466.jpg",
+			"imdb": "https://www.imdb.com/name/nm0000759/"
+    }],
+    "actors": [{
+      "name": "Daniel Day-Lewis",
+			"image": "https://variety.com/wp-content/uploads/2017/06/daniel-day-lewis.jpg?w=1000",
+			"imdb": "https://www.imdb.com/name/nm0000358/"
+    }, {
+      "name": "Paul Dano",
+      "image": "https://media.vanityfair.com/photos/637bf12c49dc73a8dadb6769/16:9/w_2560%2Cc_limit/paul-dano-little-gold-men.jpg",
+      "imdb": "https://www.imdb.com/name/nm0200452/"
+    }, {
+      "name": "Dillon Freasier",
+      "image": "https://i.ytimg.com/vi/cg0KKbmSLm8/maxresdefault.jpg",
+      "imdb": "https://www.imdb.com/name/nm2274345/"
+    }]
+  }
+  ,
+  {
+    "item": "2345",
+    "title": "Minority Report",
+    "runtime": 145,
+    "mpaa": "PG-13",
+    "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/movie_asset/62/21/56/mirpt_us_2002_sa_16x9_1920x1080.jpg",
+    "description": "In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.",
+    "genre": ["action", "crime", "mystery", "science-fiction", "thriller"],
+    "link": "https://www.paramountplus.com/movies/video/NbnvwoQ22fJXxR_8Y1wHYXalNuZ1bSw6/",
+    "director": [{
+      "name": "Steven Spielberg",
+      "image": "https://deadline.com/wp-content/uploads/2021/08/Steven-Spielberg-Mega.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0000229/"
+    }],
+    "actors": [{
+      "name": "Tom Cruise",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Tom-Cruise-Top-Gun-.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000129/"
+    }, {
+      "name": "Colin Farrell",
+      "image": "https://media.vanityfair.com/photos/55c25176169027501c6ed2e0/master/pass/colin-farrell-harry-potter-spinoff.jpg",
+      "imdb": "https://www.imdb.com/name/nm0268199/"
+    }, {
+      "name": "Samantha Morton",
+      "image": "https://media.vanityfair.com/photos/5d3f3daf5989820008deba39/4:3/w_4096,h_3072,c_limit/AP_18336675999916.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000545/"
+    }]
+  }
+   
+  
   
   
 ]

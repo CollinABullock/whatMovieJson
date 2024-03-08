@@ -177,6 +177,36 @@
 			}
 		]
 	},
+
+	{
+		"item": "3579",
+		"title": "Phantom Thread",
+		"runtime": 130,
+		"mpaa": "R",
+		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTYcSq5Yu8GJUeWBnIioqYv0L6on8QJwybGp1BINcsSx7v1uwsIk_d7f8DhPTX4RpmS51lxq-_SgpGJ3B5FukrE3_ogHMiEhgseU.jpg?r=787",
+		"description": "Renowned dressmaker Reynolds Woodcock and his sister Cyril are at the center of British fashion in 1950s London -- dressing royalty, movie stars, heiresses and socialites in the distinctive style of The House of Woodcock. Women come and go through Woodcock's life, providing the confirmed bachelor with inspiration and companionship, until he comes across a young, strong-willed woman, Alma, who soon becomes a fixture in his life as his muse and lover.",
+		"genre": ["drama", "romance"],
+		"link": "https://www.netflix.com/title/80195447",
+		"director": [{
+			"name": "Paul Thomas Anderson",
+			"image": "https://www.indiewire.com/wp-content/uploads/2020/07/AP_18036792087466.jpg",
+			"imdb": "https://www.imdb.com/name/nm0000759/"
+		}],
+		"actors": [{
+			"name": "Daniel Day-Lewis",
+			"image": "https://variety.com/wp-content/uploads/2017/06/daniel-day-lewis.jpg?w=1000",
+			"imdb": "https://www.imdb.com/name/nm0000358/"
+		}, {
+			"name": "Lesley Manville",
+			"image": "https://www.pbs.org/wgbh/masterpiece/wp-content/uploads/2022/10/magpie-murders-lesley-manville-facts-awards-1920x1080-1.jpg",
+			"imdb": "https://www.imdb.com/name/nm0001835/"
+		}, {
+			"name": "Vicky Krieps",
+			"image": "https://www.hollywoodreporter.com/wp-content/uploads/2021/09/GettyImages-1027117160-H-2021.jpg?w=1296",
+			"imdb": "https://www.imdb.com/name/nm1385821/"
+		}]
+	}
+,	
 	{
 		"item": "N301",
 		"title": "Last Breath",
