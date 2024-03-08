@@ -1297,4 +1297,187 @@
   }]
 }
 ,
+{    
+  "item": "5678",
+  "title": "The Texas Chain Saw Massacre",
+  "runtime": 83,
+  "mpaa": "R",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/a44b3e7e-b83f-3517-a891-7c26f4e04c3d/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=026a1c53-dd22-39c0-b41e-bc29fe4ed059",
+  "description": "A group of friends visiting their grandfather's grave in Texas become the victims of a family of cannibalistic psychopaths.",
+  "genre": ["horror", "thriller", "classic"],
+  "link": "https://www.peacocktv.com/watch-online/movies/texas-chainsaw-massacre-40th-anniversary-edition/ed4b864a-be89-3cd4-b578-39fdf818ddf8",
+  "director": [{
+    "name": "Tobe Hooper",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/pbdtoho_ec001_h-7f2b13ec-6f8b-4ad0-a3c3-6981c91f7a08.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001369/"
+  }],
+  "actors": [{
+    "name": "Marilyn Burns",
+    "image": "https://variety.com/wp-content/uploads/2014/08/marilyn-burns-texas-chainsaw-massacre.jpg?w=1024",
+    "imdb": "https://www.imdb.com/name/nm0122747/"
+  }, {
+    "name": "Gunnar Hansen",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzU1YjA3ZDItZGE0MS00NWRiLTg5OWUtZjUzNmEwN2RkODIxXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0360736/"
+  }, {
+    "name": "Edwin Neal",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDRlNWMzOGYtMWIzYy00NGFlLThiOWYtOGI2YWQ2MmM5YTYzXkEyXkFqcGdeQXVyMDk2NzcyMw@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0623486/"
+  }]
+}
+,
+{
+  "item": "6543",
+  "title": "American Psycho",
+  "runtime": 102,
+  "mpaa": "R",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/2c0e6b65-b51d-30ed-b2c4-a883246e0e50/KEY_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=2d70f7f1-a127-33f6-8eb1-e0c1db905ac8",
+  "description": "In New York City in 1987, a handsome, young urban professional, Patrick Bateman (Christian Bale), lives a second life as a gruesome serial killer by night. The cast is filled by the detective (Willem Dafoe), the fiance (Reese Witherspoon), the mistress (Samantha Mathis), the coworker (Jared Leto), and the secretary (Chloë Sevigny). This is a biting, wry comedy examining the elements that make a man a monster.",
+  "genre": ["horror", "comedy"],
+  "link": "https://www.peacocktv.com/watch-online/movies/american-psycho/d8b06bcf-3b40-39a2-8947-17331c0f3ed0",
+  "director": [{
+    "name": "Mary Harron",
+    "image": "https://i.cbc.ca/1.6860415.1685546648!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_940/mary-harron.jpg",
+    "imdb": "https://www.imdb.com/name/nm0365593/"
+  }],
+  "actors": [{
+    "name": "Christian Bale",
+    "image": "https://variety.com/wp-content/uploads/2022/10/GettyImages-1425962190-e1664987389989.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0000288/"
+  }, {
+    "name": "Willem Dafoe",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/220130022901-snl-willem-dafoe-monologue-2.jpg?q=h_1080,w_1920,x_0,y_0",
+    "imdb": "https://www.imdb.com/name/nm0000353/"
+  }, {
+    "name": "Reese Witherspoon",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/02/Reese-Witherspoon-YPOM-Carpet-Arrivals-GettyImages-1461912136-H-2023.jpg?w=1024",
+    "imdb": "https://www.imdb.com/name/nm0000702/"
+  }, {
+    "name": "Chloe Sevigny",
+    "image": "https://media.pitchfork.com/photos/59cbc3d577ab2e086eddda32/master/pass/ChloeSevigny.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001721/"
+  }]
+}
+,
+{
+  "item": "7890",
+  "title": "House of the Devil",
+  "runtime": 95,
+  "mpaa": "R",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/5d4bea46-0ad6-3b18-8ef9-4cba0da0958a/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=726e1831-fa09-382b-acbc-26a55583bcc4",
+  "description": "In the 1980s, a college student desperate for cash takes a babysitting job in a remote mansion, but soon realizes things are not as they seem.",
+  "genre": ["horror", "thriller"],
+  "link": "https://www.peacocktv.com/watch-online/movies/horror/the-house-of-the-devil/de956e2f-bea3-35b6-a4fd-6690e2127850",
+  "director": [{
+    "name": "Ti West",
+    "image": "https://www.indiewire.com/wp-content/uploads/2022/03/AP22073211500236.jpg",
+    "imdb": "https://www.imdb.com/name/nm0923229/"
+  }],
+  "actors": [{
+    "name": "Jocelin Donahue",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGExNTVlNmEtMGE5Zi00OTdmLWIxODEtZGQxMzBiNWY5MDVjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm1913156/"
+  }, {
+    "name": "Tom Noonan",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjUyZmI4ZjctMzc1ZC00ZjE4LWJiOWEtOWM2MGVkNTNkZWRkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0633975/"
+  }, {
+    "name": "Mary Woronov",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI2NzA4MzY1NV5BMl5BanBnXkFtZTcwMzUxOTM2NA@@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0941805/"
+  }]
+}
+,
+{
+  "item": "2345",
+  "title": "The Invisible Man",
+  "runtime": 124,
+  "mpaa": "R",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/e929823a-c99c-3594-8077-aeb3782253fb/TITLE_ART_16_9?language=eng&territory=US&version=b5297f5a-8748-349c-8b1f-2e23f4f2622f",
+  "description": "After her abusive ex commits suicide, Cecilia suspects his death was a hoax. As a series of eerie coincidences turns lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+  "genre": ["horror", "mystery", "science-fiction", "remake"],
+  "link": "https://www.peacocktv.com/watch-online/movies/the-invisible-man/8fffa276-b4fd-3b00-9e91-b2da34eb0bff",
+  "director": [{
+    "name": "Leigh Whannell",
+    "image": "https://facts.net/wp-content/uploads/2023/10/23-astounding-facts-about-leigh-whannell-1698111763.jpg",
+    "imdb": "https://www.imdb.com/name/nm1243921/"
+  }],
+  "actors": [{
+    "name": "Elisabeth Moss",
+    "image": "https://www.usmagazine.com/wp-content/uploads/2023/12/The-Handmaid-s-Tale-Star-Elisabeth-Moss-Is-Pregnant-Expecting-Baby-No-1-.jpg?crop=0px%2C0px%2C1317px%2C744px&resize=1600%2C900&quality=86&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0005253/"
+  }, {
+    "name": "Aldis Hodge",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5MjQ1MDk1NF5BMl5BanBnXkFtZTgwNzA3MTg1MTI@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm2163070/"
+  }, {
+    "name": "Storm Reid",
+    "image": "https://assets.teenvogue.com/photos/659afd6671f7414f9ff939ff/16:9/w_2560%2Cc_limit/1913633379",
+    "imdb": "https://www.imdb.com/name/nm5751141/"
+  }]
+}
+,
+{
+  "item": "3456",
+  "title": "Split",
+  "runtime": 117,
+  "mpaa": "PG-13",
+  "poster": "https://imageservice.disco.peacocktv.com/uuid/ed38aa2c-985c-36d7-a90d-d7d49aa6980a/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=0729f70e-7ca3-368d-89e4-7c11bca883fb",
+  "description": "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.",
+  "genre": ["horror", "thriller"],
+  "link": "https://www.peacocktv.com/watch-online/movies/split/6c53db9d-49fa-317b-b99d-dbb3f9c75628",
+  "director": [{
+    "name": "M. Night Shyamalan",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTczMTA5OTMxMl5BMl5BanBnXkFtZTcwMDA4NDg1Mw@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0796117/"
+  }],
+  "actors": [{
+    "name": "James McAvoy",
+    "image": "https://www.usatoday.com/gcdn/presto/2019/01/21/USAT/142ae473-5af2-43b2-89ff-add712628c71-5732_CC_00060.jpg?crop=2235,1676,x1106,y0",
+    "imdb": "https://www.imdb.com/name/nm0564215/"
+  }, {
+    "name": "Anya Taylor-Joy",
+    "image": "https://images.seattletimes.com/wp-content/uploads/2020/12/urn-publicid-ap-org-496d3d9302dd8d24b8f7845673bfbfc9YE-Breakthrough_Entertainers_21693.jpg?d=2040x1531",
+    "imdb": "https://www.imdb.com/name/nm5896355/"
+  }, {
+    "name": "Betty Buckley",
+    "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2561,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1491846652/articles/2017/01/13/queen-of-broadway-and-her-texas-ranch-betty-buckley-on-divas-horses-and-therapy/170112-teeman-Betty-Buckley-tease_saewvh",
+    "imdb": "https://www.imdb.com/name/nm0118583/"
+  }]
+}
+,
+{
+  "item": "6789",
+  "title": "The Curious Case of Benjamin Button",
+  "runtime": 166,
+  "mpaa": "PG-13",
+  "poster": "https://media.zenfs.com/en/comingsoon_net_477/bc09488de374711fded1843c82b92913",
+  "description": "Born under unusual circumstances, Benjamin Button (Brad Pitt) springs into being as an elderly man in a New Orleans nursing home and ages in reverse. Twelve years after his birth, he meets Daisy, a child who flickers in and out of his life as she grows up to be a dancer (Cate Blanchett). Though he has all sorts of unusual adventures over the course of his life, it is his relationship with Daisy, and the hope that they will come together at the right time, that drives Benjamin forward.",
+  "genre": ["drama", "fantasy", "romance"],
+  "link": "https://www.peacocktv.com/watch-online/movies/drama/the-curious-case-of-benjamin-button/28478094-6b7a-3190-992c-b53ea632f9a7",
+  "director": [{
+    "name": "David Fincher",
+    "image": "https://www.premiumbeat.com/blog/wp-content/uploads/2022/11/featuredimage.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000399/"
+  }],
+  "actors": [{
+    "name": "Brad Pitt",
+    "image": "https://www.intouchweekly.com/wp-content/uploads/2023/10/brad-pitt-privacy.jpg?crop=0px%2C0px%2C4905px%2C2778px&resize=940%2C529&quality=86&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0000093/"
+  }, {
+    "name": "Cate Blanchett",
+    "image": "https://pagesix.com/wp-content/uploads/sites/3/2015/05/cate_blanchett_110688951.jpg?quality=75&strip=all&w=1200",
+    "imdb": "https://www.imdb.com/name/nm0000949/"
+  }, {
+    "name": "Tilda Swinton",
+    "image": "https://variety.com/wp-content/uploads/2021/06/Tilda-Swinton-Variety-Cover-Story-4-16x9-1.jpg",
+    "imdb": "https://www.imdb.com/name/nm0842770/"
+  }, {
+    "name": "Taraji P. Henson",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/taraji-p-henson-attends-time-women-of-the-year-2024-at-the-news-photo-1709826733.jpg?crop=1xw:0.40567xh;center,top",
+    "imdb": "https://www.imdb.com/name/nm0378245/"
+  }]
+}
+
+
 ]
