@@ -9,8 +9,8 @@
     "genre": ["crime", "drama"],
     "link": "https://tubitv.com/movies/100012517/mean-streets",
     "director": [{
-      "name": "Martin Scorsese",
-      "image": "https://static01.nyt.com/images/2020/01/05/arts/05martin-scorsese3/05martin-scorsese3-facebookJumbo.jpg?year=2020&h=550&w=1050&s=0f5a5899d5c57e3c87edbc90e8b8228d7cbefa0f663d4992e768874ce09cd2f4&k=ZQJBKqZ0VN",
+      "name": "Martin Scorcese",
+      "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
       "imdb": "https://www.imdb.com/name/nm0000217/"
     }],
     "actors": [{
