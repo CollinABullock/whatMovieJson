@@ -1477,7 +1477,52 @@
     "image": "https://hips.hearstapps.com/hmg-prod/images/taraji-p-henson-attends-time-women-of-the-year-2024-at-the-news-photo-1709826733.jpg?crop=1xw:0.40567xh;center,top",
     "imdb": "https://www.imdb.com/name/nm0378245/"
   }]
+},
+{
+  "item": 5432,
+  "title": "The Big Lebowski",
+  "description": "Jeff `The Dude' Leboswki is mistaken for Jeffrey Lebowski, who is The Big Lebowski. Which explains why he's roughed up and has his precious rug peed on. In search of recompense, The Dude tracks down his namesake, who offers him a job. His wife has been kidnapped and he needs a reliable bagman. Aided and hindered by his pals Walter Sobchak, a Vietnam vet, and Donny, master of stupidity.",
+  "runtime": 117,
+  "mpaa": "R",
+  "genre": ["comedy", "crime"],
+  "director": [
+    {
+      "name": "Ethan Coen",
+      "IMDB": "https://www.imdb.com/name/nm0001054/",
+      "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+    },
+    {
+      "name": "Joel Coen",
+      "IMDB": "https://www.imdb.com/name/nm0001053/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Jeff Bridges",
+      "IMDB": "https://www.imdb.com/name/nm0000313/",
+      "image": "https://cdn.aarp.net/content/aarpe/en/home/entertainment/celebrities/info-2023/jeff-bridges-cancer-covid-the-old-man-interview/_jcr_content/root/container_main/container_body_main/container_body1/container_body_cf/container_image/articlecontentfragment/cfimage.coreimg.50.932.png/content/dam/aarp/entertainment/celebrities/2023/05/1140-jeff-bridges-sitting.png"
+    },
+    {
+      "name": "John Goodman",
+      "IMDB": "https://www.imdb.com/name/nm0000422/",
+      "image": "https://www.looper.com/img/gallery/every-john-goodman-movie-ranked-worst-to-best/l-intro-1647342082.jpg"
+    },
+    {
+      "name": "Julianne Moore",
+      "IMDB": "https://www.imdb.com/name/nm0000194/",
+      "image": "https://www.firstforwomen.com/wp-content/uploads/sites/2/2025/01/Julianne-Moore-young.jpg"
+    },
+    {
+      "name": "Steve Buscemi",
+      "IMDB": "https://www.imdb.com/name/nm0000114/",
+      "image": "https://static.independent.co.uk/2021/09/09/13/newFile.jpg"
+    }
+  ],
+  "poster": "https://ntvb.tmsimg.com/assets/p20484_v_h8_av.jpg?w=1280&h=720",
+  "link": "https://www.peacocktv.com/watch-online/movies/comedy/the-big-lebowski/30c73b00-6c1e-3291-8629-7ea9c6671731"
 }
+
 
 
 ]
