@@ -2848,7 +2848,52 @@
   ],
   "poster": "https://img.hulu.com/user/v3/artwork/625e1e3f-2b9a-44ca-ba65-cb027d2f9345?base_image_bucket_name=image_manager&base_image=01aec6d9-3d6c-4268-8ded-a43fd73fde6b&region=US&format=jpeg&size=952x536",
   "link": "https://www.hulu.com/movie/the-king-of-comedy-625e1e3f-2b9a-44ca-ba65-cb027d2f9345"
+},
+
+{
+  "item": 7890,
+  "title": "A Serious Man",
+  "description": "A black comedy-drama film about a Jewish man who seeks advice from three different rabbis after experiencing a series of unfortunate events in his life.",
+  "runtime": 106,
+  "mpaa": "R",
+  "genre": ["comedy", "drama"],
+  "director": [{
+    "name": "Ethan Coen",
+      "IMDB": "https://www.imdb.com/name/nm0001054/",
+      "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+    },
+    {
+      "name": "Joel Coen",
+      "IMDB": "https://www.imdb.com/name/nm0001053/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"}
+  ],
+  "actors": [
+    {
+      "name": "Michael Stuhlbarg",
+      "IMDB": "https://www.imdb.com/name/nm0838932/",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Michael_Stuhlbarg_at_Artios.jpg"
+    },
+    {
+      "name": "Richard Kind",
+      "IMDB": "https://www.imdb.com/name/nm0454313/",
+      "image": "https://img.huffingtonpost.com/asset/563bd286140000f1013ca11c.jpeg?ops=scalefit_720_noupscale&format=webp"
+    },
+    {
+      "name": "Fred Melamed",
+      "IMDB": "https://www.imdb.com/name/nm0578749/",
+      "image": "https://pyxis.nymag.com/v1/imgs/afa/0f0/6ef774e74274dbe6badb5b5e8a57bc5d90-fred-melamed-wandavision.2x.rsocial.w600.jpg"
+    },
+    {
+      "name": "Sari Lennick",
+      "IMDB": "https://www.imdb.com/name/nm0501740/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzcyNzg3NjEtMDgwYy00M2NhLWI0OTMtMGNjYzVhZmM0Njk2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg"
+    }
+  ],
+  "poster": "https://img.hulu.com/user/v3/artwork/a595a04d-e397-4079-a288-223b051b340f?base_image_bucket_name=image_manager&base_image=7925de0b-885e-45e7-bb5d-8d69ec3f2e0b&size=1200x630&format=jpeg&operations=%5B%7B%22gradient_vector%22%3A%22(0%2C0%2C0%2C0.5)%7C(0%2C0%2C0%2C0)%7C(0%2C600)%7C(0%2C240)%22%7D%2C%7B%22overlay%22%3A%7B%22position%22%3A%22SouthEast%7C(30%2C30)%22%2C%22operations%22%3A%5B%7B%22image%22%3A%22image_manager%7C10579540-1d28-412f-b9c9-bfddd0fe1a65%22%7D%2C%7B%22resize%22%3A%22204x204%7Cmax%22%7D%2C%7B%22extent%22%3A%22204x204%22%7D%5D%7D%7D%2C%5D",
+  "link": "https://www.hulu.com/movie/a-serious-man-a595a04d-e397-4079-a288-223b051b340f"
 }
+
+
 
 
 ]
