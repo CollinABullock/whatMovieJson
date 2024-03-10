@@ -267,6 +267,46 @@
     "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w400-q80/movie_asset/92/48/80/catch_us_2002_sa_poster_1400x2100_nb.jpg",
     "link": "https://www.paramountplus.com/movies/video/o_VAEpRgnLsU27p4ltukHUFoyhhnMvEA/"
   }
+  ,
+  {
+    "title": "No Country for Old Men",
+    "description": "Violence and mayhem ensue after a hunter stumbles upon some dead bodies, a stash of heroin and more than $2 million in cash near the Rio Grande.",
+    "runtime": 122,
+    "mpaa": "R",
+    "genre": ["crime", "drama", "thriller"],
+    "director": [
+      {
+        "name": "Ethan Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001054/",
+        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+      },
+      {
+        "name": "Joel Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001053/",
+        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Tommy Lee Jones",
+        "IMDB": "https://www.imdb.com/name/nm0000169/",
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/11/14/1415981411933/Basilisk-stare---Tommy-Le-012.jpg?width=465&dpr=1&s=none"
+      },
+      {
+        "name": "Javier Bardem",
+        "IMDB": "https://www.imdb.com/name/nm0000849/",
+        "image": "https://img.huffingtonpost.com/asset/5cf826312500005f0ddbfdd9.jpeg?ops=scalefit_720_noupscale"
+      },
+      {
+        "name": "Josh Brolin",
+        "IMDB": "https://www.imdb.com/name/nm0000982/",
+        "image": "https://people.com/thmb/Tj4CGvUPRDCJPiiuSSlyocqf5EA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1296x363:1298x365)/Josh-Brolin-SNL-032024-03-0a021576139949609a977542e64fc241.jpg"
+      }
+    ],
+    "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w400-q80/movie_asset/00/06/21/ncfom_us_2007_sa_poster_1400x2100_nb.jpg",
+    "link": "https://www.paramountplus.com/movies/video/qj0TF24D0De_IPBRn8Y9Xthpg1GG4Vsa/"
+  }
+  
   
   
 
