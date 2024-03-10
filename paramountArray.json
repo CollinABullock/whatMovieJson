@@ -239,7 +239,9 @@
     "genre": ["biopic", "crime", "drama", "comedy"],
     "director": [
       {
-        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+        "name": "Steven Spielberg",
+      "image": "https://deadline.com/wp-content/uploads/2021/08/Steven-Spielberg-Mega.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0000229/"
       }
     ],
     "actors": [
@@ -547,7 +549,85 @@
     ],
     "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AC041259451A39F251FEC5422ACD641EE0ADA443C14A18217E7980F77800A27F/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
     "link": "https://www.paramountplus.com/movies/video/c2AHD3t22ykRDQgjMAoxNrcvYY2Pg_Q_/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHySdTdLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CN_SwtqX6oQDFc3JGAIdQ-wFiw"
+  },
+  {
+    "item": 3748,
+    "title": "The Terminal",
+    "description": "An eastern immigrant finds himself stranded in JFK airport, and must take up temporary residence there.",
+    "runtime": 128,
+    "mpaa": "PG-13",
+    "genre": ["comedy", "drama", "romance"],
+    "director": [
+      {
+        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Tom Hanks",
+        "IMDB": "https://www.imdb.com/name/nm0000158/",
+        "image": "https://variety.com/wp-content/uploads/2019/11/tom-hanks-16x9.jpg?w=1000"
+      },
+      {
+        "name": "Catherine Zeta-Jones",
+        "IMDB": "https://www.imdb.com/name/nm0001876/",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/78th-annual-golden-globe-awards-pictured-catherine-zeta-news-photo-1626716509.jpg?crop=1xw:0.80581xh;center,top"
+      },
+      {
+        "name": "Stanley Tucci",
+        "IMDB": "https://www.imdb.com/name/nm0001804/",
+        "image": "https://media.cntraveler.com/photos/62bc3236defec9ed7301a168/4:3/w_2624,h_1968,c_limit/00-Lede-HIT-Stanley-Tucci.jpg"
+      },
+      {
+        "name": "Chi McBride",
+        "IMDB": "https://www.imdb.com/name/nm0564275/",
+        "image": "https://www.newsday.com/_next/image?url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3ANGE4MmI2NjItMzg2Yy00%3ANzZkOTg5%2Ffffastchat.jpg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&w=1920&q=80"
+      }
+    ],
+    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2024/01/10/2298289219731/0_0_3519499_98_1920x1080_82259_1920x1080.jpg",
+    "link": "https://www.paramountplus.com/movies/video/FblO1LWz6fqDnC700Hr2rM1Vm0AsSoE4/"
+  },
+  {
+    "item": 5124,
+    "title": "Amistad",
+    "description": "A historical drama based on the true story of a slave mutiny aboard the ship La Amistad and the legal battle that followed.",
+    "runtime": 155,
+    "mpaa": "R",
+    "genre": ["drama", "history"],
+    "director": [
+      {
+        "name": "Steven Spielberg",
+        "image": "https://deadline.com/wp-content/uploads/2021/08/Steven-Spielberg-Mega.jpg?w=1000",
+        "imdb": "https://www.imdb.com/name/nm0000229/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Djimon Hounsou",
+        "IMDB": "https://www.imdb.com/name/nm0005023/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/Djimon-Hounsou-Shazam-2-UK-Screening-GettyImages-1471940009-H-2023.jpg?w=1296"
+      },
+      {
+        "name": "Matthew McConaughey",
+        "IMDB": "https://www.imdb.com/name/nm0000190/",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/230411095458-matthew-mcconaughey-file-2021.jpg?c=16x9&q=h_833,w_1480,c_fill"
+      },
+      {
+        "name": "Morgan Freeman",
+        "IMDB": "https://www.imdb.com/name/nm0000151/",
+        "image": "https://images05.military.com/sites/default/files/styles/full/public/media/veteran-jobs/content-images/2013/09/morganfreeman.jpeg.jpg"
+      },
+      {
+        "name": "Anthony Hopkins",
+        "IMDB": "https://www.imdb.com/name/nm0000164/",
+        "image": "https://people.com/thmb/u39n4TN_6q9ib6c0L3hzBMdWdx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(722x131:724x133)/anthony-hopkins-110323-330b6706090344af97723aa8255255a3.jpg"
+      }
+    ],
+    "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w400-q80/movie_asset/40/40/09/amstd_salone_poster_1400x2100_nb.jpg",
+    "link": "https://www.paramountplus.com/movies/video/UbhzAe6pAcuBdbwXt2rIEEL9WG1_QJAq/"
   }
+  
+  
   
   
   
