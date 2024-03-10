@@ -1,0 +1,42 @@
+[
+  {
+    "item": 5678,
+    "title": "The Tragedy of Macbeth",
+    "description": "A 2021 black-and-white psychological thriller film directed by Joel Coen. It is an adaptation of William Shakespeare's play 'Macbeth', starring Denzel Washington and Frances McDormand.",
+    "runtime": 105,
+    "mpaa": "R",
+    "genre": ["drama", "thriller"],
+    "director": [
+      {
+        "name": "Joel Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001053/",
+        "image": ""
+      }
+    ],
+    "actors": [
+      {
+        "name": "Denzel Washington",
+        "IMDB": "https://www.imdb.com/name/nm0000243/",
+        "image": ""
+      },
+      {
+        "name": "Frances McDormand",
+        "IMDB": "https://www.imdb.com/name/nm0000531/",
+        "image": ""
+      },
+      {
+        "name": "Brendan Gleeson",
+        "IMDB": "https://www.imdb.com/name/nm0322407/",
+        "image": ""
+      },
+      {
+        "name": "Corey Hawkins",
+        "IMDB": "https://www.imdb.com/name/nm3998017/",
+        "image": ""
+      }
+    ],
+    "poster": "",
+    "link": ""
+  }
+  
+]
