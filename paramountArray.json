@@ -392,6 +392,50 @@
     "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2023/11/30/2288437315708/MLRCR_US_1990_SA_16x9_1920x1080_NB_2553464_1920x1080.jpg",
     "link": "https://www.paramountplus.com/movies/video/sEiA2RbDKcf_M0Y7eyKaBw288XvaM8sb/"
   },
+  {
+    "item": 9876,
+    "title": "Raising Arizona",
+    "description": "Fast-paced farce about an unlikely pair who go to extreme lengths to have a child. When an incompetent robber marries a policewoman, they discover that they are infertile. In order to appease his wife's longings for a child, the man steals one of a set of quintuplets, but mayhem ensues when the child's rich father sends a rabbit-shooting bounty hunter after the kidnapper.",
+    "runtime": 94,
+    "mpaa": "PG-13",
+    "genre": ["comedy", "crime"],
+    "director": [
+      {
+        "name": "Ethan Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001054/",
+        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+      },
+      {
+        "name": "Joel Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001053/",
+        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Nicolas Cage",
+        "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+        "imdb": "https://www.imdb.com/name/nm0000115/"
+      },
+      {
+        "name": "Holly Hunter",
+        "IMDB": "https://www.imdb.com/name/nm0000456/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/03/Holly-Hunter-Love-Is-Premiere-GettyImages-1236559171-H-2022.jpg?w=1296"
+      },
+      {
+        "name": "Randall 'Tex' Cobb",
+        "IMDB": "https://www.imdb.com/name/nm0002012/",
+        "image": "https://images.sportsbrief.com/images/1200x675/3c84c5ea809d7e33.jpeg?v=1"
+      },
+      {
+        "name": "John Goodman",
+        "IMDB": "https://www.imdb.com/name/nm0000422/",
+        "image": "https://www.example.com/john_goodman.jpg"
+      }
+    ],
+    "poster": "https://www.example.com/raising_arizona_poster.jpg",
+    "link": "https://www.example.com/raising_arizona"
+  }
   
   
   
