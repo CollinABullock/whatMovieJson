@@ -153,6 +153,45 @@
     "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/07/12/2051131459988/SHTRI_SAlone_16_9_1920x1080_1577032_1920x1080.jpg",
     "link": "https://www.paramountplus.com/movies/video/Ou0bQuEBpbXLLPwwUO6FoMVAtqzvaiYy/?searchReferral=desktop-web&source=google-organic&ftag=PPM-23-10bfh8c"
   }
+  ,
+  {
+    "title": "The Wolf of Wall Street",
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption, and the federal government.",
+    "runtime": 180,
+    "mpaa": "R",
+    "genre": ["biography", "comedy", "crime"],
+    "director": [
+      {
+        "name": "Martin Scorcese",
+        "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
+        "imdb": "https://www.imdb.com/name/nm0000217/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000138/"
+      },
+      {
+        "name": "Jonah Hill",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/jonah-hill-at-the-world-premiere-of-netflixs-dont-look-up-news-photo-1660837905.jpg",
+        "imdb": "https://www.imdb.com/name/nm1706767/"
+      },
+      {
+        "name": "Margot Robbie",
+        "image": "https://media.npr.org/assets/img/2015/03/02/margotrobbie-eb727edf7b18cbe8b755d8372cf271d4f4d6e3a7-s1100-c50.jpg",
+        "imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st",
+      },
+      {
+        "name": "Matthew McConaughey",
+        "IMDB": "https://www.imdb.com/name/nm0000190/",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2023/09/Matthew-McConaughey-song-texas.jpg?w=1581&h=1054&crop=1"
+      }
+    ],
+    "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2021/05/27/1902189635722/TWWS_SAlone_16_9_1920x1080_NB_1104636_1920x1080.jpg",
+    "link": "https://www.paramountplus.com/movies/video/r_f3sYrm5VnjVJz1fQfYN3D_rxus_4y4/"
+  }
   
    
   
