@@ -3482,7 +3482,47 @@
     ],
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/87cb8ce7-f5dd-4219-95b9-c26ce75554e7/6caf0b10c63c9391d5f5e2b305f4db6b1a4fa16d.jpg?submitted=1684664075562&host=wbd-images.prod-vod.h264.io&partner=beamcom",
     "link": "https://play.max.com/video/watch/4d418d37-423f-465e-bcc2-ea5a2bf276c5/a97fd046-f7e4-4a0b-b5c1-608f0f65551f"
+  },
+  {
+    "item": 1234,
+    "title": "The Revenant",
+    "description": "While exploring the uncharted wilderness in 1823, frontiersman Hugh Glass (Leonardo DiCaprio) sustains life-threatening injuries from a brutal bear attack. When a member (Tom Hardy) of his hunting team kills his young son (Forrest Goodluck) and leaves him for dead, Glass must utilize his survival skills to find a way back to civilization. Grief-stricken and fueled by vengeance, the legendary fur trapper treks through the snowy terrain to track down the man who betrayed him.",
+    "runtime": 156,
+    "mpaa": "R",
+    "genre": ["adventure", "drama", "thriller", "western"],
+    "director": [
+      {
+        "name": "Alejandro González Iñárritu",
+        "IMDB": "https://www.imdb.com/name/nm0327944/",
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/13/14/Alejandro-G-Inarritu-DGAs.jpg"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000138/"
+      },
+      {
+        "name": "Tom Hardy",
+        "image": "https://media.gq.com/photos/632b4e9763f2eae5a8460f51/16:9/w_2560%2Cc_limit/1340297096",
+        "imdb": "https://www.imdb.com/name/nm0362766/"
+      },
+      {
+        "name": "Domhnall Gleeson",
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/8/86/Domhnall_Gleeson.jpg/revision/latest?cb=20210602024640",
+    "imdb": "https://www.imdb.com/name/nm1727304/"
+      },
+      {
+        "name": "Will Poulter",
+        "IMDB": "https://www.imdb.com/name/nm2402970/",
+        "image": "https://static01.nyt.com/images/2023/05/07/multimedia/07POULTER-01-cfhm/07POULTER-01-cfhm-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+      }
+    ],
+    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/175d821c-276e-4b5f-9cfd-b2f89db35631/03b64c78713ad7d77680459e258570ae8193415b.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "link": "https://play.max.com/video/watch/9d52421f-5bc8-47e6-9089-fa35d953224c/5f1fd256-7449-47fe-b0f2-fa7394376a9b"
   }
+  
   
 
 ]

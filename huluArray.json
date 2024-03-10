@@ -2891,7 +2891,47 @@
   ],
   "poster": "https://img.hulu.com/user/v3/artwork/a595a04d-e397-4079-a288-223b051b340f?base_image_bucket_name=image_manager&base_image=7925de0b-885e-45e7-bb5d-8d69ec3f2e0b&size=1200x630&format=jpeg&operations=%5B%7B%22gradient_vector%22%3A%22(0%2C0%2C0%2C0.5)%7C(0%2C0%2C0%2C0)%7C(0%2C600)%7C(0%2C240)%22%7D%2C%7B%22overlay%22%3A%7B%22position%22%3A%22SouthEast%7C(30%2C30)%22%2C%22operations%22%3A%5B%7B%22image%22%3A%22image_manager%7C10579540-1d28-412f-b9c9-bfddd0fe1a65%22%7D%2C%7B%22resize%22%3A%22204x204%7Cmax%22%7D%2C%7B%22extent%22%3A%22204x204%22%7D%5D%7D%7D%2C%5D",
   "link": "https://www.hulu.com/movie/a-serious-man-a595a04d-e397-4079-a288-223b051b340f"
+},
+{
+  "item": 9090,
+  "title": "Hook",
+  "description": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
+  "runtime": 142,
+  "mpaa": "PG",
+  "genre": ["adventure", "comedy", "family"],
+  "director": [
+    {
+      "name": "Steven Spielberg",
+      "IMDB": "https://www.imdb.com/name/nm0000229/",
+      "image": "https://media.vanityfair.com/photos/6048f2a19c91611f734cc169/master/w_2560%2Cc_limit/GettyImages-622342830.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Dustin Hoffman",
+      "IMDB": "https://www.imdb.com/name/nm0000163/",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/gettyimages-543812543-175c3dfe-e7cd-42ca-9c25-f060da567979.jpg?w=1581&h=1054&crop=1"
+    },
+    {
+      "name": "Robin Williams",
+      "IMDB": "https://www.imdb.com/name/nm0000245/",
+      "image": "https://marvel-b1-cdn.bc0a.com/f00000000155407/www.cliffsidemalibu.com/wp-content/uploads/2014/08/robin-williams1.jpg"
+    },
+    {
+      "name": "Julia Roberts",
+      "IMDB": "https://www.imdb.com/name/nm0000210/",
+      "image": "https://parade.com/.image/t_share/MTkwNTgxMzYzMzY2NTY5MDg1/julia-roberts-net-worth-jpg.jpg"
+    },
+    {
+      "name": "Bob Hoskins",
+      "IMDB": "https://www.imdb.com/name/nm0001366/",
+      "image": "https://2.bp.blogspot.com/-vSGuo0P04Sg/U2E3vAvLLOI/AAAAAAAAH4I/Ls3Z7L4tstc/s1600/super-mario-bros---1.jpg"
+    }
+  ],
+  "poster": "https://img1.hulu.com/user/v3/artwork/1fa317c3-2caf-4088-8e1c-443f426da3c4?base_image_bucket_name=image_manager&base_image=7302f168-db10-4c7c-be6e-d5efce78c186&size=1200x630&format=jpeg",
+  "link": "https://www.hulu.com/movie/hook-1fa317c3-2caf-4088-8e1c-443f426da3c4"
 }
+
 
 
 

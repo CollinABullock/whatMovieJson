@@ -61,7 +61,42 @@
     ],
     "poster": "https://canvas.tubitv.com/opts/yn_3Js23j-B4og==/a7e719c6-5a58-4726-9779-a11f7b94d7b3/CJgDEMcEOgUxLjAuMQ==",
     "link": "https://tubitv.com/movies/100013435/after-hours"
+  },
+  {
+    "item": 6543,
+    "title": "A Woman, a Gun, and a Noodle Shop",
+    "description": "At boss Wang's traditional Chinese noodle shop, a colourful and exotic Persian trader of arms introduces the shop owner's wife to the weapons of the West, and consequently, to mankind's greatest invention: the handgun. As a result, the woman excited with her newest acquisition that kills instantly, a brass, triple-muzzle top-break revolver, naturally, she will need more, however, the loud noise of the firearms' demonstration will inevitably attract a brigade of the local police force who will drop by for an investigation. Soon, grouchy old miser Wang will find out everything about his double-crossing wife's affair with the Inn's mincing weakling apprentice Li, and as the corpses begin piling up, it's going to be every man for himself and all for Wang's crammed strongbox",
+    "runtime": 95,
+    "mpaa": "R",
+    "genre": ["comedy", "crime", "drama", "foreign", "remake"],
+    "director": [
+      {
+        "name": "Zhang Yimou",
+        "IMDB": "https://www.imdb.com/name/nm0955443/",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwfMdPMDm0NoAVRmu1W8kKKA7CDj_QSxYg7ENkb-zkk4YCGm2B"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Sun Honglei",
+        "IMDB": "https://www.imdb.com/name/nm1257725/",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/9423b67825c6eac51d0f7d41dbf5ad0ac1bd982ea8eff0af2e07c742f82d59e6.jpg"
+      },
+      {
+        "name": "Ni Yan",
+        "IMDB": "https://www.imdb.com/name/nm1617703/",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk3ZDM3ZWMtYmY0OS00YmM3LWFkODktMDY1ZjlhMmJhNTE4XkEyXkFqcGdeQXVyNDg5Mzk5Mg@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "Zhao Benshan",
+        "IMDB": "https://www.imdb.com/name/nm0082769/",
+        "image": "https://lh3.googleusercontent.com/proxy/XL21gkDEXrf6FJ6nqAfXhrFVTJv-avmFVxEJULJSiVtKIfnAU0pb5-t4YW3qI4MPZrJokR5kiNUOC_zmprz9l_fKimtg1m_ZnLWaeMc3kaoB_PSMCroRFPR99wUzIrXpy9zPvlwKJBrBiJk"
+      }
+    ],
+    "poster": "https://canvas-bridge02.tubitv.com/Qc2AWhiva67MDz1ucPsmn7euPrw=/0x163:800x607/448x252/smart/img.adrise.tv/cf8b789d-5cdc-4b5e-8433-d0eff1cbaa3c.jpg",
+    "link": "https://tubitv.com/movies/685451/a-woman-a-gun-and-a-noodle-shop"
   }
+  
   
   
 ]
