@@ -191,7 +191,46 @@
     ],
     "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2021/05/27/1902189635722/TWWS_SAlone_16_9_1920x1080_NB_1104636_1920x1080.jpg",
     "link": "https://www.paramountplus.com/movies/video/r_f3sYrm5VnjVJz1fQfYN3D_rxus_4y4/"
+  },
+  {
+    "title": "The Aviator",
+    "description": "A biopic depicting the early years of legendary director and aviator Howard Hughes' career, from the late 1920s to the mid-1940s.",
+    "runtime": 170,
+    "mpaa": "PG-13",
+    "genre": ["biopic", "drama"],
+    "director": [
+      {
+        "name": "Martin Scorcese",
+        "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
+        "imdb": "https://www.imdb.com/name/nm0000217/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000138/"
+      },
+      {
+        "name": "Cate Blanchett",
+        "image": "https://www.ansa.it/webimages/news_base/2015/5/17/77694ac058574b420f373717098561e1.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000949/"
+      },
+      {
+        "name": "Kate Beckinsale",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/kate-beckinsale-attends-the-bach-mai-fashion-show-during-news-photo-1698950708.jpg?crop=1xw:0.375xh;center,top&resize=1200:*",
+        "imdb": "https://www.imdb.com/name/nm0000295/"
+      },
+      {
+        "name": "John C. Reilly",
+        "IMDB": "https://www.imdb.com/name/nm0000604/",
+        "image": "https://variety.com/wp-content/uploads/2019/09/shutterstock_editorial_9992266o.jpeg"
+      }
+    ],
+    "poster": "https://i.ytimg.com/vi/dkwypzOQf8o/maxresdefault.jpg",
+    "link": "https://www.paramountplus.com/movies/video/IEps_B0T65NIh7lSP7T80FgA9mc2Vi8Q/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHyQt3dLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CKnYytDQ6IQDFbZHCQkdUckJOA"
   }
+  
 
   
    
