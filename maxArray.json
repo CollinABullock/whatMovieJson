@@ -1570,9 +1570,16 @@
     "genre": ["crime", "drama", "comedy"],
     "link": "https://play.max.com/video/watch/de74b6e7-5836-4ea5-8fcc-018c0a874ad0/28078aba-d3fa-4abe-ae3e-7ad173726f08",
     "director": [{
-      "name": "The Coen Brothers",
-      "image": "https://facts.net/wp-content/uploads/2023/11/10-astounding-facts-about-joel-coen-1699443401.jpg",
-      "imdb": "https://www.imdb.com/name/nm0001054/"
+  
+        "name": "Ethan Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001054/",
+        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+      },
+      {
+        "name": "Joel Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001053/",
+        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+      
     }],
     "actors": [{
       "name": "Frances McDormand",
