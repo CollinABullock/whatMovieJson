@@ -5050,6 +5050,95 @@
 			"image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXZ7lLCPkO4d49v7kQ_pzbtqVy7y9hUgGKO3Q8pB8IseKI1xHlryeCAWkFNMlTghZDSBqokXBDWsEY8j_zYd4zqQD_g2olLgmNdrzGDPX78W-KBjEHRWZdNP.jpg?r=274",
 			"imdb": "https://www.imdb.com/name/nm0001168/"
 		}]
+	},
+	{
+		"title": "The Ballad of Buster Scruggs",
+		"description": "An anthology film comprised of six stories, each dealing with a different aspect of life in the Old West.",
+		"runtime": 133,
+		"mpaa": "R",
+		"genre": ["comedy", "drama", "musical"],
+		"director": [
+			{
+				"name": "Ethan Coen",
+				"IMDB": "https://www.imdb.com/name/nm0001054/",
+				"image": ""
+			},
+			{
+				"name": "Joel Coen",
+				"IMDB": "https://www.imdb.com/name/nm0001053/",
+				"image": ""
+			}
+		],
+		"actors": [
+			{
+				"name": "Tim Blake Nelson",
+				"IMDB": "https://www.imdb.com/name/nm0625789/",
+				"image": ""
+			},
+			{
+				"name": "Willie Watson",
+				"IMDB": "https://www.imdb.com/name/nm3210534/",
+				"image": ""
+			},
+			{
+				"name": "Clancy Brown",
+				"IMDB": "https://www.imdb.com/name/nm0000317/",
+				"image": ""
+			},
+			{
+				"name": "Stephen Root",
+				"IMDB": "https://www.imdb.com/name/nm0740535/",
+				"image": ""
+			}
+		],
+		"poster": "",
+		"link": ""
+	},
+	{
+		"item": 6543,
+		"title": "The Ballad of Buster Scruggs",
+		"description": "An anthology film comprised of six stories, each dealing with a different aspect of life in the Old West.",
+		"runtime": 133,
+		"mpaa": "R",
+		"genre": ["comedy", "drama", "musical"],
+		"director": [
+			{
+				"name": "Ethan Coen",
+				"IMDB": "https://www.imdb.com/name/nm0001054/",
+				"image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+			},
+			{
+				"name": "Joel Coen",
+				"IMDB": "https://www.imdb.com/name/nm0001053/",
+				"image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+			}
+		],
+		"actors": [
+			{
+				"name": "Tim Blake Nelson",
+				"IMDB": "https://www.imdb.com/name/nm0625789/",
+				"image": "https://consequence.net/wp-content/uploads/2023/02/tim-blake-nelson-the-leader-incredible-hulk.jpg"
+			},
+			{
+				"name": "Zoe Kazan",
+				"IMDB": "https://www.imdb.com/name/nm1443740/",
+				"image": "https://globalnews.ca/wp-content/uploads/2017/07/gettyimages-695409406.jpg?quality=85&strip=all"
+			},
+			{
+				"name": "Clancy Brown",
+				"IMDB": "https://www.imdb.com/name/nm0000317/",
+				"image": "https://ew.com/thmb/52UVjfSWuqpSm872ms472fyErko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1175128929-5eb1df7303dc4cb6adc2e99763b265cd.jpg"
+			},
+			{
+				"name": "Stephen Root",
+				"IMDB": "https://www.imdb.com/name/nm0740535/",
+				"image": "https://static.ffx.io/images/$zoom_0.138%2C$multiply_0.7725%2C$ratio_1.5%2C$width_756%2C$x_0%2C$y_6/t_crop_custom/q_86%2Cf_auto/ee4786d717eb936ae0fb68dc93c58380ac4a279c"
+			}
+		],
+		"poster": "https://m.media-amazon.com/images/M/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
+		"link": "https://www.netflix.com/watch/80200267?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C%2CVideo%3A80200267%2CdetailsPagePlayButton"
 	}
+	
+	
 	
 ]
