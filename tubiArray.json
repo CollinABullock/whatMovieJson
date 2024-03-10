@@ -22,6 +22,45 @@
       "image": "https://static.timesofisrael.com/www/uploads/2021/06/6-25-21-harvey-keitel.jpeg",
       "imdb": "https://www.imdb.com/name/nm0000172/"
     }]
+  },
+  {
+    "title": "After Hours",
+    "description": "An ordinary word processor has the worst night of his life after he agrees to visit a girl in Soho whom he met that evening at a coffee shop.",
+    "runtime": 97,
+    "mpaa": "R",
+    "genre": ["comedy", "crime", "drama"],
+    "director": [
+      {
+        "name": "Martin Scorcese",
+        "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
+        "imdb": "https://www.imdb.com/name/nm0000217/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Griffin Dunne",
+        "IMDB": "https://www.imdb.com/name/nm0001159/",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWQ2NWMxNDItNTRjNS00OTExLWEyY2UtZTIzZjVlNjAzYmZiXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_.jpg"
+      },
+      {
+        "name": "Rosanna Arquette",
+        "IMDB": "https://www.imdb.com/name/nm0000274/",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDkzZWY4YTQtOTRlMi00NjAxLWFlMzktYmNlODVkOGY0NGE5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg"
+      },
+      {
+        "name": "Verna Bloom",
+        "IMDB": "https://www.imdb.com/name/nm0089325/",
+        "image": "https://www.telegraph.co.uk/content/dam/obituaries/2019/02/05/TELEMMGLPICT000187561742_trans_NvBQzQNjv4Bq3nBq9VsEW3hJLthnAjInUvGvefQZ6zhQjyoglA8UJLA.jpeg"
+      },
+      {
+        "name": "Tommy Chong",
+        "IMDB": "https://www.imdb.com/name/nm0001047/",
+        "image": "https://us.movember.com/uploads/images/resources/5048684051673db3deaddc53fbac03536dcb405f-org.jpg"
+      }
+    ],
+    "poster": "https://canvas.tubitv.com/opts/yn_3Js23j-B4og==/a7e719c6-5a58-4726-9779-a11f7b94d7b3/CJgDEMcEOgUxLjAuMQ==",
+    "link": "https://tubitv.com/movies/100013435/after-hours"
   }
+  
   
 ]
