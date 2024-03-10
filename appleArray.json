@@ -10,14 +10,14 @@
       {
         "name": "Joel Coen",
         "IMDB": "https://www.imdb.com/name/nm0001053/",
-        "image": ""
+        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
       }
     ],
     "actors": [
       {
         "name": "Denzel Washington",
         "IMDB": "https://www.imdb.com/name/nm0000243/",
-        "image": ""
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220208103709-denzel-washington-file-2021.jpg?q=h_1302,w_2000,x_0,y_0"
       },
       {
         "name": "Frances McDormand",
@@ -27,16 +27,51 @@
       {
         "name": "Brendan Gleeson",
         "IMDB": "https://www.imdb.com/name/nm0322407/",
-        "image": ""
+        "image": "https://deadline.com/wp-content/uploads/2017/08/mr-mercedes-gleeson.jpg"
       },
       {
         "name": "Corey Hawkins",
         "IMDB": "https://www.imdb.com/name/nm3998017/",
-        "image": ""
+        "image": "https://m.media-amazon.com/images/M/MV5BNjAzNzJlNGYtZWQyZC00YzI4LWI4NTAtODY4ZDY4NTUzOGM2XkEyXkFqcGdeQXNuZXNodQ@@._V1_.jpg"
       }
     ],
-    "poster": "",
-    "link": ""
+    "poster": "https://www.apple.com/tv-pr/shows-and-films/t/the-tragedy-of-macbeth/images/show-home-graphic-header/key-art-02/4x1/Apple_TV_The_Tragedy_of_Macbeth_key_art_graphic_header_4_1_show_home.jpg.og.jpg?1668042584759",
+    "link": "https://tv.apple.com/us/movie/the-tragedy-of-macbeth/umc.cmc.4wpfk1xmi22h3zyv4a10lj1tw?mttn3pid=Google%20AdWords&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=OUS2019929_1-662863191297-c&mttnsubkw=127330287530__FBgrPPb2_&mttnsubplmnt=_adext_"
+  },
+  {
+    "item": 9876,
+    "title": "Killers of the Flower Moon",
+    "description": "1919, Osage County, Oklahoma. Due to the discovery of oil on their land the Osage people are per capita the wealthiest people in the United States. Having just been discharged from the US Army, Ernest Burkhart returns to the area to work for his wealthy uncle, William Hale. Lately many Osage people have died in suspicious circumstances but nothing is being done about it.",
+    "runtime": 206,
+    "mpaa": "R",
+    "genre": ["crime", "drama", "history"],
+    "director": [
+      {
+        "name": "Martin Scorsese",
+        "IMDB": "https://www.imdb.com/name/nm0000217/",
+        "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTgxmrD95LLqwPfKlKpT48OKbm-qqBRf8pueMN6v6ZhMRnJ_mOQnCcmQuq8c9-4dffpAcbn-mj7uAMHbpo"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "IMDB": "https://www.imdb.com/name/nm0000138/",
+        "image": "https://variety.com/wp-content/uploads/2023/05/GettyImages-1492284655.jpg?w=1024"
+      },
+      {
+        "name": "Lily Gladstone",
+        "IMDB": "https://www.imdb.com/name/nm4291409/",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/actress-lily-gladstone-poses-during-a-photocall-for-the-news-photo-1684863396.jpg"
+      },
+      {
+        "name": "Robert De Niro",
+        "IMDB": "https://www.imdb.com/name/nm0000134/",
+        "image": "https://c.files.bbci.co.uk/15DBF/production/_129653598_34022a0713944dec3b86aaaaf14d61b278141731.jpg"
+      }
+    ],
+    "poster": "https://static1.squarespace.com/static/63bb3e8a824d7e2f7eedf0d3/64ac424fcaadf8324a193593/653ec38d3e3d58545b152f82/1698621694148/Killers%2Bof%2Bthe%2BFlower%2BMoon%2BHorizontal%2B.jpg?format=1500w",
+    "link": "https://tv.apple.com/us/movie/killers-of-the-flower-moon/umc.cmc.5x1fg9vferlfeutzpq6rra1zf"
   }
+  
   
 ]
