@@ -1,0 +1,40 @@
+[
+  {
+    "item": 8056,
+    "title": "The BFG",
+    "description": "An orphan little girl befriends a benevolent giant who takes her to Giant Country, where they attempt to stop the man-eating giants that are invading the human world.",
+    "runtime": 117,
+    "mpaa": "PG",
+    "genre": ["adventure", "kids", "fantasy"],
+    "director": [
+      
+        {"name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"}
+      
+    ],
+    "actors": [
+      {
+        "name": "Mark Rylance",
+        "IMDB": "https://www.imdb.com/name/nm0753314/",
+        "image": "https://static.independent.co.uk/2023/06/25/16/bb1130828324526a7e169b0ca6347135Y29udGVudHNlYXJjaGFwaSwxNjg3NzkzODIz-2.72658344.jpg"
+      },
+      {
+        "name": "Ruby Barnhill",
+        "IMDB": "https://www.imdb.com/name/nm7709057/",
+        "image": "https://www.intofilm.org/intofilm-production/5234/scaledcropped/1170x548/resources/5234/into-film-festival-knutsford-event-with-into-film-ambassador-ruby-barnhill-for-web.jpg"
+      },
+      {
+        "name": "Penelope Wilton",
+        "IMDB": "https://www.imdb.com/name/nm0934874/",
+        "image": "https://www.telegraph.co.uk/multimedia/archive/03085/penelope_wilton_3085286b.jpg"
+      },
+      {
+        "name": "Jemaine Clement",
+        "IMDB": "https://www.imdb.com/name/nm0169806/",
+        "image": "https://media.gq.com/photos/55828e4c1177d66d68d53699/master/pass/blogs-the-feed-jermaine-clement-gq-and-a-sundance-film-festival.jpg"
+      }
+    ],
+    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D1EE0CE7E63D6DE16B178761E626EEB1A13FEA55B15B6FE235927A71BB047A67/scale?width=1200&aspectRatio=1.78&format=webp",
+    "link": "https://www.disneyplus.com/movies/the-bfg/pvXae9wPk8HT"
+  }
+  
+]
