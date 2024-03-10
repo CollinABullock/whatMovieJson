@@ -3438,6 +3438,51 @@
     "name": "André Benjamin",
     "image": "https://www.rollingstone.com/wp-content/uploads/2023/11/Andre-3000-Press-Photo-1-credit_-Kai-Regan.jpg?w=1581&h=1054&crop=1",
     "imdb": "https://www.imdb.com/name/nm0004736/"
-  }]}
+  }]},
+  {
+    "item": 1234,
+    "title": "Blood Simple",
+    "description": "A 1984 neo-noir crime film marking the directorial debut of the Coen Brothers. It tells the story of a Texas bar owner who hires a private detective to murder his unfaithful wife and her lover.",
+    "runtime": 99,
+    "mpaa": "R",
+    "genre": ["crime", "drama", "thriller"],
+    "director": [
+      {
+        "name": "Ethan Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001054/",
+        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+      },
+      {
+        "name": "Joel Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001053/",
+        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+      }
+    ],
+    "actors": [
+      {
+        "name": "John Getz",
+        "IMDB": "https://www.imdb.com/name/nm0314763/",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ5Y2FhY2ItMGI4Ni00OTY5LWJhOTctNWFlNDQ0MzhkYmJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg"
+      },
+      {
+        "name": "Frances McDormand",
+        "IMDB": "https://www.imdb.com/name/nm0000531/",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/bc1445e/2147483647/strip/true/crop/1200x600+0+0/resize/1200x600!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F38%2F7c%2F0c2a9970496d9a67cc69de18ef1a%2Fnomadland-01.jpg"
+      },
+      {
+        "name": "Dan Hedaya",
+        "IMDB": "https://www.imdb.com/name/nm0001332/",
+        "image": "https://facts.net/wp-content/uploads/2023/11/13-unbelievable-facts-about-dan-hedaya-1700033233.jpg"
+      },
+      {
+        "name": "M. Emmet Walsh",
+        "IMDB": "https://www.imdb.com/name/nm0001839/",
+        "image": "https://vz.cnwimg.com/wp-content/uploads/2024/01/M.-Emmet-Walsh.jpg"
+      }
+    ],
+    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/87cb8ce7-f5dd-4219-95b9-c26ce75554e7/6caf0b10c63c9391d5f5e2b305f4db6b1a4fa16d.jpg?submitted=1684664075562&host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "link": "https://play.max.com/video/watch/4d418d37-423f-465e-bcc2-ea5a2bf276c5/a97fd046-f7e4-4a0b-b5c1-608f0f65551f"
+  }
+  
 
 ]
