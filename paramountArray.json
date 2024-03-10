@@ -305,7 +305,95 @@
     ],
     "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w400-q80/movie_asset/00/06/21/ncfom_us_2007_sa_poster_1400x2100_nb.jpg",
     "link": "https://www.paramountplus.com/movies/video/qj0TF24D0De_IPBRn8Y9Xthpg1GG4Vsa/"
+  },
+  {
+    "item": 1234,
+    "title": "Inside Llewyn Davis",
+    "description": "A folk singer navigates the Greenwich Village folk scene of 1961.",
+    "runtime": 104,
+    "mpaa": "R",
+    "genre": ["drama", "music", "history", "comedy"],
+    "director": [
+      {
+        "name": "Ethan Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001054/",
+        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+      },
+      {
+        "name": "Joel Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001053/",
+        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Oscar Isaac",
+        "IMDB": "https://www.imdb.com/name/nm1209966/",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-240719-R1262_FEA_Oscar_Isaac_A.jpg"
+      },
+      {
+        "name": "Carey Mulligan",
+        "IMDB": "https://www.imdb.com/name/nm1659547/",
+        "image": "https://media.wkyc.com/assets/ETONLINE/images/1a7f7a7a-5176-42ef-ad67-7970ef1fc2a7/1a7f7a7a-5176-42ef-ad67-7970ef1fc2a7_1140x641.jpg"
+      },
+      {
+        "name": "John Goodman",
+        "IMDB": "https://www.imdb.com/name/nm0000422/",
+        "image": "https://www.ultimatemovierankings.com/wp-content/uploads/2016/06/goodman-22222.jpg"
+      },
+      {      "name": "Adam Driver",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
+      "imdb": "https://www.imdb.com/name/nm3485845/"}
+    ],
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/fedd8fd1a84fd3a4eea849583cccb46973f58cff235e3094b0b32d5b973e7140.jpg",
+    "link": "https://www.paramountplus.com/movies/video/Pj3cmn_kRPxf0lJqmtudM5vIV4tXX1yR/"
+  },
+  {
+    "item": 5678,
+    "title": "Miller's Crossing",
+    "description": "A 1990 neo-noir gangster film set during the Prohibition era. It follows the complex relationships and power struggles between various criminal organizations.",
+    "runtime": 115,
+    "mpaa": "R",
+    "genre": ["crime", "drama", "thriller"],
+    "director": [
+      {
+        "name": "Ethan Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001054/",
+        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+      },
+      {
+        "name": "Joel Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001053/",
+        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Gabriel Byrne",
+        "IMDB": "https://www.imdb.com/name/nm0000321/",
+        "image": "https://facts.net/wp-content/uploads/2023/10/13-astounding-facts-about-gabriel-byrne-1696478975.jpg"
+      },
+      {
+        "name": "Albert Finney",
+        "IMDB": "https://www.imdb.com/name/nm0001215/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2017/07/before_the_devil_knows_youre_dead_albert_finney.jpg?w=1296"
+      },
+      {
+        "name": "John Turturro",
+        "IMDB": "https://www.imdb.com/name/nm0001806/",
+        "image": "https://arts.columbia.edu/sites/default/files/styles/cu_crop/public/content/Images/News/film_hs_turturro_john_1000x500.jpg?itok=t9FaLCLu"
+      },
+      {
+        "name": "Marcia Gay Harden",
+        "IMDB": "https://www.imdb.com/name/nm0001319/",
+        "image": "https://pagesix.com/wp-content/uploads/sites/3/2021/04/marcia-gay-harden.jpg?quality=75&strip=all&w=1200"
+      }
+    ],
+    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2023/11/30/2288437315708/MLRCR_US_1990_SA_16x9_1920x1080_NB_2553464_1920x1080.jpg",
+    "link": "https://www.paramountplus.com/movies/video/sEiA2RbDKcf_M0Y7eyKaBw288XvaM8sb/"
   }
+  
+  
   
   
   
