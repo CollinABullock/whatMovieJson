@@ -181,7 +181,7 @@
       {
         "name": "Margot Robbie",
         "image": "https://media.npr.org/assets/img/2015/03/02/margotrobbie-eb727edf7b18cbe8b755d8372cf271d4f4d6e3a7-s1100-c50.jpg",
-        "imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st",
+        "imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st"
       },
       {
         "name": "Matthew McConaughey",
@@ -435,7 +435,122 @@
     ],
     "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/07/27/1926438467801/RA_SAlone_16_9_1920x1080_2556403_1920x1080.jpg",
     "link": "https://www.paramountplus.com/movies/video/yIgYzIkunrBmLtm97bB6Un1aec_RB5FG/"
+  },
+  {
+    "item": 5863,
+    "title": "Saving Private Ryan",
+    "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "runtime": 169,
+    "mpaa": "R",
+    "genre": ["drama", "war"],
+    "director": [
+      {
+        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Tom Hanks",
+        "IMDB": "https://www.imdb.com/name/nm0000158/",
+        "image": "https://variety.com/wp-content/uploads/2019/11/tom-hanks-16x9.jpg?w=1000"
+      },
+      {
+        "name": "Matt Damon",
+        "IMDB": "https://www.imdb.com/name/nm0000354/",
+        "image": "https://variety.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-12-at-9.20.16-AM.png"
+      },
+      {
+        "name": "Tom Sizemore",
+        "IMDB": "https://www.imdb.com/name/nm0001744/",
+        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CDXJX4R5TBEEFLIYE3LSK2ZAU4.JPG"
+      },
+      {
+        "name": "Edward Burns",
+        "IMDB": "https://www.imdb.com/name/nm0000320/",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTgyNTdiNmQtYTAzMS00MjU5LTk1ZjktNWE5NzY1MWMyNjlkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg"
+      }
+    ],
+    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/08/25/1937635907915/SPR_SAlone_1920x1080_2351085_1920x1080.jpg",
+    "link": "https://www.paramountplus.com/movies/video/lOHlx8_wCZToNDr_uSFHvRwpT13ta7HN/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHySb3VLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CNj2vLuV6oQDFSjxGAIdY-oFpQ"
+  },
+  {
+    "item": 7589,
+    "title": "The Fabelmans",
+    "description": "",
+    "runtime": 150,
+    "mpaa": "PG-13",
+    "genre": ["drama", "history"],
+    "director": [
+      {
+        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Paul Dano",
+        "IMDB": "https://www.imdb.com/name/nm0200452/",
+        "image": "https://images.squarespace-cdn.com/content/v1/5f298a7d88e80e053d7196bf/1600956273934-ATZGZP1UBF08PTZUA6CP/Paul-Dano-1200x640.jpg"
+      },
+      {
+        "name": "Michelle Williams",
+        "IMDB": "https://www.imdb.com/name/nm0931329/",
+        "image": "https://people.com/thmb/fETc_gniN_bZ6TqPi9rLv38f9hY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/michelle-williams-the-fabelmans-closing-night-gala-premiere-110722-1-tout-cfdfeae86ff74ce1a6760734cc3aed9f.jpg"
+      },
+      {
+        "name": "Seth Rogen",
+        "IMDB": "https://www.imdb.com/name/nm0736622/",
+        "image": "https://media.gq.com/photos/5cd9879fb41d09d10bcd7657/16:9/w_2560%2Cc_limit/seth-rogen-gq-cover-june-july-2019-11.jpg"
+      },
+      {
+        "name": "Gabrielle Labelle",
+        "IMDB": "https://www.imdb.com/name/nm5450413/",
+        "image": "https://media.vanityfair.com/photos/63f6951b6220199d27ec29f9/4:3/w_1600,h_1200,c_limit/03_Gabe_LaBelle_embed01.jpg"
+      }
+    ],
+    "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2023/04/01/2188892227687/0_0_3509456_98_1920x1080_61746_1920x1080.jpg",
+    "link": "https://www.paramountplus.com/movies/video/_ue28a5Yvc6YKKQQm4W0JK_2Y_WnNONq/"
+  },
+  {
+    "item": 9756,
+    "title": "Raiders of the Lost Ark",
+    "description": "Renowned archeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.",
+    "runtime": 115,
+    "mpaa": "PG",
+    "genre": ["action", "adventure", "classic"],
+    "director": [
+      {
+        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      
+      }
+    ],
+    "actors": [
+      {
+        "name": "Harrison Ford",
+        "IMDB": "https://www.imdb.com/name/nm0000148/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+      },
+      {
+        "name": "Karen Allen",
+        "IMDB": "https://www.imdb.com/name/nm0000261/",
+        "image": "https://people.com/thmb/GUnd-OiISujLcHUtu8j0rxo3eb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/karen-allen-disappointed-in-lack-of-screen-time-new-indiana-jones-070623-tout-57012e8fa4334c109857cba59a4bed77.jpg"
+      },
+      {
+        "name": "Paul Freeman",
+        "IMDB": "https://www.imdb.com/name/nm0293850/",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGU0ZDU0ODktYjBhNS00MTk3LTk0NzUtYTg4NGM4NmM1YmVkXkEyXkFqcGdeQWRpZWdtb25n._V1_QL75_UX500_CR0,0,500,281_.jpg"
+      },
+      {
+        "name": "John Rhys-Davies",
+        "IMDB": "https://www.imdb.com/name/nm0722636/",
+        "image": "https://www.telegraph.co.uk/content/dam/films/2021/07/30/TELEMMGLPICT000266136857_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg"
+      }
+    ],
+    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AC041259451A39F251FEC5422ACD641EE0ADA443C14A18217E7980F77800A27F/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
+    "link": "https://www.paramountplus.com/movies/video/c2AHD3t22ykRDQgjMAoxNrcvYY2Pg_Q_/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHySdTdLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CN_SwtqX6oQDFc3JGAIdQ-wFiw"
   }
+  
+  
+  
   
   
   

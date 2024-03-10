@@ -35,6 +35,44 @@
     ],
     "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D1EE0CE7E63D6DE16B178761E626EEB1A13FEA55B15B6FE235927A71BB047A67/scale?width=1200&aspectRatio=1.78&format=webp",
     "link": "https://www.disneyplus.com/movies/the-bfg/pvXae9wPk8HT"
+  },
+  {
+    "item": 9756,
+    "title": "Raiders of the Lost Ark",
+    "description": "Renowned archeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.",
+    "runtime": 115,
+    "mpaa": "PG",
+    "genre": ["action", "adventure", "classic"],
+    "director": [
+      {
+        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      
+      }
+    ],
+    "actors": [
+      {
+        "name": "Harrison Ford",
+        "IMDB": "https://www.imdb.com/name/nm0000148/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+      },
+      {
+        "name": "Karen Allen",
+        "IMDB": "https://www.imdb.com/name/nm0000261/",
+        "image": "https://people.com/thmb/GUnd-OiISujLcHUtu8j0rxo3eb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/karen-allen-disappointed-in-lack-of-screen-time-new-indiana-jones-070623-tout-57012e8fa4334c109857cba59a4bed77.jpg"
+      },
+      {
+        "name": "Paul Freeman",
+        "IMDB": "https://www.imdb.com/name/nm0293850/",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGU0ZDU0ODktYjBhNS00MTk3LTk0NzUtYTg4NGM4NmM1YmVkXkEyXkFqcGdeQWRpZWdtb25n._V1_QL75_UX500_CR0,0,500,281_.jpg"
+      },
+      {
+        "name": "John Rhys-Davies",
+        "IMDB": "https://www.imdb.com/name/nm0722636/",
+        "image": "https://www.telegraph.co.uk/content/dam/films/2021/07/30/TELEMMGLPICT000266136857_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg"
+      }
+    ],
+    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AC041259451A39F251FEC5422ACD641EE0ADA443C14A18217E7980F77800A27F/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
+    "link": "https://www.disneyplus.com/movies/indiana-jones-and-the-raiders-of-the-lost-ark/1iKh3IKEFc2N?irclickid=0nKTlEV%3A2xyPUo31tz1dqVtJUkHySdXBLVdn3U0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0f01000c-44aa-464a-8900-06c565ede959&dclid=CI7c7e6X6oQDFeWKAAAdIQcI7g"
   }
   
 ]
