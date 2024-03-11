@@ -3245,31 +3245,31 @@
     "runtime": 124,
     "mpaa": "PG",
     "description": "A sensitive portrayal of the life of Joseph Merrick, a severely deformed man living in 19th-century London, and his relationship with a young doctor who treats him with dignity and compassion.",
-    "genre": ["biography", "drama"],
+    "genre": ["biopic", "drama"],
     "director": [{
       "name": "David Lynch",
-      "image": "",
-      "imdb": "https://www.imdb.com/name/nm0000186/"
+        "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000186/"
     }],
     "actors": [{
         "name": "Anthony Hopkins",
-        "image": "",
+        "image": "https://people.com/thmb/08lXzlBaN0NTzlR9JdhNn0wbZS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(975x160:977x162)/anthony-hopkins-mag-rollout-2-tout-011624-1967d8f5d94f4cb0a240ca5fc969517b.jpg",
         "imdb": "https://www.imdb.com/name/nm0000164/"
       }, {
         "name": "John Hurt",
-        "image": "",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2017/01/john_hurt.jpg?w=1024",
         "imdb": "https://www.imdb.com/name/nm0000457/"
       }, {
         "name": "Anne Bancroft",
-        "image": "",
+        "image": "https://i.pinimg.com/736x/18/f9/88/18f988ef3975a94378fa127667e72180.jpg",
         "imdb": "https://www.imdb.com/name/nm0000843/"
       }, {
         "name": "John Gielgud",
-        "image": "",
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/8/10/1312979613189/John-Gielgud-007.jpg?width=465&dpr=1&s=none",
         "imdb": "https://www.imdb.com/name/nm0000027/"
       }],
-    "poster": "",
-    "link": ""
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/d2edf0c6cf7ea0f0c7ee55b45be9fda79ae7a51504582268a91db7151abab9ba.jpg",
+    "link": "https://www.amazon.com/gp/video/detail/0T1W1ZAPQ1NKG8AOVZKSNB97KM/ref=atv_dl_rdr?tag=justus1ktp-20"
   },
 
   {
