@@ -55,7 +55,40 @@
       }],
     "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/931c64be-e129-49bf-b160-c1952dac42bd.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280",
     "link": "https://www.criterionchannel.com/mulholland-dr"
-  }
+  },
+
+  {
+    "item": "1997",
+    "title": "Lost Highway",
+    "runtime": 134,
+    "mpaa": "R",
+    "description": "A mind-bending neo-noir mystery where identities blur, and reality and fantasy intertwine as a man finds himself on the run after a series of bizarre events.",
+    "genre": ["mystery", "thriller", "horror"],
+    "director": [{
+      "name": "David Lynch",
+      "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000186/"
+    }],
+    "actors": [{
+        "name": "Bill Pullman",
+        "image": "https://i.guim.co.uk/img/media/87539dfba69439298af811635c2ca7571e507ce6/0_0_3325_1995/master/3325.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=f28e16375873c136ffd6036d5bbdd1f8",
+        "imdb": "https://www.imdb.com/name/nm0000597/"
+      }, {
+        "name": "Patricia Arquette",
+        "image": "https://cdn.britannica.com/15/185915-050-BB225441/Patricia-Arquette-Boyhood-Richard-Linklater.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000099/"
+      }, {
+        "name": "Balthazar Getty",
+        "image": "https://www.nickiswift.com/img/gallery/what-is-balthazar-getty-doing-now/l-intro-1679243992.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001264/"
+      }, {
+        "name": "Robert Blake",
+        "image": "https://s.abcnews.com/images/US/robert-blake-01-gty-jt-230309_1678409029066_hpMain_16x9_1600.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001956/"
+      }],
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/48e05e5d-af0d-4ddc-97fe-f018dad57801.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280",
+    "link": "https://www.criterionchannel.com/lost-highway"
+  },
 
   {
     "item": 3456,
