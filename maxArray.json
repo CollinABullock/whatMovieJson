@@ -298,6 +298,32 @@
       }]
     },
 
+
+    {
+      "item": "1977",
+      "title": "Eraserhead",
+      "runtime": 89,
+      "mpaa": "R",
+      "description": "A surreal journey into the mind of a man grappling with fatherhood amidst a nightmarish industrial landscape.",
+      "genre": ["horror", "drama", "classic"],
+      "director": [{
+        "name": "David Lynch",
+        "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000186/"
+      }],
+      "actors": [{
+          "name": "Jack Nance",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDA3YWMyMGEtMjczZS00ZDIyLTk2NDItMDE3NzRjY2YwZWM2XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+          "imdb": "https://www.imdb.com/name/nm0619774/"
+        }, {
+          "name": "Charlotte Stewart",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc3NzUxODA1Ml5BMl5BanBnXkFtZTgwMDc3NzU1MjE@._V1_.jpg",
+          "imdb": "https://www.imdb.com/name/nm0829246/"
+        }],
+      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8aaa868f-34a4-4b00-aed1-ec6e3ce8bc66/be917211e4d3d630d578e6b4311c1e063668ab9e.jpg?submitted=1684664348381&host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "link": "https://play.max.com/movie/8aaa868f-34a4-4b00-aed1-ec6e3ce8bc66?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1011lyknuHjx"
+    }
+    ,
     {
       "item": 322,
       "title": "There's Something Wrong with Aunt Diane",
