@@ -24,6 +24,38 @@
     }]
   },
   {
+    "item": "1986",
+    "title": "Blue Velvet",
+    "runtime": 120,
+    "mpaa": "R",
+    "description": "A young man's curiosity leads him into a dark underworld of sex, violence, and mystery in a small American town.",
+    "genre": ["crime", "drama", "mystery", "romance", "horror"],
+    "director": [{
+      "name": "David Lynch",
+        "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000186/"
+    }],
+    "actors": [{
+      "name": "Kyle MacLachlan",
+      "image": "https://news.artnet.com/app/news-upload/2015/01/tumblr_lgkyodqE8C1qgrkbso1_500.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001492/"
+      }, {
+        "name": "Isabella Rossellini",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGJkYjVkYzktYWVkYy00NzVmLTljOTMtZmY0YjZlZDMyNDliXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000618/"
+      }, {
+        "name": "Dennis Hopper",
+        "image": "https://nbmaa.org/images/exhibitions/hopper-self-portrait-los-angeles-1963.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000454/"
+      }, {
+        "name": "Laura Dern",
+        "image": "https://variety.com/wp-content/uploads/2014/10/laura-dern.jpg?w=1000",
+        "imdb": "https://www.imdb.com/name/nm0000368/"
+      }],
+    "poster": "https://canvas-bridge02.tubitv.com/4r_FyDeRdxKVId9HvnxeVbrfc2w=/68x52:1853x1044/1920x1080/smart/img.adrise.tv/c628ece8-3475-4358-afa5-138db112201d.jpg",
+    "link": "https://tubitv.com/movies/356527/blue-velvet"
+  },
+  {
     "item": 68667,
     "title": "After Hours",
     "description": "An ordinary word processor has the worst night of his life after he agrees to visit a girl in Soho whom he met that evening at a coffee shop.",

@@ -1874,6 +1874,38 @@
         "imdb": "https://www.imdb.com/name/nm0004462/"
       }]
     },
+    {
+      "item": "1992",
+      "title": "Twin Peaks: Fire Walk with Me",
+      "runtime": 135,
+      "mpaa": "R",
+      "description": "A prequel to the television series Twin Peaks, the film follows the last seven days of Laura Palmer's life, uncovering the dark secrets of her troubled existence.",
+      "genre": ["drama", "horror", "mystery"],
+      "director": [{
+        "name": "David Lynch",
+        "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000186/"
+      }],
+      "actors": [{
+          "name": "Sheryl Lee",
+          "image": "https://i.ytimg.com/vi/ARfZ4uHSwrU/maxresdefault.jpg",
+          "imdb": "https://www.imdb.com/name/nm0498339/"
+        }, {
+          "name": "Ray Wise",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjIwYjMwZmUtY2FlNy00MjFiLTgxNzYtNDEyZjQ1YjdkNmYwXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_.jpg",
+          "imdb": "https://www.imdb.com/name/nm0936093/"
+        }, {
+          "name": "Mädchen Amick",
+          "image": "https://deadline.com/wp-content/uploads/2021/06/Madchen-Amick.jpg",
+          "imdb": "https://www.imdb.com/name/nm0000733/"
+        }, {
+          "name": "Dana Ashbrook",
+          "image": "https://m.media-amazon.com/images/M/MV5BNWI5Mjg1MTctNDczNi00OWQ2LTg2YzItZjU0OTEyZDkzODQwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+          "imdb": "https://www.imdb.com/name/nm0039036/"
+        }],
+      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/807f20d8-c188-40e7-ae40-355d99b2dafd/b407e84ddbf8a71ebc7053c818e5996dce762512.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "link": "https://play.max.com/video/watch/78ba860d-feba-4781-b2a0-3e03a6178b7c/901d9fa0-6fe2-4096-ac34-7f2846edf908"
+    }
 
     {
       "item": "1984",
