@@ -55,6 +55,42 @@
     "poster": "https://canvas-bridge02.tubitv.com/4r_FyDeRdxKVId9HvnxeVbrfc2w=/68x52:1853x1044/1920x1080/smart/img.adrise.tv/c628ece8-3475-4358-afa5-138db112201d.jpg",
     "link": "https://tubitv.com/movies/356527/blue-velvet"
   },
+
+  {
+    "item": 4732,
+    "title": "Hannibal",
+    "runtime": 131,
+    "mpaa": "R",
+    "description": "Hannibal Lecter resurfaces in Italy and becomes the target of a disfigured and vengeful victim from his past, while a FBI agent seeks to capture him for his past crimes.",
+    "genre": ["crime", "drama", "thriller", "sequel"],
+    "director": [{
+      "name": "Ridley Scott",
+      "image": "https://static.dw.com/image/40728788_605.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000631/"
+    }],
+    "actors": [{
+        "name": "Anthony Hopkins",
+        "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2022/05/anthony-hopkins-silence-of-the-lambs.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000164/"
+      }, {
+        "name": "Julianne Moore",
+        "image": "https://s.yimg.com/ny/api/res/1.2/nRxhQsGR8OvwL.5I01DvpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://media.zenfs.com/en/sheknows_79/fbad93e8dfed21ac3b91e9afa2c28283",
+        "imdb": "https://www.imdb.com/name/nm0000194/"
+      }, {
+        "name": "Gary Oldman",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/02/gettyimages-915027750-h_2018.jpg?w=1296",
+        "imdb": "https://www.imdb.com/name/nm0000198/"
+      }, {
+        "name": "Ray Liotta",
+        "image": "https://townsquare.media/site/442/files/2022/05/attachment-GettyImages-124537171.jpg?w=980&q=75",
+        "imdb": "https://www.imdb.com/name/nm0000501/"
+      }],
+    "poster": "https://canvas-bridge02.tubitv.com/MsNil2lJKKwUs6uT5xSAtTjjW3o=/448x252/smart/img.adrise.tv/37ad6a7b-6cec-45d7-8b29-fa174db82a91.jpg",
+    "link": "https://tubitv.com/movies/364125/hannibal"
+  },
+
+
+  
   {
     "item": 68667,
     "title": "After Hours",

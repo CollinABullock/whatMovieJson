@@ -145,6 +145,40 @@
   "link": "https://www.paramountplus.com/movies/video/4lqIl8Ei3ld8UxvgPAjILgSxH9Z2UQq4/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHynXW1RSAe3k0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=COuJgLyd7YQDFfvz9QIdwSIOYw"
 }
 ,
+
+{
+  "item": 3487,
+  "title": "Gladiator",
+  "runtime": 155,
+  "mpaa": "R",
+  "description": "A former Roman general seeks revenge against the corrupt emperor who murdered his family and sent him into slavery, rising through the ranks of the gladiatorial arena to challenge the tyrant's rule.",
+  "genre": ["action", "adventure", "drama", "history"],
+  "director": [{
+    "name": "Ridley Scott",
+    "image": "https://static.dw.com/image/40728788_605.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000631/"
+  }],
+  "actors": [{
+      "name": "Russell Crowe",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2019/10/russell_crowe.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000128/"
+    }, {
+      "name": "Joaquin Phoenix",
+      "image": "https://static01.nyt.com/images/2017/09/06/t-magazine/joaquin-phoenix-slide-EUHZ-copy/joaquin-phoenix-slide-EUHZ-copy-superJumbo-v2.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001618/"
+    }, {
+      "name": "Connie Nielsen",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2020/12/GettyImages-875102610-copy-1608767064.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0001567/"
+    }, {
+      "name": "Oliver Reed",
+      "image": "https://drunkard.com/wp-content/uploads/2023/12/64-oliver-reed-hdr.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001657/"
+    }],
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/07/16/1922594883708/GLAD_SAlone_16_9_1920x1080_1278014_1920x1080.jpg",
+  "link": "https://www.paramountplus.com/movies/video/UAhaBnkT1Lm68ZAFQx1CgMeXalb4vxwz/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHyni3JRSAe3k0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CLb20-yl7YQDFS3qGAIdYw0IiQ"
+},
+
   {
     "item": "2468",
     "title": "48 Hrs.",

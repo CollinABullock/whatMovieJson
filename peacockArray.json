@@ -34,6 +34,39 @@
   ,
   
   {
+    "item": 9876,
+    "title": "The King of Staten Island",
+    "runtime": 136,
+    "mpaa": "R",
+    "description": "A semi-autobiographical comedy-drama following a young man's journey to find purpose and overcome his grief after his father's death, all while navigating life in Staten Island.",
+    "genre": ["comedy", "drama"],
+    "director": [{
+      "name": "Judd Apatow",
+      "image": "https://www.indiewire.com/wp-content/uploads/2020/09/AP_20026203886163.jpg?w=600&h=337&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0031976/"
+    }],
+    "actors": [{
+        "name": "Pete Davidson",
+        "image": "https://variety.com/wp-content/uploads/2018/08/pete_davidson-final-2-16x9.jpg?w=1000",
+        "imdb": "https://www.imdb.com/name/nm0203888/"
+      }, {
+        "name": "Marisa Tomei",
+        "image": "https://americadomani.com/wp-content/uploads/2023/04/marisa-tomei-header3.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000673/"
+      }, {
+        "name": "Bill Burr",
+        "image": "https://www.masslive.com/resizer/-nYOjYT0kkL8cNG5wX8N4knxAUs=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4YEVRXWUR5EYVB2E3KO7ERCP5Y.jpg",
+        "imdb": "https://www.imdb.com/name/nm0122987/"
+      }, {
+        "name": "Bel Powley",
+        "image": "https://assets.vogue.com/photos/6102b10e9b17bd1b9c4c1839/4:3/w_3359,h_2519,c_limit/Bel-Powley-vogue-credit-Getty-Images.jpg",
+        "imdb": "https://www.imdb.com/name/nm3692832/"
+      }],
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/67dd1537-cead-3f52-a2b9-5610c11b49fa/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=f50152df-a09a-3208-8b0f-c9c500ab5b25",
+    "link": "https://www.peacocktv.com/watch-online/movies/the-king-of-staten-island/8853d2fd-bc89-3758-900d-69637dce6e52"
+  },
+
+  {
     "item": "129",
     "title": "Kick-Ass",
     "runtime": 117,

@@ -5067,6 +5067,106 @@
 		"poster": "https://m.media-amazon.com/images/M/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
 		"link": "https://www.netflix.com/watch/80200267?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C%2CVideo%3A80200267%2CdetailsPagePlayButton"
 	},
+
+	{
+		"item": 8723,
+		"title": "Pineapple Express",
+		"runtime": 111,
+		"mpaa": "R",
+		"description": "Stoner Dale Denton's (Seth Rogen) enjoyment of a rare strain of marijuana may prove fatal when he drops his roach in a panic after witnessing a murder. Upon learning that the fancy weed can be traced back to them, Dale and his dealer (James Franco) go on the lam, with a dangerous drug lord (Gary Cole) and crooked cop (Rosie Perez) hot on their heels.",
+		"genre": ["action", "comedy", "crime", "stoner"],
+		"director": [{
+			"name": "David Gordon Green",
+				"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4F3e5l0fOYgHZ8bnnJU27l5UJt_ge4m_FqQrdY9-yb1cn3J8y",
+				"imdb": "https://www.imdb.com/name/nm0337773/"
+		}],
+		"actors": [{
+			"name": "Seth Rogen",
+			"image": "https://media.gq.com/photos/5cd9879fb41d09d10bcd7657/16:9/w_2560%2Cc_limit/seth-rogen-gq-cover-june-july-2019-11.jpg",
+			"imdb": "https://www.imdb.com/name/nm0736622/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_seth%2520rogen"
+			}, {
+				"name": "James Franco",
+				"image": "https://images.hellomagazine.com/horizon/landscape/9ca79dd70902-gettyimages-1402315507.jpg",
+				"imdb": "https://www.imdb.com/name/nm0290556/"
+			}, {
+				"name": "Gary Cole",
+				"image": "https://ew.com/thmb/QNHDdiRoegWtMlhaPDPHeOX8vWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1234897701-e46ce0295fc5478b9a2a21480b9ed218.jpg",
+				"imdb": "https://www.imdb.com/name/nm0176882/"
+			}, {
+				"name": "Danny McBride",
+				"image": "https://imgix.ranker.com/list_img_v2/16752/2376752/original/danny-mcbride-facts?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720",
+				"imdb": "https://www.imdb.com/name/nm0565099/"
+			}],
+		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYqAaMQYp0SyFacGf9qMYpGJ0ZJUPmlyDrJXvMGrfcki8Dn9wELivgdsRp3eD4dHMql8qo9wEHm0JC-hZ3-GhbQMjJJt02o132bS.jpg?r=563",
+		"link": "https://www.netflix.com/title/70098329"
+	},
+
+	{
+		"item": 6589,
+		"title": "The 40-Year-Old Virgin",
+		"runtime": 116,
+		"mpaa": "R",
+		"description": "A middle-aged man who has never had sex embarks on a journey to lose his virginity with the help of his friends.",
+		"genre": ["comedy", "romance"],
+		"director": [{
+			"name": "Judd Apatow",
+			"image": "https://decider.com/wp-content/uploads/2015/08/judd-apatow-go-wrong1.png",
+			"imdb": "https://www.imdb.com/name/nm0031976/"
+		}],
+		"actors": [{
+				"name": "Steve Carell",
+				"image": "https://e3.365dm.com/22/06/2048x1152/skynews-steve-carell-minions_5819492.jpg",
+				"imdb": "https://www.imdb.com/name/nm0136797/"
+			}, {
+				"name": "Catherine Keener",
+				"image": "https://www.looper.com/img/gallery/catherine-keeners-seinfeld-appearance-was-all-thanks-to-a-last-minute-casting-change/intro-1673446797.jpg",
+				"imdb": "https://www.imdb.com/name/nm0001416/"
+			}, {
+				"name": "Paul Rudd",
+				"image": "https://www.nickiswift.com/img/gallery/the-transformation-of-paul-rudd-from-teenager-to-52-years-old/intro-1676504189.jpg",
+				"imdb": "https://www.imdb.com/name/nm0748620/"
+			}, {
+				"name": "Seth Rogen",
+				"image": "https://media.gq.com/photos/5cd9879fb41d09d10bcd7657/16:9/w_2560%2Cc_limit/seth-rogen-gq-cover-june-july-2019-11.jpg",
+				"imdb": "https://www.imdb.com/name/nm0736622/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_seth%2520rogen"
+			}],
+		"poster": "https://img3.hulu.com/user/v3/artwork/0a4bb7b8-38e2-4fa6-996f-aba0215715f6?base_image_bucket_name=image_manager&base_image=2fcd918a-55b9-42cf-863f-8bf490785877&region=US&format=jpeg&size=952x536",
+		"link": "https://www.hulu.com/movie/0a4bb7b8-38e2-4fa6-996f-aba0215715f6"
+	},
+
+	{
+		"item": 1234,
+		"title": "This Is 40",
+		"runtime": 134,
+		"mpaa": "R",
+		"description": "A comedic look at the challenges and joys of turning 40, as a married couple navigates the complexities of work, family, and relationships.",
+		"genre": ["comedy", "drama", "romance"],
+		"director": [{
+			"name": "Judd Apatow",
+			"image": "https://decider.com/wp-content/uploads/2015/08/judd-apatow-go-wrong1.png",
+			"imdb": "https://www.imdb.com/name/nm0031976/"
+		}],
+		"actors": [{
+			"name": "Paul Rudd",
+			"image": "https://www.nickiswift.com/img/gallery/the-transformation-of-paul-rudd-from-teenager-to-52-years-old/intro-1676504189.jpg",
+			"imdb": "https://www.imdb.com/name/nm0748620/"
+			}, {
+				"name": "Leslie Mann",
+				"image": "https://parade.com/.image/t_share/MTkwNTgwODMzNDgzMjM2NDc3/leslie-mann-ftr.jpg",
+				"imdb": "https://www.imdb.com/name/nm0005182/"
+			}, {
+				"name": "Maude Apatow",
+				"image": "https://assets.teenvogue.com/photos/620e9cf9881d2dbe2b88f801/16:9/w_2560%2Cc_limit/GettyImages-1363012423.jpg",
+				"imdb": "https://www.imdb.com/name/nm2787014/"
+			}, {
+				"name": "Iris Apatow",
+				"image": "https://media1.popsugar-assets.com/files/thumbor/WXW3pEh3Qd_YUGQkp1opSBxJWFk=/0x0:4000x2696/fit-in/792x534/top/filters:format_auto():upscale()/2022/04/05/664/n/46902964/d6eded57624c58d6c15ab6.60449964_.jpg",
+				"imdb": "https://www.imdb.com/name/nm3360807/"
+			}],
+		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWd0K-d2LkYpe8xrF52DGx7IoRZxJiaXS-MYIYYOjsV58u11QmdjXvhf-ykptPxgM7g6_sSIwjCawqsUtgpOaRGDDk5EKnLOdurr.jpg?r=de5",
+		"link": "https://www.netflix.com/title/70244168"
+	}
+,
 	{
 		"item": 9876,
 		"title": "The Lost World: Jurassic Park",

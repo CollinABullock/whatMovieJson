@@ -3240,6 +3240,72 @@
   },
 
   {
+    "item": 5278,
+    "title": "Begin Again",
+    "runtime": 104,
+    "mpaa": "R",
+    "description": "A chance encounter between a disgraced music producer and a young singer-songwriter leads to a collaboration that changes both of their lives.",
+    "genre": ["comedy", "drama", "music", "romance"],
+    "director": [{
+      "name": "John Carney",
+      "image": "https://m.media-amazon.com/images/M/MV5BYThjMmRjZTktMzVjZS00OWM1LTkyMTYtZTM4MGM1MGIyYmYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0139333/"
+    }],
+    "actors": [{
+        "name": "Keira Knightley",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2016_33/1151971/keira-knightley-today-160819-tease.jpg",
+        "imdb": "https://www.imdb.com/name/nm0461136/"
+      }, {
+        "name": "Mark Ruffalo",
+        "image": "https://variety.com/wp-content/uploads/2023/11/GettyImages-1502644416.jpg?crop=0px%2C45px%2C3807px%2C2141px&resize=1000%2C563",
+        "imdb": "https://www.imdb.com/name/nm0749263/"
+      }, {
+        "name": "Adam Levine",
+        "image": "https://variety.com/wp-content/uploads/2018/11/adam-levine-variety-hitmakers-cover-story-2-16x9.jpg?w=1000&h=563&crop=1",
+        "imdb": "https://www.imdb.com/name/nm1165095/"
+      }, {
+        "name": "Hailee Steinfeld",
+        "image": "https://www.thesun.co.uk/wp-content/uploads/2018/12/AS_HAILEE_STEINFELD_OP.jpg",
+        "imdb": "https://www.imdb.com/name/nm2794962/"
+      }],
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/89482bcb33a9167259da528b38631f22f04f38a316fbe132c3449971b3633572.jpg",
+    "link": "https://www.amazon.com/gp/video/detail/0F70VRZ1B6YQUT7NVTKN5EO9YE/ref=atv_dl_rdr?tag=justus1ktp-20"
+  },
+
+  {
+    "item": 8943,
+    "title": "House of Gucci",
+    "runtime": null,
+    "mpaa": null,
+    "description": "The story of the turbulent marriage and murder within the Gucci fashion empire.",
+    "genre": ["biography", "crime", "drama"],
+    "director": [{
+      "name": "Ridley Scott",
+      "image": "",
+      "imdb": "https://www.imdb.com/name/nm0000631/"
+    }],
+    "actors": [{
+        "name": "Lady Gaga",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjQ4MzIzMDkyOF5BMl5BanBnXkFtZTgwNzE4NjYwODM@._V1_QL75_UX500_CR0,35,500,281_.jpg",
+        "imdb": "https://www.imdb.com/name/nm3078932/"
+      }, {
+        "name": "Adam Driver",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220804161330-adam-driver-burberry-look-of-the-week.jpg?q=w_2000,c_fill",
+        "imdb": "https://www.imdb.com/name/nm3485845/"
+      }, {
+        "name": "Al Pacino",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/Al-Pacino-Oscars-Onstage-GettyImages-2074653513-H-2024.jpg?w=1296",
+        "imdb": "https://www.imdb.com/name/nm0000199/"
+      }, {
+        "name": "Jared Leto",
+        "image": "https://people.com/thmb/F6zZ7jcdQlpwxG-mwyPWJ0faXoE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(734x168:736x170)/jared-leto-zane-lowe-podcast-091423-tout-f358591e23834b6ebe8843d083e83d5d.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001467/"
+      }],
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/8ace009c094032df16b4ac8d4bcd761e9e8fc51abe0e0566bb156970c10b102d.jpg",
+    "link": "https://www.amazon.com/gp/video/detail/0HUQH9VXP151C7YTTHRESDO1K9/ref=atv_dl_rdr?tag=justus1ktp-20"
+  },
+
+  {
     "item": "1980",
     "title": "The Elephant Man",
     "runtime": 124,
