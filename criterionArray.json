@@ -89,6 +89,38 @@
     "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/48e05e5d-af0d-4ddc-97fe-f018dad57801.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280",
     "link": "https://www.criterionchannel.com/lost-highway"
   },
+  {
+    "item": "2006",
+    "title": "Inland Empire",
+    "runtime": 180,
+    "mpaa": "R",
+    "description": "A labyrinthine journey into the fractured psyche of an actress, blurring the lines between reality and fiction as she becomes entangled in a mysterious film production.",
+    "genre": ["drama", "mystery"],
+    "director": [{
+      "name": "David Lynch",
+      "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000186/"
+    }],
+    "actors": [{
+      "name": "Laura Dern",
+      "image": "https://variety.com/wp-content/uploads/2014/10/laura-dern.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0000368/"
+      }, {
+        "name": "Jeremy Irons",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2020/01/jeremy_irons_antonellomontesi.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000460/"
+      }, {
+        "name": "Justin Theroux",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/justin-theroux-girlfriend-nicole-brydon-bloom-65eee7c663e78.jpg?crop=1xw:0.844614852398524xh;center,top&resize=1200:*",
+        "imdb": "https://www.imdb.com/name/nm0005483/"
+      }, {
+        "name": "Harry Dean Stanton",
+        "image": "https://static01.nyt.com/images/2017/09/16/obituaries/stanton4/stanton4-superJumbo.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001765/"
+      }],
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/309f1779-2c3e-4d16-a9ce-f37f623b2b4e.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280",
+    "link": "https://www.criterionchannel.com/inland-empire"
+  },
 
   {
     "item": 3456,
