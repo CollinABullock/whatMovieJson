@@ -18,6 +18,7 @@ const paramountData = require ("./paramountArray.json")
 const criterionData = require ("./criterionArray.json")
 const tubiData = require ("./tubiArray.json")
 const appleData = require ("./appleArray.json")
+const disneyData = require ("./disneyArray.json")
 
 app.get("/", (req, res) => {
   res.send("movies are gay");
@@ -38,6 +39,30 @@ app.post("/netflixArray", (req, res) => {
 
   // Update the netflixData array with the new item
   netflixData.push(newItem);
+
+  // Send a response indicating success
+  res.status(201).json({ message: "You just added a movie bucko", item: newItem });
+});
+
+app.get("/maxArray", (req, res) => {
+  res.send(maxData);
+});
+
+app.get("/disneyArray", (req, res) => {
+  res.send(disneyData);
+});
+
+app.post("/disneyArray", (req, res) => {
+  const newItem = req.body;
+
+  // Generate a unique item number using UUID
+  const newItemNumber = uuid.v4(); // Generate a version 4 UUID
+
+  // Add the generated item number to the newItem object
+  newItem.item = newItemNumber;
+
+  // Update the netflixData array with the new item
+  disneyData.push(newItem);
 
   // Send a response indicating success
   res.status(201).json({ message: "You just added a movie bucko", item: newItem });
