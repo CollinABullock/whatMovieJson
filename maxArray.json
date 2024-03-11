@@ -1875,6 +1875,39 @@
       }]
     },
 
+    {
+      "item": "1984",
+      "title": "Dune",
+      "runtime": 137,
+      "mpaa": "PG-13",
+      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4161ed78-fa68-4b0e-87f4-6fa537a848de/1a535f1b0958ca30b070ba6ea23a175fbeffe810.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "description": "In the distant future, a noble family embarks on a treacherous journey to secure control over a desert planet.",
+      "genre": ["science-fiction", "adventure"],
+      "link": "https://play.max.com/video/watch/d4aa9884-8e5c-40e7-957c-765ab733f35d/4ea720a1-eca0-4ae2-8608-35b910d9aaea",
+      "director": [{
+        "name": "David Lynch",
+        "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000186/"
+      }],
+      "actors": [{
+          "name": "Francesca Annis",
+          "image": "https://i.ytimg.com/vi/-1j_zG0NRpU/maxresdefault.jpg",
+          "imdb": "https://www.imdb.com/name/nm0000760/"
+        }, {
+          "name": "Kyle MacLachlan",
+          "image": "https://news.artnet.com/app/news-upload/2015/01/tumblr_lgkyodqE8C1qgrkbso1_500.jpg",
+          "imdb": "https://www.imdb.com/name/nm0001492/"
+        }, {
+          "name": "Sting",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/le-chanteur-sting-du-groupe-police-aux-etats-unis-news-photo-1632943965.jpg?crop=1.00xw:0.498xh;0,0.162xh&resize=768:*",
+          "imdb": "https://www.imdb.com/name/nm0001776/"
+        }, {
+          "name": "Max von Sydow",
+          "image": "https://www.swtimes.com/gcdn/authoring/2020/03/15/NTRE/ghows-AR-a0aa676a-8e00-2b62-e053-0100007fe991-fef7b747.jpeg",
+          "imdb": "https://www.imdb.com/name/nm0001884/"
+        }]
+    }
+,
     {    
       "item": "146a",
       "title": "Barbie",
