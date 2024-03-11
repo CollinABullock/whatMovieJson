@@ -95,7 +95,119 @@
     ],
     "poster": "https://canvas-bridge02.tubitv.com/Qc2AWhiva67MDz1ucPsmn7euPrw=/0x163:800x607/448x252/smart/img.adrise.tv/cf8b789d-5cdc-4b5e-8433-d0eff1cbaa3c.jpg",
     "link": "https://tubitv.com/movies/685451/a-woman-a-gun-and-a-noodle-shop"
+  },
+
+  {
+    "item": 2394,
+    "title": "Paths of Glory",
+    "description": "During World War I, commanding officer General Broulard (Adolphe Menjou) orders his subordinate, General Mireau (George Macready), to attack a German trench position, offering a promotion as an incentive. Though the mission is foolhardy to the point of suicide, Mireau commands his own subordinate, Colonel Dax (Kirk Douglas), to plan the attack. When it ends in disaster, General Mireau demands the court-martial of three random soldiers in order to save face.",
+    "runtime": 88,
+    "mpaa": "Not Rated",
+    "genre": ["drama", "war", "history", "classic"],
+    "director": [
+      {
+        "name": "Stanley Kubrick",
+        "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+        "imdb": "https://www.imdb.com/name/nm0000040/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Kirk Douglas",
+        "IMDB": "https://www.imdb.com/name/nm0000018/",
+        "image": "https://facts.net/wp-content/uploads/2023/07/39-facts-about-kirk-douglas-1690771729.jpg"
+      },
+      {
+        "name": "Ralph Meeker",
+        "IMDB": "https://www.imdb.com/name/nm0576513/",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA0NTYyOTktNzRkYS00MjllLWE4OGYtMjdiYWYyZmQ1NmM5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg"
+      },
+      {
+        "name": "Adolphe Menjou",
+        "IMDB": "https://www.imdb.com/name/nm0578936/",
+        "image": "https://therake.com/media/blog/The-Rake-rexfeatures_5873578e.jpg"
+      }
+    ],
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/b77183990de7f0026e48ef959943044d85b2d825152bbf71f58194208f3b08a6.jpg",
+    "link": "https://tubitv.com/movies/301935/paths-of-glory"
+  },
+  {
+    "item": 4192,
+    "title": "Lolita",
+    "description": "With a screenplay penned by the author himself, Stanley Kubrick brings Vladimir Nabokov's controversial tale of forbidden love to the screen. Humbert Humbert (James Mason) is a European professor who relocates to an American suburb, renting a room from lonely widow Charlotte Haze (Shelley Winters). Humbert marries Charlotte, but only to nurture his obsession with her comely teenage daughter, Lolita (Sue Lyon). After Charlotte's sudden death, Humbert has Lolita all to himself -- or does he?",
+    "runtime": 153,
+    "mpaa": "Not Rated",
+    "genre": ["drama", "romance", "classic"],
+    "director": [
+      {
+        "name": "Stanley Kubrick",
+        "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+        "imdb": "https://www.imdb.com/name/nm0000040/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "James Mason",
+        "IMDB": "https://www.imdb.com/name/nm0000051/",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGEyYTAwOGMtYmY0Ni00MWQ3LWJlMTItMTkwYWJmYWZlMjY3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg"
+      },
+      {
+        "name": "Sue Lyon",
+        "IMDB": "https://www.imdb.com/name/nm0001486/",
+        "image": "https://i.dailymail.co.uk/1s/2019/12/28/04/22729856-0-image-a-22_1577506309007.jpg"
+      },
+      {
+        "name": "Shelley Winters",
+        "IMDB": "https://www.imdb.com/name/nm0001858/",
+        "image": "https://cdn.britannica.com/14/239014-050-D19F0538/Shelley-Winters-publicity-still-Tennessee-Champ-1954.jpg"
+      }, {
+        "name": "Peter Sellers",
+        "image": "https://i.ytimg.com/vi/qUQTqSMHQpw/maxresdefault.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000634/"
+      }
+    ],
+    "poster": "https://i.ytimg.com/vi/k6SUkK170Gc/maxresdefault.jpg",
+    "link": "https://tubitv.com/movies/100012224/lolita"
   }
+,  
+  
+
+  {
+    "item": 5678,
+    "title": "Barry Lyndon",
+    "description": "A historical drama film directed by Stanley Kubrick, based on the 1844 novel 'The Luck of Barry Lyndon' by William Makepeace Thackeray.",
+    "runtime": 185,
+    "mpaa": "PG",
+    "genre": ["drama", "romance", "history", "classic"],
+    "director": [
+      {
+        "name": "Stanley Kubrick",
+        "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+        "imdb": "https://www.imdb.com/name/nm0000040/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Ryan O'Neal",
+        "IMDB": "https://www.imdb.com/name/nm0000568/",
+        "image": "https://media.vanityfair.com/photos/6573ac3265abd1c617a2c13c/4:3/w_2560%2Cc_limit/Ryan-ONeal-Obit.jpg"
+      },
+      {
+        "name": "Marisa Berenson",
+        "IMDB": "https://www.imdb.com/name/nm0000304/",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJjMWI2MWEtNzJmMy00MDQwLWI5YmItMzhjM2Q2Yzg0ZjUwXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg"
+      },
+      {
+        "name": "Patrick Magee",
+        "IMDB": "https://www.imdb.com/name/nm0535903/",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTlkYzUzZGItODQ5ZC00OTNmLTg3NGItZGIzOWVjYWFmMmE4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg"
+      }
+    ],
+    "poster": "https://i.ytimg.com/vi/Ad_WS6h6NJw/maxresdefault.jpg",
+    "link": "https://tubitv.com/movies/100013420/barry-lyndon"
+  }
+
+  
   
   
   

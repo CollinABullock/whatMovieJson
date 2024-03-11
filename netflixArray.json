@@ -1,34 +1,5 @@
 [
 	{
-		"item": "movie",
-		"title": "Dumb and Dumber",
-		"runtime": 107,
-		"mpaa": "PG-13",
-		"poster": "",
-		"description": "Two incredibly stupid friends set out on a cross-country trip to return a briefcase full of money to its rightful owner.",
-		"genre": ["comedy"],
-		"link": "",
-		"director": [{
-			"name": "Peter Farrelly",
-			"image": "",
-			"imdb": "https://www.imdb.com/name/nm0268380/"
-		}, {
-			"name": "Bobby Farrelly",
-			"image": "",
-			"imdb": "https://www.imdb.com/name/nm0268381/"
-		}],
-		"actors": [{
-			"name": "Jim Carrey",
-			"image": "",
-			"imdb": "https://www.imdb.com/name/nm0000120/"
-		}, {
-			"name": "Jeff Daniels",
-			"image": "",
-			"imdb": "https://www.imdb.com/name/nm0000353/"
-		}]
-	}
-	,
-	{
 		"item": "n922",
 		"title": "Dumb and Dumber",
 		"runtime": 107,
@@ -5051,49 +5022,7 @@
 			"imdb": "https://www.imdb.com/name/nm0001168/"
 		}]
 	},
-	{
-		"title": "The Ballad of Buster Scruggs",
-		"description": "An anthology film comprised of six stories, each dealing with a different aspect of life in the Old West.",
-		"runtime": 133,
-		"mpaa": "R",
-		"genre": ["comedy", "drama", "musical"],
-		"director": [
-			{
-				"name": "Ethan Coen",
-				"IMDB": "https://www.imdb.com/name/nm0001054/",
-				"image": ""
-			},
-			{
-				"name": "Joel Coen",
-				"IMDB": "https://www.imdb.com/name/nm0001053/",
-				"image": ""
-			}
-		],
-		"actors": [
-			{
-				"name": "Tim Blake Nelson",
-				"IMDB": "https://www.imdb.com/name/nm0625789/",
-				"image": ""
-			},
-			{
-				"name": "Willie Watson",
-				"IMDB": "https://www.imdb.com/name/nm3210534/",
-				"image": ""
-			},
-			{
-				"name": "Clancy Brown",
-				"IMDB": "https://www.imdb.com/name/nm0000317/",
-				"image": ""
-			},
-			{
-				"name": "Stephen Root",
-				"IMDB": "https://www.imdb.com/name/nm0740535/",
-				"image": ""
-			}
-		],
-		"poster": "",
-		"link": ""
-	},
+
 	{
 		"item": 6543,
 		"title": "The Ballad of Buster Scruggs",

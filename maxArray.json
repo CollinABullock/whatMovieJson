@@ -26,11 +26,67 @@
       "link": "https://play.max.com/movie/8de6f0f3-38a2-48f8-88ad-7b2805d72782",
       "director": [{
         "name": "Steve James",
-        "image": "",
+        "image": "https://www.dga.org/-/media/Images/Landscape-Images/Visual-History/VH176-Steve-James/Steve-James-Main.ashx?as=1&h=630&mh=630&mw=1200&w=630&hash=5913C92C9CB2C992A3E7E76D626C76BF93AA3478?t=8",
         "imdb": "https://www.imdb.com/name/nm0417024/"
       }],
       "actors": []
     },
+
+    {
+      "item": 5678,
+      "title": "A Brief History of Time",
+      "description": "A documentary exploring the life and work of physicist Stephen Hawking, discussing his theories on the origins of the universe and his personal life.",
+      "runtime": 80,
+      "mpaa": "Not Rated",
+      "genre": ["documentary", "biopic", "science-fiction"],
+      "director": [
+        {
+          "name": "Errol Morris",
+          "IMDB": "https://www.imdb.com/name/nm0601619/",
+          "image": "https://th-thumbnailer.cdn-si-edu.com/_EiYNfrjSuC4R7C4t1NftIIuNRw=/800x450/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/Profile-Errol-Morris-631.jpg"
+        }
+      ],
+      "actors": [
+        {
+          "name": "Stephen Hawking",
+          "IMDB": "https://www.imdb.com/name/nm0366186/",
+          "image": "https://cdn.britannica.com/53/126653-050-8B554960/Stephen-W-Hawking-2007.jpg"
+        }
+      ],
+      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b55fa59e-7fd4-47b0-bbbb-e072f03a6fc1/f4ad204800bb4c7c53b7207a6bcac9ca09f92895.jpg?submitted=1684668889386&host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "link": "https://play.max.com/video/watch/fd316d62-3a6e-42a5-9041-66a3ea861c14/f1fd871d-41b7-4f63-9585-66d800b48fca"
+    }
+,  
+{
+  "item": 1234,
+  "title": "2001: A Space Odyssey",
+  "description": "An imposing black structure provides a connection between the past and the future in this enigmatic adaptation of a short story by revered sci-fi author Arthur C. Clarke. When Dr. Dave Bowman (Keir Dullea) and other astronauts are sent on a mysterious mission, their ship's computer system, HAL, begins to display increasingly strange behavior, leading up to a tense showdown between man and machine that results in a mind-bending trek through space and time.",
+  "runtime": 149,
+  "mpaa": "G",
+  "genre": ["science-fiction", "mystery", "classic"],
+  "director": [
+    {
+      "name": "Stanley Kubrick",
+      "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+      "imdb": "https://www.imdb.com/name/nm0000040/"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Keir Dullea",
+      "IMDB": "https://www.imdb.com/name/nm0001157/",
+      "image": "https://s.hdnux.com/photos/01/01/06/07/17064407/6/rawImage.jpg"
+    },
+    {
+      "name": "Gary Lockwood",
+      "IMDB": "https://www.imdb.com/name/nm0517224/",
+      "image": "https://baltimorepostexaminer.com/wp-content/uploads/Gary-Lockwood-Star-Trek-Screen-Shot-2016-07-29-at-9.19.08-PM-e1492628223912.png"
+    }
+  ],
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/a0c647f6-2a32-4a5d-8659-d4db83a35e3b/50c582f72eb363180bf8f1c4341efb8138d5cea5.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "link": "https://play.max.com/video/watch/d084b82b-49c7-4edb-9cfa-f57721fce19b/6daaa79f-faeb-48e8-bf84-e80ca196b92c"
+}
+,
 
     {
       "item": 423,
@@ -563,9 +619,45 @@
     }]
     },
 
+    {
+      "item": 9102,
+      "title": "A Clockwork Orange",
+      "description": "In an England of the future, Alex (Malcolm McDowell) and his 'Droogs' spend their nights getting high at the Korova Milkbar before embarking on 'a little of the old ultraviolence,' while jauntily warbling 'Singin' in the Rain.' After he's jailed for bludgeoning the Cat Lady to death, Alex submits to behavior modification technique to earn his freedom; he's conditioned to abhor violence. Returned to the world defenseless, Alex becomes the victim of his prior victims.",
+      "runtime": 136,
+      "mpaa": "R",
+      "genre": ["crime", "drama", "science-fiction", "classic"],
+      "director": [
+        {
+          "name": "Stanley Kubrick",
+          "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+          "imdb": "https://www.imdb.com/name/nm0000040/"
+        }
+      ],
+      "actors": [
+        {
+          "name": "Malcolm McDowell",
+          "IMDB": "https://www.imdb.com/name/nm0000532/",
+          "image": "https://www.indiewire.com/wp-content/uploads/2018/07/shutterstock_5885876an.jpg"
+        },
+        {
+          "name": "Patrick Magee",
+          "IMDB": "https://www.imdb.com/name/nm0535903/",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTlkYzUzZGItODQ5ZC00OTNmLTg3NGItZGIzOWVjYWFmMmE4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg"
+        },
+        {
+          "name": "Michael Bates",
+          "IMDB": "https://www.imdb.com/name/nm0061076/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/MichaelBatesAClockworkOrange.png"
+        }
+      ],
+      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/52251185-23d4-4942-8d37-aa8dad2d8d32/a9b6e5ce31202667766800b455a1db8bade9235e.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "link": "https://play.max.com/movie/52251185-23d4-4942-8d37-aa8dad2d8d32?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1101lyjYgagv"
+    }
+,    
+
     {    
       "item": "107",
-      "title": "Full Meta; Jacket",
+      "title": "Full Metal Jacket",
       "runtime": 117,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/01dfcf23-7a1c-4e3f-872c-541f1bbca6b6/406cbb8631a51b397252dcd3bce3c446e5dcdb5c.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",

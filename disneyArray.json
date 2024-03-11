@@ -188,6 +188,42 @@
     "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/646176707CA1E62BD1B7909FD8B4B67ADFB5F4CE37D70C00515BB6698DB83387/scale?width=1200&aspectRatio=1.78&format=webp",
     "link": "https://www.disneyplus.com/movies/indiana-jones-and-the-kingdom-of-the-crystal-skull/57O7IUX2CLrN?irclickid=0nKTlEV%3A2xyPUo31tz1dqVtJUkHygr05LVdn3U0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0f01004d-69df-484c-a200-06d965ef164d&dclid=CIvkyfC27IQDFSeFpgQdhogG1Q"
   }
+  ,
+  {
+    "item": 1234,
+    "title": "West Side Story",
+    "description": "A musical drama film about the forbidden romance between Tony, a former member of the Jets, and Maria, the sister of the leader of the rival gang, the Sharks, set in 1950s New York City.",
+    "runtime": 156,
+    "mpaa": "PG-13",
+    "genre": ["musical", "drama", "romance"],
+    "director": [
+      {"name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"}
+    ],
+    "actors": [
+      {
+        "name": "Ansel Elgort",
+        "IMDB": "https://www.imdb.com/name/nm5052065/",
+        "image": "https://variety.com/wp-content/uploads/2018/12/Ansel-Elgort-The-Great-High-School-Imposter.jpg"
+      },
+      {
+        "name": "Rachel Zegler",
+        "IMDB": "https://www.imdb.com/name/nm10322634/",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmE0N2Y2ZTQtZDZhMS00YWE4LTlmOTgtZWZhNzNmZTA3OTgyXkEyXkFqcGdeQWplZmZscA@@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+      },
+      {
+        "name": "Ariana DeBose",
+        "IMDB": "https://www.imdb.com/name/nm5539301/",
+        "image": "https://assets.vogue.com/photos/63f63bbee5099d97f9c92b30/4:3/w_2560%2Cc_limit/GettyImages-1467663658.jpg"
+      },
+      {
+        "name": "Mike Faist",
+        "IMDB": "https://www.imdb.com/name/nm4576311/",
+        "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRM4BD-rJCeOtAqftJAaGsDt36t3uZeZcDgzlfVaa7Fd08hBBYCfZn5fF9eU7W6P36ubA-WW-oIe9Erl74"
+      }
+    ],
+    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CDC7B3A32792FF7EEB9D7043E7F1A632314B2EF18EB47C157E1C9BDE08B6C2CD/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
+    "link": "https://www.disneyplus.com/movies/west-side-story/2VCrDr9yQ2FQ?irclickid=0nKTlEV%3A2xyPUo31tz1dqVtJUkHyg-SxLVdn3U0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0b01002a-b746-4e74-b600-21b365ef31f1&dclid=CIHu0Z7R7IQDFfru9QIdajcDTA"
+  }
   
   
   
