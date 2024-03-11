@@ -626,6 +626,237 @@
     "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w400-q80/movie_asset/40/40/09/amstd_salone_poster_1400x2100_nb.jpg",
     "link": "https://www.paramountplus.com/movies/video/UbhzAe6pAcuBdbwXt2rIEEL9WG1_QJAq/"
   }
+  ,
+  {
+    "item": 5678,
+    "title": "War of the Worlds",
+    "description": "Dockworker Ray Ferrier (Tom Cruise) struggles to build a positive relationship with his two children, Rachel (Dakota Fanning) and Robbie (Justin Chatwin). When his ex-wife, Mary Ann (Miranda Otto), drops them off at Ferrier's house, it seems as though it will be just another tension-filled weekend. However, when electromagnetic pulses of lightning strike the area, the strange event turns out to be the beginning of an alien invasion, and Ferrier must now protect his children as they seek refuge.",
+    "runtime": 116,
+    "mpaa": "PG-13",
+    "genre": ["science-fiction", "thriller"],
+    "director": [
+      {
+        "name": "Steven Spielberg",
+      "image": "https://deadline.com/wp-content/uploads/2021/08/Steven-Spielberg-Mega.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0000229/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Tom Cruise",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Tom-Cruise-Top-Gun-.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000129/"
+      },
+      {
+        "name": "Dakota Fanning",
+        "IMDB": "https://www.imdb.com/name/nm0266824/",
+        "image": "https://www.thelist.com/img/gallery/whatever-happened-to-dakota-fanning/intro-1687200109.jpg"
+      },
+      {
+        "name": "Justin Chatwin",
+        "IMDB": "https://www.imdb.com/name/nm0151419/",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGY2YjBmMDYtNWEzMC00NjM5LWFiYWEtMjVmNGQ4MmE3Zjg4XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+      },
+      {
+        "name": "Tim Robbins",
+        "IMDB": "https://www.imdb.com/name/nm0000209/",
+        "image": "https://cdn.mos.cms.futurecdn.net/tiM6QPmoZnaUUSBDSM4mwK.jpg"
+      }
+    ],
+    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/03/04/2009653315759/WOTW_SAlone_16_9_1920x1080_2244538_1920x1080.jpg",
+    "link": "https://www.paramountplus.com/movies/video/6EBZOegEKE2E4svmjhQ4kIBNRI9y8eTq/"
+  },
+  {
+    "item": 8765,
+    "title": "Indiana Jones and the Last Crusade",
+    "description": "An action-adventure film directed by Steven Spielberg, where archaeologist Indiana Jones sets out to find his father and the Holy Grail before the Nazis.",
+    "runtime": 127,
+    "mpaa": "PG-13",
+    "genre": ["action", "adventure", "sequel"],
+    "director": [
+      {
+        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      
+      }
+    ],
+    "actors": [
+      {
+        "name": "Harrison Ford",
+        "IMDB": "https://www.imdb.com/name/nm0000148/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+      },
+      {
+        "name": "Sean Connery",
+        "IMDB": "https://www.imdb.com/name/nm0000125/",
+        "image": "https://cdn.vox-cdn.com/thumbor/TWDaAKSwMBrgOKypdLAATDTkY1o=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22004071/GettyImages_830373568.jpg"
+      },
+      {
+        "name": "Denholm Elliott",
+        "IMDB": "https://www.imdb.com/name/nm0001189/",
+        "image": "https://s1.ppllstatics.com/surinenglish/www/multimedia/202205/30/media/cortadas/Elliott%20Malaga-kF0G-U1702667229077o-1968x1216@Diario%20Sur.jpg"
+      },
+      {
+        "name": "Alison Doody",
+        "IMDB": "https://www.imdb.com/name/nm0000379/",
+        "image": "https://focus.independent.ie/thumbor/xJIL3MQDzmtiGGK19OKnz2cOHE8=/0x95:1536x942/960x640/prod-mh-ireland/115a9c9c-c141-11ed-ac3f-0210609a3fe2.jpg"
+      }
+    ],
+    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/56072969AF21676AFB3ADEBE9A5E3174F2E055E552B7BB6C19F991C2D036A27A/scale?width=1200&aspectRatio=1.78&format=webp",
+    "link": "https://www.paramountplus.com/movies/video/1wTEl1omTrGvkvUVAMleps3da2vpcBsx/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHygsXZLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=COfB3IS17IQDFTr09QIdYk4EBA"
+  },
+  {
+    "item": 1234,
+    "title": "Indiana Jones and the Temple of Doom",
+    "description": "Indiana Jones teams up with a nightclub singer named Wilhelmina Willie Scott and a twelve-year-old Chinese boy named Short Round. They end up in a small distressed village in India, where the people believe that evil spirits have taken all their children away after a sacred precious stone was stolen. They also discover the great mysterious terror surrounding a booby-trapped temple known as the Temple of Doom. Thuggee is beginning to attempt to rise once more, believing that with the power of all five Sankara stones they can rule the world. It's all up to Indiana to put an end to the Thuggee campaign, rescue the lost children, win the girl and conquer the Temple of Doom.",
+    "runtime": 118,
+    "mpaa": "PG",
+    "genre": ["action", "adventure", "sequel"],
+    "director": [
+      {
+        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      
+      }
+    ],
+    "actors": [
+      {
+        "name": "Harrison Ford",
+        "IMDB": "https://www.imdb.com/name/nm0000148/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+      },
+      {
+        "name": "Kate Capshaw",
+        "IMDB": "https://www.imdb.com/name/nm0001001/",
+        "image": "https://www.henrystreet.org/wp-content/uploads/2023/10/photo-jan-10-2022-3-43-46-pm-scaled.jpg"
+      },
+      {
+        "name": "Ke Huy Quan",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTA1OWYyYzAtOGI5Yy00N2E3LTgxZGMtNzY1N2E2NjliZWVkXkEyXkFqcGdeQXJoYW5uYWg@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0702841/"
+      },
+      {
+        "name": "Amrish Puri",
+        "IMDB": "https://www.imdb.com/name/nm0006246/",
+        "image": "https://images.indianexpress.com/2023/06/amrish-puri.jpg"
+      }
+    ],
+    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2B99DE6A6D381F806D50B8421804473A8B7468A0EE4E112CA9A47A66D0FF56DC/scale?width=1200&aspectRatio=1.78&format=webp",
+    "link": "https://www.paramountplus.com/movies/video/223hos4N4T3rGA1sX_vul2DMp1et9eD2/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHygu0xLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CKDdtoi27IQDFcvwGAIdGkQNEQ"
+  },
+  {
+    "item": 2345,
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "description": "An action-adventure film directed by Steven Spielberg, where Indiana Jones embarks on a quest to find the legendary Crystal Skulls while encountering old foes and new allies.",
+    "runtime": 122,
+    "mpaa": "PG-13",
+    "genre": ["action", "adventure", "sequel"],
+    "director": [
+      {
+        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      
+      }
+    ],
+    "actors": [
+      {
+        "name": "Harrison Ford",
+        "IMDB": "https://www.imdb.com/name/nm0000148/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+      },
+      {
+        "name": "Cate Blanchett",
+        "IMDB": "https://www.imdb.com/name/nm0000949/",
+        "image": "https://media.gq.com/photos/565c791fd85c87f60f7ac114/master/pass/cate-blanchett-gq-1215-04.jpg"
+      },
+      {
+        "name": "Shia LaBeouf",
+        "IMDB": "https://www.imdb.com/name/nm0479471/",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220826104837-shia-labeouf-file-2019.jpg?c=original"
+      },
+      {
+        "name": "Karen Allen",
+        "IMDB": "https://www.imdb.com/name/nm0000267/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000012715076.jpg?quality=75&strip=all"
+      }
+    ],
+    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/646176707CA1E62BD1B7909FD8B4B67ADFB5F4CE37D70C00515BB6698DB83387/scale?width=1200&aspectRatio=1.78&format=webp",
+    "link": "https://www.paramountplus.com/movies/video/RCIFu6_R72TXesCksJ_O4gu9Ac3Mnn1G/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHyguQpLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CPLx4-e27IQDFSFSCQkd5OEKTw"
+  },
+  {
+    "item": 3456,
+    "title": "A.I. Artificial Intelligence",
+    "description": "A robotic boy, the first programmed to love, David (Haley Joel Osment) is adopted as a test case by a Cybertronics employee (Sam Robards) and his wife (Frances O'Connor). Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David. Without final acceptance by humans or machines, David embarks on a journey to discover where he truly belongs, uncovering a world in which the line between robot and machine is both vast and profoundly thin.",
+    "runtime": 146,
+    "mpaa": "PG-13",
+    "genre": ["drama", "science-fiction"],
+    "director": [
+      {
+        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Haley Joel Osment",
+        "IMDB": "https://www.imdb.com/name/nm0005286/",
+        "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2022/04/Haley-Joel-Osment-in-1999.jpg?quality=82&strip=all"
+      },
+      {
+        "name": "Jude Law",
+        "IMDB": "https://www.imdb.com/name/nm0000179/",
+        "image": "https://parade.com/.image/t_share/MTkwNTgxMzcxOTU5NzgwNDc3/jude-law-ftr.jpg"
+      },
+      {
+        "name": "Frances O'Connor",
+        "IMDB": "https://www.imdb.com/name/nm0640483/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/09/frances_oconnor_-_h_2015.jpg"
+      },
+      {
+        "name": "William Hurt",
+        "IMDB": "https://www.imdb.com/name/nm0000453/",
+        "image": "https://variety.com/wp-content/uploads/2022/03/william-hurt.jpg?w=1000&h=563&crop=1"
+      }
+    ],
+    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2020/09/20/1792126531784/A.I._SAlone_THM_16.9_1920x1080_1502364_1920x1080.jpg",
+    "link": "https://www.paramountplus.com/movies/video/McQLwUZLyrsS6kYTJjQ00KVeTl8p20V0/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHygrwNLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CK7Zk6a37IQDFTuGpgQdlF8NLg"
+  },
+  {
+    "item": 5678,
+    "title": "The Adventures of Tintin",
+    "description": "A young male reporter and his male dog team up with a pirate to travel on a treasure hunt that was left by the pirate's ancestors. Along the way, they discover that an enemy of the family line is also trying to find the treasure and find an ancient secret.",
+    "runtime": 106,
+    "mpaa": "PG",
+    "genre": ["animation", "action", "adventure", "kids"],
+    "director": [
+      {
+        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Jamie Bell",
+        "IMDB": "https://www.imdb.com/name/nm0068260/",
+        "image": "https://cdn.vox-cdn.com/thumbor/9lmV3OVjSmcVd0ni7FtM5sfLEIU=/0x0:5184x3456/1200x800/filters:focal(1472x819:2300x1647)/cdn.vox-cdn.com/uploads/chorus_image/image/63057152/1128952998.jpg.0.jpg"
+      },
+      {
+        "name": "Andy Serkis",
+        "IMDB": "https://www.imdb.com/name/nm0785227/",
+        "image": "https://media.vanityfair.com/photos/5c01967e1ceb5465bb016c30/master/pass/Andy-Serkis-Jungle-Book-Interview.jpg"
+      },
+      {
+        "name": "Daniel Craig",
+        "IMDB": "https://www.imdb.com/name/nm0185819/",
+        "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/A37B/production/_121215814_craigepa.jpg"
+      },
+      {
+        "name": "Nick Frost",
+        "IMDB": "https://www.imdb.com/name/nm0296545/",
+        "image": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fac50ab97-3a60-40b6-8f24-f3fe1819c6eb.jpg?crop=4106%2C2312%2C131%2C1039"
+      }
+    ],
+    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2019/12/15/1657736771523/TINTIN_SAlone_16_9_1920x1080_1953233_1920x1080.jpg",
+    "link": "https://www.paramountplus.com/movies/video/I7SP8DQxqMezUId37ZMZaYNAE8ZOwW3F/"
+  }
+  
+  
+  
   
   
   

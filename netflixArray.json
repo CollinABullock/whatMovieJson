@@ -5137,7 +5137,47 @@
 		],
 		"poster": "https://m.media-amazon.com/images/M/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
 		"link": "https://www.netflix.com/watch/80200267?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C%2CVideo%3A80200267%2CdetailsPagePlayButton"
+	},
+	{
+		"item": 9876,
+		"title": "The Lost World: Jurassic Park",
+		"description": "John Hammond (Richard Attenborough) summons chaos theorist Ian Malcolm (Jeff Goldblum) to his home with some startling information -- while nearly everything at his Jurassic Park had been destroyed, his engineers happened to have a second site, where other dinosaurs were kept in hiding. It seems the dinosaurs on the second island are alive and well and even breeding; and Hammond wants Malcolm to observe and document the reptiles before Hammond's financiers can get to them.",
+		"runtime": 129,
+		"mpaa": "PG-13",
+		"genre": ["action", "adventure", "science-fiction", "sequel"],
+		"director": [
+			{
+				"name": "Steven Spielberg",
+				"image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg",
+				"imdb": "https://www.imdb.com/name/nm0000229/"
+			}
+		],
+		"actors": [
+			{
+				"name": "Jeff Goldblum",
+				"IMDB": "https://www.imdb.com/name/nm0000156/",
+				"image": "https://s.yimg.com/ny/api/res/1.2/Lz7A7nFNfx4AubMfNqaQcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/cinemablend_388/626ccacc216e8e6470d8e23cae0abdf2"
+			},
+			{
+				"name": "Julianne Moore",
+				"IMDB": "https://www.imdb.com/name/nm0000194/",
+				"image": "https://s.yimg.com/ny/api/res/1.2/nRxhQsGR8OvwL.5I01DvpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://media.zenfs.com/en/sheknows_79/fbad93e8dfed21ac3b91e9afa2c28283"
+			},
+			{
+				"name": "Pete Postlethwaite",
+				"IMDB": "https://www.imdb.com/name/nm0000592/",
+				"image": "https://www.denverpost.com/wp-content/uploads/2016/05/20110622_121514_petepostlethwaitethetown.jpg?w=620"
+			},
+			{
+				"name": "Vince Vaughn",
+				"IMDB": "https://www.imdb.com/name/nm0000681/",
+				"image": "https://cdn.theplaylist.net/wp-content/uploads/2016/05/15183100/vincevaughn.jpg"
+			}
+		],
+		"poster": "https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS85BAwIqbXgoCya0m2ar4CuRsQH4hqIilE14_ufMm35hSFy5c7NJpnZQzfhumGI2dJtqxeYJWUJ2tPR2bs4t1fejAsn.jpg?r=48f",
+		"link": "https://www.netflix.com/watch/60003016?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C%2CVideo%3A60003016%2CdetailsPagePlayButton"
 	}
+	
 	
 	
 	
