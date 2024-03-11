@@ -33,6 +33,88 @@
   },
 
   {
+    "item": 5678,
+    "title": "Titanic",
+    "description": "James Cameron's Titanic is an epic, action-packed romance set against the ill-fated maiden voyage of the R.M.S. Titanic; the pride and joy of the White Star Line and, at the time, the largest moving object ever built. She was the most luxurious liner of her era -- the ship of dreams -- which ultimately carried over 1,500 people to their death in the ice cold waters of the North Atlantic in the early hours of April 15, 1912.",
+    "runtime": 195,
+    "mpaa": "PG-13",
+    "genre": ["romance", "drama", "disaster", "classic"],
+    "director": [
+      {
+        "name": "James Cameron",
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQTffSHnEbSAPLrSn1CDMselzUqIzB7k1FWsM_wzaW9gNO6MKYYs47AZoD30L0LeKKIJW_JFLg2p1EMizU",
+    "imdb": "https://www.imdb.com/name/nm0000116/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000138/"
+      },
+      {
+        "name": "Kate Winslet",
+        "IMDB": "https://www.imdb.com/name/nm0000701/",
+        "image": "https://faroutmagazine.co.uk/static/uploads/1/2021/08/Titanic-1997-Real-James-Cameron-Kate-Winslet.jpg"
+      },
+      {
+        "name": "Billy Zane",
+        "IMDB": "https://www.imdb.com/name/nm0000708/",
+        "image": "https://www.nickiswift.com/img/gallery/the-real-reasons-you-dont-hear-much-from-billy-zane-anymore/l-intro-1688673588.jpg"
+      },
+      {
+        "name": "Kathy Bates",
+        "IMDB": "https://www.imdb.com/name/nm0000870/",
+        "image": "https://variety.com/wp-content/uploads/2016/09/kathy-bates-walk-of-fame-honor.jpg"
+      }
+    ],
+    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/07/16/1922595395638/TITAN_US_1997_SA_16x9_1920x1080_2343239_1920x1080.jpg",
+    "link": "https://www.paramountplus.com/movies/video/GjggIcNk2C1sYQ_JG6j5LoKa7hxsQOzw/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHylW2VLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CKXNtZPc7IQDFQrfGAIdp2wEJg"
+  }
+,  
+{
+  "item": 9876,
+  "title": "Terminator 2: Judgment Day",
+  "description": "In this sequel set eleven years after The Terminator, young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot.",
+  "runtime": 137,
+  "mpaa": "R",
+  "genre": ["science-fiction", "action", "sequel"],
+  "director": [
+    {
+      "name": "James Cameron",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQTffSHnEbSAPLrSn1CDMselzUqIzB7k1FWsM_wzaW9gNO6MKYYs47AZoD30L0LeKKIJW_JFLg2p1EMizU",
+  "imdb": "https://www.imdb.com/name/nm0000116/"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Arnold Schwarzenegger",
+      "IMDB": "https://www.imdb.com/name/nm0000216/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/body-builder-actor-and-future-governor-of-california-arnold-news-photo-1686584660.jpg"
+    },
+    {
+      "name": "Linda Hamilton",
+      "IMDB": "https://www.imdb.com/name/nm0000157/",
+      "image": "https://static01.nyt.com/images/2019/09/15/arts/15new-hamilton3/merlin_127627448_be5525ac-378b-4c83-b035-b9fe7ec8bbb0-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "name": "Edward Furlong",
+      "IMDB": "https://www.imdb.com/name/nm0000411/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDRmYTVkMGItMjY5OS00ZjQ4LTgyZjMtOGE5Mzc5ZDYzZmUyXkEyXkFqcGdeQXVyMTEzNzczMA@@._V1_.jpg"
+    },
+    {
+      "name": "Robert Patrick",
+      "IMDB": "https://www.imdb.com/name/nm0001598/",
+      "image": "https://metro.co.uk/wp-content/uploads/2017/08/robert-patrick.jpg?quality=90&strip=all"
+    }
+  ],
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2023/08/04/2252400195912/TERM2_US_1991_SA_16x9_1920x1080_NB_2307948_1920x1080.jpg",
+  "link": "https://www.paramountplus.com/movies/video/3dV6QPYFsD3D1QNlc9P_e25rR9Z54bVC/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHylTy5LVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CNb4ybjd7IQDFXX09QIdfgsI9A"
+}
+,
+
+
+  {
     "item": "2468",
     "title": "48 Hrs.",
     "runtime": 96,
