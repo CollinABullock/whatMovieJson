@@ -1,5 +1,33 @@
 [
   {
+    "item": "1999",
+    "title": "The Straight Story",
+    "runtime": 112,
+    "mpaa": "G",
+    "description": "Based on a true story, an elderly man embarks on a journey across the Midwest on a lawnmower to reconcile with his estranged brother who suffered a stroke.",
+    "genre": ["biopic", "drama"],
+    "director": [{
+      "name": "David Lynch",
+      "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000186/"
+    }],
+    "actors": [{
+        "name": "Richard Farnsworth",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTNjNTA1MzUtMzkwYi00MDIzLWI3NjUtNGVjZTk1ZjU2ZWFiXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0002075/"
+      }, {
+        "name": "Sissy Spacek",
+        "image": "https://static.independent.co.uk/2023/09/14/19/Spacek00-2.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000651/"
+      }, {
+        "name": "Harry Dean Stanton",
+        "image": "https://static01.nyt.com/images/2017/09/16/obituaries/stanton4/stanton4-superJumbo.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001765/"
+      }],
+    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/350AE7548DB8D329DAC06DC86241B8B7CF70A811E08C0E8AE9050E1F2363585F/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
+    "link": "https://www.disneyplus.com/movies/the-straight-story/3XDcRhanrvP6?irclickid=wnEzH7V6ZxyPWh5SCG1I71TDUkHynRypRSAe3k0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0d01000a-3c75-47e9-8400-201565ef7cb7&dclid=CN7GoMaY7YQDFWaFpgQdkfQCnw"
+  },
+  {
     "item": 8056,
     "title": "The BFG",
     "description": "An orphan little girl befriends a benevolent giant who takes her to Giant Country, where they attempt to stop the man-eating giants that are invading the human world.",
