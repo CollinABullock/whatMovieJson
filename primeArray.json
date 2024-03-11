@@ -3235,8 +3235,8 @@
   "genre": ["documentary", "music"],
   "link": "https://www.amazon.com/gp/video/detail/B01D25HBXI/ref=atv_dp_atf_est_sd_mv_wfb_t1ADAAAAAA0wr0?autoplay=1&t=0",
   "director": [{
-    "name": "Martin Scorsese",
-    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTgxmrD95LLqwPfKlKpT48OKbm-qqBRf8pueMN6v6ZhMRnJ_mOQnCcmQuq8c9-4dffpAcbn-mj7uAMHbpo",
+    "name": "Martin Scorcese",
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
     "imdb": "https://www.imdb.com/name/nm0000217/"
   }],
   "actors": [{

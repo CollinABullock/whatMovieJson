@@ -856,7 +856,7 @@
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/ff40cd61-60c5-49aa-af0c-66577621ff25/6448b67a8cb917bd7cc460e5bd4fd08f998d02b0.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
       "description": "In 'Monsters vs. Aliens', a hilarious animated science fiction film directed by Rob Letterman and Conrad Vernon, follows a group of monsters who are recruited by the government to defend Earth from an alien invasion. Led by Susan Murphy, aka Ginormica, the monsters must put aside their differences and work together to save the planet.",
-      "genre": ["animation", "comedy", "sci-fi"],
+      "genre": ["animation", "comedy", "science-fiction"],
       "link": "https://www.max.com/movies/monsters-vs-aliens/ff40cd61-60c5-49aa-af0c-66577621ff25",
       "director": [
         {
@@ -3157,7 +3157,7 @@
   "mpaa": "PG",
   "poster": "https://m.media-amazon.com/images/S/pv-target-images/6ff4ad5b2576158a6f38cf8059842dcb983ae37192153883054624b9612c6488.jpg",
   "description": "In 'Spaceballs', Lone Starr and his half-man, half-dog companion, Barf, are hired by Princess Vespa's father to rescue her from the clutches of the evil Dark Helmet. Along the way, they encounter a motley crew of characters, including the wise but eccentric Yogurt and the flamboyant President Skroob, as they embark on a hilarious parody-filled adventure through the galaxy.",
-  "genre": ["comedy", "sci-fi"],
+  "genre": ["comedy", "science-fiction"],
   "link": "",
   "director": [{
     "name": "Mel Brooks",
