@@ -3240,6 +3240,39 @@
   },
 
   {
+    "item": "1980",
+    "title": "The Elephant Man",
+    "runtime": 124,
+    "mpaa": "PG",
+    "description": "A sensitive portrayal of the life of Joseph Merrick, a severely deformed man living in 19th-century London, and his relationship with a young doctor who treats him with dignity and compassion.",
+    "genre": ["biography", "drama"],
+    "director": [{
+      "name": "David Lynch",
+      "image": "",
+      "imdb": "https://www.imdb.com/name/nm0000186/"
+    }],
+    "actors": [{
+        "name": "Anthony Hopkins",
+        "image": "",
+        "imdb": "https://www.imdb.com/name/nm0000164/"
+      }, {
+        "name": "John Hurt",
+        "image": "",
+        "imdb": "https://www.imdb.com/name/nm0000457/"
+      }, {
+        "name": "Anne Bancroft",
+        "image": "",
+        "imdb": "https://www.imdb.com/name/nm0000843/"
+      }, {
+        "name": "John Gielgud",
+        "image": "",
+        "imdb": "https://www.imdb.com/name/nm0000027/"
+      }],
+    "poster": "",
+    "link": ""
+  },
+
+  {
 "item": 299,
 "title": "The Crow",
 "runtime": 102,

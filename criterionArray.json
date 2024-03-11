@@ -29,6 +29,35 @@
   },
 
   {
+    "item": "2001",
+    "title": "Mulholland Drive",
+    "runtime": 147,
+    "mpaa": "R",
+    "description": "A dark tale of love, jealousy, and the pursuit of dreams set in the seedy underbelly of Hollywood.",
+    "genre": ["drama", "mystery", "thriller", "romance"],
+    "director": [{
+      "name": "David Lynch",
+      "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000186/"
+    }],
+    "actors": [{
+        "name": "Naomi Watts",
+        "image": "https://goldenglobes.com/wp-content/uploads/2023/10/photo4-naomiwatts-041114.jpg?w=644",
+        "imdb": "https://www.imdb.com/name/nm0000245/"
+      }, {
+        "name": "Laura Harring",
+        "image": "https://metadata-static.plex.tv/people/5d776829961905001eb91ae3.jpg",
+        "imdb": "https://www.imdb.com/name/nm0002129/"
+      }, {
+        "name": "Justin Theroux",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/justin-theroux-girlfriend-nicole-brydon-bloom-65eee7c663e78.jpg?crop=1xw:0.844614852398524xh;center,top&resize=1200:*",
+        "imdb": "https://www.imdb.com/name/nm0005483/"
+      }],
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/931c64be-e129-49bf-b160-c1952dac42bd.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280",
+    "link": "https://www.criterionchannel.com/mulholland-dr"
+  }
+
+  {
     "item": 3456,
     "title": "Fear and Desire",
     "description": "An anti-war film directed by Stanley Kubrick, following a small squad of soldiers who crash behind enemy lines and must confront their own fears and desires.",
