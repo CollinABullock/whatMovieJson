@@ -3252,6 +3252,41 @@
     "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTuVRapm86lJtoyF2f-G0L5ejAZA-OjI_dROGqtN8MC5xJ07_aF-MKy5VqrYfSphi_yF9BLLOm10EkHjdQ",
     "imdb": "https://www.imdb.com/name/nm0200794/"
   }]
+},
+{
+  "item": 1234,
+  "title": "Super 8",
+  "description": "In 1979 Ohio, several youngsters (Elle Fanning, Joel Courtney, Gabriel Basso) are making a zombie movie with a Super-8 camera. In the midst of filming, the friends witness a horrifying train derailment and are lucky to escape with their lives. They soon discover that the catastrophe was no accident, as a series of unexplained events and disappearances soon follows. Deputy Jackson Lamb (Kyle Chandler), the father of one of the kids, searches for the terrifying truth behind the crash.",
+  "runtime": 112,
+  "mpaa": "PG-13",
+  "genre": ["science-fiction", "thriller"],
+  "director": [
+    {
+      "name": "J.J. Abrams",
+      "image": "https://cdn.britannica.com/23/129823-050-4B487943/TV-JJ-movie-Abrams.jpg?w=400&h=300&c=crop",
+      "imdb": "https://www.imdb.com/name/nm0009190/"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Joel Courtney",
+      "IMDB": "https://www.imdb.com/name/nm3844342/",
+      "image": "https://assets.capitalfm.com/2020/30/joel-courtney-3-1595950041-view-1.jpg"
+    },
+    {
+      "name": "Elle Fanning",
+      "IMDB": "https://www.imdb.com/name/nm0266824/",
+      "image": "https://assets.teenvogue.com/photos/645fd99b0367ab13058d4cc2/16:9/w_2560%2Cc_limit/687353930"
+    },
+    {
+      "name": "Kyle Chandler",
+      "IMDB": "https://www.imdb.com/name/nm0151419/",
+      "image": "https://deadline.com/wp-content/uploads/2021/08/MEGA579225_020-e1630342889724.jpg"
+    }
+  ],
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/e795b7dd02b0495f69347ddc91e7bb87924035b4cc06ec274aac23b3cde7dd69.jpg",
+  "link": "https://www.amazon.com/gp/video/detail/0T60AR2OPNYKWK4DA69L4TMUMP/ref=atv_dl_rdr?tag=justus1ktp-20"
 }
+
 
 ]
