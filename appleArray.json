@@ -75,7 +75,7 @@
     "genre": ["crime", "drama", "history"],
     "director": [
       {
-        "name": "Martin Scorsese",
+        "name": "Martin Scorcese",
         "IMDB": "https://www.imdb.com/name/nm0000217/",
         "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTgxmrD95LLqwPfKlKpT48OKbm-qqBRf8pueMN6v6ZhMRnJ_mOQnCcmQuq8c9-4dffpAcbn-mj7uAMHbpo"
       }
