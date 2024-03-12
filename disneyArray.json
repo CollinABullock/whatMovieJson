@@ -218,45 +218,7 @@
   }
   ,
 
-  {
-    "item": 6543,
-    "title": "Reservoir Dogs",
-    "description": "A crime thriller film directed by Quentin Tarantino, which follows the aftermath of a botched diamond heist as the criminals begin to suspect that one of them is a police informant.",
-    "runtime": 99,
-    "mpaa": "R",
-    "genre": ["crime", "thriller", "indie"],
-    "director": [
-      {
-        "name": "Quentin Tarantino",
-        "IMDB": "https://www.imdb.com/name/nm0000233/",
-        "image": "https://ew.com/thmb/1QyqVH-SvgCVbeqe6HxuRZuaGSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quentin-tarantino-2000-5b8c940736184451a0a4675a753ebd8c.jpg"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Harvey Keitel",
-        "IMDB": "https://www.imdb.com/name/nm0000172/",
-        "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1492109408/articles/2016/09/30/harvey-keitel-tough-guys-don-t-vote-trump/160926-Avlon-Winston-tease1_igzkli"
-      },
-      {
-        "name": "Tim Roth",
-        "IMDB": "https://www.imdb.com/name/nm0000619/",
-        "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/07/tim-roth-reservoir-dogs.jpg"
-      },
-      {
-        "name": "Michael Madsen",
-        "IMDB": "https://www.imdb.com/name/nm0000514/",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/6b2c0bc/2147483647/strip/true/crop/5147x3431+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2F7c%2F618c30f540e2a7f28a5b645007e5%2Ffrance-cannes-2018-blackkklansman-red-carpet-44745.jpg"
-      },
-      {
-        "name": "Steve Buscemi",
-        "IMDB": "https://www.imdb.com/name/nm0000114/",
-        "image": "https://i.guim.co.uk/img/media/f1d8db3bb8503882e0014d02efa56b6ae1662bad/0_187_5616_3370/master/5616.jpg?width=1200&quality=85&auto=format&fit=max&s=bc846cd56c6e33a4ad9ed935d0ba4124"
-      }
-    ],
-    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/14e5b14d-7be0-41df-ab40-999149e3e093.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640",
-    "link": "https://www.criterionchannel.com/reservoir-dogs"
-  },
+
   {
     "item": 1234,
     "title": "West Side Story",
