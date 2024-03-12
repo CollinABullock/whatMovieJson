@@ -2949,6 +2949,8 @@
 }
 ,
 
+
+
 {
 "item": 397,
 "title": "Masterminds",
@@ -2982,6 +2984,48 @@
 }]
 }
 ,
+
+{
+  "item": 5522,
+  "title": "Con Air",
+  "description": "A high-octane action film about a former Army Ranger who finds himself on a prison transport plane with some of the most dangerous criminals in the country when they hijack the aircraft.",
+  "runtime": 115,
+  "mpaa": "R",
+  "genre": ["action", "crime", "thriller"],
+  "director": [
+    {
+      "name": "Simon West",
+      "IMDB": "https://www.imdb.com/name/nm0923736/",
+      "image": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2023/09/03/3982446-1077383864.jpg?itok=GuI0s7rk"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Nicolas Cage",
+      "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "John Cusack",
+      "IMDB": "https://www.imdb.com/name/nm0000131/",
+      "image": "https://variety.com/wp-content/uploads/2023/07/GettyImages-510653734.jpg"
+    },
+    {
+      "name": "John Malkovich",
+      "IMDB": "https://www.imdb.com/name/nm0000518/",
+      "image": "https://admin.onassis.org/images/HRURTnydAW_Se1Xbp1FBlTojxII=/11290/format-webp%7Cwidth-3600/John_Malkovich_portrait_c_Swiss_GART_GmbH_IMG_6438.JPG"
+    },
+    {
+      "name": "Ving Rhames",
+      "IMDB": "https://www.imdb.com/name/nm0000609/",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_30/2513496/180729-ving-rhames-se-218p.jpg"
+    }
+  ],
+  "poster": "https://img.hulu.com/user/v3/artwork/a621b946-a117-482f-a792-d76aa1f75369?base_image_bucket_name=image_manager&base_image=49cb3347-afa6-4a1e-a165-c325cc1ad015&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/con-air-a621b946-a117-482f-a792-d76aa1f75369"
+}
+,
+
 {
 "item": 398,
 "title": "Arizona",
