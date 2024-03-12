@@ -36,6 +36,53 @@
 		}]
 	}
 	,
+
+	{
+		"item": 4567,
+		"title": "Uncut Gems",
+		"description": "Howard Ratner (Adam Sandler) is a once successful New York gems dealer whose gambling addiction has left his family and career in shambles, and him hundreds of thousands in debt. Always looking for the next big bet, Howard thinks he finally hit it big when he discovers a rare uncut Opal from Ethiopia, with a very interested high-profile buyer. But the closer Howard gets to finally winning big, the more he is forced to realize he can't keep running from the consequences of his actions.",
+		"runtime": 135,
+		"mpaa": "R",
+		"genre": ["crime", "drama", "thriller", "comedy"],
+		"director": [
+			{
+				"name": "Benny Safdie",
+				"IMDB": "https://www.imdb.com/name/nm1846118/",
+				"image": "https://www.rollingstone.com/wp-content/uploads/2024/01/GettyImages-1817394787.jpg?w=1581&h=1054&crop=1"
+			},
+			{
+				"name": "Josh Safdie",
+				"IMDB": "https://www.imdb.com/name/nm1706767/",
+				"image": "https://faroutmagazine.co.uk/static/uploads/1/2023/03/Josh-Safdie-Far-Out-Magazine-1140x855.jpg"
+			}
+		],
+		"actors": [
+			{
+				"name": "Adam Sandler",
+        "IMDB": "https://www.imdb.com/name/nm0001191/",
+        "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/09/1140-adam-sandler-basketball.jpg"
+			},
+			{
+				"name": "Julia Fox",
+				"IMDB": "https://www.imdb.com/name/nm5659723/",
+				"image": "https://people.com/thmb/Lt6PlQLBWbldx-XAlEnHdzxDGJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/julia-fox-2-02fd2f8fbe694d3ba43d159293dfae34.jpg"
+			},
+			{
+				"name": "Kevin Garnett",
+				"IMDB": "https://www.imdb.com/name/nm0307496/",
+				"image": "https://static01.nyt.com/images/2021/05/14/sports/14nba-garnett-print1/merlin_171257145_7ba5f3f0-be52-4c91-aa52-e0e921c4a162-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+			},
+			{
+				"name": "Idina Menzel",
+				"IMDB": "https://www.imdb.com/name/nm0579953/",
+				"image": "https://variety.com/wp-content/uploads/2023/01/1442070259-1.jpg?w=1000"
+			}
+		],
+		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABU9ZNbx6k_-DIuI1B1_K5e7c56YKGy9D1aKtGf21udm8KAC5GzJoMLef1OiY4WqYO3A5WGwVRrYyk612GFyCGf8z6l_SDgLFxtLNOI_XcAgr31CEwndQyhkgcJ9E64hwBE51JA.jpg?r=84c",
+		"link": "https://www.netflix.com/watch/80990663?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C%2CVideo%3A80990663%2CdetailsPagePlayButton"
+	}
+,	
+
 	{
 		"item": "mn933",
 		"title": "Love and Basketball",
