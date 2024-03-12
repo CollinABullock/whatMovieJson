@@ -2229,6 +2229,50 @@
 ]
 }
 ,
+
+{
+  "item": 6789,
+  "title": "Big Daddy",
+  "description": "A comedy film about a lazy man who adopts a young boy to impress his girlfriend, but ends up forming a strong bond with the child.",
+  "runtime": 93,
+  "mpaa": "PG-13",
+  "genre": ["comedy", "kids"],
+  "director": [
+    {
+      "name": "Dennis Dugan",
+      "IMDB": "https://www.imdb.com/name/nm0001156/",
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2020/12/GettyImages-611045618.jpg?quality=75&strip=all"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Adam Sandler",
+      "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Dylan Sprouse",
+      "IMDB": "https://www.imdb.com/name/nm0819850/",
+      "image": "https://www.nydailynews.com/wp-content/uploads/migration/2020/03/26/37W7GDVGTRBKZJJJSCQVKBK3PU.jpg?w=1024"
+    },
+    {
+      "name": "Joey Lauren Adams",
+      "IMDB": "https://www.imdb.com/name/nm0000725/",
+      "image": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/83c12c30-b222-11ec-bfff-350f576f9b4b"
+    },
+    {
+      "name": "Jon Stewart",
+      "IMDB": "https://www.imdb.com/name/nm0829537/",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/2022-04-25T041529Z_1528083622_RC2ZTT9GZ9X6_RTRMADP_3_PEOPLE-JON-STEWART-1024x683.jpg"
+    }
+  ],
+  "poster": "https://img.hulu.com/user/v3/artwork/4e1faaf4-b520-49a5-95e5-8103b9b27217?base_image_bucket_name=image_manager&base_image=0160860a-ef1f-4d75-a6f4-8928324bd8c5&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/big-daddy-4e1faaf4-b520-49a5-95e5-8103b9b27217"
+}
+,
+
+
+
 {
 "item": 384,
 "title": "The Man Who Killed Hitler and Then the Bigfoot",
