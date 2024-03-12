@@ -238,6 +238,48 @@
     "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/9080829a-12a6-4cb0-8a7a-6ab92f649a81.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280",
     "link": "https://tubitv.com/movies/465326/reservoir-dogs"
   },
+
+  {
+    "item": 5678,
+    "title": "Little Nicky",
+    "description": "A comedy film about the devil's weakling son, Nicky, who embarks on a mission to save his father and prevent his evil brothers from taking over both the underworld and the earth.",
+    "runtime": 90,
+    "mpaa": "PG-13",
+    "genre": ["comedy", "fantasy", "horror"],
+    "director": [
+      {
+        "name": "Steven Brill",
+        "IMDB": "https://www.imdb.com/name/nm0109555/",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTYzNTMyNjA1N15BMl5BanBnXkFtZTYwNjkyODU3._V1_.jpg"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Adam Sandler",
+        "IMDB": "https://www.imdb.com/name/nm0001191/",
+        "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/09/1140-adam-sandler-basketball.jpg"
+      },
+      {
+        "name": "Patricia Arquette",
+        "IMDB": "https://www.imdb.com/name/nm0000099/",
+        "image": "https://cdn.britannica.com/15/185915-050-BB225441/Patricia-Arquette-Boyhood-Richard-Linklater.jpg"
+      },
+      {
+        "name": "Harvey Keitel",
+      "image": "https://static.timesofisrael.com/www/uploads/2021/06/6-25-21-harvey-keitel.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0000172/"
+      },
+      {
+        "name": "Rhys Ifans",
+        "IMDB": "https://www.imdb.com/name/nm0406975/",
+        "image": "https://www.toledoblade.com/image/2010/11/05/1140x_a10-7_cTC/Rhys-Ifans.jpg"
+      }
+    ],
+    "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26534_v_h10_aa.jpg",
+    "link": "https://tubitv.com/movies/581905/little-nicky"
+  }
+  
+
   {
     "item": 4192,
     "title": "Lolita",
