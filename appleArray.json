@@ -66,6 +66,40 @@
     "poster": "https://www.apple.com/tv-pr/shows-and-films/t/the-tragedy-of-macbeth/images/show-home-graphic-header/key-art-02/4x1/Apple_TV_The_Tragedy_of_Macbeth_key_art_graphic_header_4_1_show_home.jpg.og.jpg?1668042584759",
     "link": "https://tv.apple.com/us/movie/the-tragedy-of-macbeth/umc.cmc.4wpfk1xmi22h3zyv4a10lj1tw?mttn3pid=Google%20AdWords&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=OUS2019929_1-662863191297-c&mttnsubkw=127330287530__FBgrPPb2_&mttnsubplmnt=_adext_"
   },
+
+  {    
+    "item": "9999",
+    "title": "Napoleon",
+    "runtime": 158,
+    "mpaa": "R",
+    "poster": "https://www.apple.com/tv-pr/shows-and-films/n/napoleon/images/show-home-graphic-header/key-art-02/4x1/Apple_TV_Napoleon_key_art_graphic_header_4_1_show_home.jpg.og.jpg?1708706810578",
+    "description": "A look at the military commander's origins and his swift, ruthless climb to emperor, viewed through the prism of his addictive and often volatile relationship with his wife and one true love, Josephine.",
+"genre": ["history", "drama", "action", "war"],
+  "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?mttn3pid=Google%20AdWords&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=OUS20191071_1-691756660928-c&mttnsubkw=148377018142__UdSzvOtH_&mttnsubplmnt=_adext_",
+  "director": [{
+    "name": "Ridley Scott",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRRMRUBJYGxH6kYBLIEh3_sVUHolpIyWnr9kQxDqb8a5GqQRrTK3GZT7Rx3DX64J45kFH8Rq7Kxf5-pgAI",
+    "imdb": "https://www.imdb.com/name/nm0000631/"
+  }],
+  "actors": [{
+    "name": "Joaquin Phoenix",
+    "image": "https://variety.com/wp-content/uploads/2018/03/shutterstock_editorial_9886170h.jpg?w=1000",
+    "imdb": "https://www.imdb.com/name/nm0001618/?ref_=tt_ov_st"
+  }, {
+    "name": "Vanessa Kirby",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/hbz120120wellcoverstory-08-1605728207.jpg?resize=2048:*",
+    "imdb": "https://www.imdb.com/name/nm3948952/"
+  }, {
+    "name": "Tahar Rahim",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxNDE0MDQyMl5BMl5BanBnXkFtZTgwNjcxMDk2NTE@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "https://www.imdb.com/name/nm2588665/"
+  }]
+  },
+
+
+
+
+
   {
     "item": 9876,
     "title": "Killers of the Flower Moon",

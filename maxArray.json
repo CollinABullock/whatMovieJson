@@ -2861,6 +2861,47 @@
 },
 
 {
+  "item": 33467,
+  "title": "Machete",
+  "description": "After being set up and betrayed by the man who hired him to assassinate a Texas senator, an ex-Federale launches a brutal rampage of revenge against his former boss.",
+  "runtime": 105,
+  "genre": ["action", "crime", "thriller"],
+  "mpaa": "R",
+  "director": [
+    {
+      "name": "Robert Rodriguez",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/332357d/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2F13%2F0c4a3c7f45259b80d91f68ff6f35%2Fla-et-we-can-be-heroes-netflix-29.JPG",
+      "IMDB": "https://www.imdb.com/name/nm0732577/"
+    },
+    {
+      "name": "Ethan Maniquis",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWE2NWY3NWUtNjkwZS00MzQwLTlmNTAtYTA3YzU2ZTk5MDdlXkEyXkFqcGdeQXVyMTkwNzg3Mw@@._V1_.jpg",
+      "IMDB": "https://www.imdb.com/name/nm0543174/"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Danny Trejo",
+      "image": "https://i.guim.co.uk/img/media/037b1061bc537a2e44f2001c4a403a705562c5e5/33_0_917_550/master/917.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=771dc91f0c925c0dcab5bbde5c670e9d",
+      "IMDB": "https://www.imdb.com/name/nm0001803/"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "image": "https://phantom-marca.unidadeditorial.es/3d070778f6b3a3b6d9e5bdfa312701d9/resize/828/f/jpg/assets/multimedia/imagenes/2021/05/06/16203010086570.jpg",
+      "IMDB": "https://www.imdb.com/name/nm0732577/"
+    },
+    {
+      "name": "Jessica Alba",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/19/14/gettyimages-103774568.jpg",
+      "IMDB": "https://www.imdb.com/name/nm0004695/"
+    }
+  ],
+  "link": "https://play.max.com/movie/b91de4f0-cbe8-47ed-bf38-cad3cfdc4ed8?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1011lyks3LJs",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b91de4f0-cbe8-47ed-bf38-cad3cfdc4ed8/69083cd042a50db7ae57f33971bb2e86448063b6.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+
+{
   "item": 173,
   "title": "Trainwreck",
   "runtime": 125,

@@ -89,7 +89,143 @@
     "link": "https://tubitv.com/movies/364125/hannibal"
   },
 
+  {
+    "id": 7394,
+    "title": "Absolution",
+    "description": "When a contract killer (Steven Seagal) encounters a girl on the run from a mob boss (Vinnie Jones) with powerful political ties, he is torn between protecting the girl and remaining loyal to the government agency that hired him for the mission.",
+    "runtime": 91,
+    "genre": ["action", "crime", "thriller"],
+    "mpaa": "R",
+    "director": [
+      {
+        "name": "Keoni Waxman",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2Q1ZGQ0OGItNmE0MS00NDcyLTkwZWYtMTUxNzNjMjU3NDY3XkEyXkFqcGdeQXVyNjI1MjEzNzU@._V1_FMjpg_UX1000_.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0915394/?ref_=tt_ov_dr"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Steven Seagal",
+        "image": "https://pyxis.nymag.com/v1/imgs/760/506/03f412ade34a2a6ba544cdda934f49dd75-03-steven-seagal.2x.rhorizontal.w710.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Vinnie Jones",
+        "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt68687229e7002961/60dcd4ffa7307e39e4e300ca/459d7eddc81e4608112af9779b630c67202085cf.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+        "IMDB": "https://www.imdb.com/name/nm0005068/"
+      }
+    ],
+    "link": "https://tubitv.com/movies/496202/absolution",
+    "poster": "https://canvas-bridge.tubitv.com/ou5fTBImbY7DSeAph4tqVmDkGIc=/448x252/smart/img.adrise.tv/2da0754f-a3c2-4c70-ac88-405549f8eb5f.jpg"
+  }
+  ,
 
+  {
+    "id": 1027,
+    "title": "The Asian Connection",
+    "description": "Two American expatriates, Jack and Sam, unwittingly steal a drug lord's money when they rob a series of banks in Southeast Asia and become the target of the gang's vengeance.",
+    "runtime": 90,
+    "genre": ["action", "crime"],
+    "mpaa": "R",
+    "director": [
+      {
+        "name": "Daniel Zirilli",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzI3OTViNzMtYmEwNS00MTMzLWIxNzktYzUxNTA2NmJmNmQ2XkEyXkFqcGdeQXVyMDU2Njc5OQ@@._V1_.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0257443/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Steven Seagal",
+        "image": "https://pyxis.nymag.com/v1/imgs/760/506/03f412ade34a2a6ba544cdda934f49dd75-03-steven-seagal.2x.rhorizontal.w710.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Michael Jai White",
+        "image": "https://steelsupplements.com/cdn/shop/articles/shutterstock_1206310759_1000x.jpg?v=1620652524",
+        "IMDB": "https://www.imdb.com/name/nm0925220/"
+      },
+      {
+        "name": "Pim Bubear",
+        "image": "https://images.squarespace-cdn.com/content/v1/5fe10cd9b0614363952c5794/ddf64142-849f-4b14-ac7f-f44752db122f/Screenshot+2024-01-01+at+22.36.32.png",
+        "IMDB": "https://www.imdb.com/name/nm3941868/"
+      }
+    ],
+    "link": "https://tubitv.com/movies/100004298/the-asian-connection",
+    "poster": "https://canvas-bridge.tubitv.com/bmLLYOtiC_rIH3d-VO3zgacR6Bs=/448x252/smart/img.adrise.tv/8bdad032-b95c-45bb-bc3e-a99554e969e5.jpg"
+  },
+  
+  {
+    "id": 1028,
+    "title": "Sniper: Special Ops",
+    "description": "A Special Ops military Force, led by Sergeant Vic Mosby (Tim Abell) with an expert sniper Sergeant Jake Chandler (Steven Seagal) as \"Over Watch\" during a special mission are sent to a remote Afghan village to extract an American Congressman being held by the Taliban.",
+    "runtime": 86,
+    "genre": ["action", "drama", "war"],
+    "mpaa": "R",
+    "director": [
+      {
+        "name": "Fred Olen Ray",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA2MjkyMzAzNV5BMl5BanBnXkFtZTcwMDEyNjIyMw@@._V1_.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0713026/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Steven Seagal",
+        "image": "https://pyxis.nymag.com/v1/imgs/760/506/03f412ade34a2a6ba544cdda934f49dd75-03-steven-seagal.2x.rhorizontal.w710.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Rob Van Dam",
+        "image": "https://s.yimg.com/ny/api/res/1.2/2I_uACaXOAs_IGXDqT6gnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/wrestle_zone_910/a623e79952409f1788b68c8d1b2ef3fa",
+        "IMDB": "https://www.imdb.com/name/nm0888344/"
+      },
+      {
+        "name": "Tim Abell",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWY3ZDc0ZmEtMmQ2Mi00Y2JhLWI4ZjctMDQ0NTk4OTg0MDU4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0007922/"
+      }
+    ],
+    "link": "https://tubitv.com/movies/468786/sniper-special-ops",
+    "poster": "https://canvas-bridge.tubitv.com/JN_oHebmfbEdQ9k5vJ7JArw14gg=/448x252/smart/img.adrise.tv/42f639a3-ebf3-404b-a0f3-a5c7f700a146.jpg"
+  }
+  ,
+
+  {
+    "id": 1029,
+    "title": "Ticker",
+    "description": "Ray Nettles, a San Francisco detective, and his partner Fuzzy must take on to one of the most dangerous terrorist gangs in the city. When one of the terrorists, the beautiful scientist Claire Manning is arrested, Swann, the leader of the terrorists, claims he will detonate bombs throughout the city if she is not released. Because of the possible bloodshed, Nettles calls for the help of explosives expert Frank Glass.",
+    "runtime": 92,
+    "genre": ["action", "crime", "thriller"],
+    "mpaa": "R",
+    "director": [
+      {
+        "name": "Albert Pyun",
+        "image": "https://variety.com/wp-content/uploads/2022/02/albert-pyun-director.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0701747/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Tom Sizemore",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTRmMmNjMzItOGFlMy00MjQ4LWI5ZWEtMmUzODI2YjE5OTgyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._CR11,176,2968,1669_QL75_UY281_CR0,0,500,281_.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0001744/"
+      },
+      {
+        "name": "Steven Seagal",
+        "image": "https://pyxis.nymag.com/v1/imgs/760/506/03f412ade34a2a6ba544cdda934f49dd75-03-steven-seagal.2x.rhorizontal.w710.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Dennis Hopper",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/lead-dh-slides-17-1537991041.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0000454/"
+      }
+    ],
+    "link": "https://tubitv.com/movies/707345/ticker",
+    "poster": "https://i.ytimg.com/vi/4gL4HlrvP98/maxresdefault.jpg"
+  }
+,  
   
   {
     "item": 68667,

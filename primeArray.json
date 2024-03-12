@@ -3313,16 +3313,88 @@
     "link": "https://www.amazon.com/gp/video/detail/0F70VRZ1B6YQUT7NVTKN5EO9YE/ref=atv_dl_rdr?tag=justus1ktp-20"
   },
 
+
+  {
+    "id": 1027,
+    "title": "The Asian Connection",
+    "description": "Two American expatriates, Jack and Sam, unwittingly steal a drug lord's money when they rob a series of banks in Southeast Asia and become the target of the gang's vengeance.",
+    "runtime": 90,
+    "genre": ["action", "crime"],
+    "mpaa": "R",
+    "director": [
+      {
+        "name": "Daniel Zirilli",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzI3OTViNzMtYmEwNS00MTMzLWIxNzktYzUxNTA2NmJmNmQ2XkEyXkFqcGdeQXVyMDU2Njc5OQ@@._V1_.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0257443/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Steven Seagal",
+        "image": "https://pyxis.nymag.com/v1/imgs/760/506/03f412ade34a2a6ba544cdda934f49dd75-03-steven-seagal.2x.rhorizontal.w710.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Michael Jai White",
+        "image": "https://steelsupplements.com/cdn/shop/articles/shutterstock_1206310759_1000x.jpg?v=1620652524",
+        "IMDB": "https://www.imdb.com/name/nm0925220/"
+      },
+      {
+        "name": "Pim Bubear",
+        "image": "https://images.squarespace-cdn.com/content/v1/5fe10cd9b0614363952c5794/ddf64142-849f-4b14-ac7f-f44752db122f/Screenshot+2024-01-01+at+22.36.32.png",
+        "IMDB": "https://www.imdb.com/name/nm3941868/"
+      }
+    ],
+    "link": "https://www.amazon.com/gp/video/detail/0LCTEP36NCARM093C8RFVHB9KJ/ref=atv_dl_rdr?tag=justus1ktp-20",
+    "poster": "https://canvas-bridge.tubitv.com/bmLLYOtiC_rIH3d-VO3zgacR6Bs=/448x252/smart/img.adrise.tv/8bdad032-b95c-45bb-bc3e-a99554e969e5.jpg"
+  },
+
+  {
+    "id": 1030,
+    "title": "Kill Switch",
+    "description": "A troubled detective travels to Memphis in order to track down a pair of serial killers.",
+    "runtime": 96,
+    "genre": ["action", "crime", "drama"],
+    "mpaa": "R",
+    "director": [
+      {
+        "name": "Jeff King",
+        "image": "https://m.media-amazon.com/images/M/MV5BODk0MmI4NmItNjFhYi00ODgxLTg4ZDEtMGYwNTBiOTFiOTQ5XkEyXkFqcGdeQXVyNDY2NjY1OA@@._V1_.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0454728/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Steven Seagal",
+        "image": "https://pyxis.nymag.com/v1/imgs/760/506/03f412ade34a2a6ba544cdda934f49dd75-03-steven-seagal.2x.rhorizontal.w710.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Isaac Hayes",
+        "image": "https://www.billboard.com/wp-content/uploads/media/isaac-hayes-performance-billboard-1548.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0005002/"
+      },
+      {
+        "name": "Holly Elissa",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY0OTQ4MjM0Nl5BMl5BanBnXkFtZTgwNjE4MDE0ODE@._V1_.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0254337/"
+      }
+    ],
+    "link": "https://www.amazon.com/gp/video/detail/0R5M4368XJ4HAK7ESPIEFHYH8J/ref=atv_dl_rdr?tag=justus1ktp-20",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/bf0c81a6adc96121ef4a42dfa2473f0a49789b27852a92a4432a1af66053c923.jpg"
+  }
+,  
+
   {
     "item": 8943,
     "title": "House of Gucci",
-    "runtime": null,
-    "mpaa": null,
+    "runtime": 157,
+    "mpaa": "R",
     "description": "The story of the turbulent marriage and murder within the Gucci fashion empire.",
     "genre": ["biography", "crime", "drama"],
     "director": [{
       "name": "Ridley Scott",
-      "image": "",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRRMRUBJYGxH6kYBLIEh3_sVUHolpIyWnr9kQxDqb8a5GqQRrTK3GZT7Rx3DX64J45kFH8Rq7Kxf5-pgAI",
       "imdb": "https://www.imdb.com/name/nm0000631/"
     }],
     "actors": [{

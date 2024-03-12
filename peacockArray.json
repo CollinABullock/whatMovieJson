@@ -34,6 +34,42 @@
   ,
   
   {
+    "id": 1030,
+    "title": "Kill Switch",
+    "description": "A troubled detective travels to Memphis in order to track down a pair of serial killers.",
+    "runtime": 96,
+    "genre": ["action", "crime", "drama"],
+    "mpaa": "R",
+    "director": [
+      {
+        "name": "Jeff King",
+        "image": "https://m.media-amazon.com/images/M/MV5BODk0MmI4NmItNjFhYi00ODgxLTg4ZDEtMGYwNTBiOTFiOTQ5XkEyXkFqcGdeQXVyNDY2NjY1OA@@._V1_.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0454728/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Steven Seagal",
+        "image": "https://pyxis.nymag.com/v1/imgs/760/506/03f412ade34a2a6ba544cdda934f49dd75-03-steven-seagal.2x.rhorizontal.w710.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Isaac Hayes",
+        "image": "https://www.billboard.com/wp-content/uploads/media/isaac-hayes-performance-billboard-1548.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0005002/"
+      },
+      {
+        "name": "Holly Elissa",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY0OTQ4MjM0Nl5BMl5BanBnXkFtZTgwNjE4MDE0ODE@._V1_.jpg",
+        "IMDB": "https://www.imdb.com/name/nm0254337/"
+      }
+    ],
+    "link": "https://www.peacocktv.com/watch-online/movies/kill-switch/4fa0daf1-c67f-3ef3-b55f-650349daee0a",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/bf0c81a6adc96121ef4a42dfa2473f0a49789b27852a92a4432a1af66053c923.jpg"
+  }
+,
+
+  {
     "item": 9876,
     "title": "The King of Staten Island",
     "runtime": 136,
