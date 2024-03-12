@@ -2986,9 +2986,51 @@
 ,
 
 {
+  "item": 8779,
+  "title": "Napoleon Dynamite",
+  "description": "A quirky comedy film about a socially awkward teenager named Napoleon Dynamite who navigates life in a small Idaho town while dealing with his eccentric family and friends.",
+  "runtime": 96,
+  "mpaa": "PG",
+  "genre": ["comedy", "indie"],
+  "director": [
+    {
+      "name": "Jared Hess",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI0ODkwODY2OV5BMl5BanBnXkFtZTYwODExNjA3._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0382706/"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Jon Heder",
+      "IMDB": "https://www.imdb.com/name/nm1417647/",
+      "image": "https://facts.net/wp-content/uploads/2023/10/20-intriguing-facts-about-jon-heder-1696656707.jpg"
+    },
+    {
+      "name": "Efren Ramirez",
+      "IMDB": "https://www.imdb.com/name/nm0708177/",
+      "image": "https://wtmj.com/wp-content/uploads/2024/01/GettyImages-1829695512-scaled.jpg"
+    },
+    {
+      "name": "Jon Gries",
+      "IMDB": "https://www.imdb.com/name/nm0340824/",
+      "image": "https://www.cheatsheet.com/wp-content/uploads/2022/12/jon-gries-white-lotus.jpg"
+    },
+    {
+      "name": "Tina Majorino",
+      "IMDB": "https://www.imdb.com/name/nm0001494/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGIxOTUwYmQtZjhjZi00MzEzLThkNzEtN2I3ODQ1MThkYzU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+    }
+  ],
+  "poster": "https://img1.hulu.com/user/v3/artwork/0500aef2-6b1d-4581-a56d-5fb061c1e67d?base_image_bucket_name=image_manager&base_image=383503e6-5e2f-474a-a0a9-332bb71ff312&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/napoleon-dynamite-0500aef2-6b1d-4581-a56d-5fb061c1e67d"
+}
+,
+
+
+{
   "item": 5522,
   "title": "Con Air",
-  "description": "A high-octane action film about a former Army Ranger who finds himself on a prison transport plane with some of the most dangerous criminals in the country when they hijack the aircraft.",
+  "description": "Just-paroled army ranger Cameron Poe (Nicolas Cage) is headed back to his wife (Monica Potter), but must fly home aboard a prison transport flight dubbed Jailbird with some of the worst criminals living. Along with Diamond Dog (Ving Rhames) and Baby-O (Mykelti Williamson), genius serial killer Cyrus The Virus Grissom (John Malkovich) unleashes a violent escape plot in mid-flight. Secretly working with U.S. Marshall Vince Larkin (John Cusack), Poe tries to foil Grissom's plan.",
   "runtime": 115,
   "mpaa": "R",
   "genre": ["action", "crime", "thriller"],
@@ -3320,6 +3362,9 @@
   "poster": "https://img.hulu.com/user/v3/artwork/a595a04d-e397-4079-a288-223b051b340f?base_image_bucket_name=image_manager&base_image=7925de0b-885e-45e7-bb5d-8d69ec3f2e0b&size=1200x630&format=jpeg&operations=%5B%7B%22gradient_vector%22%3A%22(0%2C0%2C0%2C0.5)%7C(0%2C0%2C0%2C0)%7C(0%2C600)%7C(0%2C240)%22%7D%2C%7B%22overlay%22%3A%7B%22position%22%3A%22SouthEast%7C(30%2C30)%22%2C%22operations%22%3A%5B%7B%22image%22%3A%22image_manager%7C10579540-1d28-412f-b9c9-bfddd0fe1a65%22%7D%2C%7B%22resize%22%3A%22204x204%7Cmax%22%7D%2C%7B%22extent%22%3A%22204x204%22%7D%5D%7D%7D%2C%5D",
   "link": "https://www.hulu.com/movie/a-serious-man-a595a04d-e397-4079-a288-223b051b340f"
 },
+
+
+
 {
   "item": 9090,
   "title": "Hook",
