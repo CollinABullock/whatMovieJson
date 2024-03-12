@@ -2385,6 +2385,50 @@
 ]
 }
 ,
+
+{
+  "item": 7532,
+  "title": "Dodgeball: A True Underdog Story",
+  "description": "Average Joe's Gym and its owner, Peter La Fleur (Vince Vaughn), are both down on their luck. A fancy competing gym called Globo-Gym, run by the maniacal health nut White Goodman (Ben Stiller), is about to put Average Joe's out of business unless Peter can raise $50,000 to keep his mortgage. To save the gym, Peter and a ragtag group of Average Joe's members and employees enter a dodgeball contest with a big cash prize. In response, White forms his own Globo-Gym team to rout the competition.",
+  "runtime": 92,
+  "mpaa": "PG-13",
+  "genre": ["comedy", "sports"],
+  "director": [
+    {
+      "name": "Rawson Marshall Thurber",
+      "IMDB": "https://www.imdb.com/name/nm0856385/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Rawson-Marshall-Thurber-Red-Notice-GettyImages-1351226447-H-2022.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Vince Vaughn",
+      "IMDB": "https://www.imdb.com/name/nm0000681/",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-181661-98943931_c.jpg"
+    },
+    {
+      "name": "Ben Stiller",
+      "IMDB": "https://www.imdb.com/name/nm0001774/",
+      "image": "https://ew.com/thmb/4gDC7i5IjAxF2-q-gOTqZ4pdrmA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ben-Stiller-cbb613cdfaa94ff1bd3fb30a71ba20d9.jpg"
+    },
+    {
+      "name": "Christine Taylor",
+      "IMDB": "https://www.imdb.com/name/nm0002546/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTQzZWQyOWYtOTRjMi00OTRkLWIzNmMtNTFmYjQyMGQ1NDg5XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_.jpg"
+    },
+    {
+      "name": "Rip Torn",
+      "IMDB": "https://www.imdb.com/name/nm0001800/",
+      "image": "https://i.insider.com/5d255f4821a8610b2836a572?width=1136&format=jpeg"
+    }
+  ],
+  "poster": "https://img2.hulu.com/user/v3/artwork/c264e6da-138c-4ebb-970c-785ad110d03c?base_image_bucket_name=image_manager&base_image=819d1894-d2d2-44b4-9793-c1e331e413ba&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/dodgeball-a-true-underdog-story-c264e6da-138c-4ebb-970c-785ad110d03c"
+}
+,
+
+
+
 {
 "item": 386,
 "title": "Monos",
@@ -2453,6 +2497,48 @@
 }]
 }
 ,
+
+{
+  "item": 7533,
+  "title": "Year One",
+  "description": "After Neanderthal hunter Zed (Jack Black) is exiled for eating forbidden fruit, he and his sardonic buddy Oh (Michael Cera) leave their village and begin an epic journey through history. The pals encounter biblical characters such as Cain (David Cross) and Abel, Abraham (Hank Azaria), and others, and wind up in Sodom. Along the way, Zed debunks commonly held beliefs and replaces them with his own delusions of grandeur.",
+  "runtime": 100,
+  "mpaa": "PG-13",
+  "genre": ["adventure", "comedy"],
+  "director": [
+    {
+      "name": "Harold Ramis",
+      "IMDB": "https://www.imdb.com/name/nm0000607/",
+      "image": "https://media.gq.com/photos/55828a881177d66d68d52523/4:3/w_600,h_450,c_limit/blogs-the-feed-harold-ramis-director-actor-80s-caddyshack-groundhog-day.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Jack Black",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Jack-Black.jpg",
+      "imdb": "https://www.imdb.com/name/nm0085312/?ref_=tt_ov_st"
+    },
+    {
+      "name": "Michael Cera",
+      "IMDB": "https://www.imdb.com/name/nm0148418/",
+      "image": "https://variety.com/wp-content/uploads/2023/07/GettyImages-1501802224-e1689605497814.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "name": "Olivia Wilde",
+      "IMDB": "https://www.imdb.com/name/nm1312575/",
+      "image": "https://people.com/thmb/eWYkrBFtU9o2HBTZiwv-VlybhJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(734x271:736x273)/Olivia-Wilde-oscars-red-carpet-tout-031124-9453a311f15d4c239a1e684f8aa851cd.jpg"
+    },
+    {
+      "name": "David Cross",
+      "IMDB": "https://www.imdb.com/name/nm0189145/",
+      "image": "https://cdn.nycitynewsservice.com/blogs.dir/9/files/2021/11/David-Cross-1152x759.jpg"
+    }
+  ],
+  "poster": "https://img2.hulu.com/user/v3/artwork/b0f65263-6dee-4843-87c9-98db398731e9?base_image_bucket_name=image_manager&base_image=4886f64a-862e-4e97-9c34-dd48f4916868&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/year-one-b0f65263-6dee-4843-87c9-98db398731e9"
+}
+,
+
 {
 "item": 388,
 "title": "The House That Jack Built",
