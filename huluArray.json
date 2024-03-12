@@ -747,6 +747,89 @@
 ]
 }
 ,
+
+{
+  "item": 2345,
+  "title": "The Waterboy",
+  "description": "Raised by his overprotective mother, Helen (Kathy Bates), Bobby Boucher Jr. (Adam Sandler) is the water boy for a successful college football team coached by Red Beaulieu (Jerry Reed). When Beaulieu fires Bobby, he takes up the same position for a losing rival team, led by despairing Coach Klein (Henry Winkler). After witnessing Bobby beat up a player who teased him too much, Klein adds him to the roster as a linebacker. Soon, Klein's players are championship contenders.",
+  "runtime": 90,
+  "mpaa": "PG-13",
+  "genre": ["comedy", "sport"],
+  "director": [
+    {
+      "name": "Frank Coraci",
+      "IMDB": "https://www.imdb.com/name/nm0178997/",
+      "image": "https://deadline.com/wp-content/uploads/2019/02/frank-coraci-e1549972124323.jpg?w=1024"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Adam Sandler",
+      "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Kathy Bates",
+      "IMDB": "https://www.imdb.com/name/nm0000870/",
+      "image": "https://lwlies.com/wp-content/uploads/2022/05/kathy-bates-misery.jpg"
+    },
+    {
+      "name": "Henry Winkler",
+      "IMDB": "https://www.imdb.com/name/nm0001857/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDhmNTZmMjQtNDk5Ny00NTg3LTg4OTAtNjY2NTA1ZmJmMDAzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+    },
+    {
+      "name": "Fairuza Balk",
+      "IMDB": "https://www.imdb.com/name/nm0000103/",
+      "image": "https://i.ytimg.com/vi/AVAs7Ki8CNY/maxresdefault.jpg"
+    }
+  ],
+  "poster": "https://img.hulu.com/user/v3/artwork/c157194a-2878-4332-b724-bb3ee1df431a?base_image_bucket_name=image_manager&base_image=883a190f-adb7-4f38-abda-6ad0508b1791&size=1200x630&format=jpeg",
+  "link": "https://www.hulu.com/movie/the-waterboy-c157194a-2878-4332-b724-bb3ee1df431a"
+},
+
+{
+  "item": 3456,
+  "title": "Billy Madison",
+  "description": "Man-child Billy Madison (Adam Sandler) has been a spoiled rich kid all his life, and spends his days drinking and partying. When his father, hotel magnate Brian (Darren McGavin), becomes fed up with his son's irresponsible ways, he issues an ultimatum. Since Billy passed all his schooling thanks to his father's influence and bribes, he must retake and pass every grade in 24 weeks. Otherwise, the business will be turned over to Brian's conniving associate, Eric (Bradley Whitford).",
+  "runtime": 89,
+  "mpaa": "PG-13",
+  "genre": ["comedy"],
+  "director": [
+    {
+      "name": "Tamra Davis",
+      "IMDB": "https://www.imdb.com/name/nm0205281/",
+      "image": "https://www.filmink.com.au/wp-content/uploads/2021/08/tamra.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Adam Sandler",
+      "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Darren McGavin",
+      "IMDB": "https://www.imdb.com/name/nm0569237/",
+      "image": "https://i.pinimg.com/736x/f0/16/19/f01619130fdd8466ccb7e7d373f72cb9.jpg"
+    },
+    {
+      "name": "Bridgette Wilson-Sampras",
+      "IMDB": "https://www.imdb.com/name/nm0005561/",
+      "image": "https://s.yimg.com/ny/api/res/1.2/VDGLhur3qgERg5qaOHvV2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/superherohype_979/ce3693056393e338495050672ec933b0"
+    },
+    {
+      "name": "Bradley Whitford",
+      "IMDB": "https://www.imdb.com/name/nm0925965/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAxMjJiMjYtNzcyOS00MDc5LWEyNzYtMjZiYTU0ZWViOTZhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    }
+  ],
+  "poster": "https://img1.hulu.com/user/v3/artwork/0f6de803-ca80-4128-b39a-73b1e7304db1?base_image_bucket_name=image_manager&base_image=d41be201-a788-43f3-bf26-c419fd280698&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/billy-madison-0f6de803-ca80-4128-b39a-73b1e7304db1"
+}
+
+,
+
 {
 "item": 346,
 "title": "Sicario: Day of the Soldado",
