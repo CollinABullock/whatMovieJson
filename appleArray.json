@@ -106,7 +106,7 @@
     "description": "An action-packed martial arts film directed by Quentin Tarantino, where a former assassin, known simply as The Bride, wakes from a coma four years after her jealous ex-lover Bill attempts to murder her on her wedding day. Seeking vengeance, she embarks on a mission to kill her former associates and Bill himself.",
     "runtime": 111,
     "mpaa": "R",
-    "genre": ["action", "martial arts", "thriller"],
+    "genre": ["action", "martial-arts", "thriller"],
     "director": [
       {
         "name": "Quentin Tarantino",
@@ -138,7 +138,47 @@
     ],
     "poster": "https://s2.dmcdn.net/v/RYrX31Tn22t-efSrS/x1080",
     "link": "https://tv.apple.com/us/movie/kill-bill-volume-1/umc.cmc.4wuzuc41xoivfyy271n49lcaq"
+  },
+  {
+    "item": 7654,
+    "title": "Kill Bill Vol. 2",
+    "description": "The second part of Quentin Tarantino's two-part martial arts film series, where the Bride continues her quest for vengeance against the Deadly Viper Assassination Squad and their leader, Bill.",
+    "runtime": 137,
+    "mpaa": "R",
+    "genre": ["action", "crime", "thriller", "martial-arts"],
+    "director": [
+      {
+        "name": "Quentin Tarantino",
+        "IMDB": "https://www.imdb.com/name/nm0000233/",
+        "image": "https://ew.com/thmb/1QyqVH-SvgCVbeqe6HxuRZuaGSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quentin-tarantino-2000-5b8c940736184451a0a4675a753ebd8c.jpg"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Uma Thurman",
+        "IMDB": "https://www.imdb.com/name/nm0000235/",
+        "image": "https://s.abcnews.com/images/GMA/actress-uma-thurman-gty-moe-010-230613_1686750985536_hpMain_16x9_992.jpg"
+      },
+      {
+        "name": "David Carradine",
+        "IMDB": "https://www.imdb.com/name/nm0001016/",
+        "image": "https://www.twincities.com/wp-content/uploads/2015/11/20090604__davidcarradine.jpg?w=1024"
+      },
+      {
+        "name": "Michael Madsen",
+        "IMDB": "https://www.imdb.com/name/nm0000514/",
+        "image": "https://smashinginterviews.com/wp-content/uploads/2012/04/MichaelMadsenFront-Thumb.jpg"
+      },
+      {
+        "name": "Daryl Hannah",
+        "IMDB": "https://www.imdb.com/name/nm0000434/",
+        "image": "https://i.ebayimg.com/images/g/6~IAAOSw2MRkk5NN/s-l1200.jpg"
+      }
+    ],
+    "poster": "https://prod1.agileticketing.net/images/user/ft_11874/kill%20bill%202.jpg",
+    "link": "https://tv.apple.com/us/movie/kill-bill-volume-2/umc.cmc.659e0ayjnp4136jil08gl0xex"
   }
+  
   
   
   
