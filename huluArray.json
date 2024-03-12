@@ -3028,6 +3028,80 @@
 
 
 {
+  "item": 8780,
+  "title": "Speed 2: Cruise Control",
+  "description": "Annie (Sandra Bullock) is looking forward to a Caribbean cruise with her cop boyfriend, Alex (Jason Patric), who purchased the tickets to make up for lying about working on the SWAT team. Their trip turns dangerous, however, when an explosion disables the ship's communication system and it becomes clear that the vessel is under someone else's control. Alex and Annie must fight for survival as they discover that John Geiger (Willem Dafoe), a crazed passenger, is behind the chaos.",
+  "runtime": 121,
+  "mpaa": "PG-13",
+  "genre": ["action", "thriller", "sequel"],
+  "director": [
+    {
+      "name": "Jan de Bont",
+      "IMDB": "https://www.imdb.com/name/nm0001121/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4NjYzNzYzNV5BMl5BanBnXkFtZTcwNTU0NjgwMw@@._V1_.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Sandra Bullock",
+        "image": "https://media.vanityfair.com/photos/623353678ca53d3267e25b7c/16:9/w_3599,h_2024,c_limit/1384684341",
+        "imdb": "https://www.imdb.com/name/nm0000113/?ref_=tt_cl_t_1"
+    },
+    {
+      "name": "Jason Patric",
+      "IMDB": "https://www.imdb.com/name/nm0000575/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/02/jason_patric.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6Hvi13NmYEbgnHS11IP2mKe4HRmNgSSJrtasMlAp4dtozy1y",
+    "imdb": "https://www.imdb.com/name/nm0000353/"
+    }
+  ],
+  "poster": "https://img2.hulu.com/user/v3/artwork/2f475a2c-9a95-4463-b6a8-6c0d5ce5de1c?base_image_bucket_name=image_manager&base_image=3d2d6933-c4fe-4eaa-b747-5a346613dd73&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/speed-2-cruise-control-2f475a2c-9a95-4463-b6a8-6c0d5ce5de1c"
+},
+
+{
+  "item": 5789,
+  "title": "Weekend at Bernie's",
+  "description": "A comedy film about two young employees who discover that their boss, Bernie, has been murdered. To avoid being implicated in the crime, they pretend Bernie is still alive, leading to a series of hilarious situations as they try to maintain the charade.",
+  "runtime": 97,
+  "mpaa": "PG-13",
+  "genre": ["comedy", "crime"],
+  "director": [
+    {
+      "name": "Ted Kotcheff",
+      "IMDB": "https://www.imdb.com/name/nm0468256/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyMjIyNDk4MV5BMl5BanBnXkFtZTgwMjE1OTEwMjE@._V1_.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Andrew McCarthy",
+      "IMDB": "https://www.imdb.com/name/nm0001493/",
+      "image": "https://deadline.com/wp-content/uploads/2022/04/210226-Andrew-McCarthy_0509rev.jpg"
+    },
+    {
+      "name": "Jonathan Silverman",
+      "IMDB": "https://www.imdb.com/name/nm0798869/",
+      "image": "https://facts.net/wp-content/uploads/2023/10/9-fascinating-facts-about-jonathan-silverman-1697017263.jpg"
+    },
+    {
+      "name": "Terry Kiser",
+      "IMDB": "https://www.imdb.com/name/nm0457886/",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/streams/2014/July/140725/1D274906437585-today-bernie-140725.jpg"
+    }
+  ],
+  "poster": "https://img1.hulu.com/user/v3/artwork/bd070f51-d741-4ebd-ba47-0744a991ddd2?base_image_bucket_name=image_manager&base_image=c4c3b231-40d1-478b-87c7-f8374c44c9b0&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/weekend-at-bernies-bd070f51-d741-4ebd-ba47-0744a991ddd2"
+},
+
+
+
+
+
+{
   "item": 5522,
   "title": "Con Air",
   "description": "Just-paroled army ranger Cameron Poe (Nicolas Cage) is headed back to his wife (Monica Potter), but must fly home aboard a prison transport flight dubbed Jailbird with some of the worst criminals living. Along with Diamond Dog (Ving Rhames) and Baby-O (Mykelti Williamson), genius serial killer Cyrus The Virus Grissom (John Malkovich) unleashes a violent escape plot in mid-flight. Secretly working with U.S. Marshall Vince Larkin (John Cusack), Poe tries to foil Grissom's plan.",
