@@ -3065,7 +3065,7 @@
 {
   "item": 5789,
   "title": "Weekend at Bernie's",
-  "description": "A comedy film about two young employees who discover that their boss, Bernie, has been murdered. To avoid being implicated in the crime, they pretend Bernie is still alive, leading to a series of hilarious situations as they try to maintain the charade.",
+  "description": "Fun-loving salesmen Richard (Jonathan Silverman) and Larry (Andrew McCarthy) are invited by their boss, Bernie (Terry Kiser), to stay the weekend at his posh beach house. Little do they know that Bernie is the perpetrator of a fraud they've uncovered and is arranging to have them killed. When the plan backfires and Bernie is killed instead, the buddies decide not to let a little death spoil their vacation. They pretend Bernie is still alive, leading to hijinks and corpse desecration galore.",
   "runtime": 97,
   "mpaa": "PG-13",
   "genre": ["comedy", "crime"],
@@ -3096,6 +3096,47 @@
   "poster": "https://img1.hulu.com/user/v3/artwork/bd070f51-d741-4ebd-ba47-0744a991ddd2?base_image_bucket_name=image_manager&base_image=c4c3b231-40d1-478b-87c7-f8374c44c9b0&size=600x338&format=jpeg",
   "link": "https://www.hulu.com/movie/weekend-at-bernies-bd070f51-d741-4ebd-ba47-0744a991ddd2"
 },
+
+{
+  "item": 6792,
+  "title": "Revenge of the Nerds",
+  "description": "A comedy film about a group of socially awkward college students who form their own fraternity to fight back against the jocks and bullies on campus.",
+  "runtime": 90,
+  "mpaa": "R",
+  "genre": ["comedy"],
+  "director": [
+    {
+      "name": "Jeff Kanew",
+      "IMDB": "https://www.imdb.com/name/nm0437663/",
+      "image": "https://media.baselineresearch.com/images/127197/127197_full.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Robert Carradine",
+      "IMDB": "https://www.imdb.com/name/nm0001013/",
+      "image": "https://i2-prod.dailystar.co.uk/incoming/article30274304.ece/ALTERNATES/s615/0_The-Lizzie-McGuire-Movie-Premiere.jpg"
+    },
+    {
+      "name": "Anthony Edwards",
+      "IMDB": "https://www.imdb.com/name/nm0000382/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjJhZDU3MGUtNDIzMS00ZTA1LWE0MDMtZWNlZGI2MzA1YWIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+    },
+    {
+      "name": "Ted McGinley",
+      "IMDB": "https://www.imdb.com/name/nm0569280/",
+      "image": "https://cdnmetv.metv.com/5LXAN-1602172617-1575-lists-tedmcginley_main_1200.jpg"
+    },
+    {
+      "name": "Julia Montgomery",
+      "IMDB": "https://www.imdb.com/name/nm0001542/",
+      "image": "https://michaelfairmantv.com/wp-content/uploads/2022/03/Julia088-print-e1647968324950-993x600.jpg"
+    }
+  ],
+  "poster": "https://img.hulu.com/user/v3/artwork/2aaa2834-59da-45c1-9fb1-42c1d4b10f5b?base_image_bucket_name=image_manager&base_image=5ea7101e-9093-4525-85d1-af9c3b35b248&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/revenge-of-the-nerds-2aaa2834-59da-45c1-9fb1-42c1d4b10f5b"
+}
+,
 
 
 
