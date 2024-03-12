@@ -2865,7 +2865,7 @@
 {
   "item": 8314,
   "title": "Super Troopers",
-  "description": "A comedy film about a group of state troopers who engage in pranks and misadventures while patrolling a remote highway.",
+  "description": "Always looking for action, five over-enthusiastic but under-stimulated Vermont State Troopers raise hell on the highway, keeping motorists anxiously looking in their rear-view mirrors. Between an ongoing feud with the local cops over whose you-know-what is bigger, and the state government wanting to shut them down, the Super Troopers find themselves precariously and hilariously heading toward calamity as they try to avoid extinction.",
   "runtime": 100,
   "mpaa": "R",
   "genre": ["comedy", "crime", "mystery"],
@@ -2900,6 +2900,52 @@
   ],
   "poster": "https://img4.hulu.com/user/v3/artwork/997a0ed0-052c-4b0b-ab65-704f846f3058?base_image_bucket_name=image_manager&base_image=2fc231ee-0d7c-4785-95d6-ee2dde702db0&size=600x338&format=jpeg",
   "link": "https://www.hulu.com/movie/super-troopers-997a0ed0-052c-4b0b-ab65-704f846f3058"
+}
+,
+
+{
+  "item": 5521,
+  "title": "Me, Myself & Irene",
+  "description": "Meet Charlie Baileygates, a 17-year veteran of the Rhode Island police force. Charlie is mild-mannered, hard-working, always helpful, and a devoted and loving father to three sons. Unfortunately, Charlie has Split Personality Disorder, and when he runs out of his medication ... Meet Hank Baileygates (Jim Carrey), Charlie's hyper-aggressive alter-ego. Hank's got a filthy mouth, drinks like a fish, breaks skulls and loves dirty, dirty sex.",
+  "runtime": 116,
+  "mpaa": "R",
+  "genre": ["comedy", "crime"],
+  "director": [
+    {
+      "name": "Bobby Farrelly",
+      "IMDB": "https://www.imdb.com/name/nm0267729/",
+      "image": "https://s.wsj.net/public/resources/images/RV-AO770_WOLFE__M_20141105174703.jpg"
+    },
+    {
+      "name": "Peter Farrelly",
+      "IMDB": "https://www.imdb.com/name/nm0267729/",
+      "image": "https://s.wsj.net/public/resources/images/RV-AO770_WOLFE__M_20141105174703.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Jim Carrey",
+      "IMDB": "https://www.imdb.com/name/nm0000120/",
+      "image": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1389828159.jpg?w=681&h=383&crop=1"
+    },
+    {
+      "name": "Renée Zellweger",
+      "IMDB": "https://www.imdb.com/name/nm0000250/",
+      "image": "https://cdn.gobankingrates.com/wp-content/uploads/2019/12/Renee-Zellweger-Golden-Globe-nomination-Judy-shutterstock_editorial_836653jw.jpg"
+    },
+    {
+      "name": "Chris Cooper",
+      "IMDB": "https://www.imdb.com/name/nm0001053/",
+      "image": "https://cdn.britannica.com/21/77321-050-DED8E90C/Chris-Cooper-Adaptation.jpg"
+    },
+    {
+      "name": "Robert Forster",
+      "IMDB": "https://www.imdb.com/name/nm0001233/",
+      "image": "https://i.guim.co.uk/img/media/21daf2b77d2198e32c91edb21c26890bd366dac0/0_5_2356_1413/master/2356.jpg?width=1200&quality=85&auto=format&fit=max&s=733d7abdcaef7cdcdf1c1d9528451fd2"
+    }
+  ],
+  "poster": "https://img2.hulu.com/user/v3/artwork/4fdd5fc4-eb4f-43cd-8a4f-149b4117c94e?base_image_bucket_name=image_manager&base_image=12ace4e0-8885-463e-ba73-cf64bd4c7ba9&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/me-myself-irene-4fdd5fc4-eb4f-43cd-8a4f-149b4117c94e"
 }
 ,
 
