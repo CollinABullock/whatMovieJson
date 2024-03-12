@@ -2824,7 +2824,7 @@
 {
   "item": 6742,
   "title": "Speed",
-  "description": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
+  "description": "Los Angeles police officer Jack (Keanu Reeves) angers retired bomb squad member Howard Payne (Dennis Hopper) by foiling his attempt at taking hostages. In revenge, Payne arms a bus with a bomb that will explode if it drops below 50 miles per hour. With the help of spunky passenger Annie (Sandra Bullock), Jack and his partner Harry (Jeff Daniels) try to save the people on the bus before the bomb goes off, while also trying to figure out how Payne is monitoring them.",
   "runtime": 116,
   "mpaa": "R",
   "genre": ["action", "crime", "thriller"],
@@ -2862,7 +2862,46 @@
 }
 ,
 
-
+{
+  "item": 8314,
+  "title": "Super Troopers",
+  "description": "A comedy film about a group of state troopers who engage in pranks and misadventures while patrolling a remote highway.",
+  "runtime": 100,
+  "mpaa": "R",
+  "genre": ["comedy", "crime", "mystery"],
+  "director": [
+    {
+      "name": "Jay Chandrasekhar",
+      "IMDB": "https://www.imdb.com/name/nm0152329/",
+      "image": "https://deadline.com/wp-content/uploads/2022/06/JAY-CHANDRASEKHAR-photo-e1654186443658.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Jay Chandrasekhar",
+      "IMDB": "https://www.imdb.com/name/nm0152329/",
+      "image": "https://deadline.com/wp-content/uploads/2022/06/JAY-CHANDRASEKHAR-photo-e1654186443658.jpg"
+    },
+    {
+      "name": "Kevin Heffernan",
+      "IMDB": "https://www.imdb.com/name/nm0373091/",
+      "image": "https://media.distractify.com/brand-img/AfxTv7Hv8/0x0/kevin-heffernan-wife-1595629902965.jpg"
+    },
+    {
+      "name": "Steve Lemme",
+      "IMDB": "https://www.imdb.com/name/nm0501947/",
+      "image": "https://facts.net/wp-content/uploads/2023/10/21-mind-blowing-facts-about-steve-lemme-1697102016.jpg"
+    },
+    {
+      "name": "Paul Soter",
+      "IMDB": "https://www.imdb.com/name/nm0815830/",
+      "image": "https://static-prod.adweek.com/wp-content/uploads/2018/04/paulsoter-content-2018.jpg"
+    }
+  ],
+  "poster": "https://img4.hulu.com/user/v3/artwork/997a0ed0-052c-4b0b-ab65-704f846f3058?base_image_bucket_name=image_manager&base_image=2fc231ee-0d7c-4785-95d6-ee2dde702db0&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/super-troopers-997a0ed0-052c-4b0b-ab65-704f846f3058"
+}
+,
 
 {
 "item": 397,
