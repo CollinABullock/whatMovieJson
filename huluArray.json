@@ -2308,6 +2308,48 @@
 ]
 }
 ,
+
+{
+  "item": 6790,
+  "title": "50 First Dates",
+  "description": "A romantic comedy about a man who falls in love with a woman with short-term memory loss and has to win her over again every day.",
+  "runtime": 99,
+  "mpaa": "PG-13",
+  "genre": ["comedy", "romance"],
+  "director": [
+    {
+      "name": "Peter Segal",
+      "IMDB": "https://www.imdb.com/name/nm0786192/",
+      "image": "https://www.chicagotribune.com/wp-content/uploads/migration/2018/12/28/HD7COTNQVZABZNGUV672GEMZGY.jpg?w=1024"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Adam Sandler",
+      "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Drew Barrymore",
+      "IMDB": "https://www.imdb.com/name/nm0000106/",
+      "image": "https://deadline.com/wp-content/uploads/2023/09/drew-barrymore-show-1.jpg"
+    },
+    {
+      "name": "Rob Schneider",
+  "image": "https://i.ticketweb.com/i/00/08/74/54/11/Original.jpg?v=2",
+  "imdb": "https://www.imdb.com/name/nm0001702/"
+    },
+    {
+      "name": "Sean Astin",
+      "IMDB": "https://www.imdb.com/name/nm0000276/",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/sean-astin.jpg"
+    }
+  ],
+  "poster": "https://img.hulu.com/user/v3/artwork/ad34a8b9-4b19-4d5a-8f1a-0d8ab9bbdfc0?base_image_bucket_name=image_manager&base_image=b07a40cc-9c82-4e80-8cf9-db9ba84e975d&size=600x338&format=jpeg",
+  "link": "https://www.hulu.com/movie/50-first-dates-ad34a8b9-4b19-4d5a-8f1a-0d8ab9bbdfc0"
+}
+,
+
 {
 "item": 385,
 "title": "I Kill Giants",
