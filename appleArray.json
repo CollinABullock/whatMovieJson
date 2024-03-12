@@ -99,7 +99,47 @@
     ],
     "poster": "https://static1.squarespace.com/static/63bb3e8a824d7e2f7eedf0d3/64ac424fcaadf8324a193593/653ec38d3e3d58545b152f82/1698621694148/Killers%2Bof%2Bthe%2BFlower%2BMoon%2BHorizontal%2B.jpg?format=1500w",
     "link": "https://tv.apple.com/us/movie/killers-of-the-flower-moon/umc.cmc.5x1fg9vferlfeutzpq6rra1zf"
+  },
+  {
+    "item": 5432,
+    "title": "Kill Bill: Vol. 1",
+    "description": "An action-packed martial arts film directed by Quentin Tarantino, where a former assassin, known simply as The Bride, wakes from a coma four years after her jealous ex-lover Bill attempts to murder her on her wedding day. Seeking vengeance, she embarks on a mission to kill her former associates and Bill himself.",
+    "runtime": 111,
+    "mpaa": "R",
+    "genre": ["action", "martial arts", "thriller"],
+    "director": [
+      {
+        "name": "Quentin Tarantino",
+        "IMDB": "https://www.imdb.com/name/nm0000233/",
+        "image": "https://ew.com/thmb/1QyqVH-SvgCVbeqe6HxuRZuaGSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quentin-tarantino-2000-5b8c940736184451a0a4675a753ebd8c.jpg"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Uma Thurman",
+        "IMDB": "https://www.imdb.com/name/nm0000235/",
+        "image": "https://s.abcnews.com/images/GMA/actress-uma-thurman-gty-moe-010-230613_1686750985536_hpMain_16x9_992.jpg"
+      },
+      {
+        "name": "Lucy Liu",
+        "IMDB": "https://www.imdb.com/name/nm0005154/",
+        "image": "https://nextshark.b-cdn.net/wp-content/uploads/2023/02/Lucy-Liu.jpg?width=1536&auto_optimize=medium"
+      },
+      {
+        "name": "Vivica A. Fox",
+        "IMDB": "https://www.imdb.com/name/nm0000407/",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjE5ZjQ4NTgtZDUyNi00MWY5LTk2MmItZTIzOWFhODgyMDUxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._CR39,234,2936,1652_QL75_UX500_CR0,0,500,281_.jpg"
+      },
+      {
+        "name": "Daryl Hannah",
+        "IMDB": "https://www.imdb.com/name/nm0000434/",
+        "image": "https://i.ebayimg.com/images/g/6~IAAOSw2MRkk5NN/s-l1200.jpg"
+      }
+    ],
+    "poster": "https://s2.dmcdn.net/v/RYrX31Tn22t-efSrS/x1080",
+    "link": "https://tv.apple.com/us/movie/kill-bill-volume-1/umc.cmc.4wuzuc41xoivfyy271n49lcaq"
   }
+  
   
   
 ]
