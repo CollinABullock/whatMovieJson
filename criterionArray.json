@@ -29,6 +29,161 @@
   },
 
   {
+    "item": "7832",
+    "title": "Sophie's Choice",
+    "runtime": 150,
+    "mpaa": "R",
+    "description": "Sophie, a Polish immigrant, shares a boarding house in Brooklyn with her tempestuous lover Nathan and a young writer named Stingo. As the three grow closer, Sophie reveals a dark secret from her past that haunts her present and threatens to tear apart their fragile relationships.",
+    "genre": ["drama", "romance", "classic"],
+    "director": [{
+      "name": "Alan J. Pakula",
+      "image": "https://thefincheranalyst.files.wordpress.com/2023/04/alan-j.-pakula.-going-for-thruth.jpg?w=1200",
+      "imdb": "https://www.imdb.com/name/nm0001584/"
+    }],
+    "actors": [{
+        "name": "Meryl Streep",
+        "image": "https://pyxis.nymag.com/v1/imgs/7f6/16e/4dc48821ff853d3019c835397cfa9c293a-25-meryl-streep.2x.rhorizontal.w710.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000658/"
+      }, {
+        "name": "Kevin Kline",
+        "image": "https://i0.wp.com/missourilegends.com/wp-content/uploads/2023/12/Kevin-Kline.jpg?resize=894%2C541&ssl=1",
+        "imdb": "https://www.imdb.com/name/nm0000177/"
+      }, {
+        "name": "Peter MacNicol",
+        "image": "https://facts.net/wp-content/uploads/2023/10/17-astounding-facts-about-peter-macnicol-1697590483.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001496/"
+      }],
+    "link": "https://www.criterionchannel.com/living-the-part/season:1/videos/sophie-s-choice",
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/212e7574-a714-4a0b-9be5-9b2cd2a2cff7.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+  },
+
+  {
+    "item": "2198",
+    "title": "I'm Not There",
+    "runtime": 135,
+    "mpaa": "R",
+    "description": "A unique biographical film about the life of legendary musician Bob Dylan, portrayed through six distinct characters embodying different aspects of his persona and career. Through these narratives, the film explores themes of identity, fame, and artistic expression.",
+    "genre": ["biopic", "drama", "music"],
+    "director": [{
+      "name": "Todd Haynes",
+      "image": "https://i.guim.co.uk/img/media/6209f0e11e327bbd75684dc8ae9f0380fd591032/344_170_3788_2275/master/3788.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=bd82d21b1b306d858395465f79cc7bbc",
+      "imdb": "https://www.imdb.com/name/nm0001331/"
+    }],
+    "actors": [{
+      "name": "Christian Bale",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTxmCA9jJ2MrULWgxOwNuZ9Bki9s0G1wKMoVZRquX1t2K6cZfcH7Bm_ueGnkj1GndH_RfDQGlcQrpn4ZYI",
+      "imdb": "https://www.imdb.com/name/nm0000288/"
+      }, {
+        "name": "Cate Blanchett",
+        "image": "https://assets.vogue.com/photos/58914467fb0604bf1f5c1edc/master/pass/cate-blanchett-5-things-you-didnt-know.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000949/"
+      }, {
+        "name": "Heath Ledger",
+      "image": "https://hollywoodlife.com/wp-content/uploads/2012/08/heath-ledger-bio-photo.jpg?quality=100",
+      "imdb": "https://www.imdb.com/name/nm0005132/"
+      }, {
+        "name": "Richard Gere",
+        "image": "https://deadline.com/wp-content/uploads/2023/02/richard-gere-hospitalized.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000152/"
+      }],
+    "link": "https://www.criterionchannel.com/living-the-part/season:1/videos/i-m-not-there",
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/60ad2052-dfdb-4734-aa58-e3a468ca018a.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+  },
+
+  {
+    "item": "5289",
+    "title": "Basquiat",
+    "runtime": 107,
+    "mpaa": "R",
+    "description": "A biographical drama chronicling the life and career of Jean-Michel Basquiat, a young and talented artist who rose to prominence in the 1980s New York City art scene. The film explores Basquiat's journey from homeless graffiti artist to internationally acclaimed painter, capturing his struggles with fame, addiction, and the pressures of the art world.",
+    "genre": ["biography", "drama", "indie"],
+    "director": [{
+      "name": "Julian Schnabel",
+      "image": "https://professionalartistmag.com/wp-content/uploads/2015/03/crop_discussing_a_Willumsen_painting.jpg",
+      "imdb": "https://www.imdb.com/name/nm0773988/"
+    }],
+    "actors": [{
+        "name": "Jeffrey Wright",
+        "image": "https://route-production.s3.amazonaws.com/stories/jeffrey-wright-001.png",
+        "imdb": "https://www.imdb.com/name/nm0942482/"
+      }, {
+        "name": "David Bowie",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-223608-19700101_zaf_u99_042.jpg?w=1581&h=1054&crop=1",
+        "imdb": "https://www.imdb.com/name/nm0000309/"
+      }, {
+        "name": "Dennis Hopper",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/lead-dh-slides-17-1537991041.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000454/"
+      }, {
+        "name": "Gary Oldman",
+        "image": "https://variety.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-29-at-8.52.12-AM.png?w=1000&h=563&crop=1",
+        "imdb": "https://www.imdb.com/name/nm0000198/"
+      }],
+    "link": "https://www.criterionchannel.com/living-the-part/season:1/videos/i-m-not-there",
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/248743ce-72a6-4dd9-93ca-dbe96184f6ef.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+  },
+
+  {
+    "item": "6734",
+    "title": "My Week with Marilyn",
+    "runtime": 99,
+    "mpaa": "R",
+    "description": "Based on the true story of Colin Clark, a young assistant on the set of 'The Prince and the Showgirl,' who documents his experiences with the iconic Marilyn Monroe during a week in 1956. As Colin becomes infatuated with Marilyn, he witnesses the highs and lows of her tumultuous life, offering a glimpse behind the glamorous facade.",
+    "genre": ["biopic", "drama"],
+    "director": [{
+      "name": "Simon Curtis",
+      "image": "https://www.azcentral.com/gcdn/-mm-/24e627a70c064d8d7fc845efbd1ed1480d38d6b9/c=0-41-593-376/local/-/media/2015/03/31/Phoenix/Phoenix/635634220511343422-1-simon-curtis-.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+      "imdb": "https://www.imdb.com/name/nm0193105/"
+    }],
+    "actors": [{
+        "name": "Michelle Williams",
+        "image": "https://media1.popsugar-assets.com/files/thumbor/hH09MO07u1jfQngtDchnu6ny0kQ=/fit-in/792x527/top/filters:format_auto():upscale()/2023/09/26/770/n/1922398/tmp_ByuuDA_d73fd6f4e66a870f_GettyImages-1247118255.jpg",
+        "imdb": "https://www.imdb.com/name/nm0931329/"
+      }, {
+        "name": "Eddie Redmayne",
+        "image": "https://deadline.com/wp-content/uploads/2016/02/eddie-redmayne.jpg?w=1024",
+        "imdb": "https://www.imdb.com/name/nm1519666/"
+      }, {
+        "name": "Kenneth Branagh",
+        "image": "https://ew.com/thmb/QBtzZ7O8aO6NUsywi7MxEbz68bo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kenneth-branagh-a-haunting-in-venice-081523-2a0d896ac47d493bb240d51f5291bb90.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000110/"
+      }, {
+        "name": "Judi Dench",
+        "image": "https://deadline.com/wp-content/uploads/2023/07/judi-dench.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001132/"
+      }],
+    "link": "https://www.criterionchannel.com/living-the-part/season:1/videos/my-week-with-marilyn",
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/4917e969-e85d-4663-9f73-608aac8a476f.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+  }
+,  
+
+{
+  "item": "3872",
+  "title": "The Unknown",
+  "runtime": 63,
+  "mpaa": "Not Rated",
+  "description": "In Tod Browning's twisted tale, a criminal on the run hides out in a circus, posing as an armless knife thrower. His act is a front to get close to the beautiful and young aerialist, whom he's obsessed with. But as their relationship develops, dark secrets are revealed.",
+  "genre": ["drama", "horror", "thriller", "classic", "silent-film"],
+  "director": [{
+    "name": "Tod Browning",
+    "image": "https://cdn.britannica.com/68/222568-050-0730C850/Tod-Browning-film-director.jpg?w=400&h=300&c=crop",
+    "imdb": "https://www.imdb.com/name/nm0114769/"
+  }],
+  "actors": [{
+      "name": "Lon Chaney",
+      "image": "https://www.classic-monsters.com/wp-content/uploads/2014/07/Lon-Chaney-Jr_main.jpg",
+      "imdb": "https://www.imdb.com/name/nm0151606/"
+    }, {
+      "name": "Joan Crawford",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSMF8wHLRSADuxLQ7PKGi4reajtoVmPL055bVSV6sPUFdmrZev",
+      "imdb": "https://www.imdb.com/name/nm0001076/"
+    }],
+  "link": "https://www.criterionchannel.com/living-the-part/season:1/videos/the-unknown",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/493f83ce-da36-41c1-bb38-7cea5807d071.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
+
+
+  {
     "item": "2001",
     "title": "Mulholland Drive",
     "runtime": 147,
