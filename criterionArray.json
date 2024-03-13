@@ -192,6 +192,182 @@
 }
 ,
 
+{
+  "item": "1988",
+  "title": "Cocktail",
+  "runtime": 104,
+  "mpaa": "R",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/7c8422c2-03ed-4f66-818d-f3f73078f00f.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640",
+  "description": "In the neon-lit world of New York City's bar scene, Brian Flanagan, a young and ambitious bartender, dreams of making it big. Guided by the seasoned Doug Coughlin, Brian learns the art of mixology while navigating a whirlwind of love, friendship, and ambition. When he falls for the captivating Jordan Mooney, Brian must juggle his desires for success with the complexities of romance.",
+  "genre": ["romance", "drama", "comedy"],
+  "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/cocktail",
+  "director": [{
+    "name": "Roger Donaldson",
+    "image": "https://variety.com/wp-content/uploads/2014/09/all-quiet-on-the-western-front-roger-donaldson.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001144/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Tom-Cruise-Top-Gun-.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000129/"
+    }, {
+      "name": "Bryan Brown",
+      "image": "https://imageresizer.static9.net.au/m5Mh3jjnKLeXHGDnJdLhaHTHUzI=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F890eecc5-e4dc-48a4-b785-fd992155edc6",
+      "imdb": "https://www.imdb.com/name/nm0000981/"
+    }, {
+      "name": "Elisabeth Shue",
+      "image": "https://facts.net/wp-content/uploads/2023/10/17-mind-blowing-facts-about-elisabeth-shue-1696826552.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000223/"
+    }]
+},
+
+{
+  "item": "6969",
+  "title": "Showgirls",
+  "runtime": 131,
+  "mpaa": "NC-17",
+  "description": "Nomi Malone, a young drifter, arrives in Las Vegas with dreams of becoming a showgirl. She quickly finds herself immersed in the cutthroat world of the city's entertainment industry, where ambition and betrayal go hand in hand. As Nomi climbs the ranks, she faces seduction, rivalry, and moral compromises, ultimately discovering the high price of fame in a world where everything glitters but not everything is gold.",
+  "genre": ["drama"],
+  "director": [{
+    "name": "Paul Verhoeven",
+    "imdb": "https://www.imdb.com/name/nm0000682/",
+    "image": "https://assets.mubicdn.net/images/notebook/post_images/22113/images-w1400.jpg?1474378595"
+  }],
+  "actors": [{
+    "name": "Elizabeth Berkley",
+    "imdb": "https://www.imdb.com/name/nm0000298/",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2017/09/Elizabeth-Berkley.jpg"
+  }, {
+    "name": "Kyle MacLachlan",
+    "image": "https://news.artnet.com/app/news-upload/2015/01/tumblr_lgkyodqE8C1qgrkbso1_500.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001492/"
+  }, {
+    "name": "Gina Gershon",
+    "imdb": "https://www.imdb.com/name/nm0000159/",
+    "image": "https://imageio.forbes.com/specials-images/dam/imageserve/915965390/960x0.jpg?height=474&width=711&fit=bounds"
+  }],
+  "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/showgirls",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/ab2590c4-8776-4f95-ab75-5a5d7057c017.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
+
+{
+  "item": "4231",
+  "title": "Xanadu",
+  "runtime": 96,
+  "mpaa": "PG",
+  "description": "In 'Xanadu,' a struggling artist named Sonny Malone finds inspiration and love when he encounters Kira, a beautiful muse from the mythical realm of Mount Olympus. Together, they embark on a journey to create a legendary nightclub called Xanadu, where dreams come true through music and dance. However, their romance is threatened by the jealous interference of otherworldly forces, forcing them to fight for their love and artistic vision against all odds.",
+  "genre": ["musical", "fantasy", "romance"],
+  "director": [{
+    "name": "Robert Greenwald",
+    "imdb": "https://www.imdb.com/name/nm0001300/",
+    "image": "https://images.squarespace-cdn.com/content/v1/5d03d3e13dba730001281532/1563913869214-TJCNJBF0QLXY772JDR5P/aa.jpg"
+  }],
+  "actors": [{
+    "name": "Olivia Newton-John",
+    "imdb": "https://www.imdb.com/name/nm0000548/",
+    "image": "https://media.npr.org/assets/img/2020/04/28/gettyimages-911211058-a25f1c9631c59ec8e11aab5d358338afa0d70afa.jpg"
+  }, {
+    "name": "Gene Kelly",
+    "imdb": "https://www.imdb.com/name/nm0000037/",
+    "image": "https://www.pbs.org/wnet/americanmasters/files/2006/06/Its_Always_Fair_Weather_photo-gene-kelly.jpg"
+  }, {
+    "name": "Michael Beck",
+    "imdb": "https://www.imdb.com/name/nm0000890/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzNhMDBjYTItMDQ3MC00MDI1LThlNDEtMmM3MzZjZTNhNjUxXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg"
+  }],
+  "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/xanadu",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/52f7646e-4950-4853-afdd-0c7fe585aad9.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
+
+{
+  "item": "7785",
+  "title": "Heaven's Gate",
+  "runtime": 219,
+  "mpaa": "R",
+  "description": "In 'Heaven's Gate,' tensions erupt in the Wyoming town of Johnson County as wealthy cattle barons clash with European immigrants over land and power. As violence escalates, a Harvard graduate turned federal marshal, Jim Averill, finds himself torn between loyalty to his upper-class peers and compassion for the oppressed immigrants. Set against the backdrop of the Johnson County War, 'Heaven's Gate' explores themes of class conflict, identity, and the American Dream in the late 19th century.",
+  "genre": ["drama", "western"],
+  "director": [{
+    "name": "Michael Cimino",
+    "imdb": "https://www.imdb.com/name/nm0001040/",
+    "image": "https://s.wsj.net/public/resources/images/BN-OT264_cimino_M_20160703020051.jpg"
+  }],
+  "actors": [{
+    "name": "Kris Kristofferson",
+    "imdb": "https://www.imdb.com/name/nm0001433/",
+    "image": "https://thesmithcenter.com/media/podp4hrl/kris-kristofferson-for-blog.png"
+  }, {
+    "name": "Christopher Walken",
+    "image": "https://i.guim.co.uk/img/media/acd486e975dd4b933dd8f941169200067b77b38f/23_96_5541_3325/master/5541.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=60c7f6f5b3bde2ac1c677fa91b1792d5",
+    "imdb": "https://www.imdb.com/name/nm0000686/"
+  }, {
+    "name": "John Hurt",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2017/01/john_hurt.jpg?w=1024",
+    "imdb": "https://www.imdb.com/name/nm0000457/"
+  }],
+  "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/heaven-s-gate",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/5bd9eb2a-867d-4963-b2b9-c87117eb6f67.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
+
+{
+  "item": "5372",
+  "title": "Ishtar",
+  "runtime": 107,
+  "mpaa": "PG-13",
+  "description": "In 'Ishtar,' two struggling singer-songwriters, Lyle Rogers and Chuck Clarke, dream of fame and fortune in the music industry. Their aspirations lead them on a series of misadventures as they unwittingly become entangled in a convoluted plot involving political intrigue and espionage in the Middle East. As they navigate the dangers of the desert, Lyle and Chuck must rely on their wits, friendship, and questionable musical talents to survive the chaos and find success.",
+  "genre": ["comedy", "adventure"],
+  "director": [{
+    "name": "Elaine May",
+    "imdb": "https://www.imdb.com/name/nm0001502/",
+    "image": "https://s3.amazonaws.com/static.rogerebert.com/uploads/blog_post/primary_image/features/the-damned-the-films-of-elaine-may/elaine-may-feature-2.jpeg"
+  }],
+  "actors": [{
+    "name": "Warren Beatty",
+    "imdb": "https://www.imdb.com/name/nm0000886/",
+    "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/yCFtIaXWTa3xzBoGob1xJDFtQ6o=/1660x0/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/7UBYISR23HYUEBG554DAYZOCXU.jpg"
+  }, {
+    "name": "Dustin Hoffman",
+    "imdb": "https://www.imdb.com/name/nm0000163/",
+    "image": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/ishtar"
+  }, {
+    "name": "Isabelle Adjani",
+    "imdb": "https://www.imdb.com/name/nm0000254/",
+    "image": "https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/541793"
+  }],
+  "link": "",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/40f46502-1ac5-4ac0-a4b7-eac694681a59.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
+
+{
+  "item": "6248",
+  "title": "Barb Wire",
+  "runtime": 98,
+  "mpaa": "R",
+  "description": "Set in a dystopian future where the Second American Civil War has left the country in ruins, 'Barb Wire' follows the story of Barbara Kopetski, known as Barb Wire, a tough and resourceful bounty hunter and nightclub owner. When Barb's estranged freedom-fighter ex-boyfriend seeks her help to smuggle a scientist out of the country, she finds herself caught in a web of betrayal, conspiracy, and danger. As Barb fights to protect her friends and her freedom, she must confront her past and make choices that could determine the fate of the nation.",
+  "genre": ["action", "science-fiction"],
+  "director": [{
+    "name": "David Hogan",
+    "imdb": "https://www.imdb.com/name/nm0389653/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE0NTk2OTQ5OF5BMl5BanBnXkFtZTYwODk5NzQ3._V1_.jpg"
+  }],
+  "actors": [{
+    "name": "Pamela Anderson",
+    "imdb": "https://www.imdb.com/name/nm0000097/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGFkODBkZTQtNDJhNC00ZDhiLWE5YTYtZTAyOGRlNWRlZGEyXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+  }, {
+    "name": "Temuera Morrison",
+    "imdb": "https://www.imdb.com/name/nm0607325/",
+    "image": "https://www.theaureview.com/au-content/uploads/2023/06/TM.jpg"
+  }, {
+    "name": "Victoria Rowell",
+    "imdb": "https://www.imdb.com/name/nm0746937/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTQyOTQwZDQtMGExYS00MTM4LWEzZDctZGFjZmU2NDI5OGZmXkEyXkFqcGdeQWRpZWdtb25n._V1_QL75_UX500_CR0,0,500,281_.jpg"
+  }],
+  "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/barb-wire",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/0aa80d0d-e51c-40f6-8ed8-764d32c8d94b.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
+
+
+
   {
     "item": 3456,
     "title": "Fear and Desire",
