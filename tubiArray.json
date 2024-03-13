@@ -266,6 +266,66 @@
     "poster": "https://canvas.tubitv.com/opts/yn_3Js23j-B4og==/a7e719c6-5a58-4726-9779-a11f7b94d7b3/CJgDEMcEOgUxLjAuMQ==",
     "link": "https://tubitv.com/movies/100013435/after-hours"
   },
+
+  {    
+    "item": "99111",
+    "title": "A Good Man",
+    "runtime": 103,
+    "mpaa": "Not Rated",
+    "poster": "https://canvas-bridge.tubitv.com/lrP81H--xjmIF6CgZWFH_p-OKeM=/448x252/smart/img.adrise.tv/dd0f716d-025d-4be8-a9f6-352e48cb8797.jpg",
+    "description": "Alexander's special operations career ends in disaster, and he goes off the grid to live a quiet life as a handyman. When one of his tenants is targeted by a Russian mobster, Alexander is dragged into a war between the Chinese and Russian gangs.",
+"genre": ["action", "crime", "thriller"],
+  "link": "https://tubitv.com/movies/620926/a-good-man",
+  "director": [{
+    "name": "Keoni Waxman",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2Q1ZGQ0OGItNmE0MS00NDcyLTkwZWYtMTUxNzNjMjU3NDY3XkEyXkFqcGdeQXVyNjI1MjEzNzU@._V1_FMjpg_UX1000_.jpg",
+    "IMDB": "https://www.imdb.com/name/nm0915394/?ref_=tt_ov_dr"
+  }],
+  "actors": [{
+    "name": "Steven Seagal",
+    "image": "https://pyxis.nymag.com/v1/imgs/760/506/03f412ade34a2a6ba544cdda934f49dd75-03-steven-seagal.2x.rhorizontal.w710.jpg",
+    "IMDB": "https://www.imdb.com/name/nm0000219/"
+  }, {
+    "name": "Iulia Verdeș",
+    "image": "https://www.romanianactors.com/wp-content/uploads/2016/10/Iulia-Verdes-by-Simion-Buia.jpg",
+    "imdb": "https://www.imdb.com/name/nm3095645/"
+  }, {
+    "name": "Tzi Ma",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSNA_ojqMlwo1ybXvixfKAYm6HUhGLl2tpUshrd_l9JlbgMAkajAaH0sqC3jpSbbI_xCv1sxyaaKydPt88",
+    "imdb": "https://www.imdb.com/name/nm0002245/"
+  }]
+  },
+
+  {    
+    "item": "12345",
+    "title": "Force of Execution",
+    "runtime": 99,
+    "mpaa": "R",
+    "description": "A crime lord's right-hand man, who falls for a woman targeted by the mob boss, seeks to turn his back on a life of crime.",
+    "genre": ["action", "crime", "drama"],
+    "director": [{
+      "name": "Keoni Waxman",
+      "image": "",
+      "imdb": "https://www.imdb.com/name/nm0915208/"
+    }],
+    "actors": [{
+      "name": "Steven Seagal",
+      "image": "https://pyxis.nymag.com/v1/imgs/760/506/03f412ade34a2a6ba544cdda934f49dd75-03-steven-seagal.2x.rhorizontal.w710.jpg",
+      "IMDB": "https://www.imdb.com/name/nm0000219/"
+    }, {
+      "name": "Ving Rhames",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/03/gettyimages-617920578_-_h_2018.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000609/"
+    }, {
+      "name": "Danny Trejo",
+      "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/043F/production/_113278010_gettyimages-103778867.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001803/"
+    }],
+    "link": "https://tubitv.com/movies/642274/force-of-execution",
+    "poster": "https://canvas-bridge.tubitv.com/yJTi-23iMP7ysM6643fjW-uaZjE=/448x252/smart/img.adrise.tv/76b64cbe-9b05-43f8-bf25-9023c928fb17.jpg"
+  }
+,  
+
   {
     "item": 6543,
     "title": "A Woman, a Gun, and a Noodle Shop",
