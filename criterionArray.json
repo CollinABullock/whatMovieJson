@@ -366,7 +366,213 @@
   "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/0aa80d0d-e51c-40f6-8ed8-764d32c8d94b.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
 },
 
+{
+  "item": "2256",
+  "title": "Cruising",
+  "runtime": 102,
+  "mpaa": "R",
+  "description": "In 'Cruising,' Al Pacino stars as Steve Burns, a young police officer who goes undercover to investigate a series of brutal murders targeting the gay community in New York City's underground leather bars. As Steve immerses himself in the city's subculture, he grapples with his own identity and desires while trying to catch the elusive killer. Tensions rise as Steve becomes increasingly entangled in the dangerous world of sex, violence, and deception, where the line between hunter and prey blurs.",
+  "genre": ["crime", "drama", "mystery", "LGBTQ"],
+  "director": [{
+    "name": "William Friedkin",
+    "imdb": "https://www.imdb.com/name/nm0001243/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/GettyImages-841153998-H-2023.jpg?w=1296"
+  }],
+  "actors": [{
+    "name": "Al Pacino",
+    "imdb": "https://www.imdb.com/name/nm0000199/",
+    "image": "https://i.pinimg.com/736x/c5/9a/3c/c59a3c314983cc6e6c15b2cd57f4f95f.jpg"
+  }, {
+    "name": "Paul Sorvino",
+    "imdb": "https://www.imdb.com/name/nm0001753/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzM1OWZkZDQtN2NiZS00MmQ2LWE2ZGMtY2VmM2JkMzg2MThmXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg"
+  }, {
+    "name": "Karen Allen",
+    "IMDB": "https://www.imdb.com/name/nm0000261/",
+    "image": "https://people.com/thmb/GUnd-OiISujLcHUtu8j0rxo3eb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/karen-allen-disappointed-in-lack-of-screen-time-new-indiana-jones-070623-tout-57012e8fa4334c109857cba59a4bed77.jpg"
+  }],
+  "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/cruising",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/12bf2c79-03b5-4887-b2f9-1cd5293619b9.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
 
+{
+  "item": "8963",
+  "title": "Freddy Got Fingered",
+  "runtime": 87,
+  "mpaa": "R",
+  "description": "In 'Freddy Got Fingered,' Tom Green stars as Gord Brody, a 28-year-old aspiring cartoonist who dreams of making it big in Hollywood. Despite his father's disapproval, Gord refuses to conform to societal norms and pursues his unconventional passions with relentless enthusiasm. As he navigates the challenges of adulthood, Gord's absurd antics and bizarre sense of humor lead him on a wild and unpredictable journey filled with unexpected twists and outrageous escapades.",
+  "genre": ["comedy", "horror"],
+  "director": [{
+  "name": "Tom Green",
+  "imdb": "https://www.imdb.com/name/nm0004980/",
+  "image": "https://www.pickwickandfrolic.com/wp-content/uploads/2013/08/Tom-Green-8.jpg"
+  }],
+  "actors": [{
+  "name": "Tom Green",
+  "imdb": "https://www.imdb.com/name/nm0339231/",
+  "image": "https://www.pickwickandfrolic.com/wp-content/uploads/2013/08/Tom-Green-8.jpg"
+  }, {
+  "name": "Rip Torn",
+  "imdb": "https://www.imdb.com/name/nm0866469/",
+  "image": "https://media.vanityfair.com/photos/5d2622ac9d463f0008d45bc7/4:3/w_1776,h_1332,c_limit/rip-torn-obit-2.jpg"
+  }, {
+  "name": "Marisa Coughlan",
+  "imdb": "https://www.imdb.com/name/nm0183631/",
+  "image": "https://www.hollywoodreporter.com/wp-content/uploads/2017/10/gettyimages-154990131_-_h_2017.jpg"
+  }],
+  "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/freddy-got-fingered",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/b925b05b-c0e3-43a9-a1c7-d1b58b821007.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+  },
+
+  {
+    "item": "4792",
+    "title": "Under the Cherry Moon",
+    "runtime": 98,
+    "mpaa": "PG-13",
+    "description": "In 'Under the Cherry Moon,' Prince stars as Christopher Tracy, a charismatic and charming gigolo who makes a living seducing wealthy women on the French Riviera alongside his friend Tricky. When Christopher crosses paths with Mary Sharon, a rebellious heiress, their encounter sparks a tumultuous romance filled with passion, deception, and betrayal. As they navigate the complexities of love and class divide, Christopher and Mary confront their own vulnerabilities and desires in a world where appearances can be deceiving.",
+    "genre": ["romance", "drama", "musical"],
+    "director": [{
+      "name": "Prince",
+      "imdb": "https://www.imdb.com/name/nm0002239/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/04/purple_rain_1984_18-h_2016.jpg?w=3000"
+    }],
+    "actors": [{
+      "name": "Prince",
+      "imdb": "https://www.imdb.com/name/nm0002239/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/04/purple_rain_1984_18-h_2016.jpg?w=3000"
+    }, {
+      "name": "Kristin Scott Thomas",
+      "imdb": "https://www.imdb.com/name/nm0000210/",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/28/1390908223147/Kristin-Scott-Thomas-011.jpg?width=465&dpr=1&s=none"
+    }, {
+      "name": "Steven Berkoff",
+      "imdb": "https://www.imdb.com/name/nm0000928/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjM5NDU1OGEtNmU5Ni00YjEzLWIwNWEtYjc3YjI2ZmFhMGZkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg"
+    }],
+    "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/under-the-cherry-moon",
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/4b67a569-33c9-47c8-bf61-ca3cec626c3e.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+  },
+
+  {
+    "item": "6321",
+    "title": "The Wicker Man",
+    "runtime": 102,
+    "mpaa": "PG-13",
+    "description": "In the remake of 'The Wicker Man,' Edward Malus, a troubled police officer haunted by the memories of a failed case, receives a letter from his ex-fiancée Willow, pleading for his help in finding her missing daughter on a remote island off the coast of Washington. Upon arriving at the isolated community, Edward discovers a disturbing cult led by the enigmatic Sister Summersisle, where ancient rituals and pagan beliefs reign supreme. As Edward delves deeper into the island's mysteries, he uncovers a sinister conspiracy that threatens to consume him in a terrifying web of deception and sacrifice.",
+    "genre": ["horror", "mystery", "thriller"],
+    "director": [{
+      "name": "Neil LaBute",
+      "imdb": "https://www.imdb.com/name/nm0470931/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTM5NTg4NTY2NV5BMl5BanBnXkFtZTcwMjMyNjQzMw@@._V1_.jpg"
+    }],
+    "actors": [{
+      "name": "Nicolas Cage",
+      "imdb": "https://www.imdb.com/name/nm0000115/",
+      "image": "https://deadline.com/wp-content/uploads/2023/11/nicolas-cage.jpg"
+    }, {
+      "name": "Ellen Burstyn",
+      "imdb": "https://www.imdb.com/name/nm0000995/",
+      "image": "https://i.guim.co.uk/img/media/2f8753e224e57f650b63638c4a79ba95d9d7aee2/1012_141_2469_1482/master/2469.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=7fd75cf5742362dfbe11d02a09eb9cbc"
+    }, {
+      "name": "Leelee Sobieski",
+      "imdb": "https://www.imdb.com/name/nm0005443/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgzNDY4NDkyN15BMl5BanBnXkFtZTcwOTUyNDEzOA@@._V1_.jpg"
+    }],
+    "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/the-wicker-man-1",
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/e963c575-a750-4579-96ce-0cd34c76b31c.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+  }
+,
+
+{
+  "item": "1902",
+  "title": "The Blair Witch Project",
+  "runtime": 81,
+  "mpaa": "R",
+  "description": "In 'The Blair Witch Project,' three student filmmakers, Heather, Mike, and Josh, venture into the Maryland woods to make a documentary about the legendary Blair Witch. Armed with cameras and camping gear, they quickly become lost in the dense forest, their sense of direction and sanity unraveling as they encounter eerie phenomena and unexplained occurrences. As tensions mount and trust erodes, the trio must confront their deepest fears in a desperate bid to survive the night and escape the malevolent forces that lurk in the darkness.",
+  "genre": ["horror", "mystery", "found-footage"],
+  "director": [{
+    "name": "Daniel Myrick",
+    "imdb": "https://www.imdb.com/name/nm0616786/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg5OTAyNDkxOV5BMl5BanBnXkFtZTcwNzc2ODYzNQ@@._V1_.jpg"
+  }, {
+    "name": "Eduardo Sánchez",
+    "imdb": "https://www.imdb.com/name/nm0764000/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg5OTAyNDkxOV5BMl5BanBnXkFtZTcwNzc2ODYzNQ@@._V1_.jpg"
+  }],
+  "actors": [{
+    "name": "Heather Donahue",
+    "imdb": "https://www.imdb.com/name/nm0232245/",
+    "image": "https://www.looper.com/img/gallery/the-bizarre-way-heather-donahue-was-paid-for-the-blair-witch-project/l-intro-1636754397.jpg"
+  }, {
+    "name": "Michael C. Williams",
+    "imdb": "https://www.imdb.com/name/nm0931203/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjk2YmZiOWQtYTY5MC00ZmJjLWFlYTctN2Y5OGExYTM1NTdhXkEyXkFqcGdeQXVyOTM3NzM0MTk@._V1_.jpg"
+  }, {
+    "name": "Joshua Leonard",
+    "imdb": "https://www.imdb.com/name/nm0502715/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIwNTIyNzY2NF5BMl5BanBnXkFtZTgwMzUwMjYxMDI@._V1_.jpg"
+  }],
+  "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/the-blair-witch-project",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/9efd5f90-8bb5-4ef1-b70b-66755508ba0b.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
+
+{
+  "item": "3829",
+  "title": "Gigli",
+  "runtime": 121,
+  "mpaa": "R",
+  "description": "In 'Gigli,' Larry Gigli, a low-level mobster, is assigned to kidnap the mentally challenged brother of a federal prosecutor in order to prevent him from testifying against the mob. However, Gigli's simple assignment quickly spirals out of control when he is forced to partner with Ricki, a tough and confident female enforcer. As the mismatched pair embarks on a road trip to complete their mission, they find themselves entangled in a bizarre and unpredictable romance that challenges their loyalties and forces them to confront their own vulnerabilities.",
+  "genre": ["comedy", "crime", "romance"],
+  "director": [{
+    "name": "Martin Brest",
+    "imdb": "https://www.imdb.com/name/nm0000976/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjllNWViMjctNDY5ZC00OTlmLTkwZmUtMzYyOTg3ZTU0Y2M3XkEyXkFqcGdeQXVyMjA0MTYzNzI@._V1_.jpg"
+  }],
+  "actors": [{
+    "name": "Ben Affleck",
+    "imdb": "https://www.imdb.com/name/nm0000255/",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/10ea0b4/2147483647/strip/true/crop/6316x4210+0+1/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fd8%2Ff1ec7c954d10ab8f645895faa29b%2Fla-photos-1staff-885832-ca-ben-affleck-portrait-tender-bar-jlc-1213-12331.JPG"
+  }, {
+    "name": "Jennifer Lopez",
+    "imdb": "https://www.imdb.com/name/nm0000182/",
+    "image": "https://variety.com/wp-content/uploads/2022/11/Jennifer-Lopez.jpg?w=1024"
+  }, {
+    "name": "Justin Bartha",
+    "imdb": "https://www.imdb.com/name/nm0057277/",
+    "image": "https://deadline.com/wp-content/uploads/2022/04/Justin-Bartha-National-Treasure.jpg?w=1000"
+  }],
+  "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/gigli",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/cac60a32-b24f-4732-9d51-9919d892cfc9.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
+
+{
+  "item": "5983",
+  "title": "Swept Away",
+  "runtime": 93,
+  "mpaa": "R",
+  "description": "In 'Swept Away,' Amber Leighton, a wealthy and arrogant socialite, finds herself stranded on a deserted island with Giuseppe Esposito, a rugged and resourceful sailor, after a sailing trip gone awry. Initially disdainful of Giuseppe's working-class background, Amber soon realizes that she is completely dependent on him for survival. As they struggle to overcome their differences and the harsh realities of their situation, Amber and Giuseppe embark on a journey of self-discovery and unexpected romance that challenges their preconceptions and changes their lives forever.",
+  "genre": ["drama", "romance"],
+  "director": [{
+    "name": "Guy Ritchie",
+    "imdb": "https://www.imdb.com/name/nm0005363/",
+    "image": "https://facts.net/wp-content/uploads/2023/08/50-facts-about-guy-ritchie-1690856424.jpg"
+  }],
+  "actors": [{
+    "name": "Madonna",
+    "imdb": "https://www.imdb.com/name/nm0000187/",
+    "image": "https://people.com/thmb/_CPh0Zr1tpGd6WRGNhNYfp4RocE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(753x234:755x236)/madonna-tour-101623-tout-eda325a252d94dd09520dbdc9b2f7c85.jpg"
+  }, {
+    "name": "Adriano Giannini",
+    "imdb": "https://www.imdb.com/name/nm0320082/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY2M2M0YWItNmRhOS00NzlkLTgzODAtZjdkMTFhNmU1YzE0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+  }, {
+    "name": "Bruce Greenwood",
+    "imdb": "https://www.imdb.com/name/nm0339304/",
+    "image": "https://static.wikia.nocookie.net/memoryalpha/images/1/1f/Bruce_Greenwood.jpg/revision/latest?cb=20180209025241&path-prefix=en"
+  }],
+  "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/swept-away-1",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/1ca1a091-d4cf-4986-ae80-5abcc8ae9b53.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
 
   {
     "item": 3456,
