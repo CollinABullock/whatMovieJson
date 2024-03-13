@@ -216,6 +216,36 @@
 ,
 
 {    
+  "item": "24680",
+  "title": "Clueless",
+  "runtime": 97,
+  "mpaa": "PG-13",
+  "description": "A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.",
+  "genre": ["comedy", "romance", "teen", "classic"],
+  "director": [{
+    "name": "Amy Heckerling",
+    "image": "https://pyxis.nymag.com/v1/imgs/a45/1ee/4b81c0201f73d3120e5e1a853052ba90c9-19-amy-heckerling.2x.rhorizontal.w710.jpg",
+    "imdb": "https://www.imdb.com/name/nm0002131/"
+  }],
+  "actors": [{
+    "name": "Alicia Silverstone",
+    "image": "https://vegnews.com/media/W1siZiIsIjM5ODIxL3ZlZ25ld3MuYWxpY2lhc2lsdmVyc3RvbmUuYWxpY2lhc2lsdmVyc3RvbmUuanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiLHsiZm9ybWF0IjoianBnIn1dLFsicCIsIm9wdGltaXplIl1d/vegnews.aliciasilverstone.aliciasilverstone.jpg?sha=323b8ac0bb1c27fa",
+    "imdb": "https://www.imdb.com/name/nm0000224/"
+  }, {
+    "name": "Stacey Dash",
+    "image": "https://assets1.cbsnewsstatic.com/i/cbslocal/wp-content/uploads/sites/15909782/2021/10/Screen-Shot-2021-10-14-at-9.38.46-AM.png?w=420",
+    "imdb": "https://www.imdb.com/name/nm0001107/"
+  }, {
+    "name": "Brittany Murphy",
+    "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-94991364-1634235288.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005261/"
+  }],
+  "link": "https://www.paramountplus.com/movies/video/LNvLQIBYxRqC8X4k_hYnHgcT2ePHR0pe/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHyCVW%3AIzP6Vw0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CP6y9PDB8YQDFayGpgQdfCUN4w",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2019/06/12/1535968323621/CLUE_SAlone_16_9_1920x1080_1748775_1920x1080.jpg"
+}
+,
+
+{    
   "item": "13579",
   "title": "The Godfather Part III",
   "runtime": 162,
