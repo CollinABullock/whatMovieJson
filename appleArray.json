@@ -96,6 +96,36 @@
   }]
   },
 
+  {    
+  "item": "24680",
+  "title": "On the Rocks",
+  "runtime": 96,
+  "mpaa": "R",
+  "description": "A young mother reconnects with her larger-than-life playboy father on an adventure through New York.",
+  "genre": ["comedy", "drama"],
+  "director": [{
+    "name": "Sofia Coppola",
+    "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+    "imdb": "https://www.imdb.com/name/nm0001068/"
+  }],
+  "actors": [{
+    "name": "Bill Murray",
+    "image": "https://ew.com/thmb/vbxp3zobz8hvFKfHN8esGHiMa9g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/msdghos_ec065-2000-1ad1207627cc469794b8f7e824ba6fc9.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000195/"
+  }, {
+    "name": "Rashida Jones",
+    "image": "https://pagesix.com/wp-content/uploads/sites/3/2020/12/GettyImages-1205284086.jpg?quality=75&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0429069/"
+  }, {
+    "name": "Marlon Wayans",
+    "image": "https://variety.com/wp-content/uploads/2024/02/Marlon-Wayans.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0005541/"
+  }],
+  "link": "https://tv.apple.com/us/movie/on-the-rocks/umc.cmc.1mydlea6wicrm013138speg6m?at=1000l3V2&ct=justwatch_tvplus&itscg=30200&itsct=justwatch_tv",
+  "poster": "https://i.ytimg.com/vi/w4p0vjj_C8s/maxresdefault.jpg"
+}
+,
+
 
 
 

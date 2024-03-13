@@ -326,6 +326,37 @@
   }
 ,  
 
+{    
+  "item": "98765",
+  "title": "Tucker: The Man and His Dream",
+  "runtime": 110,
+  "mpaa": "PG",
+  "description": "The story of Preston Tucker, the maverick car designer and his ill-fated challenge to the auto industry with his revolutionary car concept.",
+  "genre": ["biopic", "drama"],
+  "director": [{
+    "name": "Francis Ford Coppola",
+    "image": "https://media.hero-magazine.com/wp-content/uploads/2021/09/03112053/FRANCIS-FORD-COPPOLA.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0000338/"
+  }],
+  "actors": [{
+    "name": "Jeff Bridges",
+      "IMDB": "https://www.imdb.com/name/nm0000313/",
+      "image": "https://cdn.aarp.net/content/aarpe/en/home/entertainment/celebrities/info-2023/jeff-bridges-cancer-covid-the-old-man-interview/_jcr_content/root/container_main/container_body_main/container_body1/container_body_cf/container_image/articlecontentfragment/cfimage.coreimg.50.932.png/content/dam/aarp/entertainment/celebrities/2023/05/1140-jeff-bridges-sitting.png"
+  }, {
+    "name": "Joan Allen",
+    "image": "https://i.guim.co.uk/img/media/d14a6f2f80c0bb5452c6da22435952a1055216ce/0_150_5586_3354/master/5586.jpg?width=465&dpr=1&s=none",
+    "imdb": "https://www.imdb.com/name/nm0000261/"
+  }, {
+    "name": "Martin Landau",
+    "image": "https://variety.com/wp-content/uploads/2014/06/martin-landau-dead.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001445/"
+  }],
+  "link": "https://tubitv.com/movies/465331/tucker-the-man-and-his-dream",
+  "poster": "https://i.ytimg.com/vi/KlZaEAhWq7s/maxresdefault.jpg"
+}
+
+,
+
   {
     "item": 6543,
     "title": "A Woman, a Gun, and a Noodle Shop",

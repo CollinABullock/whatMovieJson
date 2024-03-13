@@ -548,9 +548,9 @@
 	"genre": ["drama", "romance", "biopic"],
     "link": "https://play.max.com/movie/ba04ae75-08d6-42ca-81ad-d29580f62d93?tab=generic-movie-page-rail-content-details-tab",
     "director": [{
-    "name": "Sofia Coppola",
-    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRTwZ66rUeyNu4p5-eTe2FXWI-iNjigxfOXmNWW7t-f6BmbHRmilZGpZ-hTLqv88tYfr0v9Z3lC82VoSvY",
-    "imdb": "https://www.imdb.com/name/nm0001068/"
+      "name": "Sofia Coppola",
+      "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+      "imdb": "https://www.imdb.com/name/nm0001068/"
     }],
     "actors": [{
       "name": "Cailee Spaeny",
@@ -3556,6 +3556,36 @@
     "imdb": "https://www.imdb.com/name/nm0329481/"
   }]
 },
+
+{    
+  "item": "11223",
+  "title": "The Bling Ring",
+  "runtime": 90,
+  "mpaa": "R",
+  "description": "Inspired by actual events, a group of fame-obsessed teenagers use the internet to track celebrities' whereabouts in order to rob their homes.",
+  "genre": ["crime", "drama"],
+  "director": [{
+    "name": "Sofia Coppola",
+    "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+    "imdb": "https://www.imdb.com/name/nm0001068/"
+  }],
+  "actors": [{
+    "name": "Katie Chang",
+    "image": "https://miro.medium.com/v2/resize:fit:1380/1*B9eoLpS5Gk5e3bFvcP7orA.jpeg",
+    "imdb": "https://www.imdb.com/name/nm4192450/"
+  }, {
+    "name": "Israel Broussard",
+    "image": "https://decider.com/wp-content/uploads/2018/08/to-all-the-boys-broussard.jpg?quality=75&strip=all",
+    "imdb": "https://www.imdb.com/name/nm3941477/"
+  }, {
+    "name": "Emma Watson",
+    "image": "https://images.businessoffashion.com/profiles/asset/1576627872477040/emma-watson-1577236307043261.png?auto=format%2Ccompress&fit=crop&h=360&w=660",
+    "imdb": "https://www.imdb.com/name/nm0914612/"
+  }],
+  "link": "https://play.max.com/video/watch/f9caf6b5-3219-44e8-a39d-58e1ae96ae78/5b37ef77-2eca-42f4-973d-5ebe4afc9f32",
+  "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/02/MixCollage-03-Feb-2024-05-59-PM-3892.jpg"
+}
+,
 
 {
   "item": 198,
