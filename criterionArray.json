@@ -574,6 +574,123 @@
   "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/1ca1a091-d4cf-4986-ae80-5abcc8ae9b53.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
 },
 
+{
+  "item": 4587,
+  "title": "Sexy Beast",
+  "runtime": 89,
+  "mpaa": "R",
+  "description": "In 'Sexy Beast,' retired safecracker Gary 'Gal' Dove is living a peaceful life in Spain with his ex-porn star wife, DeeDee. However, his tranquility is shattered when his former associate, the psychopathic and relentless Don Logan, arrives to recruit him for one last heist. Despite Gal's adamant refusal, Don's menacing presence and violent temper threaten to destroy everything Gal holds dear, leading to a deadly game of cat and mouse.",
+  "genre": ["crime", "thriller"],
+  "director": [{
+    "name": "Jonathan Glazer",
+    "imdb": "https://www.imdb.com/name/nm0327273/",
+    "image": "https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/584669"
+  }],
+  "actors": [{
+    "name": "Ray Winstone",
+    "imdb": "https://www.imdb.com/name/nm0935653/",
+    "image": "https://media.gq.com/photos/65eb26a91a997e886e47d12a/16:9/w_2560%2Cc_limit/winstone.jpg"
+  }, {
+    "name": "Ben Kingsley",
+    "imdb": "https://www.imdb.com/name/nm0001426/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/Ben-Kingsley-Getty-H-2016.jpeg"
+  }, {
+    "name": "Ian McShane",
+    "imdb": "https://www.imdb.com/name/nm0001526/",
+    "image": "https://pyxis.nymag.com/v1/imgs/d8b/f5c/8997d9cb80ae8cf97ed8c79cc2b55f05f3-11-ian-mcshane.2x.rhorizontal.w710.jpg"
+  }],
+  "link": "https://www.criterionchannel.com/sexy-beast",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/0eab0d59-cde6-4819-b0cc-0632099cdf26.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+}
+,
+
+{
+  "item": 7492,
+  "title": "Birth",
+  "runtime": 100,
+  "mpaa": "R",
+  "description": "In 'Birth,' Anna, a young widow, is thrown into turmoil when a young boy named Sean claims to be the reincarnation of her deceased husband, who died ten years prior. As Anna grapples with the possibility of Sean's identity, her fiancé and loved ones become increasingly concerned about her well-being. As the truth unravels, Anna finds herself torn between skepticism and belief, leading to a haunting and emotional journey of self-discovery and acceptance.",
+  "genre": ["drama", "mystery", "thriller"],
+  "director": [{
+    "name": "Jonathan Glazer",
+    "imdb": "https://www.imdb.com/name/nm0327273/",
+    "image": "https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/584669"
+  }],
+  "actors": [{
+    "name": "Nicole Kidman",
+    "imdb": "https://www.imdb.com/name/nm0000173/",
+    "image": "https://media.vanityfair.com/photos/5cbdfb2a80902d6636dc52c1/master/pass/nicole-kidman-may-2019-lede.jpg"
+  }, {
+    "name": "Cameron Bright",
+    "imdb": "https://www.imdb.com/name/nm0110218/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk2NjIxNjg3OV5BMl5BanBnXkFtZTcwMDY0MzMzMg@@._V1_.jpg"
+  }, {
+    "name": "Lauren Bacall",
+    "imdb": "https://www.imdb.com/name/nm0000002/",
+    "image": "https://static01.nyt.com/images/2014/08/13/arts/13bacall-obit-ss-slide-79CJ/13bacall-obit-ss-slide-79CJ-superJumbo-v2.jpg"
+  }],
+  "link": "https://www.criterionchannel.com/birth",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/5781e0fe-b148-4955-b5ee-ab8f8510e1f7.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
+
+{
+  "item": 9321,
+  "title": "Rashomon",
+  "runtime": 88,
+  "mpaa": "Not Rated",
+  "description": "In 'Rashomon,' a woodcutter, a priest, and a commoner take refuge from a torrential rainstorm in the ruins of the Rashomon gate. As they discuss a recent murder trial involving a bandit, a samurai, and the samurai's wife, they recount conflicting versions of the events leading to the samurai's death. Each witness presents their own perspective, leaving the truth obscured and the audience questioning the nature of reality and human perception.",
+  "genre": ["crime", "drama", "mystery", "foreign", "classic"],
+  "director": [{
+    "name": "Akira Kurosawa",
+    "imdb": "https://www.imdb.com/name/nm0000041/",
+    "image": "https://cdn.britannica.com/85/136185-050-A47F2881/Kurosawa-Akira.jpg"
+  }],
+  "actors": [{
+    "name": "Toshiro Mifune",
+    "imdb": "https://www.imdb.com/name/nm0001536/",
+    "image": "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/602-/uNEaWCqCUBpr3jx3CWihbc8aruNfBU_original.jpg"
+  }, {
+    "name": "Machiko Kyō",
+    "imdb": "https://www.imdb.com/name/nm0478573/",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/05/24/16/machiko-kyo-1959.jpg"
+  }, {
+    "name": "Masayuki Mori",
+    "imdb": "https://www.imdb.com/name/nm0604556/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTZhZTNmM2QtYWY5Yy00YzZmLWFjMDAtMDEwODA5YTIwMTY1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_FMjpg_UX1000_.jpg"
+  }],
+  "link": "https://www.criterionchannel.com/foreign-language-oscar-winners/season:1/videos/rashomon",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/870c7691-0f86-44ac-a941-df2639f8356c.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+},
+
+{
+  "item": 5678,
+  "title": "24 Hour Party People",
+  "runtime": 117,
+  "mpaa": "R",
+  "description": "In '24 Hour Party People,' the film follows the vibrant music scene in Manchester from the late 1970s to the early 1990s, focusing on the rise and fall of Factory Records and the influential bands associated with it, such as Joy Division, New Order, and the Happy Mondays. Tony Wilson, the founder of Factory Records, navigates the chaotic world of music promotion, club culture, and artistic rebellion, leaving an indelible mark on the music industry and popular culture.",
+  "genre": ["biography", "comedy", "drama"],
+  "director": [{
+    "name": "Michael Winterbottom",
+    "imdb": "https://www.imdb.com/name/nm0933940/",
+    "image": "https://www.bigissue.com/wp-content/uploads/2024/02/1602_Arts_F53PHE.jpg?w=1920"
+  }],
+  "actors": [{
+    "name": "Steve Coogan",
+    "imdb": "https://www.imdb.com/name/nm0176869/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDRhYzQ5ZDktMjcyZS00NmMzLTkyODAtNzlhNTQ3OTc2NGEyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg"
+  }, {
+    "name": "Lennie James",
+    "imdb": "https://www.imdb.com/name/nm0414003/",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2NhZTY5ODktNDVkNy00Yjc4LWIzYjQtMWNjNWY3YzVlYjYyXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg"
+  }, {
+    "name": "John Thomson",
+    "imdb": "https://www.imdb.com/name/nm0860780/",
+    "image": "https://www.thesun.co.uk/wp-content/uploads/2017/06/nintchdbpict000330949136-e1497260281766.jpg?crop=0px%2C175px%2C3289px%2C2194px&resize=1920%2C1080"
+  }],
+  "link": "https://www.criterionchannel.com/24-hour-party-people",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/5f6f1735-ed66-4539-89ac-51d527317b3a.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+},
+
   {
     "item": 3456,
     "title": "Fear and Desire",
