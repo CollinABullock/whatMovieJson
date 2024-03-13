@@ -249,6 +249,42 @@
 }
 ,
 
+{    
+  "item": "24680",
+  "title": "The Outsiders",
+  "runtime": 91,
+  "mpaa": "PG-13",
+  "description": "The rivalry between two gangs, the poor Greasers and the rich Socs, only heats up when one gang member kills a member of the other.",
+  "genre": ["crime", "drama"],
+  "director": [{
+    "name": "Francis Ford Coppola",
+    "image": "https://media.hero-magazine.com/wp-content/uploads/2021/09/03112053/FRANCIS-FORD-COPPOLA.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0000338/"
+  }],
+  "actors": [{
+    "name": "C. Thomas Howell",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/c-thomas-howell-in-the-outsiders.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001367/"
+  }, {
+    "name": "Matt Dillon",
+    "image": "https://www.telegraph.co.uk/content/dam/films/2018/12/02/TELEMMGLPICT000181929707_trans_NvBQzQNjv4BqP4pV-m6laGcMQMbuKYgJGRQ6uD2cVhFSMVWodf3KFNg.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0000369/"
+  }, {
+    "name": "Ralph Macchio",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/10/Ralph-Macchio-Headshot-Book-Publicity-H-2022.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001496/"
+  }, {
+    "name": "Tom Cruise",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Tom-Cruise-Top-Gun-.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000129/"
+  }],
+  "link": "https://www.paramountplus.com/movies/video/4HWA_NfKIO_iG1PJTZ_9BS_Ey0CShuzB/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHyC1x-IzP7Ug0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CK2MtNy58YQDFc9WCQkdSjEJwg",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2024/01/13/2299292739562/OTSDR_US_1983_SA_16x9_1920x1080_NB_2553768_1920x1080.jpg"
+}
+,
+
+
+
 {
   "item": 3487,
   "title": "Gladiator",

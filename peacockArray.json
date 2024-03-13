@@ -69,6 +69,40 @@
   }
 ,
 
+{    
+  "item": "98765",
+  "title": "Lost in Translation",
+  "runtime": 102,
+  "mpaa": "R",
+  "description": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
+  "genre": ["drama", "romance", "comedy"],
+  "director": [{
+    "name": "Sofia Coppola",
+    "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+    "imdb": "https://www.imdb.com/name/nm0001068/"
+  }],
+  "actors": [{
+    "name": "Bill Murray",
+    "image": "https://ew.com/thmb/vbxp3zobz8hvFKfHN8esGHiMa9g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/msdghos_ec065-2000-1ad1207627cc469794b8f7e824ba6fc9.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000195/"
+  }, {
+    "name": "Scarlett Johansson",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzM3MjU5YjItNzAxOS00MWRhLWIwM2YtOTE3OTM3NzUyYmQxXkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0424060/"
+  }, {
+    "name": "Giovanni Ribisi",
+    "image": "https://facts.net/wp-content/uploads/2023/08/45-facts-about-giovanni-ribisi-1691402106.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000610/"
+  }, {
+    "name": "Anna Faris",
+    "image": "https://nationaltoday.com/wp-content/uploads/2022/09/Anna-Faris-1200x834.jpg",
+    "imdb": "https://www.imdb.com/name/nm0267506/"
+  }],
+  "link": "https://www.peacocktv.com/signin?return=%2Fwatch%2Fasset%2Fmovies%2Fcomedy%2Flost-in-translation%2Fecd04cbd-26a5-3e60-a55a-575dbfb25d4b%3Fcid%3D2201affiliateevgnpkpdaff4393%26irclickid%3DQ0i3hJVeKxyPWTXz6QW5KVf2UkHyC3zmIzP7Ug0%26irgwc%3D1%26utm_campaign%3D2201affiliateevgn%26utm_content%3D896948%26utm_medium%3Dpd_aff_acq_psdlnk%26utm_source%3Dpk_vrs_imra%26utm_term%3DJustWatch%2520GmbH",
+  "poster": "https://ntvb.tmsimg.com/assets/p32966_v_h8_aq.jpg?w=1280&h=720"
+}
+,
+
   {
     "item": 9876,
     "title": "The King of Staten Island",

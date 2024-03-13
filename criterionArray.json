@@ -162,6 +162,36 @@
     "link": "https://www.criterionchannel.com/reservoir-dogs"
   },
 
+  {    
+  "item": "54321",
+  "title": "The Virgin Suicides",
+  "runtime": 97,
+  "mpaa": "R",
+  "description": "A group of male friends becomes obsessed with a group of mysterious sisters who are sheltered by their strict, religious parents after one of them commits suicide.",
+  "genre": ["drama"],
+  "director": [{
+    "name": "Sofia Coppola",
+    "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+    "imdb": "https://www.imdb.com/name/nm0001068/"
+  }],
+  "actors": [{
+    "name": "Kirsten Dunst",
+    "image": "https://www.usmagazine.com/wp-content/uploads/2024/03/Feature-Kirsten-Dunst-Has-Near-Fall-After-Tripping-Over-Giant-Statue-at-the-Oscars-2024-Oscars.jpg?crop=78px%2C0px%2C1221px%2C689px&resize=1600%2C900&quality=86&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0000379/"
+  }, {
+    "name": "Josh Hartnett",
+    "image": "https://variety.com/wp-content/uploads/2020/01/josh-hartnett.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001326/"
+  }, {
+    "name": "James Woods",
+    "image": "https://www.themarysue.com/wp-content/uploads/2018/10/JamesWoods.jpg?fit=1200%2C760",
+    "imdb": "https://www.imdb.com/name/nm0000249/"
+  }],
+  "link": "https://www.criterionchannel.com/the-virgin-suicides",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/3ceb9a95-e337-4cfc-9b30-7bb55b0149d1-d40deaab.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+}
+,
+
   {
     "item": 3456,
     "title": "Fear and Desire",
