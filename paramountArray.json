@@ -146,6 +146,109 @@
 }
 ,
 
+{    
+  "item": "67890",
+  "title": "The Godfather",
+  "runtime": 175,
+  "mpaa": "R",
+  "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+  "genre": ["crime", "drama", "classic"],
+  "director": [{
+    "name": "Francis Ford Coppola",
+    "image": "https://media.hero-magazine.com/wp-content/uploads/2021/09/03112053/FRANCIS-FORD-COPPOLA.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0000338/"
+  }],
+  "actors": [{
+    "name": "Marlon Brando",
+    "image": "https://images.squarespace-cdn.com/content/v1/57c92580c534a5c7c898f469/1597309465801-Z44WETO7XAYOOV2XBYF1/ReviewBrandoStreetcar.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000008/"
+  }, {
+    "name": "Al Pacino",
+    "image": "https://static.euronews.com/articles/stories/08/30/10/38/1200x675_cmsv2_82f6af80-5221-51e9-9848-40e5b0cbdebe-8301038.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000199/"
+  }, {
+    "name": "James Caan",
+    "image": "https://www.rollingstone.co.uk/wp-content/uploads/sites/2/2022/07/JamesCaan-1024x683.webp",
+    "imdb": "https://www.imdb.com/name/nm0001001/"
+  }, {
+    "name": "Diane Keaton",
+    "image": "https://people.com/thmb/uBX5_zP1jyggkOMjr6MyETyTAAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Diane-Keaton-birthday-gallery-20221013_31-86c73df661d14c29aab0ecb7f6be10a4.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000473/"
+  }
+  ],
+  "link": "https://www.paramountplus.com/movies/video/d1xdkOt5uh339gZVfKlF_o6Y65b_yAeD/",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/03/28/2017199171638/GF1_StandAlone_16.9_1920x1080_R_1265516_1920x1080.jpg"
+},
+
+{    
+  "item": "24680",
+  "title": "The Godfather Part II",
+  "runtime": 202,
+  "mpaa": "R",
+  "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.",
+  "genre": ["crime", "drama", "classic"],
+  "director": [{
+    "name": "Francis Ford Coppola",
+    "image": "https://media.hero-magazine.com/wp-content/uploads/2021/09/03112053/FRANCIS-FORD-COPPOLA.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0000338/"
+  }],
+  "actors": [{
+    "name": "Al Pacino",
+    "image": "https://static.euronews.com/articles/stories/08/30/10/38/1200x675_cmsv2_82f6af80-5221-51e9-9848-40e5b0cbdebe-8301038.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000199/"
+  }, {
+    "name": "Robert De Niro",
+    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "imdb": "https://www.imdb.com/name/nm0000134/"
+  }, {
+    "name": "Robert Duvall",
+    "image": "https://www.cnet.com/a/img/resize/c7ce1810ec3b0acbc9c8666fc34c863aa5848ad2/hub/2022/03/22/06804861-8207-4d07-9b0c-78bf678dbea4/gettyimages-52255606.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "imdb": "https://www.imdb.com/name/nm0000380/"
+  }, {
+    "name": "John Cazale",
+    "image": "https://external-preview.redd.it/9HAHV9UOZ7fGx-K2tdNSKCDpxuXDvTIWhPIx3AtDpM0.jpg?auto=webp&s=232636e60243cf40652bfa041d6af8d2bf20e612",
+    "imdb": "https://www.imdb.com/name/nm0001030/"
+  }
+  ],
+  "link": "https://www.paramountplus.com/movies/video/W2d67iU1E6BpVZY3M2R_9mflpYvLIG89/",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/03/28/2017198147858/GF2_StandAlone_1920x1080_R_1265536_1920x1080.jpg"
+}
+,
+
+{    
+  "item": "13579",
+  "title": "The Godfather Part III",
+  "runtime": 162,
+  "mpaa": "R",
+  "description": "In the midst of trying to legitimize his business dealings in New York City and Italy in 1979, aging Mafia Don Michael Corleone seeks to avow for his sins, while taking his nephew Vincent Mancini under his wing.",
+  "genre": ["crime", "drama"],
+  "director": [{
+    "name": "Francis Ford Coppola",
+    "image": "https://media.hero-magazine.com/wp-content/uploads/2021/09/03112053/FRANCIS-FORD-COPPOLA.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0000338/"
+  }],
+  "actors": [{
+    "name": "Al Pacino",
+    "image": "https://static.euronews.com/articles/stories/08/30/10/38/1200x675_cmsv2_82f6af80-5221-51e9-9848-40e5b0cbdebe-8301038.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000199/"
+  }, {
+    "name": "Andy Garcia",
+    "image": "https://static01.nyt.com/images/2022/06/20/arts/17andy-garcia3/17andy-garcia3-videoSixteenByNineJumbo1600.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000414/"
+  }, {
+    "name": "Diane Keaton",
+    "image": "https://people.com/thmb/uBX5_zP1jyggkOMjr6MyETyTAAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Diane-Keaton-birthday-gallery-20221013_31-86c73df661d14c29aab0ecb7f6be10a4.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000473/"
+  }, {
+    "name": "Sofia Coppola",
+    "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+    "imdb": "https://www.imdb.com/name/nm0001068/"
+  }],
+  "link": "https://www.paramountplus.com/movies/video/2RRHQpTdqXuU8Mw_UwLA4Xx6jZ3_WCF_/",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/03/28/2017199171744/GFCODA_SAlone_THM_16.9_1920x1080_R_1265526_1920x1080.jpg"
+}
+,
+
 {
   "item": 3487,
   "title": "Gladiator",
