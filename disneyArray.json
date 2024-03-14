@@ -257,7 +257,7 @@
   "title": "Morbius",
   "runtime": 104,
   "mpaa": "PG-13",
-  "description": "",
+  "description": "Dangerously ill with a rare blood disorder and determined to save others from the same fate, Dr. Morbius attempts a desperate gamble. While at first it seems to be a radical success, a darkness inside of him is soon unleashed.",
 "genre": ["action", "horror", "comic-book"],
 "director": [{
 "name": "Daniel Espinosa",
@@ -280,6 +280,74 @@
 "link": "https://www.disneyplus.com/movies/morbius/3utIMTiAX7pc",
 "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/43B98C86E37BD522C5484D9E5BA1D1692ABAB971692C9418695C6C08C3EABF8A/scale?width=400&aspectRatio=1.78&format=jpeg"
 },
+
+{    
+  "item": 66789,
+  "title": "The Marvels",
+  "runtime": 106,
+  "mpaa": "PG-13",
+  "description": "",
+"genre": ["action", "science-fiction", "comic-book"],
+"director": [{
+"name": "Nia DaCosta",
+"image": "https://variety.com/wp-content/uploads/2021/08/Nia-DaCosta-Director-1.jpg?w=1920&h=1080&crop=1",
+"imdb": "https://www.imdb.com/name/nm4804442/"
+}],
+"actors": [{
+  "name": "Brie Larson",
+  "image": "https://people.com/thmb/2MILsdf35weyJcQtQAWYwrY0PfA=/400x262/filters:no_upscale():max_bytes(150000):strip_icc():focal(750x224:752x226)/sag-awards-2024-brie-larson-tout-022424-5d61b688c3834c0f9745692d3f083697.jpg",
+  "imdb": "https://www.imdb.com/name/nm0488953/"
+}, {
+  "name": "Teyonah Parris",
+  "image": "https://cms.21ninety.com/wp-content/uploads/2023/07/GettyImages-1503195256-scaled.jpg",
+  "imdb": "https://www.imdb.com/name/nm3500582/"
+}, {
+  "name": "Iman Vellani",
+  "image": "https://assets.teenvogue.com/photos/62cc1f937efadfac5b92fedf/16:9/w_2560%2Cc_limit/1400748101",
+  "imdb": "https://www.imdb.com/name/nm11940123/"
+}, {
+  "name": "Samuel L Jackson",
+        "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSz_lJ-KbT6_kugv-NHRDoMVxpXtuS2XoD53cD6j6n1sIohIo1Qf9ESbwAfN5OO_r4kj8_TxeN17dGr_rQ",
+        "imdb": "https://www.imdb.com/name/nm0000168/"
+}],
+"link": "https://www.disneyplus.com/movies/the-marvels/3sAcYG9CeWFw",
+"poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/18BDEBDB3B792A8C41C6A2C392BA2E8EF5D576046CDE7B8C52F8F0707B351DEB/scale?width=400&aspectRatio=1.78&format=jpeg"
+},
+
+{
+  "item": "1234",
+  "title": "X-Men: First Class",
+  "runtime": 132,
+  "mpaa": "PG-13",
+  "description": "In 1962, Charles Xavier starts up a school and later a team, for humans with superhuman abilities. Among them is Erik Lensherr, his best friend... and future archenemy.",
+  "genre": ["action", "adventure", "science-fiction", "comic-book"],
+  "director": [{
+    "name": "Matthew Vaughn",
+    "image": "https://variety.com/wp-content/uploads/2024/02/Matthew-Vaughn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0891216/"
+  }],
+  "actors": [{
+      "name": "James McAvoy",
+      "image": "https://www.usatoday.com/gcdn/presto/2019/01/21/USAT/142ae473-5af2-43b2-89ff-add712628c71-5732_CC_00060.jpg?crop=2235,1676,x1106,y0",
+      "imdb": "https://www.imdb.com/name/nm0564215/"
+    }, {
+      "name": "Michael Fassbender",
+      "image": "https://variety.com/wp-content/uploads/2024/02/fassbender-e1709057463472.jpg?w=861",
+      "imdb": "https://www.imdb.com/name/nm1055413/"
+    }, {
+      "name": "Jennifer Lawrence",
+      "image": "https://media.vanityfair.com/photos/618c0614fdf674f0522a9fb7/master/w_2560%2Cc_limit/LBY_210805_JENNIFER_LAWRENCE_VF_09G_Shot_10_028_QC_sRGB_LR.jpg",
+      "imdb": "https://www.imdb.com/name/nm2225369/?ref_=tt_ov_st"
+    }, {
+      "name": "Kevin Bacon",
+      "image": "https://ew.com/thmb/2H_u7TD9rMEpQFTIn8O4JWYCmsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kevin-Bacon-role-call-072822-04-3d48edddb5cc46ae944a1b23078a9745.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000102/"
+    }
+    ],
+  "link": "https://www.disneyplus.com/movies/x-men-first-class/15ELm1fiAfKq",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D9D95729F40A8F7665E76DAADE354083D05CD8621BAF9FD3DB290E1970320B7C/scale?width=400&aspectRatio=1.78&format=jpeg"
+},
+
 
 
 
