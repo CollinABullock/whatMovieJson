@@ -252,6 +252,37 @@
 }
 ,
 
+{    
+  "item": 19947,
+  "title": "Morbius",
+  "runtime": 104,
+  "mpaa": "PG-13",
+  "description": "",
+"genre": ["action", "horror", "comic-book"],
+"director": [{
+"name": "Daniel Espinosa",
+"image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/05/daniel_espinosa.jpg?w=3000",
+"imdb": "https://www.imdb.com/name/nm1174251/"
+}],
+"actors": [{
+  "name": "Jared Leto",
+  "image": "https://cdn.britannica.com/74/229374-050-25308CF5/Jared-Leto-House-of-Gucci-UK-premiere-2021.jpg",
+  "imdb": "https://www.imdb.com/name/nm0001467/"
+}, {
+  "name": "Matt Smith",
+  "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12BE5/production/_130937767_crgettyimages-1415162535.jpg",
+  "imdb": "https://www.imdb.com/name/nm1741002/"
+}, {
+  "name": "Al Madrigal",
+  "image": "https://deadline.com/wp-content/uploads/2021/07/Al-Madrigal.-Credit.-Charley-Gallay..jpg",
+  "imdb": "https://www.imdb.com/name/nm1371339/"
+}],
+"link": "https://www.disneyplus.com/movies/morbius/3utIMTiAX7pc",
+"poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/43B98C86E37BD522C5484D9E5BA1D1692ABAB971692C9418695C6C08C3EABF8A/scale?width=400&aspectRatio=1.78&format=jpeg"
+},
+
+
+
 
 
   {
