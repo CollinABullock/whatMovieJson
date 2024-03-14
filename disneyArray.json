@@ -424,6 +424,87 @@
 }
 ,
 
+{
+  "item": "1234",
+  "title": "Black Panther",
+  "runtime": 134,
+  "mpaa": "PG-13",
+  "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and confront a challenger from his country's past.",
+  "genre": ["action", "adventure", "science-fiction", "comic-book"],
+  "director": [{
+    "name": "Ryan Coogler",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTipG5quYRmW8VAknEbKO08Ia3yQQkRJdCSr6XH8rT20JngJjX5qofUlRbETRNrjeiDOneG7rApxY66G3o",
+    "imdb": "https://www.imdb.com/name/nm3363032/"
+  }],
+  "actors": [
+    {
+      "name": "Chadwick Boseman",
+      "image": "https://s.abcnews.com/images/2020/200830_abc_chadwick_act1_hpMain_16x9_992.jpg",
+      "imdb": "https://www.imdb.com/name/nm1569276/"
+    },
+    {
+      "name": "Michael B. Jordan",
+      "image": "https://people.com/thmb/gy2YdKdnv-nBkuPqu0-GJZFWJ4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/michael-b-jordan-fitness-journey-071223-14e912a47276481f81bed4af3f872df8.jpg",
+      "imdb": "https://www.imdb.com/name/nm0430107/"
+    },
+    {
+      "name": "Lupita Nyong'o",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQmJuOrdfAuzOyUGKdbZr1tW_SXzzr4-lBDJl4Apgu8sTJDJ-vZ-6RJafy_iQvg__QAutEKA9QL2nCyK1o",
+      "imdb": "https://www.imdb.com/name/nm2143282/"
+    },
+    {
+      "name": "Danai Gurira",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRbi2SLnLizOzTkuki4Vtiuo5QRpTnwuU52n_HSJCkSUe43PTxhW2TNWOv-BfaV0L9u7pTjUwG_o06kGwA",
+      "imdb": "https://www.imdb.com/name/nm1775091/"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/black-panther/1GuXuYPj99Ke",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C4E26547ADB216527A0A75F01774F40189FFFB18ACE28727F3567072FE1C6942/scale?width=400&aspectRatio=1.78&format=jpeg"
+},
+
+{
+  "item": "5678",
+  "title": "Avengers: Infinity War",
+  "runtime": 149,
+  "mpaa": "PG-13",
+  "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+  "genre": ["action", "adventure", "fantasy", "science-fiction", "comic-book"],
+  "director": [{
+    "name": "Anthony Russo",
+    "image": "https://lh3.googleusercontent.com/proxy/OxMu9ontS9QXj_hDNFGuXzVewPFDohMiNLZOfymU4LQ3RXS8BKrH1r7DRm-gnbJsqg5n-51xlARX8-KO0oxiru709Puv3L1G3XT-9rS72uhXrKSjLX4JtSElCC2PJgkjxIDN-k0QJi6QRwSRBDJFWn25G5H4R8ArYHgBA_UtwOGZyw",
+    "imdb": "https://www.imdb.com/name/nm0751577/"
+  }, {
+    "name": "Joe Russo",
+    "image": "https://deadline.com/wp-content/uploads/2022/11/Joe-Russo-e1667576427135.jpg",
+    "imdb": "https://www.imdb.com/name/nm0751648/"
+  }],
+  "actors": [
+    {
+      "name": "Chris Evans",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdnkLrjpVJDcNcR5qmQHCgdsgOEpFmnYAqO0hApkmiQGLkaT9ZINqLLXgHPoJV3rlr30&usqp=CAU",
+      "imdb": "https://www.imdb.com/name/nm0262635/"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/Robert-Downey-Jr.-Getty-H-2023.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3oczN4WLfz3743hic3BRbmVFwHmCfD5rXjUKjpHBJaaplPpmu",
+      "imdb": "https://www.imdb.com/name/nm1165110/"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "image": "https://d.newsweek.com/en/full/2298700/mark-ruffalo-june-2023.png?w=1200&f=7082c879b50355fdc025b4e12f2a43d5",
+      "imdb": "https://www.imdb.com/name/nm0749263/?ref_=tt_ov_st"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/marvel-studios-avengers-infinity-war/1WEuZ7H6y39v",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CF4FCEC8AC548DEEE92D1CCF93E5CF529327EEB67C7BA374F9C9832F33D75219/scale?width=400&aspectRatio=1.78&format=jpeg"
+},
+
+
 
 
 
