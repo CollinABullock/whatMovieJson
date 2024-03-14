@@ -504,6 +504,48 @@
   "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CF4FCEC8AC548DEEE92D1CCF93E5CF529327EEB67C7BA374F9C9832F33D75219/scale?width=400&aspectRatio=1.78&format=jpeg"
 },
 
+{
+  "item": "9876",
+  "title": "Avengers: Endgame",
+  "runtime": 181,
+  "mpaa": "PG-13",
+  "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+  "genre": ["action", "adventure", "drama", "science-fiction", "comic-book"],
+  "director": [{
+    "name": "Anthony Russo",
+    "image": "https://lh3.googleusercontent.com/proxy/OxMu9ontS9QXj_hDNFGuXzVewPFDohMiNLZOfymU4LQ3RXS8BKrH1r7DRm-gnbJsqg5n-51xlARX8-KO0oxiru709Puv3L1G3XT-9rS72uhXrKSjLX4JtSElCC2PJgkjxIDN-k0QJi6QRwSRBDJFWn25G5H4R8ArYHgBA_UtwOGZyw",
+    "imdb": "https://www.imdb.com/name/nm0751577/"
+  }, {
+    "name": "Joe Russo",
+    "image": "https://deadline.com/wp-content/uploads/2022/11/Joe-Russo-e1667576427135.jpg",
+    "imdb": "https://www.imdb.com/name/nm0751648/"
+  }],
+  "actors": [
+    {
+      "name": "Chris Evans",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdnkLrjpVJDcNcR5qmQHCgdsgOEpFmnYAqO0hApkmiQGLkaT9ZINqLLXgHPoJV3rlr30&usqp=CAU",
+      "imdb": "https://www.imdb.com/name/nm0262635/"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/Robert-Downey-Jr.-Getty-H-2023.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3oczN4WLfz3743hic3BRbmVFwHmCfD5rXjUKjpHBJaaplPpmu",
+      "imdb": "https://www.imdb.com/name/nm1165110/"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "image": "https://d.newsweek.com/en/full/2298700/mark-ruffalo-june-2023.png?w=1200&f=7082c879b50355fdc025b4e12f2a43d5",
+      "imdb": "https://www.imdb.com/name/nm0749263/?ref_=tt_ov_st"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/marvel-studios-avengers-endgame/aRbVJUb2h2Rf",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DB176BD1488D7E4822256EF1778C124FC17388FC1E7F0F6D89B38AFF5FB001F6/scale?width=400&aspectRatio=1.78&format=jpeg"
+}
+,
 
 
 
