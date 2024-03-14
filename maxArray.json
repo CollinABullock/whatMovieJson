@@ -33,6 +33,91 @@
     },
 
     {
+      "item": 3791,
+      "title": "Modern Times",
+      "runtime": 87,
+      "mpaa": "G",
+      "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+      "genre": ["comedy", "drama", "classic", "silent-film"],
+      "director": [{
+        "name": "Charlie Chaplin",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+        "imdb": "https://www.imdb.com/name/nm0000122/"
+      }],
+      "actors": [{
+        "name": "Charlie Chaplin",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+        "imdb": "https://www.imdb.com/name/nm0000122/"
+      }, {
+        "name": "Paulette Goddard",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTNiMjE5MjUtMWUwMi00YTZhLTk4OWItNTk4MzIwMzk0MWFjXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0002103/"
+      }, {
+        "name": "Henry Bergman",
+        "image": "https://media.baselineresearch.com/images/134924/134924_full.jpg",
+        "imdb": "https://www.imdb.com/name/nm0009201/"
+      }, {
+        "name": "Tiny Sandford",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmFhZDY1ZTUtMjY2NC00MmJmLWExYWUtNmVhNDA2YWM2YzAzXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0762292/"
+      }],
+      "link": "https://play.max.com/movie/84786ed8-0ce4-44e9-abd8-73a5140326c7?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1101lykm7rso",
+      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/84786ed8-0ce4-44e9-abd8-73a5140326c7/3f345d9170baa87ba45ada0131815db0e0ae6681.jpg?submitted=1684663748564&host=wbd-images.prod-vod.h264.io&partner=beamcom"
+    }
+    ,
+
+    {    
+  "item": "2356",
+  "title": "The Great Dictator",
+  "runtime": 125,
+  "mpaa": "PG",
+  "description": "In this iconic satire, Charlie Chaplin portrays both a Jewish barber and a dictator modeled after Adolf Hitler, offering a comedic yet poignant commentary on fascism, discrimination, and the importance of democracy.",
+  "genre": ["comedy", "drama", "classic", "silent-film"],
+  "director": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }],
+  "actors": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }, {
+    "name": "Paulette Goddard",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTNiMjE5MjUtMWUwMi00YTZhLTk4OWItNTk4MzIwMzk0MWFjXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0002103/"
+  }],
+  "link": "https://play.max.com/video/watch/10bb6df3-97f5-4127-8556-9af147cf3ba5/75c68091-3e16-46b0-8e89-8e47439c097c",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4d1f89e0-4d26-4d36-910e-a8e98e21325f/2beaca3db4265afd1dbbe59a8d506fbe2a1a7a99.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+},
+
+{    
+  "item": "7894",
+  "title": "The Kid",
+  "runtime": 68,
+  "mpaa": "G",
+  "description": "In this heartwarming silent film, Charlie Chaplin portrays a tramp who discovers and cares for an abandoned child, forging a touching bond despite their struggles against poverty and authorities.",
+  "genre": ["comedy", "drama", "classic", "silent-film"],
+  "director": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }],
+  "actors": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }, {
+    "name": "Jackie Coogan",
+    "image": "https://miro.medium.com/v2/resize:fit:1358/0*dLXFxQgktMxYUf9i.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001067/"
+  }],
+  "link": "https://play.max.com/movie/b4017469-b584-493f-abae-f01f33f09c84?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1011lyoaCfKf",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b4017469-b584-493f-abae-f01f33f09c84/a9ad1b6339e4a64cac80ee5f7f36aceac5f5e67e.jpg?submitted=1684668692565&host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+
+    {
       "item": 5678,
       "title": "A Brief History of Time",
       "description": "A documentary exploring the life and work of physicist Stephen Hawking, discussing his theories on the origins of the universe and his personal life.",

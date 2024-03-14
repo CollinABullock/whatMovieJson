@@ -29,6 +29,91 @@
   },
 
   {
+    "item": 3791,
+    "title": "Modern Times",
+    "runtime": 87,
+    "mpaa": "G",
+    "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "genre": ["comedy", "drama"],
+    "director": [{
+      "name": "Charlie Chaplin",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "imdb": "https://www.imdb.com/name/nm0000122/"
+    }],
+    "actors": [{
+      "name": "Charlie Chaplin",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "imdb": "https://www.imdb.com/name/nm0000122/"
+    }, {
+      "name": "Paulette Goddard",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNiMjE5MjUtMWUwMi00YTZhLTk4OWItNTk4MzIwMzk0MWFjXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0002103/"
+    }, {
+      "name": "Henry Bergman",
+      "image": "https://media.baselineresearch.com/images/134924/134924_full.jpg",
+      "imdb": "https://www.imdb.com/name/nm0009201/"
+    }, {
+      "name": "Tiny Sandford",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmFhZDY1ZTUtMjY2NC00MmJmLWExYWUtNmVhNDA2YWM2YzAzXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0762292/"
+    }],
+    "link": "https://www.criterionchannel.com/modern-times",
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/75545d8d-a7dc-44b1-b2eb-2a381eedf964.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+  }
+  ,
+
+  {    
+    "item": "2356",
+    "title": "The Great Dictator",
+    "runtime": 125,
+    "mpaa": "PG",
+    "description": "In this iconic satire, Charlie Chaplin portrays both a Jewish barber and a dictator modeled after Adolf Hitler, offering a comedic yet poignant commentary on fascism, discrimination, and the importance of democracy.",
+    "genre": ["comedy", "drama", "classic", "silent-film"],
+    "director": [{
+      "name": "Charlie Chaplin",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "imdb": "https://www.imdb.com/name/nm0000122/"
+    }],
+    "actors": [{
+      "name": "Charlie Chaplin",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "imdb": "https://www.imdb.com/name/nm0000122/"
+    }, {
+      "name": "Paulette Goddard",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNiMjE5MjUtMWUwMi00YTZhLTk4OWItNTk4MzIwMzk0MWFjXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0002103/"
+    }],
+    "link": "https://www.criterionchannel.com/the-great-dictator",
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/a0875031-9900-4ff0-bb86-0b8b9a0dd50b-45a08bb4.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+  },
+
+  {    
+  "item": "7894",
+  "title": "The Kid",
+  "runtime": 68,
+  "mpaa": "G",
+  "description": "In this heartwarming silent film, Charlie Chaplin portrays a tramp who discovers and cares for an abandoned child, forging a touching bond despite their struggles against poverty and authorities.",
+  "genre": ["comedy", "drama", "classic", "silent-film"],
+  "director": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }],
+  "actors": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }, {
+    "name": "Jackie Coogan",
+    "image": "https://miro.medium.com/v2/resize:fit:1358/0*dLXFxQgktMxYUf9i.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001067/"
+  }],
+  "link": "https://www.criterionchannel.com/the-kid",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/f79d616f-13c3-4f32-90e2-a131d60e4316-454e7bab.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+}
+,
+
+  {
     "item": "7832",
     "title": "Sophie's Choice",
     "runtime": 150,

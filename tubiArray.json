@@ -23,6 +23,42 @@
       "imdb": "https://www.imdb.com/name/nm0000172/"
     }]
   },
+
+  {
+    "item": 3791,
+    "title": "Modern Times",
+    "runtime": 87,
+    "mpaa": "G",
+    "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "genre": ["comedy", "drama"],
+    "director": [{
+      "name": "Charlie Chaplin",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "imdb": "https://www.imdb.com/name/nm0000122/"
+    }],
+    "actors": [{
+      "name": "Charlie Chaplin",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "imdb": "https://www.imdb.com/name/nm0000122/"
+    }, {
+      "name": "Paulette Goddard",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNiMjE5MjUtMWUwMi00YTZhLTk4OWItNTk4MzIwMzk0MWFjXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0002103/"
+    }, {
+      "name": "Henry Bergman",
+      "image": "https://media.baselineresearch.com/images/134924/134924_full.jpg",
+      "imdb": "https://www.imdb.com/name/nm0009201/"
+    }, {
+      "name": "Tiny Sandford",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmFhZDY1ZTUtMjY2NC00MmJmLWExYWUtNmVhNDA2YWM2YzAzXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0762292/"
+    }],
+    "link": "https://tubitv.com/movies/100015649/modern-times",
+    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/84786ed8-0ce4-44e9-abd8-73a5140326c7/3f345d9170baa87ba45ada0131815db0e0ae6681.jpg?submitted=1684663748564&host=wbd-images.prod-vod.h264.io&partner=beamcom"
+  }
+  ,
+
+
   {
     "item": "1986",
     "title": "Blue Velvet",
