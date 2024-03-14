@@ -117,6 +117,35 @@
 }
 ,
 
+{    
+  "item": "2356",
+  "title": "The Gold Rush",
+  "runtime": 95,
+  "mpaa": "G",
+  "description": "In this classic silent comedy, Charlie Chaplin's iconic tramp character braves the harsh conditions of the Klondike Gold Rush, encountering humor, romance, and adventure amidst the snow-covered landscapes.",
+  "genre": ["comedy", "drama", "classic", "silent-film"],
+  "director": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }],
+  "actors": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }, {
+    "name": "Mack Swain",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGM1ZjBhY2YtZjllNS00ZjBiLWJjMzMtYmQ5NzU3MDYzMGQ2XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0841501/"
+  }, {
+    "name": "Georgia Hale",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjJiYmE3ZmQtZTg3MS00ODVlLWEyYzAtM2JiNzQ0OGNkOWJiXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0354913/"
+  }],
+  "link": "https://play.max.com/video/watch/8964fa5c-a2f5-43f7-974c-0079ff2395cf/e3839e8e-e915-4504-8c16-f51843565970",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/621f3ed1-837e-4bed-9b5c-16de0f0b457d/d322ea12563142b9b0e5e70da8e68cf5ee478202.jpg?submitted=1684660276303&host=wbd-images.prod-vod.h264.io&partner=beamcom"
+},
+
     {
       "item": 5678,
       "title": "A Brief History of Time",

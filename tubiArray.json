@@ -58,6 +58,35 @@
   }
   ,
 
+  {    
+  "item": "2356",
+  "title": "The Gold Rush",
+  "runtime": 95,
+  "mpaa": "G",
+  "description": "In this classic silent comedy, Charlie Chaplin's iconic tramp character braves the harsh conditions of the Klondike Gold Rush, encountering humor, romance, and adventure amidst the snow-covered landscapes.",
+  "genre": ["comedy", "drama", "classic", "silent-film"],
+  "director": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }],
+  "actors": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }, {
+    "name": "Mack Swain",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGM1ZjBhY2YtZjllNS00ZjBiLWJjMzMtYmQ5NzU3MDYzMGQ2XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0841501/"
+  }, {
+    "name": "Georgia Hale",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjJiYmE3ZmQtZTg3MS00ODVlLWEyYzAtM2JiNzQ0OGNkOWJiXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0354913/"
+  }],
+  "link": "https://tubitv.com/movies/701193/the-gold-rush",
+  "poster": "https://canvas-bridge02.tubitv.com/53W-Gef8ZMrefdnoeb-UXCiP1uE=/448x252/smart/img.adrise.tv/e65b74c5-19bf-4be8-9482-f1f4ea3c6890.jpg"
+},
+
 
   {
     "item": "1986",

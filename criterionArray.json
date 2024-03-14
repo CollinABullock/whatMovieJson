@@ -113,6 +113,35 @@
 }
 ,
 
+{    
+  "item": "2356",
+  "title": "The Gold Rush",
+  "runtime": 95,
+  "mpaa": "G",
+  "description": "In this classic silent comedy, Charlie Chaplin's iconic tramp character braves the harsh conditions of the Klondike Gold Rush, encountering humor, romance, and adventure amidst the snow-covered landscapes.",
+  "genre": ["comedy", "drama", "classic", "silent-film"],
+  "director": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }],
+  "actors": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }, {
+    "name": "Mack Swain",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGM1ZjBhY2YtZjllNS00ZjBiLWJjMzMtYmQ5NzU3MDYzMGQ2XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0841501/"
+  }, {
+    "name": "Georgia Hale",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjJiYmE3ZmQtZTg3MS00ODVlLWEyYzAtM2JiNzQ0OGNkOWJiXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0354913/"
+  }],
+  "link": "https://www.criterionchannel.com/videos/the-gold-rush-1925",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/a1aa419d-0fe0-496a-a15a-b3e6eb34dd05-d09fed5f.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+},
+
   {
     "item": "7832",
     "title": "Sophie's Choice",
