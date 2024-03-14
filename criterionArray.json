@@ -91,7 +91,7 @@
   },
 
   {
-    "item": "5289",
+    "item": 5289,
     "title": "Basquiat",
     "runtime": 107,
     "mpaa": "R",
@@ -158,7 +158,7 @@
 ,  
 
 {
-  "item": "3872",
+  "item": 3872,
   "title": "The Unknown",
   "runtime": 63,
   "mpaa": "Not Rated",
@@ -184,7 +184,7 @@
 
 
   {
-    "item": "2001",
+    "item": 2001,
     "title": "Mulholland Drive",
     "runtime": 147,
     "mpaa": "R",
@@ -527,7 +527,7 @@
   "runtime": 102,
   "mpaa": "R",
   "description": "In 'Cruising,' Al Pacino stars as Steve Burns, a young police officer who goes undercover to investigate a series of brutal murders targeting the gay community in New York City's underground leather bars. As Steve immerses himself in the city's subculture, he grapples with his own identity and desires while trying to catch the elusive killer. Tensions rise as Steve becomes increasingly entangled in the dangerous world of sex, violence, and deception, where the line between hunter and prey blurs.",
-  "genre": ["crime", "drama", "mystery", "LGBTQ"],
+  "genre": ["crime", "drama", "mystery", "lgbtq"],
   "director": [{
     "name": "William Friedkin",
     "imdb": "https://www.imdb.com/name/nm0001243/",

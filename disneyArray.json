@@ -586,7 +586,44 @@
 }
 ,
 
-
+{
+  "item": "6789",
+  "title": "The Incredible Hulk",
+  "runtime": 112,
+  "mpaa": "PG-13",
+  "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
+  "genre": ["action", "adventure", "sci-fi"],
+  "director": [{
+    "name": "Louis Leterrier",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCldxaizuyUcRHUTTwM8IzKx8autPInPHSlIItV3-hUVRvonkt",
+    "imdb": "https://www.imdb.com/name/nm0504642/"
+  }],
+  "actors": [
+    {
+      "name": "Edward Norton",
+      "image": "https://cdn.kayiprihtim.com/wp-content/uploads/2019/10/edward-norton-netflix-aciklamasi.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001570/"
+    },
+    {
+      "name": "Liv Tyler",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcScPx0rg0U49H55GxwJ9CAnpdd1JJzXXbPLu5fFKUMO1BSu4bZZm957l2pAaOSiG3cLOCkO1mkihgwUO1U",
+      "imdb": "https://www.imdb.com/name/nm0000239/"
+    },
+    {
+      "name": "Tim Roth",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcR5vbhuHG33xP9-K6VYM0tByWcBZzWou3bQQaCnBCTgzR7UAsvlEe1DNJhLsxWpW4nF5-BoGb7-Mgw0u0o",
+      "imdb": "https://www.imdb.com/name/nm0000619/"
+    },
+    {
+      "name": "William Hurt",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjg1ZGFlZjQtZTkwZC00YzRjLTliMTAtNTA3NzI5ZDBiZDc0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000458/"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/the-incredible-hulk/2quGBOrSvA2J",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7EA288FEA60B2461AF92FA4D9E8DB1952241C017931C94D4DF8E3E40BFC8BFCD/scale?width=400&aspectRatio=1.78&format=jpeg"
+}
+,
 
 
 
