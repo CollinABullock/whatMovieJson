@@ -625,9 +625,160 @@
 }
 ,
 
+{
+  "item": "2345",
+  "title": "Iron Man 2",
+  "runtime": 124,
+  "mpaa": "PG-13",
+  "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+  "genre": ["action", "adventure", "science-fiction", "comic-book", "sequel"],
+  "director": [{
+    "name": "Jon Favreau",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/jon-favreau-hollywood-walk-of-fame-feature_464fe901.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0269463/"
+  }],
+  "actors": [
+    {
+      "name": "Robert Downey Jr.",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/Robert-Downey-Jr.-Getty-H-2023.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1849056957-6578b389c5c4f.jpg?crop=1xw:0.3749658780709736xh;center,top",
+      "imdb": "https://www.imdb.com/name/nm0000569/"
+    },
+    {
+      "name": "Don Cheadle",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDwCeJ1bz8Lwk6Ctm19yRmRzYBjG3bVvqmlLgYDB_LmF9jw9IA",
+      "imdb": "https://www.imdb.com/name/nm0000332/"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UQ836S9qDWRgX1TYCkzykIuWIK8=/1660x1107/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/63MMCIXPOAOUKAMXJMW7HTAWCU.jpg",
+      "imdb": "https://www.imdb.com/name/nm0424060/"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/iron-man-2/lXjCr9QmGGQJ",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CD23BFF8AB733DC687DC58A26D99693E00FFF1D151BD13DAE97A9C528801E54F/scale?width=400&aspectRatio=1.78&format=jpeg"
+}
+,
 
+{
+  "item": "3456",
+  "title": "Thor",
+  "runtime": 115,
+  "mpaa": "PG-13",
+  "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+  "genre": ["action", "adventure", "fantasy", "comic-book"],
+  "director": [{
+    "name": "Kenneth Branagh",
+    "image": "https://variety.com/wp-content/uploads/2021/10/Kenneth_Branagh-Variety-Cover-Story-16x9-2.jpg?w=1920&h=1080&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0000110/"
+  }],
+  "actors": [
+    {
+      "name": "Chris Hemsworth",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3oczN4WLfz3743hic3BRbmVFwHmCfD5rXjUKjpHBJaaplPpmu",
+      "imdb": "https://www.imdb.com/name/nm1165110/"
+    },
+    {
+      "name": "Natalie Portman",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT8e-jdFFzJbIQIY6yiFQarC2Zx2JE8HeAdMrX5wpKDcDaF-jYixu18_PqOeh_SiiUVrlKFYAfm6wFyZyw",
+      "imdb": "https://www.imdb.com/name/nm0000204/"
+    },
+    {
+      "name": "Tom Hiddleston",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE8UjwX84TYF8Njez8c8i9GlNP4S5qkcajNCzXdiVCQ3NKGeif",
+      "imdb": "https://www.imdb.com/name/nm1089991/"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQQCTJDaBY11bzfCkUF1oQvfBwuBBGt7-Zo4ghhKT96DRoqjqKC8Prb_ZI3okkKXiBJGH86ueS36I7NbVU",
+      "imdb": "https://www.imdb.com/name/nm0000164/"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/thor/1p4vdKzTuhzr",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/800B9617037560508DDF60257EBCB835A802CABCDA969EF808F41C4C83F8698E/scale?width=400&aspectRatio=1.78&format=jpeg"
+},
 
+{
+  "item": "5678",
+  "title": "Captain America: The First Avenger",
+  "runtime": 124,
+  "mpaa": "PG-13",
+  "description": "After being deemed unfit for military service, Steve Rogers volunteers for a top-secret research project that turns him into Captain America, a superhero dedicated to defending America's ideals.",
+  "genre": ["action", "adventure", "sci-fi", "comic-book"],
+  "director": [{
+    "name": "Joe Johnston",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS28zPajnzcQ_Sl52JGOpnpT9Cs5FSgd6dsZJeXITG8p1HNJH2P",
+    "imdb": "https://www.imdb.com/name/nm0002650/"
+  }],
+  "actors": [
+    {
+      "name": "Chris Evans",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdnkLrjpVJDcNcR5qmQHCgdsgOEpFmnYAqO0hApkmiQGLkaT9ZINqLLXgHPoJV3rlr30&usqp=CAU",
+      "imdb": "https://www.imdb.com/name/nm0262635/"
+    },
+    {
+      "name": "Hayley Atwell",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQBVYc5YxdUzmaOe5DDceNWuLq4ULOZ795WJIc1fSJT2Syt3wdpv4HcNZTiSPojVAIdogXygrpfAGhlJxg",
+      "imdb": "https://www.imdb.com/name/nm2016940/"
+    },
+    {
+      "name": "Sebastian Stan",
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTdPLJsjtO9Q0ZFpu_0vZjpbFiQlpm3AIEaMVhowdpcRykOzBTceZL4qosr8A53zWUJBH9Yq-UUWl56uIM",
+      "imdb": "https://www.imdb.com/name/nm1659221/"
+    },
+    {
+      "name": "Hugo Weaving",
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQrpC-W_CH-vvlzY0D32vTS_OashEbTszFZhrHmJFE8iOk29LhZLA2RPo1a3xiOwx4HJaQsT2dvDQnU-Ks",
+      "imdb": "https://www.imdb.com/name/nm0915989/"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/captain-america-the-first-avenger/6xvB6xZ4r95O",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/48A5318F985B17F3840FD824F28ACE4C5FF99B4A5C938577D9159EF4BD076EBC/scale?width=400&aspectRatio=1.78&format=jpeg"
+}
+,
 
+{
+  "item": "9876",
+  "title": "The Avengers",
+  "runtime": 143,
+  "mpaa": "PG-13",
+  "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+  "genre": ["action", "adventure", "sci-fi", "comic-book"],
+  "director": [{
+    "name": "Joss Whedon",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTNTsq7Hexx2Vgre5_gDXs7lZv6NFXv38nbr3wcOHjGcuQUVijMKJEZpQ5rKbbdrO5jVQDVnNuh5jHUBNM",
+    "imdb": "https://www.imdb.com/name/nm0923736/"
+  }],
+  "actors": [
+    {
+      "name": "Robert Downey Jr.",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/Robert-Downey-Jr.-Getty-H-2023.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Chris Evans",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdnkLrjpVJDcNcR5qmQHCgdsgOEpFmnYAqO0hApkmiQGLkaT9ZINqLLXgHPoJV3rlr30&usqp=CAU",
+      "imdb": "https://www.imdb.com/name/nm0262635/"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "image": "https://d.newsweek.com/en/full/2298700/mark-ruffalo-june-2023.png?w=1200&f=7082c879b50355fdc025b4e12f2a43d5",
+      "imdb": "https://www.imdb.com/name/nm0749263/?ref_=tt_ov_st"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3oczN4WLfz3743hic3BRbmVFwHmCfD5rXjUKjpHBJaaplPpmu",
+      "imdb": "https://www.imdb.com/name/nm1165110/"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/marvel-studios-the-avengers/2h6PcHFDbsPy",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B6981BDF339764E6C56626C9DE0820CEF297EAF069F62F244E0F50061219F069/scale?width=400&aspectRatio=1.78&format=jpeg"
+}
+,
 
   {
     "item": 1234,
