@@ -348,6 +348,83 @@
   "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D9D95729F40A8F7665E76DAADE354083D05CD8621BAF9FD3DB290E1970320B7C/scale?width=400&aspectRatio=1.78&format=jpeg"
 },
 
+{
+  "item": "",
+  "title": "X2",
+  "runtime": 134,
+  "mpaa": "PG-13",
+  "description": "The X-Men band together to find a mutant assassin who has made an attempt on the President's life, while the Mutant Academy is attacked by military forces.",
+  "genre": ["action", "adventure", "science-fiction", "comic-book", "sequel"],
+  "director": [{
+    "name": "Bryan Singer",
+    "image": "https://media.vanityfair.com/photos/5ba0182f7e7a362d91e7b6b9/master/w_2560%2Cc_limit/GettyImages-529738076.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001741/"
+  }],
+  "actors": [
+    {
+      "name": "Hugh Jackman",
+      "image": "https://media.gq.com/photos/58b9fda8803bdb766dd69ef7/16:9/w_1280,c_limit/wolverine.jpg",
+      "imdb": "https://www.imdb.com/name/nm0413168/"
+    },
+    {
+      "name": "Patrick Stewart",
+      "image": "https://www.emmys.com/sites/default/files/styles/slider_images/public/photos-article/star-trek-picard6-1170x780.jpg?itok=blA-hse_",
+      "imdb": "https://www.imdb.com/name/nm0001772/"
+    },
+    {
+      "name": "Ian McKellen",
+      "image": "https://static.independent.co.uk/2023/04/12/02/7feb08ec5a92abaf1017ffe6daa8f305Y29udGVudHNlYXJjaGFwaSwxNjgxMzQ1ODM1-2.69114471.jpg?width=1200",
+      "imdb": "https://www.imdb.com/name/nm0005212/"
+    },
+    {
+      "name": "Halle Berry",
+      "image": "https://media.self.com/photos/65bd08bae2c43eeab7ccf6ac/4:3/w_2560%2Cc_limit/GettyImages-1659524601.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000552/"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/x2/5VwEJ3Asxv5a",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/114C0DCAC4739C5998EE776167631ECE702DFB8F7830A8BFCC75D6650D75D49D/scale?width=400&aspectRatio=1.78&format=jpeg"
+},
+
+{
+  "item": "8932",
+  "title": "Captain America: Civil War",
+  "runtime": 147,
+  "mpaa": "PG-13",
+  "description": "Political interference in the Avengers' activities causes a rift between former allies Captain America and Iron Man.",
+  "genre": ["action", "adventure", "science-fiction", "comic-book", "sequel"],
+  "director": [{
+    "name": "Anthony Russo",
+    "image": "https://lh3.googleusercontent.com/proxy/OxMu9ontS9QXj_hDNFGuXzVewPFDohMiNLZOfymU4LQ3RXS8BKrH1r7DRm-gnbJsqg5n-51xlARX8-KO0oxiru709Puv3L1G3XT-9rS72uhXrKSjLX4JtSElCC2PJgkjxIDN-k0QJi6QRwSRBDJFWn25G5H4R8ArYHgBA_UtwOGZyw",
+    "imdb": "https://www.imdb.com/name/nm0751577/"
+  }, {
+    "name": "Joe Russo",
+    "image": "https://deadline.com/wp-content/uploads/2022/11/Joe-Russo-e1667576427135.jpg",
+    "imdb": "https://www.imdb.com/name/nm0751648/"
+  }],
+  "actors": [
+    {
+      "name": "Chris Evans",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdnkLrjpVJDcNcR5qmQHCgdsgOEpFmnYAqO0hApkmiQGLkaT9ZINqLLXgHPoJV3rlr30&usqp=CAU",
+      "imdb": "https://www.imdb.com/name/nm0262635/"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/Robert-Downey-Jr.-Getty-H-2023.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UQ836S9qDWRgX1TYCkzykIuWIK8=/1660x1107/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/63MMCIXPOAOUKAMXJMW7HTAWCU.jpg",
+      "imdb": "https://www.imdb.com/name/nm0424060/"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/captain-america-civil-war/4ovfyKnnIBCg",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DBE4C13505BC8C2B8C53B1F52C3D15B0E929172D54FAF97F70F4C4C0815AD83E/scale?width=400&aspectRatio=1.78&format=jpeg"
+}
+,
+
+
 
 
 
