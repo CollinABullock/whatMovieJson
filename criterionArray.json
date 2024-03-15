@@ -142,6 +142,66 @@
   "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/a1aa419d-0fe0-496a-a15a-b3e6eb34dd05-d09fed5f.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
 },
 
+{    
+  "item": "8912",
+  "title": "Limelight",
+  "runtime": 137,
+  "mpaa": "PG",
+  "description": "In 'Limelight,' Charlie Chaplin portrays a faded comedian who befriends a young ballerina, offering her hope and support amidst their personal struggles, while reflecting on the fleeting nature of fame and the pursuit of happiness.",
+  "genre": ["drama", "romance", "classic"],
+  "director": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }],
+  "actors": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }, {
+    "name": "Claire Bloom",
+    "image": "https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1500x1500/products/48204/48070/ss2228369_-_photograph_of_claire_bloom_available_in_4_sizes_framed_or_unframed_buy_now_at_starstills__43876__60950.1394485814.jpg?c=2",
+    "imdb": "https://www.imdb.com/name/nm0001954/"
+  }, {
+    "name": "Buster Keaton",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3PAEbcYNfFlsh1mnHG6h8j7Xc3v5EkqpFlo4mHZMj4S7QJ_0F",
+    "imdb": "https://www.imdb.com/name/nm0000036/"
+  }],
+  "link": "https://www.criterionchannel.com/limelight",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/09e35e4c-d9ed-45f0-b606-0b918385a18c-cef78e83.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+}
+,
+
+{    
+  "item": "3478",
+  "title": "The Circus",
+  "runtime": 71,
+  "mpaa": "G",
+  "description": "In 'The Circus,' Charlie Chaplin's tramp character inadvertently becomes the star attraction of a circus, bringing laughter and chaos wherever he goes, while also navigating the complexities of love and friendship.",
+  "genre": ["comedy", "drama", "romance", "silent-film", "classic"],
+  "director": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }],
+  "actors": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }, {
+    "name": "Merna Kennedy",
+    "image": "https://immortalephemera.com/wp-content/uploads/2016/03/the-circus-2-merna-kennedy.jpg",
+    "imdb": "https://www.imdb.com/name/nm0448224/"
+  }, {
+    "name": "Al Ernest Garcia",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYX4H3YOwhixYiURwZZ_fQ2R0FK07OskNhw&usqp=CAU",
+    "imdb": "https://www.imdb.com/name/nm0305087/"
+  }],
+  "link": "https://www.criterionchannel.com/the-circus",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/8c690fb9-a937-4a5c-8711-ced636cafdd6-07180d9b.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+}
+,
+
   {
     "item": "7832",
     "title": "Sophie's Choice",

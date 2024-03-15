@@ -146,6 +146,65 @@
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/621f3ed1-837e-4bed-9b5c-16de0f0b457d/d322ea12563142b9b0e5e70da8e68cf5ee478202.jpg?submitted=1684660276303&host=wbd-images.prod-vod.h264.io&partner=beamcom"
 },
 
+{    
+  "item": "8912",
+  "title": "Limelight",
+  "runtime": 137,
+  "mpaa": "PG",
+  "description": "In 'Limelight,' Charlie Chaplin portrays a faded comedian who befriends a young ballerina, offering her hope and support amidst their personal struggles, while reflecting on the fleeting nature of fame and the pursuit of happiness.",
+  "genre": ["drama", "romance", "classic"],
+  "director": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }],
+  "actors": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }, {
+    "name": "Claire Bloom",
+    "image": "https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1500x1500/products/48204/48070/ss2228369_-_photograph_of_claire_bloom_available_in_4_sizes_framed_or_unframed_buy_now_at_starstills__43876__60950.1394485814.jpg?c=2",
+    "imdb": "https://www.imdb.com/name/nm0001954/"
+  }, {
+    "name": "Buster Keaton",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3PAEbcYNfFlsh1mnHG6h8j7Xc3v5EkqpFlo4mHZMj4S7QJ_0F",
+    "imdb": "https://www.imdb.com/name/nm0000036/"
+  }],
+  "link": "https://play.max.com/movie/bcca1fd3-178b-49b0-96f0-3acd9e102aec?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1011lyodeCop",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/bcca1fd3-178b-49b0-96f0-3acd9e102aec/7c8fc82df942bba6ed1add0ac4feb88d8b9df8d3.jpg?submitted=1684669745617&host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+
+{    
+  "item": "3478",
+  "title": "The Circus",
+  "runtime": 71,
+  "mpaa": "G",
+  "description": "In 'The Circus,' Charlie Chaplin's tramp character inadvertently becomes the star attraction of a circus, bringing laughter and chaos wherever he goes, while also navigating the complexities of love and friendship.",
+  "genre": ["comedy", "drama", "romance", "silent-film", "classic"],
+  "director": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }],
+  "actors": [{
+    "name": "Charlie Chaplin",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000122/"
+  }, {
+    "name": "Merna Kennedy",
+    "image": "https://immortalephemera.com/wp-content/uploads/2016/03/the-circus-2-merna-kennedy.jpg",
+    "imdb": "https://www.imdb.com/name/nm0448224/"
+  }, {
+    "name": "Al Ernest Garcia",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYX4H3YOwhixYiURwZZ_fQ2R0FK07OskNhw&usqp=CAU",
+    "imdb": "https://www.imdb.com/name/nm0305087/"
+  }],
+  "link": "https://play.max.com/video/watch/8ca9a38e-b975-4243-a45c-c8a407315107/791533f0-41bc-4f50-b063-7cec60c2b5f1",
+  "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6536_v_h10_ai.jpg"
+}
+,
     {
       "item": 5678,
       "title": "A Brief History of Time",
