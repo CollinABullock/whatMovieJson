@@ -208,7 +208,38 @@
 }
 ,
 
-
+{    
+  "item": "1357",
+  "title": "Valkyrie",
+  "runtime": 121,
+  "mpaa": "PG-13",
+  "description": "In 'Valkyrie,' Colonel Claus von Stauffenberg, played by Tom Cruise, leads a daring plot to assassinate Adolf Hitler and overthrow the Nazi regime during World War II. With a team of fellow German officers, Stauffenberg hatches a plan known as Operation Valkyrie, aiming to bring an end to tyranny and restore honor to their country.",
+  "genre": ["drama", "history", "thriller"],
+  "director": [{
+    "name": "Bryan Singer",
+    "image": "https://media.vanityfair.com/photos/5ba0182f7e7a362d91e7b6b9/master/w_2560%2Cc_limit/GettyImages-529738076.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001741/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+    "image": "https://variety.com/wp-content/uploads/2023/07/GettyImages-1511418315.jpg?w=1024",
+    "imdb": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Kenneth Branagh",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/04/GettyImages-1239553051.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0000110/"
+    },
+    {
+      "name": "Bill Nighy",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/1c7b23d/2147483647/strip/true/crop/7384x4923+0+0/resize/2400x1600!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8b%2F7a%2F7f758574486484458eef7d938364%2F1230224-et-bill-nighy-living-8.jpg",
+      "imdb": "https://www.imdb.com/name/nm0631490/"
+    }
+  ],
+  "link": "https://tubitv.com/movies/300466/valkyrie",
+  "poster": "https://canvas-bridge.tubitv.com/jeQDo9DCUP_99oTRnrw8vU7I0l0=/448x252/smart/img.adrise.tv/b7f9676a-1568-425e-b546-2099725f22cb.jpg"
+}
+,
 
   {
     "item": "1986",

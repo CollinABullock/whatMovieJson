@@ -344,6 +344,74 @@
   "poster": "https://m.media-amazon.com/images/S/pv-target-images/a43f120a9a36fc37cb986a9a2df1212f921fb2d29c8aef5c2c808f1ae05ac10e.jpg"
 }
 ,
+
+{    
+  "item": "1234",
+  "title": "Days of Thunder",
+  "runtime": 107,
+  "mpaa": "PG-13",
+  "description": "In 'Days of Thunder,' Cole Trickle, a young and talented race car driver, enters the high-stakes world of NASCAR racing. With the help of his mentor, Harry Hogge, Cole navigates the challenges of the racing circuit while facing personal and professional rivalries.",
+  "genre": ["action", "drama", "sport"],
+  "director": [{
+    "name": "Tony Scott",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/8/20/1345452962163/Tony-Scott-011.jpg?width=465&dpr=1&s=none",
+    "imdb": "https://www.imdb.com/name/nm0001716/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230710085438-tom-cruise-0703-restricted.jpg?c=16x9&q=h_833,w_1480,c_fill",
+    "imdb": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Nicole Kidman",
+      "image": "https://media.vanityfair.com/photos/5cbdfb2a80902d6636dc52c1/master/pass/nicole-kidman-may-2019-lede.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000173/"
+    },
+    {
+      "name": "Robert Duvall",
+      "image": "https://www.cnet.com/a/img/resize/c7ce1810ec3b0acbc9c8666fc34c863aa5848ad2/hub/2022/03/22/06804861-8207-4d07-9b0c-78bf678dbea4/gettyimages-52255606.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "imdb": "https://www.imdb.com/name/nm0000380/"
+    }
+  ],
+  "link": "https://www.paramountplus.com/movies/video/hkAoEGr3XCWI8LjwLyaCwe_k2yO1RG2N/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHyOtwp2RTDSU0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CPi53Pr39oQDFTjbGAId09YOYw",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/07/16/1922595395696/DOT_SAlone_16_9_1920x1080_NB_2247553_1920x1080.jpg"
+},
+
+{    
+  "item": "5678",
+  "title": "The Firm",
+  "runtime": 154,
+  "mpaa": "R",
+  "description": "In 'The Firm,' Mitch McDeere, a young and ambitious lawyer, is recruited by a prestigious law firm. Initially dazzled by the firm's wealth and success, Mitch soon discovers its dark secrets and becomes embroiled in a dangerous conspiracy that threatens his life and career.",
+  "genre": ["crime", "drama", "mystery", "court-room"],
+  "director": [{
+    "name": "Sydney Pollack",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjj6h-bQXuuA4cwFtxBWIpbvYQM2mJljwhmACjeiu-QVILoJN1",
+    "imdb": "https://www.imdb.com/name/nm0001628/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Tom-Cruise-Top-Gun-.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Jeanne Tripplehorn",
+      "image": "https://celebwell.com/wp-content/uploads/sites/2/2023/11/shutterstock_2172227775.jpg?quality=82&strip=1&w=640&crop=0%2C0%2C640px%2C360px",
+      "imdb": "https://www.imdb.com/name/nm0000670/"
+    },
+    {
+      "name": "Gene Hackman",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzD0XuBuZbBhkB21vPJNHWYClit9Q3Z5lZD6YoxbksdwQDrFZ",
+      "imdb": "https://www.imdb.com/name/nm0000432/"
+    }
+  ],
+  "link": "https://www.paramountplus.com/movies/video/OoA3q_y82ktCQ2HQqqtkjxof1LuUVxtX/",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2020/07/02/1759439939993/TFRM_SAlone_16_9_1920x1080_2167476_1920x1080.jpg"
+}
+,
+
+
+
 {    
   "item": "24680",
   "title": "The Godfather Part II",

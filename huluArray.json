@@ -754,7 +754,7 @@
   "description": "Raised by his overprotective mother, Helen (Kathy Bates), Bobby Boucher Jr. (Adam Sandler) is the water boy for a successful college football team coached by Red Beaulieu (Jerry Reed). When Beaulieu fires Bobby, he takes up the same position for a losing rival team, led by despairing Coach Klein (Henry Winkler). After witnessing Bobby beat up a player who teased him too much, Klein adds him to the roster as a linebacker. Soon, Klein's players are championship contenders.",
   "runtime": 90,
   "mpaa": "PG-13",
-  "genre": ["comedy", "sport"],
+  "genre": ["comedy", "sports"],
   "director": [
     {
       "name": "Frank Coraci",
@@ -3235,6 +3235,42 @@
   "imdb": "https://www.imdb.com/name/nm1102577/"
 }]
 },
+
+{    
+  "item": "9876",
+  "title": "Knight and Day",
+  "runtime": 109,
+  "mpaa": "PG-13",
+  "description": "In 'Knight and Day,' a chance encounter thrusts a woman named June Havens into the world of international espionage. Paired with a mysterious and charming secret agent named Roy Miller, June finds herself on a whirlwind adventure across the globe, dodging danger at every turn.",
+  "genre": ["action", "comedy", "romance", "spy"],
+  "director": [{
+    "name": "James Mangold",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-1259093125-copy.jpg?w=1296",
+    "imdb": "https://www.imdb.com/name/nm0003506/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230710085438-tom-cruise-0703-restricted.jpg?c=16x9&q=h_833,w_1480,c_fill",
+    "imdb": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Cameron Diaz",
+      "image": "https://assets.bonappetit.com/photos/57bf27a24395c0582bb62f35/master/pass/cameron-diaz-Stuart-C.-Wilson-Stringer.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000139/"
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "image": "https://media.baselineresearch.com/images/226267/226267_full.jpg",
+      "imdb": "https://www.imdb.com/name/nm0765597/"
+    }
+  ],
+  "link": "https://www.hulu.com/movie/b14f5c42-93e8-47a6-83bf-8754abef4c31",
+  "poster": "https://img3.hulu.com/user/v3/artwork/b14f5c42-93e8-47a6-83bf-8754abef4c31?base_image_bucket_name=image_manager&base_image=530e078a-b601-42af-a042-62a5c3be1b76&size=1200x630&format=jpeg"
+}
+,
+
+
+
 {
 "item": 400,
 "title": "Eight Crazy Nights",
