@@ -241,6 +241,36 @@
 }
 ,
 
+{    
+  "item": "1234",
+  "title": "Lions for Lambs",
+  "runtime": 92,
+  "mpaa": "R",
+  "description": "Lions for Lambs interweaves several storylines, including a senator's bold new political move, a journalist chasing a breaking story, and two soldiers trapped behind enemy lines. As the characters' lives intersect, they must confront difficult ethical questions amidst the backdrop of the Afghanistan war.",
+  "genre": ["drama", "war", "court-room"],
+  "director": [{
+    "name": "Robert Redford",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/3/20/1395336463650/5a391d48-6012-40f3-bbc6-058f90091fe0-2060x1236.jpeg?width=465&dpr=1&s=none",
+    "imdb": "https://www.imdb.com/name/nm0000602/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230710085438-tom-cruise-0703-restricted.jpg?c=16x9&q=h_833,w_1480,c_fill",
+      "imdb": "https://www.imdb.com/name/nm0000129/"
+  }, {
+    "name": "Meryl Streep",
+    "image": "https://pyxis.nymag.com/v1/imgs/7f6/16e/4dc48821ff853d3019c835397cfa9c293a-25-meryl-streep.2x.rhorizontal.w710.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000658/"
+  }, {
+    "name": "Robert Redford",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/3/20/1395336463650/5a391d48-6012-40f3-bbc6-058f90091fe0-2060x1236.jpeg?width=465&dpr=1&s=none",
+    "imdb": "https://www.imdb.com/name/nm0000602/"
+  }],
+  "link": "https://tubitv.com/movies/305825/lions-for-lambs",
+  "poster": "https://canvas-bridge02.tubitv.com/9us8LPi15Ze3DwlUlROmmCzzhDc=/0x317:800x761/448x252/smart/img.adrise.tv/1a6cf088-7889-43a3-ac83-ace29b71ad2c.png"
+}
+,  
+
   {
     "item": "1986",
     "title": "Blue Velvet",
