@@ -1004,6 +1004,25 @@
         "imdb": "https://www.imdb.com/name/nm1411125/"
       }]
   },
+
+  {    
+    "item": "7369",
+    "title": "The Act of Killing",
+    "runtime": 159,
+    "mpaa": "Not Rated",
+    "description": "In 'The Act of Killing,' director Joshua Oppenheimer challenges former Indonesian death squad leaders to reenact their crimes in the style of Hollywood films, offering a chilling exploration of memory, impunity, and the nature of evil.",
+    "genre": ["documentary", "crime", "history"],
+    "director": [{
+      "name": "Joshua Oppenheimer",
+      "image": "https://variety.com/wp-content/uploads/2017/06/joshua-oppenheimer.png?w=1000",
+      "imdb": "https://www.imdb.com/name/nm1384322/"
+    }],
+    "actors": [],
+    "link": "https://www.peacocktv.com/watch-online/movies/the-act-of-killing/8b08e515-35d0-3a72-b886-28a001c7886d",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/3df62f3d-4800-362d-9665-90dc01ef86ac/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=b02713d5-436d-3044-a98f-7d4d58fca974"
+  },
+  
+
   {
     "item": "9275",
     "title": "Addicted to Fresno",

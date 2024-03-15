@@ -177,6 +177,25 @@
 ,
 
 {    
+  "item": "9876",
+  "title": "The Inventor: Out for Blood in Silicon Valley",
+  "runtime": 119,
+  "mpaa": "Not Rated",
+  "description": "In 'The Inventor: Out for Blood in Silicon Valley,' director Alex Gibney examines the rise and fall of Elizabeth Holmes and Theranos, a Silicon Valley startup once heralded as revolutionary but later embroiled in scandal and fraud.",
+  "genre": ["documentary", "crime"],
+  "director": [{
+    "name": "Alex Gibney",
+    "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2770,w_4926,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1507614885/GettyImages-462307014_uo1hek",
+    "imdb": "https://www.imdb.com/name/nm0316795/"
+  }],
+  "actors": [],
+  "link": "https://play.max.com/video/watch/60158ef5-c8c8-4d15-8d61-211d6e97e42c/258d7286-7a6e-4464-a38e-f670db7715f4",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1d7c48f8-8064-46d7-a3b8-bb7b91fc2056/35bc72b63e3c6e32467ac8742d1f18f3c816a4b5.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+
+
+{    
   "item": "3478",
   "title": "The Circus",
   "runtime": 71,

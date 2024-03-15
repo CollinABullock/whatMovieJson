@@ -45,6 +45,26 @@
   "poster": "https://canvas-bridge02.tubitv.com/53W-Gef8ZMrefdnoeb-UXCiP1uE=/448x252/smart/img.adrise.tv/e65b74c5-19bf-4be8-9482-f1f4ea3c6890.jpg"
 },
 
+{    
+  "item": "5432",
+  "title": "Life Itself",
+  "runtime": 120,
+  "mpaa": "R",
+  "description": "'Life Itself' is a documentary film directed by Steve James, chronicling the life and career of film critic Roger Ebert. Through interviews, archival footage, and Ebert's own writings, the film explores his impact on film criticism and his personal journey, including his battle with cancer.",
+  "genre": ["documentary", "biopic"],
+  "director": [{
+    "name": "Steve James",
+    "image": "https://www.dga.org/-/media/Images/Landscape-Images/Visual-History/VH176-Steve-James/Steve-James-Main.ashx?as=1&h=630&mh=630&mw=1200&w=630&hash=5913C92C9CB2C992A3E7E76D626C76BF93AA3478?t=8",
+    "imdb": "https://www.imdb.com/name/nm0417024/"
+  }],
+  "actors": [],
+  "link": "https://www.amazon.com/gp/video/detail/0JKQMR509KBC1XNDGN9H1HY4QQ/ref=atv_dl_rdr?tag=justus1ktp-20",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/3833943d040cde7308824102ac31d216acbf49ec82cc010ae4e14b2265882247.jpg"
+}
+,
+
+
+
   {
     "item": 409,
     "title": "Scandalous: The Untold Story of the National Enquirer",

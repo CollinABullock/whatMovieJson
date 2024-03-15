@@ -87,6 +87,95 @@
   "poster": "https://canvas-bridge02.tubitv.com/53W-Gef8ZMrefdnoeb-UXCiP1uE=/448x252/smart/img.adrise.tv/e65b74c5-19bf-4be8-9482-f1f4ea3c6890.jpg"
 },
 
+{    
+  "item": "5123",
+  "title": "The Thin Blue Line",
+  "runtime": 103,
+  "mpaa": "Not Rated",
+  "description": "In 'The Thin Blue Line,' filmmaker Errol Morris investigates the case of a man wrongfully convicted of murder, revealing the flaws in the justice system and the power of documentary filmmaking to challenge prevailing narratives.",
+  "genre": ["documentary", "crime", "classic"],
+  "director": [{
+    "name": "Errol Morris",
+    "image": "https://cdn.vox-cdn.com/thumbor/vUdKz2NQ_1n_eII_5zxNq7uZCrs=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8826533/179578289.jpg",
+    "imdb": "https://www.imdb.com/name/nm0601619/"
+  }],
+  "actors": [],
+  "link": "https://tubitv.com/movies/100000098/the-thin-blue-line",
+  "poster": "https://canvas-bridge.tubitv.com/yCHl4pZOTfTE4OHUMD6PtTf5lSA=/448x252/smart/img.adrise.tv/b82985ce-be38-4cd4-b23e-f1108ca52df1.jpg"
+},
+
+{    
+  "item": "5432",
+  "title": "Life Itself",
+  "runtime": 120,
+  "mpaa": "R",
+  "description": "'Life Itself' is a documentary film directed by Steve James, chronicling the life and career of film critic Roger Ebert. Through interviews, archival footage, and Ebert's own writings, the film explores his impact on film criticism and his personal journey, including his battle with cancer.",
+  "genre": ["documentary", "biopic"],
+  "director": [{
+    "name": "Steve James",
+    "image": "https://www.dga.org/-/media/Images/Landscape-Images/Visual-History/VH176-Steve-James/Steve-James-Main.ashx?as=1&h=630&mh=630&mw=1200&w=630&hash=5913C92C9CB2C992A3E7E76D626C76BF93AA3478?t=8",
+    "imdb": "https://www.imdb.com/name/nm0417024/"
+  }],
+  "actors": [],
+  "link": "https://tubitv.com/movies/463016/life-itself",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/3833943d040cde7308824102ac31d216acbf49ec82cc010ae4e14b2265882247.jpg"
+}
+,
+
+{    
+  "item": "1123",
+  "title": "Gates of Heaven",
+  "runtime": 85,
+  "mpaa": "Not Rated",
+  "description": "'Gates of Heaven' is a documentary directed by Errol Morris. The film explores the pet cemetery business, focusing on two such cemeteries in California and the people who run them. Through interviews with the cemetery owners and pet owners, the film delves into themes of love, loss, and the human-animal bond.",
+  "genre": ["documentary"],
+  "director": [{
+    "name": "Errol Morris",
+    "image": "https://cdn.vox-cdn.com/thumbor/vUdKz2NQ_1n_eII_5zxNq7uZCrs=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8826533/179578289.jpg",
+    "imdb": "https://www.imdb.com/name/nm0601619/"
+  }],
+  "actors": [],
+  "link": "https://tubitv.com/movies/100000004/gates-of-heaven",
+  "poster": "https://canvas-bridge.tubitv.com/QTjTMVEGle-furab_-OeXmpRrog=/448x252/smart/img.adrise.tv/687c4f5c-7232-45a3-a75f-a7bc1fdcd9fd.jpg"
+},
+
+{    
+  "item": "2244",
+  "title": "The Look of Silence",
+  "runtime": 103,
+  "mpaa": "PG-13",
+  "description": "In 'The Look of Silence,' director Joshua Oppenheimer follows an optometrist named Adi as he confronts the individuals responsible for the Indonesian genocide of the 1960s, including those who murdered his own brother. Through Adi's journey, the film examines memory, trauma, and the legacy of violence.",
+  "genre": ["documentary", "biopic", "sequel"],
+  "director": [{
+    "name": "Joshua Oppenheimer",
+      "image": "https://variety.com/wp-content/uploads/2017/06/joshua-oppenheimer.png?w=1000",
+      "imdb": "https://www.imdb.com/name/nm1384322/"
+  }],
+  "actors": [],
+  "link": "https://tubitv.com/movies/704498/the-look-of-silence",
+  "poster": "https://canvas-bridge.tubitv.com/qsRgce8LQmmnSfUzhSNSnyM_Xbo=/448x252/smart/img.adrise.tv/fb04cfed-262b-4299-b2c3-b6177fbdd688.jpg"
+}
+,
+
+{    
+  "item": "5678",
+  "title": "Tabloid",
+  "runtime": 87,
+  "mpaa": "R",
+  "description": "'Tabloid' is a documentary directed by Errol Morris, focusing on the strange case of Joyce McKinney, a former beauty queen who was accused of kidnapping and raping a Mormon missionary in the 1970s. Through interviews with McKinney and others involved, the film explores themes of obsession, love, and the media.",
+  "genre": ["documentary", "crime"],
+  "director": [{
+    "name": "Errol Morris",
+    "image": "https://cdn.vox-cdn.com/thumbor/vUdKz2NQ_1n_eII_5zxNq7uZCrs=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8826533/179578289.jpg",
+    "imdb": "https://www.imdb.com/name/nm0601619/"
+  }],
+  "actors": [],
+  "link": "https://tubitv.com/movies/100000096/tabloid",
+  "poster": "https://canvas-bridge.tubitv.com/BYa2F_Z0nO2rdAoev0q-pk9YWKw=/448x252/smart/img.adrise.tv/1bc55f22-6ffc-4035-99ce-841f4d3e57c1.jpg"
+}
+,
+
+
 
   {
     "item": "1986",
