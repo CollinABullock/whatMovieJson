@@ -175,6 +175,39 @@
 }
 ,
 
+{    
+  "item": "1357",
+  "title": "Rain Man",
+  "runtime": 133,
+  "mpaa": "R",
+  "description": "In 'Rain Man,' Charlie Babbitt discovers that his estranged brother Raymond, an autistic savant, has inherited their deceased father's fortune. As Charlie attempts to gain custody of Raymond to access the money, the two embark on a journey that profoundly impacts both their lives.",
+  "genre": ["drama"],
+  "director": [{
+    "name": "Barry Levinson",
+    "image": "",
+    "imdb": "https://www.imdb.com/name/nm0001463/"
+  }],
+  "actors": [{
+      "name": "Dustin Hoffman",
+      "image": "https://i.guim.co.uk/img/media/20934318fced5bbe745128a64625d86bafaaa56f/0_893_2738_1642/master/2738.jpg?width=465&dpr=1&s=none",
+      "imdb": "https://www.imdb.com/name/nm0000163/"
+    },
+    {
+      "name": "Tom Cruise",
+      "image": "https://variety.com/wp-content/uploads/2023/07/GettyImages-1511418315.jpg?w=1024",
+      "imdb": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Valeria Golino",
+      "image": "https://images6.alphacoders.com/487/487931.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000421/"
+    }
+  ],
+  "link": "https://tubitv.com/movies/300462/rain-man",
+  "poster": "https://canvas-bridge.tubitv.com/ckKFAVJg64OFafVr3wYXZrZOi8Y=/0x90:600x423/448x252/smart/img.adrise.tv/ac189e43-3f65-4a94-aa3f-3224005d0030.jpg"
+}
+,
+
 
 
   {

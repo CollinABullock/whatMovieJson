@@ -310,7 +310,39 @@
   "link": "https://www.paramountplus.com/movies/video/OZkLn_xRuFBy_B3dQnzkewP0hw99lxaZ/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHyO1Rd2RTDSU0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CK6c_6rZ9oQDFQrz9QIdHaQFOg",
   "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2019/03/20/1461808707757/TGUN_SAlone_16_9_1920x1080_NB_1279197_1920x1080.jpg"
 }
+,
 
+{    
+  "item": "9876",
+  "title": "Vanilla Sky",
+  "runtime": 136,
+  "mpaa": "R",
+  "description": "In 'Vanilla Sky,' David Aames, a wealthy publisher, finds his life turned upside down after a disfiguring accident. As he struggles to distinguish between reality and dreams, David embarks on a journey of self-discovery that challenges his perceptions of love, identity, and existence.",
+  "genre": ["mystery", "romance", "science-fiction", "remake"],
+  "director": [{
+    "name": "Cameron Crowe",
+    "image": "https://variety.com/wp-content/uploads/2021/03/Cameron-Crowe-UTA.jpg?w=1000",
+    "imdb": "https://www.imdb.com/name/nm0001081/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230710085438-tom-cruise-0703-restricted.jpg?c=16x9&q=h_833,w_1480,c_fill",
+    "imdb": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Penélope Cruz",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/elm020124wlpenelope-003a-659edac86dd16.jpg",
+      "imdb": "https://www.imdb.com/name/nm0004851/"
+    },
+    {
+      "name": "Cameron Diaz",
+      "image": "https://assets.bonappetit.com/photos/57bf27a24395c0582bb62f35/master/pass/cameron-diaz-Stuart-C.-Wilson-Stringer.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000139/"
+    }
+  ],
+  "link": "https://www.paramountplus.com/movies/video/T3B4Y25uWM0c5ybT7cu_EcU2q3UKeIBp/",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/a43f120a9a36fc37cb986a9a2df1212f921fb2d29c8aef5c2c808f1ae05ac10e.jpg"
+}
 ,
 {    
   "item": "24680",
