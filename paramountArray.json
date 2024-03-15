@@ -180,6 +180,72 @@
   "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/03/28/2017199171638/GF1_StandAlone_16.9_1920x1080_R_1265516_1920x1080.jpg"
 },
 
+
+{    
+  "item": "9876",
+  "title": "Jack Reacher",
+  "runtime": 130,
+  "mpaa": "PG-13",
+  "description": "Jack Reacher, a former military police officer, is drawn into a case involving a sniper who has killed five seemingly random people. As he investigates, Reacher uncovers a dangerous conspiracy that puts him in the crosshairs of powerful enemies.",
+  "genre": ["action", "thriller"],
+  "director": [{
+    "name": "Christopher McQuarrie",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/Christopher-McQuarrie-Mission-Impossible-Premiere-GettyImages-1532380325-H-2024.jpg?w=1296",
+    "imdb": "https://www.imdb.com/name/nm0574625/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Tom-Cruise-Top-Gun-.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Rosamund Pike",
+      "image": "https://www.indiewire.com/wp-content/uploads/2018/04/shutterstock_9296923l.jpg",
+      "imdb": "https://www.imdb.com/name/nm0683253/"
+    },
+    {
+      "name": "Richard Jenkins",
+      "image": "https://facts.net/wp-content/uploads/2023/10/22-mind-blowing-facts-about-richard-jenkins-1697416725.jpg",
+      "imdb": "https://www.imdb.com/name/nm0420955/"
+    }
+  ],
+  "link": "https://www.paramountplus.com/movies/video/xzUce3_6ljEEGyIu9rCpndUPhDgfZF1X/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHyJ9R52RTDSU0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CNKb0drR9oQDFS2GpgQdRBYBEg",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/04/22/1888537155963/JKRR_US_2012_SA_16x9_1920x1080_NB_2361642_1920x1080.jpg"
+},
+
+{    
+  "item": "1234",
+  "title": "Jack Reacher: Never Go Back",
+  "runtime": 118,
+  "mpaa": "PG-13",
+  "description": "In 'Jack Reacher: Never Go Back,' Reacher returns to his old military unit to meet Major Susan Turner. But upon arrival, he finds out that Turner has been arrested for treason. Convinced of her innocence, Reacher sets out to clear her name and uncover a conspiracy.",
+  "genre": ["action", "thriller"],
+  "director": [{
+    "name": "Edward Zwick",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA0Njg4Mjk4OF5BMl5BanBnXkFtZTcwODY1ODgwMw@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0955543/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Tom-Cruise-Top-Gun-.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Cobie Smulders",
+      "image": "https://ew.com/thmb/T-zaxGv_w9Y0wLDiCkNt0I1crO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/How-I-Met-Your-Father-1-644f4df6ea9142938524d3c4e621e6e7.jpg",
+      "imdb": "https://www.imdb.com/name/nm1130627/"
+    },
+    {
+      "name": "Aldis Hodge",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5MjQ1MDk1NF5BMl5BanBnXkFtZTgwNzA3MTg1MTI@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0383533/"
+    }
+  ],
+  "link": "https://www.paramountplus.com/movies/video/uYo28wGSgm_mZ5zEuIql_LntxIm5HT1C/",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2023/02/25/2175960643678/JRNGB_2016_SAlone_16x9_1920x1080_NB_1976409_1920x1080.jpg"
+}
+,
+
 {    
   "item": "24680",
   "title": "The Godfather Part II",
