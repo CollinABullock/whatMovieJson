@@ -277,8 +277,41 @@
   "link": "https://www.paramountplus.com/movies/video/720w1lFvXGy5yiK9feLgm_dzJuZQjTE6/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHyO1xl2RTDSU0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CLrxlurY9oQDFUzt9QIdEWcLNg",
   "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2023/05/15/2206476867618/RISKY_US_1983_SA_16x9_1920x1080_2222112_1920x1080.jpg"
 }
+,
 
+{    
+  "item": "2468",
+  "title": "Top Gun",
+  "runtime": 110,
+  "mpaa": "PG",
+  "description": "In 'Top Gun,' Maverick, a young fighter pilot, joins an elite naval academy to train as a pilot. As he competes for the title of Top Gun, Maverick faces personal and professional challenges, including a dangerous rivalry with a fellow pilot.",
+  "genre": ["action", "drama"],
+  "director": [{
+    "name": "Tony Scott",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/8/20/1345452962163/Tony-Scott-011.jpg?width=465&dpr=1&s=none",
+    "imdb": "https://www.imdb.com/name/nm0001716/"
+  }],
+  "actors": [{
+    "name": "Tom Cruise",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Tom-Cruise-Top-Gun-.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Kelly McGillis",
+      "image": "https://www.usatoday.com/gcdn/presto/2019/07/29/USAT/2cd03350-b0fc-4c03-bed0-46cac6e61991-Kelly_McGillis_Young.JPG?crop=2390,1793,x0,y471",
+      "imdb": "https://www.imdb.com/name/nm0000538/"
+    },
+    {
+      "name": "Val Kilmer",
+      "image": "https://www.sheknows.com/wp-content/uploads/2018/08/a7da3y3brgaae0gqxija.jpeg?w=1728",
+      "imdb": "https://www.imdb.com/name/nm0000174/"
+    }
+  ],
+  "link": "https://www.paramountplus.com/movies/video/OZkLn_xRuFBy_B3dQnzkewP0hw99lxaZ/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHyO1Rd2RTDSU0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CK6c_6rZ9oQDFQrz9QIdHaQFOg",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2019/03/20/1461808707757/TGUN_SAlone_16_9_1920x1080_NB_1279197_1920x1080.jpg"
+}
 
+,
 {    
   "item": "24680",
   "title": "The Godfather Part II",
