@@ -592,7 +592,7 @@
   "runtime": 112,
   "mpaa": "PG-13",
   "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
-  "genre": ["action", "adventure", "sci-fi"],
+  "genre": ["action", "adventure", "science-fiction"],
   "director": [{
     "name": "Louis Leterrier",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCldxaizuyUcRHUTTwM8IzKx8autPInPHSlIItV3-hUVRvonkt",
@@ -708,7 +708,7 @@
   "runtime": 124,
   "mpaa": "PG-13",
   "description": "After being deemed unfit for military service, Steve Rogers volunteers for a top-secret research project that turns him into Captain America, a superhero dedicated to defending America's ideals.",
-  "genre": ["action", "adventure", "sci-fi", "comic-book"],
+  "genre": ["action", "adventure", "science-fiction", "comic-book"],
   "director": [{
     "name": "Joe Johnston",
     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS28zPajnzcQ_Sl52JGOpnpT9Cs5FSgd6dsZJeXITG8p1HNJH2P",
@@ -747,7 +747,7 @@
   "runtime": 143,
   "mpaa": "PG-13",
   "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
-  "genre": ["action", "adventure", "sci-fi", "comic-book"],
+  "genre": ["action", "adventure", "science-fiction", "comic-book"],
   "director": [{
     "name": "Joss Whedon",
     "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTNTsq7Hexx2Vgre5_gDXs7lZv6NFXv38nbr3wcOHjGcuQUVijMKJEZpQ5rKbbdrO5jVQDVnNuh5jHUBNM",

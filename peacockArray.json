@@ -1588,7 +1588,7 @@
   "description": "An action-packed martial arts film directed by Quentin Tarantino, where a former assassin, known simply as The Bride, wakes from a coma four years after her jealous ex-lover Bill attempts to murder her on her wedding day. Seeking vengeance, she embarks on a mission to kill her former associates and Bill himself.",
   "runtime": 111,
   "mpaa": "R",
-  "genre": ["action", "martial arts", "thriller"],
+  "genre": ["action", "martial-arts", "thriller"],
   "director": [
     {
       "name": "Quentin Tarantino",
