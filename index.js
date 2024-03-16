@@ -28,6 +28,17 @@ app.get("/netflixArray", (req, res) => {
   res.send(netflixData);
 });
 
+app.get("/netflixArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const item = getItemByTitle(title);
+
+  if (item) {
+    res.status(200).json(item);
+  } else {
+    res.status(404).json({ message: "Item not found" });
+  }
+});
+
 app.post("/netflixArray", (req, res) => {
   const newItem = req.body;
 
