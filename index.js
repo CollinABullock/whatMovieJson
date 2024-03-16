@@ -28,6 +28,11 @@ app.get("/netflixArray", (req, res) => {
   res.send(netflixData);
 });
 
+// Function to find an item by title in the netflixData array
+const getItemByTitle = (title) => {
+  return netflixData.find(item => item.title === title);
+};
+
 app.get("/netflixArray/title/:title", (req, res) => {
   const title = req.params.title;
   const item = getItemByTitle(title);
