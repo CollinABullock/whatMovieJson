@@ -29,13 +29,13 @@ app.get("/netflixArray", (req, res) => {
 });
 
 // Function to find an item by title in the netflixData array
-const getItemByTitle = (title) => {
+const getNetflixItemByTitle = (title) => {
   return netflixData.find(item => item.title === title);
 };
 
 app.get("/netflixArray/title/:title", (req, res) => {
   const title = req.params.title;
-  const item = getItemByTitle(title);
+  const item = getNetflixItemByTitle(title);
 
   if (item) {
     res.status(200).json(item);
@@ -106,6 +106,22 @@ app.post("/maxArray", (req, res) => {
 
 app.get("/primeArray", (req, res) => {
   res.send(primeData);
+});
+
+// Function to find an item by title in the primeData array
+const getPrimeItemByTitle = (title) => {
+  return primeData.find(item => item.title === title);
+};
+
+app.get("/primeArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const item = getPrimeItemByTitle(title);
+
+  if (item) {
+    res.status(200).json(item);
+  } else {
+    res.status(404).json({ message: "Item not found" });
+  }
 });
 
 app.post("/primeArray", (req, res) => {
