@@ -64,28 +64,20 @@ app.get("/maxArray", (req, res) => {
   res.send(maxData);
 });
 
-app.get("/disneyArray", (req, res) => {
-  res.send(disneyData);
-});
+// Function to find an item by title in the primeData array
+const getMaxItemByTitle = (title) => {
+  return maxData.find(item => item.title === title);
+};
 
-app.post("/disneyArray", (req, res) => {
-  const newItem = req.body;
+app.get("/maxArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const item = getMaxItemByTitle(title);
 
-  // Generate a unique item number using UUID
-  const newItemNumber = uuid.v4(); // Generate a version 4 UUID
-
-  // Add the generated item number to the newItem object
-  newItem.item = newItemNumber;
-
-  // Update the netflixData array with the new item
-  disneyData.push(newItem);
-
-  // Send a response indicating success
-  res.status(201).json({ message: "You just added a movie bucko", item: newItem });
-});
-
-app.get("/maxArray", (req, res) => {
-  res.send(maxData);
+  if (item) {
+    res.status(200).json(item);
+  } else {
+    res.status(404).json({ message: "Item not found" });
+  }
 });
 
 app.post("/maxArray", (req, res) => {
@@ -99,6 +91,42 @@ app.post("/maxArray", (req, res) => {
 
   // Update the netflixData array with the new item
   maxData.push(newItem);
+
+  // Send a response indicating success
+  res.status(201).json({ message: "You just added a movie bucko", item: newItem });
+});
+
+app.get("/disneyArray", (req, res) => {
+  res.send(disneyData);
+});
+
+// Function to find an item by title in the primeData array
+const getDisneyItemByTitle = (title) => {
+  return disneyData.find(item => item.title === title);
+};
+
+app.get("/disneyArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const item = getDisneyItemByTitle(title);
+
+  if (item) {
+    res.status(200).json(item);
+  } else {
+    res.status(404).json({ message: "Item not found" });
+  }
+});
+
+app.post("/disneyArray", (req, res) => {
+  const newItem = req.body;
+
+  // Generate a unique item number using UUID
+  const newItemNumber = uuid.v4(); // Generate a version 4 UUID
+
+  // Add the generated item number to the newItem object
+  newItem.item = newItemNumber;
+
+  // Update the netflixData array with the new item
+  disneyData.push(newItem);
 
   // Send a response indicating success
   res.status(201).json({ message: "You just added a movie bucko", item: newItem });
@@ -144,6 +172,22 @@ app.get("/huluArray", (req, res) => {
   res.send(huluData);
 });
 
+// Function to find an item by title in the huluData array
+const getHuluItemByTitle = (title) => {
+  return huluData.find(item => item.title === title);
+};
+
+app.get("/huluArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const item = getHuluItemByTitle(title);
+
+  if (item) {
+    res.status(200).json(item);
+  } else {
+    res.status(404).json({ message: "Item not found" });
+  }
+});
+
 app.post("/huluArray", (req, res) => {
   const newItem = req.body;
 
@@ -162,6 +206,22 @@ app.post("/huluArray", (req, res) => {
 
 app.get("/peacockArray", (req, res) => {
   res.send(peacockData);
+});
+
+// Function to find an item by title in the peacockData array
+const getPeacockItemByTitle = (title) => {
+  return peacockData.find(item => item.title === title);
+};
+
+app.get("/peacockArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const item = getPeacockItemByTitle(title);
+
+  if (item) {
+    res.status(200).json(item);
+  } else {
+    res.status(404).json({ message: "Item not found" });
+  }
 });
 
 app.post("/peacockArray", (req, res) => {
@@ -184,6 +244,22 @@ app.get("/paramountArray", (req, res) => {
   res.send(paramountData)
 })
 
+// Function to find an item by title in the primeData array
+const getParamountItemByTitle = (title) => {
+  return paramountData.find(item => item.title === title);
+};
+
+app.get("/paramountArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const item = getParamountItemByTitle(title);
+
+  if (item) {
+    res.status(200).json(item);
+  } else {
+    res.status(404).json({ message: "Item not found" });
+  }
+});
+
 app.post("/paramountArray", (req, res) => {
   const newItem = req.body;
 
@@ -203,6 +279,22 @@ app.post("/paramountArray", (req, res) => {
 app.get("/criterionArray", (req, res) => {
   res.send(criterionData)
 })
+
+// Function to find an item by title in the primeData array
+const getCriterionItemByTitle = (title) => {
+  return criterionData.find(item => item.title === title);
+};
+
+app.get("/criterionArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const item = getCriterionItemByTitle(title);
+
+  if (item) {
+    res.status(200).json(item);
+  } else {
+    res.status(404).json({ message: "Item not found" });
+  }
+});
 
 app.post("/criterionArray", (req, res) => {
   const newItem = req.body;
@@ -224,6 +316,22 @@ app.get("/tubiArray", (req, res) => {
   res.send(tubiData)
 })
 
+// Function to find an item by title in the primeData array
+const getTubiItemByTitle = (title) => {
+  return tubiData.find(item => item.title === title);
+};
+
+app.get("/tubiArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const item = getTubiItemByTitle(title);
+
+  if (item) {
+    res.status(200).json(item);
+  } else {
+    res.status(404).json({ message: "Item not found" });
+  }
+});
+
 app.post("/tubiArray", (req, res) => {
   const newItem = req.body;
 
@@ -243,6 +351,22 @@ app.post("/tubiArray", (req, res) => {
 app.get("/appleArray", (req, res) => {
   res.send(appleData)
 })
+
+// Function to find an item by title in the primeData array
+const getAppleItemByTitle = (title) => {
+  return appleData.find(item => item.title === title);
+};
+
+app.get("/appleArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const item = getAppleItemByTitle(title);
+
+  if (item) {
+    res.status(200).json(item);
+  } else {
+    res.status(404).json({ message: "Item not found" });
+  }
+});
 
 app.post("/appleArray", (req, res) => {
   const newItem = req.body;
