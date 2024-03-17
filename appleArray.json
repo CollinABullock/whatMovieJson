@@ -219,7 +219,68 @@
   "poster": "https://is1-ssl.mzstatic.com/image/thumb/McXcp2YSeuDh16Oph0nt6g/738x416.webp"
 },
 
+{
+  "item": "3456",
+  "title": "Mean Girls",
+  "runtime": 97,
+  "mpaa": "PG-13",
+  "description": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+  "genre": ["comedy", "teen"],
+  "director": [{
+    "name": "Mark Waters",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/09/mark_waters_-_h_2015.jpg?w=1024",
+    "imdb": "https://www.imdb.com/name/nm0915142/"
+  }],
+  "actors": [{
+    "name": "Lindsay Lohan",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2004/08/rs-182224-107289214lilio.jpg?w=1581&h=1054&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0517820/"
+  }, {
+    "name": "Rachel McAdams",
+    "image": "https://variety.com/wp-content/uploads/2023/12/Rachel-McAdams.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm1046097/"
+  }, {
+    "name": "Tina Fey",
+    "image": "https://media.vanityfair.com/photos/573c9264f4b19f731d188a92/16:9/w_1280,c_limit/Tina-Fey-Annie-Leibovitz-Jan-2009.jpg",
+    "imdb": "https://www.imdb.com/name/nm0275486/"
+  }, {
+    "name": "Amanda Seyfried",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/02/Amanda_Seyfried_David_Needleman_THR_A_369-Splash-2022.jpg?w=1024",
+    "imdb": "https://www.imdb.com/name/nm1086543/?ref_=tt_ov_st"
+  }],
+  "link": "https://tv.apple.com/us/movie/mean-girls/umc.cmc.1jd9t7iyrhdoyso79puncvc1i?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+  "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/a5/2f/33/a52f3335-3f0d-fe35-b645-a1844f7e3915/d4195ff0-feed-41f4-a830-3c64fbcd4ef1_MeanGirls_2019Update_EN_3840x2160__U00281_U0029.png/738x416.webp"
+},
 
+{
+  "item": "6789",
+  "title": "How to Lose a Guy in 10 Days",
+  "runtime": 116,
+  "mpaa": "PG-13",
+  "description": "Benjamin Barry is an advertising executive and ladies' man who bets that he can make a woman fall in love with him in 10 days. Andie Anderson covers the 'How To' beat for 'Composure' magazine and is assigned to write an article on 'How to Lose a Guy in 10 days.' They meet in a bar shortly after the bet is made.",
+  "genre": ["romance", "comedy"],
+  "director": [{
+    "name": "Donald Petrie",
+    "image": "https://media.baselineresearch.com/images/201032/201032_full.jpg",
+    "imdb": "https://www.imdb.com/name/nm0677500/"
+  }],
+  "actors": [{
+    "name": "Kate Hudson",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/210914103244-01-kate-hudson-met-gala-2021.jpg?q=w_4062,h_2708,x_0,y_0,c_fill",
+    "imdb": "https://www.imdb.com/name/nm0000455/"
+  }, {
+    "name": "Matthew McConaughey",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2023/09/Matthew-McConaughey-song-texas.jpg?w=1581&h=1054&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0000190/"
+  }, {
+    "name": "Kathryn Hahn",
+    "image": "https://ew.com/thmb/1bHz8RV1b3LR1DWnlnOGJfDiH4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kathryn-Hahn-73fb8599864d45dbb0c065131220592a.jpg",
+    "imdb": "https://www.imdb.com/name/nm0352373/"
+  }],
+  "link": "https://tv.apple.com/us/movie/how-to-lose-a-guy-in-10-days/umc.cmc.4i564xv6vtcgqgw71k6njc98a?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+  "poster": "https://is1-ssl.mzstatic.com/image/thumb/SJrWs1uWQIJGPKHumQWkVw/738x416.webp"
+}
+,
 
 
   {
