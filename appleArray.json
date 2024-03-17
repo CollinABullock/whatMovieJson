@@ -463,12 +463,12 @@
   "director": [{
   "name": "Alfonso Cuarón",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEPp10vDSnxNHdr87jtOCpuRVWbhHQfhY3WmcTiz3U_EABIYK",
-  "imdb": "https://www.imdb.com/name/nm0190859/",
+  "imdb": "https://www.imdb.com/name/nm0190859/"
   }],
   "actors": [{
     "name": "Sandra Bullock",
     "image": "https://media.vanityfair.com/photos/623353678ca53d3267e25b7c/16:9/w_3599,h_2024,c_limit/1384684341",
-    "imdb": "https://www.imdb.com/name/nm0000113/?ref_=tt_cl_t_1",
+    "imdb": "https://www.imdb.com/name/nm0000113/?ref_=tt_cl_t_1"
   }, {
     "name": "George Clooney",
     "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRYIaq1IibD0byPwoCA61TVzHOu11u8JjcIclfwijR0EvFA59KLCk0RM1DDpeeRnFaTZEO1mVmnMzzFKjg",
@@ -509,7 +509,7 @@
     "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/da/b2/fb/dab2fb99-1797-1bb9-55df-408a88c888e8/pr_source.lsr/738x416.webp"
   },
 
-  
+
   
 
   {
