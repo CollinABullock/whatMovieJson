@@ -348,6 +348,35 @@
   "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/6b/18/ad/6b18ad26-b068-e8f3-98d2-746198c67aab/a5051e10-9163-4aa2-8330-ae88e03bc280_StarTrek2009-EN-3840x2160.jpg/738x416.webp"
 },
 
+{
+  "item": "9876",
+  "title": "A Star is Born",
+  "runtime": 136,
+  "mpaa": "R",
+  "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
+  "genre": ["drama", "music", "romance"],
+  "director": [{
+    "name": "Bradley Cooper",
+    "image": "https://variety.com/wp-content/uploads/2023/08/GettyImages-1485941159-e1692627089616.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0177896/"
+  }],
+  "actors": [{
+    "name": "Bradley Cooper",
+    "image": "https://variety.com/wp-content/uploads/2023/08/GettyImages-1485941159-e1692627089616.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0177896/"
+  }, {
+    "name": "Lady Gaga",
+    "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/11/Lady-Gaga-GettyImages-633950600-1000x600.jpg",
+    "imdb": "https://www.imdb.com/name/nm3078932/"
+  }, {
+    "name": "Sam Elliott",
+    "image": "https://i.guim.co.uk/img/media/9fe90eec1eb9549ab4977bcbd6a8dded6b597bef/321_23_1421_853/master/1421.jpg?width=1200&quality=85&auto=format&fit=max&s=f29b0d6cc9dbd5cbb04b350d1ee70951",
+    "imdb": "https://www.imdb.com/name/nm0000385/"
+  }],
+  "link": "https://tv.apple.com/us/movie/a-star-is-born/umc.cmc.3pz1dmbs07y7553nlrs7js3by?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+  "poster": "https://is1-ssl.mzstatic.com/image/thumb/Nn9KRnGX9yuHZ11094O65A/738x416.webp"
+}
+,
 
 
 
