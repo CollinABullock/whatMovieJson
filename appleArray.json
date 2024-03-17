@@ -642,6 +642,45 @@
     "poster": "https://is1-ssl.mzstatic.com/image/thumb/jRVuOiECbTmzx3HEVkbreA/738x416.webp"
   },
   
+  {
+    "item": "7536",
+    "title": "The Velvet Underground",
+    "runtime": "119 minutes",
+    "mpaa": "TV-MA",
+    "description": "The Velvet Underground is a documentary film directed by Todd Haynes that explores the iconic rock band of the 1960s. Through archival footage and interviews, the film delves into the band's formation, their influence on music and culture, and their enduring legacy.",
+    "genre": ["documentary", "music"],
+    "director": [
+      {
+        "name": "Todd Haynes",
+        "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQIqf3QdJsBJensDkBMoozIo33SIj_rHXf8ojc0VL6qd-U0zU-m66WLS6_K-Mk-7914-BVdT0FVOyfg_Cc",
+        "imdb": "https://www.imdb.com/name/nm0001331/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Lou Reed",
+        "image": "https://media.newyorker.com/photos/652831ca87c1d988c034b5df/master/pass/Lou-Reed-final.jpg",
+        "imdb": "https://www.imdb.com/name/nm0713942/"
+      },
+      {
+        "name": "John Cale",
+        "image": "https://ew.com/thmb/X-knXN1N0hyaH4LnS25euxnk7Zc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/john-cale-6639f2f097564adc9e8535a04096ed87.jpg",
+        "imdb": "https://www.imdb.com/name/nm0130515/"
+      },
+      {
+        "name": "Mo Tucker",
+        "image": "https://faroutmagazine.co.uk/static/uploads/1/2021/08/Maureen-Tucker.jpg",
+        "imdb": "https://www.imdb.com/name/nm0876103/"
+      },
+      {
+        "name": "John Waters",
+        "image": "https://static.spin.com/files/2022/05/GettyImages-456306596-1668x1230.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000691/"
+      }
+    ],
+    "link": "https://tv.apple.com/us/movie/the-velvet-underground/umc.cmc.69ic79cvvy80epfhz5efdgjjd?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/3UIt7-edNvHDrXR_FkZd6A/738x416.webp"
+  },
   
   
 
