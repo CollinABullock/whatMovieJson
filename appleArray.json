@@ -477,6 +477,40 @@
   },
 
   {
+    "item": "7531",
+    "title": "Draft Day",
+    "runtime": 110,
+    "mpaa": "PG-13",
+    "description": "At the NFL Draft, general manager Sonny Weaver has the opportunity to rebuild his team when he trades for the number one pick. He must decide what he's willing to sacrifice on a life-changing day for a few hundred young men with NFL dreams.",
+    "genre": ["drama", "comedy", "sports"],
+    "director": [{
+      "name": "Ivan Reitman",
+      "image": "https://variety.com/wp-content/uploads/2020/04/AP110107028562-1.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0000606/"
+    }],
+    "actors": [{
+      "name": "Kevin Costner",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/kevin-costner-attends-the-pre-grammy-gala-grammy-salute-to-news-photo-1694791604.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000126/"
+    }, {
+      "name": "Jennifer Garner",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/896/500/GettyImages-874283680.jpg?ve=1&tl=1",
+      "imdb": "https://www.imdb.com/name/nm0004950/"
+    }, {
+      "name": "Denis Leary",
+      "image": "https://variety.com/wp-content/uploads/2015/09/sex-and-drugs-and-rock-and-roll-renewed-fx.jpg?w=1000",
+      "imdb": "https://www.imdb.com/name/nm0001456/"
+    }, {
+      "name": "Griffin Newman",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Watto_Griffin_Newman.png",
+      "imdb": "https://www.imdb.com/name/nm2260380/"
+    }],
+    "link": "https://tv.apple.com/us/movie/draft-day/umc.cmc.4qypd0hbgpuqczd4t18w6zl67?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/da/b2/fb/dab2fb99-1797-1bb9-55df-408a88c888e8/pr_source.lsr/738x416.webp"
+  },
+  
+
+  {
     "item": 5432,
     "title": "Kill Bill: Vol. 1",
     "description": "An action-packed martial arts film directed by Quentin Tarantino, where a former assassin, known simply as The Bride, wakes from a coma four years after her jealous ex-lover Bill attempts to murder her on her wedding day. Seeking vengeance, she embarks on a mission to kill her former associates and Bill himself.",
