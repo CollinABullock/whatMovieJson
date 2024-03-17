@@ -607,6 +607,41 @@
     "poster": "https://is1-ssl.mzstatic.com/image/thumb/R1BSVCeu-SApA9NZvN40xg/738x416.webp"
   },
   
+  {
+    "item": "8792",
+    "title": "The Beastie Boys Story",
+    "runtime": "119 minutes",
+    "mpaa": "TV-MA",
+    "description": "The Beastie Boys Story is a documentary film directed by Spike Jonze that chronicles the rise of the iconic hip-hop group Beastie Boys. Through archival footage and interviews, surviving members Adam Horovitz (Ad-Rock) and Michael Diamond (Mike D) reflect on their journey from teenage punk rockers to global rap sensations.",
+    "genre": ["documentary", "music"],
+    "director": [
+      {
+        "name": "Spike Jonze",
+        "image": "https://variety.com/wp-content/uploads/2019/07/spike-jonze.jpg?w=1000",
+        "imdb": "https://www.imdb.com/name/nm0005069/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Adam Horovitz (Ad-Rock)",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-190629-457021942.jpg?w=910&h=511&crop=1",
+        "imdb": "https://www.imdb.com/name/nm0005010/"
+      },
+      {
+        "name": "Michael Diamond (Mike D)",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/mike-d-6dc2b7d1-7d64-41b5-8897-65bce69f03e8.jpg",
+        "imdb": "https://www.imdb.com/name/nm0004875/"
+      },
+      {
+        "name": "Adam Yauch (MCA)",
+        "image": "https://townsquare.media/site/366/files/2012/05/Adam-Yauch-Bass.jpg",
+        "imdb": "https://www.imdb.com/name/nm0945142/"
+      }
+    ],
+    "link": "https://tv.apple.com/us/movie/beastie-boys-story/umc.cmc.6d0mrskjsusw2jd2d228p88c2?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/jRVuOiECbTmzx3HEVkbreA/738x416.webp"
+  },
+  
   
   
 
