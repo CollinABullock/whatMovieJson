@@ -240,6 +240,30 @@ app.post("/peacockArray", (req, res) => {
   res.status(201).json({ message: "You just added a movie bucko", item: newItem });
 });
 
+// PATCH route to update items in the Peacock array
+app.patch("/peacockArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const updatedFields = req.body; // Assuming all updated fields are provided in the request body
+
+  // Find the item in the Netflix array by ID
+  const itemToUpdate = peacockData.find(item => item.title === title);
+
+  // If the item is not found, return a 404 error
+  if (!itemToUpdate) {
+    return res.status(404).json({ message: "Item not found" });
+  }
+
+  // Update each key-value pair provided in the request body
+  Object.keys(updatedFields).forEach(key => {
+    if (key !== 'id') { // Assuming 'id' is not updatable
+      itemToUpdate[key] = updatedFields[key];
+    }
+  });
+
+  // Send a response indicating success
+  res.status(200).json({ message: "Item updated successfully", updatedItem: itemToUpdate });
+});
+
 app.get("/paramountArray", (req, res) => {
   res.send(paramountData)
 })
