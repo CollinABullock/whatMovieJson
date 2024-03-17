@@ -4,8 +4,11 @@ const cors = require('cors');
 const bodyParser = require("body-parser");
 const uuid = require("uuid"); // Import the uuid package to generate unique IDs
 
+// Allow all origins with no-cors mode
 const corsOptions = {
-  origin: "https://chooseamoviealready.netlify.app/" 
+  origin: '*',
+  methods: ['GET', 'POST', 'PATCH'], // Add methods you need
+  optionsSuccessStatus: 200 // Some legacy browsers (IE11, various SmartTVs) choke on 204
 };
 
 app.use(cors(corsOptions));
