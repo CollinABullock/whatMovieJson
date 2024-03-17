@@ -477,6 +477,140 @@
   },
 
   {
+    "item": "1234",
+    "title": "Star Trek Into Darkness",
+    "runtime": 132,
+    "mpaa": "PG-13",
+    "description": "After being called back to Earth, the crew of the Enterprise find a seemingly unstoppable force which has attacked Starfleet and left Earth in chaos.",
+    "genre": ["action", "adventure", "science-fiction", "sequel"],
+    "director": [{
+      "name": "J.J. Abrams",
+      "image": "https://cdn.britannica.com/23/129823-050-4B487943/TV-JJ-movie-Abrams.jpg?w=400&h=300&c=crop",
+      "imdb": "https://www.imdb.com/name/nm0009190/"
+    }],
+    "actors": [{
+      "name": "Chris Pine",
+      "image": "https://people.com/thmb/oDfj0peeSFhclSJjRTiSodcKPaQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/chris-pine-2-2b1bf46e2f6440f2b363744c86706faa.jpg",
+      "imdb": "https://www.imdb.com/name/nm1517976/"
+    }, {
+      "name": "Zachary Quinto",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2014/11/zachary_quinto_out_100_awards_h_2014.jpg?w=3000",
+      "imdb": "https://www.imdb.com/name/nm0704270/"
+    },
+      {
+        "name": "Benedict Cumberbatch",
+        "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQGmHL-BcHjg88O86o6fvQZczoYVezhcvkDNO4h0KFFOlw_Rp748h2XS1LucLKUR-EbIdnIxVducQAgZBo",
+        "imdb": "https://www.imdb.com/name/nm1212722/"
+      },
+      {
+        "name": "Zoe Saldana",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/16/4959b623-6b3b-47b8-b8b3-5c4205a6bdc2/thumbnail/1280x720/4234270ab4d7d8738f7b15507df041b9/zoesaldanainterview-2130130-640x360.jpg?v=26439302e0bbe3219b6ef78d2fd37ce0",
+        "imdb": "https://www.imdb.com/name/nm0757855/"
+      }
+    ],
+    "link": "https://tv.apple.com/us/movie/star-trek-into-darkness/umc.cmc.4rkplfpq4y0zbyxr3xolm5kvf?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/e2/66/82/e2668291-3d56-d0eb-e763-751704551cc2/PAR_STAR_TREK_INTO_THE_DARKNESS_WW_ARTWORK_EN_3840x2160_1MJN3M000000CI.lsr/738x416.webp"
+  },
+
+  {
+    "item": "5678",
+    "title": "Wyatt Earp",
+    "runtime": 191,
+    "mpaa": "PG-13",
+    "description": "The story of Wyatt Earp as he interacts and battles other famous figures of the Wild West era.",
+    "genre": ["biography", "drama", "western"],
+    "director": [
+      {
+        "name": "Lawrence Kasdan",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI5NDA0ODAzNV5BMl5BanBnXkFtZTcwNzQxOTgwMw@@._V1_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001413/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Kevin Costner",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/kevin-costner-attends-the-pre-grammy-gala-grammy-salute-to-news-photo-1694791604.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000126/"
+      },
+      {
+        "name": "Dennis Quaid",
+        "image": "https://variety.com/wp-content/uploads/2023/08/Dennis-Quaid-Fallen-Publicity-Photo.jpeg",
+        "imdb": "https://www.imdb.com/name/nm0000598/"
+      },
+      {
+        "name": "Gene Hackman",
+        "image": "https://www.military.com/sites/default/files/styles/full/public/media/people/2013/10/genehackmanfrenchconnection.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000432/"
+      }
+    ],
+    "link": "https://tv.apple.com/us/movie/wyatt-earp/umc.cmc.2e8hj3rjhnjtz8c1dagh8hoyb?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/csQMURxzrw_OCooGxFQ_jA/738x416.webp"
+  },
+
+  {
+    "item": "9012",
+    "title": "The World's a Little Blurry",
+    "runtime": 140,
+    "mpaa": "Not-Rated",
+    "description": "A documentary film following the life and career of singer-songwriter Billie Eilish, as she rises to fame and navigates the challenges of being a teenage pop star.",
+    "genre": ["documentary", "music"],
+    "director": [
+      {
+        "name": "R.J. Cutler",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2020/10/GettyImages-1052906680-H-2020-1603141614.jpg?w=1296",
+        "imdb": "https://www.imdb.com/name/nm0193865/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Billie Eilish",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2023/08/Billie-Eilish-Barbie-lollapalooza.jpg?w=1600&h=900&crop=1",
+        "imdb": "https://www.imdb.com/name/nm10049851/"
+      }
+    ],
+    "link": "https://tv.apple.com/us/movie/billie-eilish-the-worlds-a-little-blurry/umc.cmc.5waz3hfo9r1133t8arap8b6nq?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/D1SCGzM1ESBh-SIkHwcvUQ/738x416.webp"
+  },
+  
+  {
+    "item": "5421",
+    "title": "Men in Black",
+    "runtime": "98 minutes",
+    "mpaa": "PG-13",
+    "description": "In the science-fiction action-comedy Men in Black, a secret organization known as the Men in Black polices extraterrestrial activity on Earth. When a rogue alien threatens to destroy the planet, Agent J, a new recruit, teams up with veteran Agent K to stop the impending invasion.",
+    "genre": ["action", "comedy", "science-fiction"],
+    "director": [
+      {
+        "name": "Barry Sonnenfeld",
+        "image": "https://i0.wp.com/filmtalk.org/wp-content/uploads/2022/10/l1180919-barry-sonnenfeld-750-c1.jpg?fit=750%2C527&ssl=1",
+        "imdb": "https://www.imdb.com/name/nm0001756/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Will Smith",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGI3OTI0NjctMjM2ZC00MjZiLWIxMjctODczN2M4MTFjZmY1XkEyXkFqcGdeQXJoYW5uYWg@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000226/"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "image": "https://thumbnails.texastribune.org/dFQRzCXJMQQXyzuoJEnthbxl6dM=/850x570/smart/filters:quality(75)/https://static.texastribune.org/media/images/Screen_shot_2011-03-12_at_8.08.43_AM.png",
+        "imdb": "https://www.imdb.com/name/nm0000169/"
+      },
+      {
+        "name": "Linda Fiorentino",
+        "image": "https://www.wallofcelebrities.com/celebrity/linda-fiorentino/pictures/xxlarge/linda-fiorentino_153602.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000407/"
+      }
+    ],
+    "link": "https://tv.apple.com/us/movie/men-in-black/umc.cmc.5blzgpf9anbm6xmrrsqnnai5e?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/R1BSVCeu-SApA9NZvN40xg/738x416.webp"
+  },
+  
+  
+  
+
+  {
     "item": "7531",
     "title": "Draft Day",
     "runtime": 110,
