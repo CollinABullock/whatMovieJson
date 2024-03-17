@@ -315,6 +315,40 @@
   "poster": "https://is1-ssl.mzstatic.com/image/thumb/uAYqXpEFOAAc24vKK-dCCw/738x416.webp"
 },
 
+{
+  "item": "2468",
+  "title": "Star Trek",
+  "runtime": 127,
+  "mpaa": "PG-13",
+  "description": "The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.",
+  "genre": ["action", "adventure", "science-fiction"],
+  "director": [{
+    "name": "J.J. Abrams",
+    "image": "https://cdn.britannica.com/23/129823-050-4B487943/TV-JJ-movie-Abrams.jpg?w=400&h=300&c=crop",
+    "imdb": "https://www.imdb.com/name/nm0009190/"
+  }],
+  "actors": [{
+    "name": "Chris Pine",
+    "image": "https://people.com/thmb/oDfj0peeSFhclSJjRTiSodcKPaQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/chris-pine-2-2b1bf46e2f6440f2b363744c86706faa.jpg",
+    "imdb": "https://www.imdb.com/name/nm1517976/"
+  }, {
+    "name": "Zachary Quinto",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2014/11/zachary_quinto_out_100_awards_h_2014.jpg?w=3000",
+    "imdb": "https://www.imdb.com/name/nm0704270/"
+  }, {
+    "name": "Zoe Saldana",
+    "image": "https://www.looper.com/img/gallery/who-is-the-woman-in-the-t-mobile-iphone-15-commercial-where-have-marvel-fans-seen-her-before/l-intro-1703797918.jpg",
+    "imdb": "https://www.imdb.com/name/nm0757855/"
+  }, {
+    "name": "Simon Pegg",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/79d7d6e/2147483647/strip/true/crop/4368x2912+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2F2e%2F471c237449f2b7528fc22705e466%2Fbritain-bafta-film-awards-2022-arrivals-89873.jpg",
+    "imdb": "https://www.imdb.com/name/nm0670408/"
+  }],
+  "link": "https://tv.apple.com/us/movie/star-trek/umc.cmc.1qfm0vxptnl42u4jclqwbtxt9?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+  "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/6b/18/ad/6b18ad26-b068-e8f3-98d2-746198c67aab/a5051e10-9163-4aa2-8330-ae88e03bc280_StarTrek2009-EN-3840x2160.jpg/738x416.webp"
+},
+
+
 
 
   {
