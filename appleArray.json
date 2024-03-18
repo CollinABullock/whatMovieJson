@@ -4,6 +4,7 @@
     "title": "Knocked Up",
     "runtime": 129,
     "mpaa": "R",
+    "year": 2007,
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/ec07a6c1-95e9-4b9e-b9a1-af11107466a7/1e3654273fddfc05638ef6da7f560aa0973a5392.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
     "description": "A booze-fueled roll in the hay results in an unexpected pregnancy for an ambitious TV reporter and a scraggly slacker in this hit comedy.",
 "genre": ["comedy", "romance"],
@@ -30,6 +31,7 @@
   {
     "item": 5678,
     "title": "The Tragedy of Macbeth",
+    "year": 2020,
     "description": "A 2021 black-and-white psychological thriller film directed by Joel Coen. It is an adaptation of William Shakespeare's play 'Macbeth', starring Denzel Washington and Frances McDormand.",
     "runtime": 105,
     "mpaa": "R",
@@ -70,6 +72,7 @@
   {    
     "item": "9999",
     "title": "Napoleon",
+    "year": 2023,
     "runtime": 158,
     "mpaa": "R",
     "poster": "https://www.apple.com/tv-pr/shows-and-films/n/napoleon/images/show-home-graphic-header/key-art-02/4x1/Apple_TV_Napoleon_key_art_graphic_header_4_1_show_home.jpg.og.jpg?1708706810578",
@@ -103,6 +106,7 @@
   "mpaa": "R",
   "description": "A young mother reconnects with her larger-than-life playboy father on an adventure through New York.",
   "genre": ["comedy", "drama"],
+  "year": 2020,
   "director": [{
     "name": "Sofia Coppola",
     "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
@@ -129,6 +133,7 @@
 {
   "item": "1234",
   "title": "Greyhound",
+  "year": 2020,
   "runtime": 91,
   "mpaa": "PG-13",
   "description": "During World War II, a US Navy captain must lead an Allied convoy being stalked by Nazi U-boats.",
@@ -159,6 +164,7 @@
 {
   "item": "5678",
   "title": "CODA",
+  "year": 2021,
   "runtime": 111,
   "mpaa": "PG-13",
   "description": "As a CODA (Child of Deaf Adults) Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
@@ -191,6 +197,7 @@
   "title": "Cha Cha Real Smooth",
   "runtime": 120,
   "mpaa": "R",
+  "year": 2022,
   "description": "After a night of heavy drinking, a young man wakes up to find a mysterious tattoo on his arm and a dead body in his apartment. As he tries to piece together what happened, he becomes embroiled in a dangerous game of deception and betrayal.",
   "genre": ["comedy", "drama", "indie"],
   "director": [{
@@ -249,6 +256,7 @@
     "imdb": "https://www.imdb.com/name/nm1086543/?ref_=tt_ov_st"
   }],
   "link": "https://tv.apple.com/us/movie/mean-girls/umc.cmc.1jd9t7iyrhdoyso79puncvc1i?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+  "year": 2004,
   "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/a5/2f/33/a52f3335-3f0d-fe35-b645-a1844f7e3915/d4195ff0-feed-41f4-a830-3c64fbcd4ef1_MeanGirls_2019Update_EN_3840x2160__U00281_U0029.png/738x416.webp"
 },
 
@@ -278,6 +286,7 @@
     "imdb": "https://www.imdb.com/name/nm0352373/"
   }],
   "link": "https://tv.apple.com/us/movie/how-to-lose-a-guy-in-10-days/umc.cmc.4i564xv6vtcgqgw71k6njc98a?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+  "year": 2003,
   "poster": "https://is1-ssl.mzstatic.com/image/thumb/SJrWs1uWQIJGPKHumQWkVw/738x416.webp"
 }
 ,
@@ -285,6 +294,7 @@
 {
   "item": "1357",
   "title": "Old School",
+  "year": 2003,
   "runtime": 91,
   "mpaa": "R",
   "description": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
@@ -318,6 +328,7 @@
 {
   "item": "2468",
   "title": "Star Trek",
+  "year": 2009,
   "runtime": 127,
   "mpaa": "PG-13",
   "description": "The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.",
@@ -351,6 +362,7 @@
 {
   "item": "9876",
   "title": "A Star is Born",
+  "year": 2019,
   "runtime": 136,
   "mpaa": "R",
   "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
@@ -381,6 +393,7 @@
 {
   "item": 5863659,
   "title": "Saving Private Ryan",
+  "year": 1998,
   "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
   "runtime": 169,
   "mpaa": "R",
@@ -421,6 +434,7 @@
     "title": "Killers of the Flower Moon",
     "description": "1919, Osage County, Oklahoma. Due to the discovery of oil on their land the Osage people are per capita the wealthiest people in the United States. Having just been discharged from the US Army, Ernest Burkhart returns to the area to work for his wealthy uncle, William Hale. Lately many Osage people have died in suspicious circumstances but nothing is being done about it.",
     "runtime": 206,
+    "year": 2023,
     "mpaa": "R",
     "genre": ["crime", "drama", "history"],
     "director": [
@@ -456,6 +470,7 @@
     "title": "Gravity",
     "runtime": 90,
     "mpaa": "PG-13",
+    "year": 2013,
     "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/de/60/aa/de60aa7f-0c16-311e-af45-aedbf5f088b9/pr_source.lsr/738x416.webp",
     "description": "When debris destroys their shuttle, a medical engineer and a seasoned astronaut find themselves floating through space with no connection to Earth.",
 "genre": ["drama", "thriller", "science-fiction"],
@@ -481,6 +496,7 @@
     "title": "Star Trek Into Darkness",
     "runtime": 132,
     "mpaa": "PG-13",
+    "year": 2013,
     "description": "After being called back to Earth, the crew of the Enterprise find a seemingly unstoppable force which has attacked Starfleet and left Earth in chaos.",
     "genre": ["action", "adventure", "science-fiction", "sequel"],
     "director": [{
@@ -544,6 +560,7 @@
       }
     ],
     "link": "https://tv.apple.com/us/movie/wyatt-earp/umc.cmc.2e8hj3rjhnjtz8c1dagh8hoyb?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "year": 1994,
     "poster": "https://is1-ssl.mzstatic.com/image/thumb/csQMURxzrw_OCooGxFQ_jA/738x416.webp"
   },
 
@@ -569,12 +586,14 @@
       }
     ],
     "link": "https://tv.apple.com/us/movie/billie-eilish-the-worlds-a-little-blurry/umc.cmc.5waz3hfo9r1133t8arap8b6nq?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "year": 2021,
     "poster": "https://is1-ssl.mzstatic.com/image/thumb/D1SCGzM1ESBh-SIkHwcvUQ/738x416.webp"
   },
   
   {
     "item": "5421",
     "title": "Men in Black",
+    "year": 1997,
     "runtime": "98 minutes",
     "mpaa": "PG-13",
     "description": "In the science-fiction action-comedy Men in Black, a secret organization known as the Men in Black polices extraterrestrial activity on Earth. When a rogue alien threatens to destroy the planet, Agent J, a new recruit, teams up with veteran Agent K to stop the impending invasion.",
@@ -639,6 +658,7 @@
       }
     ],
     "link": "https://tv.apple.com/us/movie/beastie-boys-story/umc.cmc.6d0mrskjsusw2jd2d228p88c2?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "year": 2020,
     "poster": "https://is1-ssl.mzstatic.com/image/thumb/jRVuOiECbTmzx3HEVkbreA/738x416.webp"
   },
   
@@ -646,6 +666,7 @@
     "item": "7536",
     "title": "The Velvet Underground",
     "runtime": "119 minutes",
+    "year": 2021,
     "mpaa": "TV-MA",
     "description": "The Velvet Underground is a documentary film directed by Todd Haynes that explores the iconic rock band of the 1960s. Through archival footage and interviews, the film delves into the band's formation, their influence on music and culture, and their enduring legacy.",
     "genre": ["documentary", "music"],
@@ -735,6 +756,7 @@
       "imdb": "https://www.imdb.com/name/nm2260380/"
     }],
     "link": "https://tv.apple.com/us/movie/draft-day/umc.cmc.4qypd0hbgpuqczd4t18w6zl67?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "year": 2014,
     "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/da/b2/fb/dab2fb99-1797-1bb9-55df-408a88c888e8/pr_source.lsr/738x416.webp"
   },
 
@@ -744,6 +766,7 @@
   {
     "item": 5432,
     "title": "Kill Bill: Vol. 1",
+    "year": 2003,
     "description": "An action-packed martial arts film directed by Quentin Tarantino, where a former assassin, known simply as The Bride, wakes from a coma four years after her jealous ex-lover Bill attempts to murder her on her wedding day. Seeking vengeance, she embarks on a mission to kill her former associates and Bill himself.",
     "runtime": 111,
     "mpaa": "R",
@@ -783,6 +806,7 @@
   {
     "item": 7654,
     "title": "Kill Bill Vol. 2",
+    "year": 2004,
     "description": "The second part of Quentin Tarantino's two-part martial arts film series, where the Bride continues her quest for vengeance against the Deadly Viper Assassination Squad and their leader, Bill.",
     "runtime": 137,
     "mpaa": "R",
