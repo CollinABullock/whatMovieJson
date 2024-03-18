@@ -53,6 +53,29 @@ app.get("/netflixArray/title/:title", (req, res) => {
   }
 });
 
+app.patch("/netflixArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const updatedFields = req.body; // Assuming all updated fields are provided in the request body
+
+  // Find the item in the Netflix array by ID
+  const itemToUpdate = netflixData.find(item => item.title === title);
+
+  // If the item is not found, return a 404 error
+  if (!itemToUpdate) {
+    return res.status(404).json({ message: "Item not found" });
+  }
+
+  // Update each key-value pair provided in the request body
+  Object.keys(updatedFields).forEach(key => {
+    if (key !== 'id') { // Assuming 'id' is not updatable
+      itemToUpdate[key] = updatedFields[key];
+    }
+  });
+
+  // Send a response indicating success
+  res.status(200).json({ message: "Item updated successfully", updatedItem: itemToUpdate });
+});
+
 app.post("/netflixArray", (req, res) => {
   const newItem = req.body;
 
@@ -89,6 +112,29 @@ app.get("/maxArray/title/:title", (req, res) => {
   }
 });
 
+app.patch("/maxArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const updatedFields = req.body; // Assuming all updated fields are provided in the request body
+
+  // Find the item in the Netflix array by ID
+  const itemToUpdate = maxData.find(item => item.title === title);
+
+  // If the item is not found, return a 404 error
+  if (!itemToUpdate) {
+    return res.status(404).json({ message: "Item not found" });
+  }
+
+  // Update each key-value pair provided in the request body
+  Object.keys(updatedFields).forEach(key => {
+    if (key !== 'id') { // Assuming 'id' is not updatable
+      itemToUpdate[key] = updatedFields[key];
+    }
+  });
+
+  // Send a response indicating success
+  res.status(200).json({ message: "Item updated successfully", updatedItem: itemToUpdate });
+});
+
 app.post("/maxArray", (req, res) => {
   const newItem = req.body;
 
@@ -109,7 +155,7 @@ app.get("/disneyArray", (req, res) => {
   res.send(disneyData);
 });
 
-// Function to find an item by title in the primeData array
+// Function to find an item by title in the disneyData array
 const getDisneyItemByTitle = (title) => {
   return disneyData.find(item => item.title === title);
 };
@@ -123,6 +169,29 @@ app.get("/disneyArray/title/:title", (req, res) => {
   } else {
     res.status(404).json({ message: "Item not found" });
   }
+});
+
+app.patch("/disneyArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const updatedFields = req.body; // Assuming all updated fields are provided in the request body
+
+  // Find the item in the Netflix array by ID
+  const itemToUpdate = disneyData.find(item => item.title === title);
+
+  // If the item is not found, return a 404 error
+  if (!itemToUpdate) {
+    return res.status(404).json({ message: "Item not found" });
+  }
+
+  // Update each key-value pair provided in the request body
+  Object.keys(updatedFields).forEach(key => {
+    if (key !== 'id') { // Assuming 'id' is not updatable
+      itemToUpdate[key] = updatedFields[key];
+    }
+  });
+
+  // Send a response indicating success
+  res.status(200).json({ message: "Item updated successfully", updatedItem: itemToUpdate });
 });
 
 app.post("/disneyArray", (req, res) => {
@@ -161,6 +230,29 @@ app.get("/primeArray/title/:title", (req, res) => {
   }
 });
 
+app.patch("/primeArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const updatedFields = req.body; // Assuming all updated fields are provided in the request body
+
+  // Find the item in the Netflix array by ID
+  const itemToUpdate = primeData.find(item => item.title === title);
+
+  // If the item is not found, return a 404 error
+  if (!itemToUpdate) {
+    return res.status(404).json({ message: "Item not found" });
+  }
+
+  // Update each key-value pair provided in the request body
+  Object.keys(updatedFields).forEach(key => {
+    if (key !== 'id') { // Assuming 'id' is not updatable
+      itemToUpdate[key] = updatedFields[key];
+    }
+  });
+
+  // Send a response indicating success
+  res.status(200).json({ message: "Item updated successfully", updatedItem: itemToUpdate });
+});
+
 app.post("/primeArray", (req, res) => {
   const newItem = req.body;
 
@@ -195,6 +287,29 @@ app.get("/huluArray/title/:title", (req, res) => {
   } else {
     res.status(404).json({ message: "Item not found" });
   }
+});
+
+app.patch("/huluArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const updatedFields = req.body; // Assuming all updated fields are provided in the request body
+
+  // Find the item in the Netflix array by ID
+  const itemToUpdate = huluData.find(item => item.title === title);
+
+  // If the item is not found, return a 404 error
+  if (!itemToUpdate) {
+    return res.status(404).json({ message: "Item not found" });
+  }
+
+  // Update each key-value pair provided in the request body
+  Object.keys(updatedFields).forEach(key => {
+    if (key !== 'id') { // Assuming 'id' is not updatable
+      itemToUpdate[key] = updatedFields[key];
+    }
+  });
+
+  // Send a response indicating success
+  res.status(200).json({ message: "Item updated successfully", updatedItem: itemToUpdate });
 });
 
 app.post("/huluArray", (req, res) => {
@@ -293,6 +408,29 @@ app.get("/paramountArray/title/:title", (req, res) => {
   }
 });
 
+app.patch("/paramountArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const updatedFields = req.body; // Assuming all updated fields are provided in the request body
+
+  // Find the item in the Netflix array by ID
+  const itemToUpdate = paramountData.find(item => item.title === title);
+
+  // If the item is not found, return a 404 error
+  if (!itemToUpdate) {
+    return res.status(404).json({ message: "Item not found" });
+  }
+
+  // Update each key-value pair provided in the request body
+  Object.keys(updatedFields).forEach(key => {
+    if (key !== 'id') { // Assuming 'id' is not updatable
+      itemToUpdate[key] = updatedFields[key];
+    }
+  });
+
+  // Send a response indicating success
+  res.status(200).json({ message: "Item updated successfully", updatedItem: itemToUpdate });
+});
+
 app.post("/paramountArray", (req, res) => {
   const newItem = req.body;
 
@@ -329,6 +467,29 @@ app.get("/criterionArray/title/:title", (req, res) => {
   }
 });
 
+app.patch("/criterionArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const updatedFields = req.body; // Assuming all updated fields are provided in the request body
+
+  // Find the item in the Netflix array by ID
+  const itemToUpdate = criterionData.find(item => item.title === title);
+
+  // If the item is not found, return a 404 error
+  if (!itemToUpdate) {
+    return res.status(404).json({ message: "Item not found" });
+  }
+
+  // Update each key-value pair provided in the request body
+  Object.keys(updatedFields).forEach(key => {
+    if (key !== 'id') { // Assuming 'id' is not updatable
+      itemToUpdate[key] = updatedFields[key];
+    }
+  });
+
+  // Send a response indicating success
+  res.status(200).json({ message: "Item updated successfully", updatedItem: itemToUpdate });
+});
+
 app.post("/criterionArray", (req, res) => {
   const newItem = req.body;
 
@@ -363,6 +524,29 @@ app.get("/tubiArray/title/:title", (req, res) => {
   } else {
     res.status(404).json({ message: "Item not found" });
   }
+});
+
+app.patch("/tubiArray/title/:title", (req, res) => {
+  const title = req.params.title;
+  const updatedFields = req.body; // Assuming all updated fields are provided in the request body
+
+  // Find the item in the Netflix array by ID
+  const itemToUpdate = tubiData.find(item => item.title === title);
+
+  // If the item is not found, return a 404 error
+  if (!itemToUpdate) {
+    return res.status(404).json({ message: "Item not found" });
+  }
+
+  // Update each key-value pair provided in the request body
+  Object.keys(updatedFields).forEach(key => {
+    if (key !== 'id') { // Assuming 'id' is not updatable
+      itemToUpdate[key] = updatedFields[key];
+    }
+  });
+
+  // Send a response indicating success
+  res.status(200).json({ message: "Item updated successfully", updatedItem: itemToUpdate });
 });
 
 app.post("/tubiArray", (req, res) => {
