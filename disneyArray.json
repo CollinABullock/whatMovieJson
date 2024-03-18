@@ -2,6 +2,7 @@
   {
     "item": "1999",
     "title": "The Straight Story",
+    "year": 1999,
     "runtime": 112,
     "mpaa": "G",
     "description": "Based on a true story, an elderly man embarks on a journey across the Midwest on a lawnmower to reconcile with his estranged brother who suffered a stroke.",
@@ -61,6 +62,7 @@
         "image": "https://media.gq.com/photos/55828e4c1177d66d68d53699/master/pass/blogs-the-feed-jermaine-clement-gq-and-a-sundance-film-festival.jpg"
       }
     ],
+    "year": 2016,
     "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D1EE0CE7E63D6DE16B178761E626EEB1A13FEA55B15B6FE235927A71BB047A67/scale?width=1200&aspectRatio=1.78&format=webp",
     "link": "https://www.disneyplus.com/movies/the-bfg/pvXae9wPk8HT"
   },
@@ -69,6 +71,7 @@
     "title": "Raiders of the Lost Ark",
     "description": "Renowned archeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.",
     "runtime": 115,
+    "year": 1981,
     "mpaa": "PG",
     "genre": ["action", "adventure", "classic"],
     "director": [
@@ -105,6 +108,7 @@
   {
     "item": 8765,
     "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
     "description": "The intrepid explorer Indiana Jones sets out to rescue his father, a medievalist who has vanished while searching for the Holy Grail. Following clues in the old man's notebook, Indy arrives in Venice, where he enlists the help of a beautiful academic, but they are not the only ones who are on the trail, and some sinister old enemies soon come out of the woodwork.",
     "runtime": 127,
     "mpaa": "PG-13",
@@ -143,6 +147,7 @@
   {
     "item": 1234,
     "title": "Indiana Jones and the Temple of Doom",
+    "year": 1984,
     "description": "Indiana Jones teams up with a nightclub singer named Wilhelmina Willie Scott and a twelve-year-old Chinese boy named Short Round. They end up in a small distressed village in India, where the people believe that evil spirits have taken all their children away after a sacred precious stone was stolen. They also discover the great mysterious terror surrounding a booby-trapped temple known as the Temple of Doom. Thuggee is beginning to attempt to rise once more, believing that with the power of all five Sankara stones they can rule the world. It's all up to Indiana to put an end to the Thuggee campaign, rescue the lost children, win the girl and conquer the Temple of Doom.",
     "runtime": 118,
     "mpaa": "PG",
@@ -180,6 +185,7 @@
   },
   {
     "item": 2345,
+    "year": 2008,
     "title": "Indiana Jones and the Kingdom of the Crystal Skull",
     "description": "An action-adventure film directed by Steven Spielberg, where Indiana Jones embarks on a quest to find the legendary Crystal Skulls while encountering old foes and new allies.",
     "runtime": 122,
@@ -221,6 +227,7 @@
   {    
   "item": "13579",
   "title": "Star Wars Episode I: The Phantom Menace",
+  "year": 1999,
   "runtime": 136,
   "mpaa": "PG",
   "description": "Two Jedi Knights escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to reclaim their old glory.",
@@ -255,6 +262,7 @@
 {    
   "item": 19947,
   "title": "Morbius",
+  "year": 2022,
   "runtime": 104,
   "mpaa": "PG-13",
   "description": "Dangerously ill with a rare blood disorder and determined to save others from the same fate, Dr. Morbius attempts a desperate gamble. While at first it seems to be a radical success, a darkness inside of him is soon unleashed.",
@@ -284,6 +292,7 @@
 {    
   "item": 66789,
   "title": "The Marvels",
+  "year": 2023,
   "runtime": 106,
   "mpaa": "PG-13",
   "description": "",
@@ -317,6 +326,7 @@
 {
   "item": "1234",
   "title": "X-Men: First Class",
+  "year": 2011,
   "runtime": 132,
   "mpaa": "PG-13",
   "description": "In 1962, Charles Xavier starts up a school and later a team, for humans with superhuman abilities. Among them is Erik Lensherr, his best friend... and future archenemy.",
@@ -349,8 +359,9 @@
 },
 
 {
-  "item": "",
+  "item": 987765,
   "title": "X2",
+  "year": 2003,
   "runtime": 134,
   "mpaa": "PG-13",
   "description": "The X-Men band together to find a mutant assassin who has made an attempt on the President's life, while the Mutant Academy is attacked by military forces.",
@@ -389,6 +400,7 @@
 {
   "item": "8932",
   "title": "Captain America: Civil War",
+  "year": 2016,
   "runtime": 147,
   "mpaa": "PG-13",
   "description": "Political interference in the Avengers' activities causes a rift between former allies Captain America and Iron Man.",
@@ -459,12 +471,14 @@
     }
   ],
   "link": "https://www.disneyplus.com/movies/black-panther/1GuXuYPj99Ke",
+  "year": 2018,
   "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C4E26547ADB216527A0A75F01774F40189FFFB18ACE28727F3567072FE1C6942/scale?width=400&aspectRatio=1.78&format=jpeg"
 },
 
 {
   "item": "5678",
   "title": "Avengers: Infinity War",
+  "year": 2018,
   "runtime": 149,
   "mpaa": "PG-13",
   "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
@@ -507,6 +521,7 @@
 {
   "item": "9876",
   "title": "Avengers: Endgame",
+  "year": 2019,
   "runtime": 181,
   "mpaa": "PG-13",
   "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
@@ -550,6 +565,7 @@
 {
   "item": "3456",
   "title": "Iron Man",
+  "year": 2008,
   "runtime": 126,
   "mpaa": "PG-13",
   "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
@@ -589,6 +605,7 @@
 {
   "item": "6789",
   "title": "The Incredible Hulk",
+  "year": 2008,
   "runtime": 112,
   "mpaa": "PG-13",
   "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
@@ -628,6 +645,7 @@
 {
   "item": "2345",
   "title": "Iron Man 2",
+  "year": 2010,
   "runtime": 124,
   "mpaa": "PG-13",
   "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
@@ -667,6 +685,7 @@
 {
   "item": "3456",
   "title": "Thor",
+  "year": 2011,
   "runtime": 115,
   "mpaa": "PG-13",
   "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
@@ -705,6 +724,7 @@
 {
   "item": "5678",
   "title": "Captain America: The First Avenger",
+  "year": 2011,
   "runtime": 124,
   "mpaa": "PG-13",
   "description": "After being deemed unfit for military service, Steve Rogers volunteers for a top-secret research project that turns him into Captain America, a superhero dedicated to defending America's ideals.",
@@ -744,6 +764,7 @@
 {
   "item": "9876",
   "title": "The Avengers",
+  "year": 2012,
   "runtime": 143,
   "mpaa": "PG-13",
   "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
@@ -783,6 +804,7 @@
   {
     "item": 1234,
     "title": "West Side Story",
+    "year": 2021,
     "description": "A musical drama film about the forbidden romance between Tony, a former member of the Jets, and Maria, the sister of the leader of the rival gang, the Sharks, set in 1950s New York City.",
     "runtime": 156,
     "mpaa": "PG-13",
