@@ -760,6 +760,36 @@
     "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/da/b2/fb/dab2fb99-1797-1bb9-55df-408a88c888e8/pr_source.lsr/738x416.webp"
   },
 
+  {
+    "item": 4598,
+    "Year": 1997,
+    "title": "Good Burger",
+    "runtime": 95,
+    "mpaa": "PG",
+    "description": "Good Burger is a hilarious comedy about two dim-witted teenagers who work at a fast-food restaurant called Good Burger. When a competing fast-food chain opens nearby, they must come up with a plan to save their beloved restaurant.",
+    "genre": ["comedy", "kids"],
+    "director": [{
+      "name": "Brian Robbins",
+      "image": "https://variety.com/wp-content/uploads/2023/07/Brian-Robbins-Variety-Cover-Story-Full-3.jpg?crop=57px%2C181px%2C943px%2C530px&resize=1000%2C563",
+      "imdb": "https://www.imdb.com/name/nm0730592/"
+    }],
+    "actors": [{
+      "name": "Kel Mitchell",
+      "image": "https://www.ebony.com/wp-content/uploads/2022/03/31/GettyImages-1386775834-1-1000x552.jpg?t=1672034062",
+      "imdb": "https://www.imdb.com/name/nm0593804/"
+    }, {
+      "name": "Kenan Thompson",
+      "image": "https://people.com/thmb/OyV_ECSiu7mrAwO-N2nAiICGiv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(722x249:724x251)/Kenan-Thompson-memoir-080323-tout-44260706e8734fdf803f69921bc02146.jpg",
+      "imdb": "https://www.imdb.com/name/nm0862713/"
+    }, {
+      "name": "Sinbad",
+      "image": "https://www.usatoday.com/gcdn/presto/2020/11/16/USAT/37d2fb24-cad2-42bd-9342-ed4367320676-AP_People_Sinbad.jpg?crop=4207,2367,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "imdb": "https://www.imdb.com/name/nm0005435/"
+    }],
+    "link": "https://tv.apple.com/us/movie/good-burger/umc.cmc.6x9zm073xmggzizlyqa402wgj?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/b4/55/5b/b4555b9a-9752-f531-de6e-1b2e7027613b/GoodBurger_2019_DVD_GEN_ParallaxWorking_3840x2160.lsr/738x416.webp"
+  },
+  
 
   
 
