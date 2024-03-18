@@ -2,6 +2,7 @@
   {
     "item": "5793",
     "title": "The Master",
+    "year": 2012,
     "runtime": 138,
     "mpaa": "R",
     "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/164e3b6d-bc7f-4828-8e99-a8b87db59964.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640",
@@ -31,6 +32,7 @@
   {
     "item": 3791,
     "title": "Modern Times",
+    "year": 1936,
     "runtime": 87,
     "mpaa": "G",
     "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
@@ -65,6 +67,7 @@
   {    
     "item": "2356",
     "title": "The Great Dictator",
+    "year": 1940,
     "runtime": 125,
     "mpaa": "PG",
     "description": "In this iconic satire, Charlie Chaplin portrays both a Jewish barber and a dictator modeled after Adolf Hitler, offering a comedic yet poignant commentary on fascism, discrimination, and the importance of democracy.",
@@ -92,6 +95,7 @@
   "title": "The Kid",
   "runtime": 68,
   "mpaa": "G",
+  "year": 1921,
   "description": "In this heartwarming silent film, Charlie Chaplin portrays a tramp who discovers and cares for an abandoned child, forging a touching bond despite their struggles against poverty and authorities.",
   "genre": ["comedy", "drama", "classic", "silent-film"],
   "director": [{
@@ -116,6 +120,7 @@
 {    
   "item": "2356",
   "title": "The Gold Rush",
+  "year": 1925,
   "runtime": 95,
   "mpaa": "G",
   "description": "In this classic silent comedy, Charlie Chaplin's iconic tramp character braves the harsh conditions of the Klondike Gold Rush, encountering humor, romance, and adventure amidst the snow-covered landscapes.",
@@ -145,6 +150,7 @@
 {    
   "item": "8912",
   "title": "Limelight",
+  "year": 1952,
   "runtime": 137,
   "mpaa": "PG",
   "description": "In 'Limelight,' Charlie Chaplin portrays a faded comedian who befriends a young ballerina, offering her hope and support amidst their personal struggles, while reflecting on the fleeting nature of fame and the pursuit of happiness.",
@@ -177,6 +183,7 @@
   "title": "The Circus",
   "runtime": 71,
   "mpaa": "G",
+  "year": 1928,
   "description": "In 'The Circus,' Charlie Chaplin's tramp character inadvertently becomes the star attraction of a circus, bringing laughter and chaos wherever he goes, while also navigating the complexities of love and friendship.",
   "genre": ["comedy", "drama", "romance", "silent-film", "classic"],
   "director": [{
@@ -205,6 +212,7 @@
 {    
   "item": "5123",
   "title": "The Thin Blue Line",
+  "year": 1988,
   "runtime": 103,
   "mpaa": "Not Rated",
   "description": "In 'The Thin Blue Line,' filmmaker Errol Morris investigates the case of a man wrongfully convicted of murder, revealing the flaws in the justice system and the power of documentary filmmaking to challenge prevailing narratives.",
@@ -222,6 +230,7 @@
 {    
   "item": "1123",
   "title": "Gates of Heaven",
+  "year": 1978,
   "runtime": 85,
   "mpaa": "Not Rated",
   "description": "'Gates of Heaven' is a documentary directed by Errol Morris. The film explores the pet cemetery business, focusing on two such cemeteries in California and the people who run them. Through interviews with the cemetery owners and pet owners, the film delves into themes of love, loss, and the human-animal bond.",
@@ -240,6 +249,7 @@
   {
     "item": "7832",
     "title": "Sophie's Choice",
+    "year": 1982,
     "runtime": 150,
     "mpaa": "R",
     "description": "Sophie, a Polish immigrant, shares a boarding house in Brooklyn with her tempestuous lover Nathan and a young writer named Stingo. As the three grow closer, Sophie reveals a dark secret from her past that haunts her present and threatens to tear apart their fragile relationships.",
@@ -269,6 +279,7 @@
   {
     "item": "2198",
     "title": "I'm Not There",
+    "year": 2007,
     "runtime": 135,
     "mpaa": "R",
     "description": "A unique biographical film about the life of legendary musician Bob Dylan, portrayed through six distinct characters embodying different aspects of his persona and career. Through these narratives, the film explores themes of identity, fame, and artistic expression.",
@@ -302,6 +313,7 @@
   {
     "item": 5289,
     "title": "Basquiat",
+    "year": 1996,
     "runtime": 107,
     "mpaa": "R",
     "description": "A biographical drama chronicling the life and career of Jean-Michel Basquiat, a young and talented artist who rose to prominence in the 1980s New York City art scene. The film explores Basquiat's journey from homeless graffiti artist to internationally acclaimed painter, capturing his struggles with fame, addiction, and the pressures of the art world.",
@@ -335,6 +347,7 @@
   {
     "item": "6734",
     "title": "My Week with Marilyn",
+    "year": 2011,
     "runtime": 99,
     "mpaa": "R",
     "description": "Based on the true story of Colin Clark, a young assistant on the set of 'The Prince and the Showgirl,' who documents his experiences with the iconic Marilyn Monroe during a week in 1956. As Colin becomes infatuated with Marilyn, he witnesses the highs and lows of her tumultuous life, offering a glimpse behind the glamorous facade.",
@@ -369,6 +382,7 @@
 {
   "item": 3872,
   "title": "The Unknown",
+  "year": 1927,
   "runtime": 63,
   "mpaa": "Not Rated",
   "description": "In Tod Browning's twisted tale, a criminal on the run hides out in a circus, posing as an armless knife thrower. His act is a front to get close to the beautiful and young aerialist, whom he's obsessed with. But as their relationship develops, dark secrets are revealed.",
@@ -395,6 +409,7 @@
   {
     "item": 2001,
     "title": "Mulholland Drive",
+    "year": 2000,
     "runtime": 147,
     "mpaa": "R",
     "description": "A dark tale of love, jealousy, and the pursuit of dreams set in the seedy underbelly of Hollywood.",
@@ -422,8 +437,9 @@
   },
 
   {
-    "item": "1997",
+    "item": 1997,
     "title": "Lost Highway",
+    "year": 1997,
     "runtime": 134,
     "mpaa": "R",
     "description": "A mind-bending neo-noir mystery where identities blur, and reality and fantasy intertwine as a man finds himself on the run after a series of bizarre events.",
@@ -454,8 +470,9 @@
     "link": "https://www.criterionchannel.com/lost-highway"
   },
   {
-    "item": "2006",
+    "item": 2006,
     "title": "Inland Empire",
+    "year": 2006,
     "runtime": 180,
     "mpaa": "R",
     "description": "A labyrinthine journey into the fractured psyche of an actress, blurring the lines between reality and fiction as she becomes entangled in a mysterious film production.",
@@ -489,6 +506,7 @@
   {
     "item": 6543,
     "title": "Reservoir Dogs",
+    "year": 1992,
     "description": "A crime thriller film directed by Quentin Tarantino, which follows the aftermath of a botched diamond heist as the criminals begin to suspect that one of them is a police informant.",
     "runtime": 99,
     "mpaa": "R",
@@ -527,8 +545,9 @@
   },
 
   {    
-  "item": "54321",
+  "item": 54321,
   "title": "The Virgin Suicides",
+  "year": 1999,
   "runtime": 97,
   "mpaa": "R",
   "description": "A group of male friends becomes obsessed with a group of mysterious sisters who are sheltered by their strict, religious parents after one of them commits suicide.",
@@ -557,7 +576,8 @@
 ,
 
 {
-  "item": "1988",
+  "item": 1988,
+  "year": 1988,
   "title": "Cocktail",
   "runtime": 104,
   "mpaa": "R",
@@ -586,8 +606,9 @@
 },
 
 {
-  "item": "6969",
+  "item": 6969,
   "title": "Showgirls",
+  "year": 1995,
   "runtime": 131,
   "mpaa": "NC-17",
   "description": "Nomi Malone, a young drifter, arrives in Las Vegas with dreams of becoming a showgirl. She quickly finds herself immersed in the cutthroat world of the city's entertainment industry, where ambition and betrayal go hand in hand. As Nomi climbs the ranks, she faces seduction, rivalry, and moral compromises, ultimately discovering the high price of fame in a world where everything glitters but not everything is gold.",
@@ -617,6 +638,7 @@
 {
   "item": "4231",
   "title": "Xanadu",
+  "year": 1980,
   "runtime": 96,
   "mpaa": "PG",
   "description": "In 'Xanadu,' a struggling artist named Sonny Malone finds inspiration and love when he encounters Kira, a beautiful muse from the mythical realm of Mount Olympus. Together, they embark on a journey to create a legendary nightclub called Xanadu, where dreams come true through music and dance. However, their romance is threatened by the jealous interference of otherworldly forces, forcing them to fight for their love and artistic vision against all odds.",
@@ -647,6 +669,7 @@
   "item": "7785",
   "title": "Heaven's Gate",
   "runtime": 219,
+  "year": 1980,
   "mpaa": "R",
   "description": "In 'Heaven's Gate,' tensions erupt in the Wyoming town of Johnson County as wealthy cattle barons clash with European immigrants over land and power. As violence escalates, a Harvard graduate turned federal marshal, Jim Averill, finds himself torn between loyalty to his upper-class peers and compassion for the oppressed immigrants. Set against the backdrop of the Johnson County War, 'Heaven's Gate' explores themes of class conflict, identity, and the American Dream in the late 19th century.",
   "genre": ["drama", "western"],
