@@ -2,6 +2,7 @@
   {    
     "item": "P436",
     "title": "Oppenheimer",
+    "year": 2023,
     "runtime": 180,
     "mpaa": "R",
     "poster": "https://www.peacocktv.com/dam/growth/assets/Campaign/P1/oppenheimer/oppenheimer-social.jpg",
@@ -36,6 +37,7 @@
   {
     "id": 1030,
     "title": "Kill Switch",
+    "year": 2017,
     "description": "A troubled detective travels to Memphis in order to track down a pair of serial killers.",
     "runtime": 96,
     "genre": ["action", "crime", "drama"],
@@ -72,6 +74,7 @@
 {    
   "item": "98765",
   "title": "Lost in Translation",
+  "year": 2004,
   "runtime": 102,
   "mpaa": "R",
   "description": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
@@ -106,6 +109,7 @@
   {
     "item": 9876,
     "title": "The King of Staten Island",
+    "year": 2020,
     "runtime": 136,
     "mpaa": "R",
     "description": "A semi-autobiographical comedy-drama following a young man's journey to find purpose and overcome his grief after his father's death, all while navigating life in Staten Island.",
@@ -139,6 +143,7 @@
   {
     "item": "129",
     "title": "Kick-Ass",
+    "year": 2010,
     "runtime": 117,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/b8700949-f8da-37ff-bc59-5f70678e68ea/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=47ff2ddc-b9ff-39ca-afd8-19456cbee91d",
@@ -172,6 +177,7 @@
   {
     "item": "130",
     "title": "One for the Money",
+    "year": 2012,
     "runtime": 91,
     "mpaa": "PG-13",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/4a4c81af-dd1e-3dbd-b831-253d33b32ada/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=26ec94fd-64d6-3275-995e-468fc86db061",
@@ -205,6 +211,7 @@
   {
     "item": "131",
     "title": "13 Assassins",
+    "year": 2010,
     "runtime": 141,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/a2496c62-690d-37c8-988e-10e92d5ebe74/LAND_16_9?language=eng&territory=US&proposition=NBCUOTT&version=7594b1ba-582d-3f29-831d-55ffa5130cf0",
@@ -239,6 +246,7 @@
     "title": "Season of the Witch",
     "runtime": 95,
     "mpaa": "PG-13",
+    "year": 2011,
     "poster": "https://inconsistentpacing.files.wordpress.com/2018/06/season-of-the-witch.jpg?w=656",
     "description": "A knight and his friend are tasked with transporting a suspected witch to a monastery, where monks will perform a ritual to rid her of her supposed powers.",
     "genre": ["action", "adventure", "fantasy"],
@@ -270,6 +278,7 @@
   {
     "item": "133",
     "title": "The VelociPastor",
+    "year": 2017,
     "runtime": 75,
     "mpaa": "Not Rated",
     "poster": "https://i.ytimg.com/vi/JppwKpfOgyo/hqdefault.jpg",
@@ -303,6 +312,7 @@
   {
     "item": "134",
     "title": "Violet & Daisy",
+    "year": 2011,
     "runtime": 88,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/cbfaf6f3-ec93-3464-9d98-c072ed0d50ee/LAND_16_9?language=eng&territory=US&version=02e15c83-c244-37f1-8b36-628432e79209",
@@ -336,9 +346,10 @@
   {
     "item": "135",
     "title": "Turbo Kid",
+    "year": 2015,
     "runtime": 93,
     "mpaa": "Not Rated",
-    "poster": "https://imageservice.disco.peacocktv.com/uuid/0cec71a1-25d9-3dc7-8c5e-b5587bb58e49/TITLE_ART_3_4/640/480?language=eng&territory=US&version=5a4f76b2-6b9d-3982-8eac-e6b2579ad7b5&output-format=webp",
+    "poster": "https://i.ytimg.com/vi/DJIG70aFOlA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD5JSImmPX9DOGurn4J2K7ex3Yzaw",
     "description": "In a post-apocalyptic wasteland, a young scavenger becomes the unlikely hero known as Turbo Kid when he meets a mysterious girl named Apple and embarks on a quest to save his friend and stop an evil warlord.",
     "genre": ["action", "adventure", "science-fiction", "kids"],
     "link": "https://www.peacocktv.com/watch-online/movies/turbo-kid/6ae1f257-2c84-33ed-88c9-bd1e4cbc5ef8",
@@ -373,6 +384,7 @@
   {
     "item": "136",
     "title": "A Christmas in Vermont",
+    "year": 2021,
     "runtime": 86,
     "mpaa": "Not Rated",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/9ca942fc10e13fbcbdb6a58cbabea2627dfde9113d0b01a31390c67d56aaeb9f.jpg",
@@ -402,6 +414,7 @@
   {
     "item": "137",
     "title": "A Cinderella Christmas",
+    "year": 2019,
     "runtime": 93,
     "mpaa": "Not Rated",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/0d3a95ab-719b-3267-b259-687215cebe75/TITLE_ART_3_4/640/480?language=eng&territory=US&version=990a7e05-b7c1-31ad-8a86-ff9bafa17a82&output-format=webp",
@@ -431,6 +444,7 @@
   {
     "item": "138",
     "title": "A Doggone Christmas",
+    "year": 2015,
     "runtime": 82,
     "mpaa": "Not Rated",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/40764a8f-c9de-3d77-9161-dc5745f0d9e6/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=31a92e03-6d99-3aff-ac75-509b5229daa2",
@@ -460,6 +474,7 @@
   {
     "item": "139",
     "title": "A Dogwalker's Christmas Tale",
+    "year": 2012,
     "runtime": 86,
     "mpaa": "Not Rated",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/a4d07587-1ff6-356a-a649-eb77ce6c8852/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=bee035b1-aa10-3f6e-89f9-a90bfd38a433&output-format=webp",
@@ -489,6 +504,7 @@
   {
     "item": "140",
     "title": "A Jersey Christmas",
+    "year": 2017,
     "runtime": 90,
     "mpaa": "Not Rated",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/0b096add-c396-331b-9ea2-3eb75e59300b/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=f449865b-23d2-3cdc-9cce-8a3581a6c653&output-format=webp",
@@ -518,6 +534,7 @@
   {
     "item": "141",
     "title": "A Fantastic Fear of Everything",
+    "year": 2012,
     "runtime": 100,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/073878e4-126f-384b-b871-51d9dcc6513b/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=76e944c5-eada-3cb8-8560-4c938a3769fb&output-format=webp",
