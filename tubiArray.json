@@ -301,6 +301,36 @@
   "poster": "https://canvas-bridge.tubitv.com/-ID0vn-uZ6-Y9hJnif1iS7ET3LY=/448x252/smart/img.adrise.tv/db6bf8fa-6b26-4ad8-9f62-6d017c1a393e.jpg"
 },
 
+{    
+  "item": "5678",
+  "year": 1924,
+  "title": "Sherlock Jr.",
+  "runtime": 45,
+  "mpaa": "Not Rated",
+  "description": "A film projectionist longs to be a detective, and his dreams blur with reality when he is framed for theft and falls in love.",
+  "genre": ["action", "comedy", "mystery", "classic", "silent-film"],
+  "director": [{
+    "name": "Buster Keaton",
+    "image": "https://www.themusichall.org/wp-content/uploads/2020/07/BusterWrappedInFilm-1024x445.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000036/"
+  }],
+  "actors": [{
+    "name": "Buster Keaton",
+    "image": "https://www.themusichall.org/wp-content/uploads/2020/07/BusterWrappedInFilm-1024x445.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000036/"
+  }, {
+    "name": "Kathryn McGuire",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE5N2VlN2YtYmU0OS00ZjRiLTgzOWItNTFkN2Y0OWZmOGEzXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0569295/"
+  }, {
+    "name": "Joe Keaton",
+    "image": "https://busterkeaton.org/wp-content/uploads/2022/08/3_KEATONS-bk_joe_myra_in_stage_makeup_1920x.jpg",
+    "imdb": "https://www.imdb.com/name/nm0444142/"
+  }],
+  "link": "https://tubitv.com/movies/100011022/sherlock-jr",
+  "poster": "https://canvas-bridge.tubitv.com/Ls6Ca8o_H9zk_zvIRMnFEKXKvfk=/448x252/smart/img.adrise.tv/a8ba5ee4-c8e4-44f3-aca6-006f49195262.jpg"
+},
+
   {
     "item": "1986",
     "title": "Blue Velvet",
