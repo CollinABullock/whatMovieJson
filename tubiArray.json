@@ -2,6 +2,7 @@
   {
     "item": "5678",
     "title": "Mean Streets",
+    "year": 1973,
     "runtime": 112,
     "mpaa": "R",
     "poster": "https://canvas-bridge02.tubitv.com/HV22ihFbsWr14zm4SVavhC_ZMd4=/395x226:3405x1897/448x252/smart/img.adrise.tv/fdcc5005-b5c8-410a-b42f-2d3b34043786.jpg",
@@ -27,6 +28,7 @@
   {
     "item": 3791,
     "title": "Modern Times",
+    "year": 1936,
     "runtime": 87,
     "mpaa": "G",
     "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
@@ -62,6 +64,7 @@
   "item": "2356",
   "title": "The Gold Rush",
   "runtime": 95,
+  "year": 1925,
   "mpaa": "G",
   "description": "In this classic silent comedy, Charlie Chaplin's iconic tramp character braves the harsh conditions of the Klondike Gold Rush, encountering humor, romance, and adventure amidst the snow-covered landscapes.",
   "genre": ["comedy", "drama", "classic", "silent-film"],
@@ -92,6 +95,7 @@
   "title": "The Thin Blue Line",
   "runtime": 103,
   "mpaa": "Not Rated",
+  "year": 1988,
   "description": "In 'The Thin Blue Line,' filmmaker Errol Morris investigates the case of a man wrongfully convicted of murder, revealing the flaws in the justice system and the power of documentary filmmaking to challenge prevailing narratives.",
   "genre": ["documentary", "crime", "classic"],
   "director": [{
@@ -108,6 +112,7 @@
   "item": "5432",
   "title": "Life Itself",
   "runtime": 120,
+  "year": 2014,
   "mpaa": "R",
   "description": "'Life Itself' is a documentary film directed by Steve James, chronicling the life and career of film critic Roger Ebert. Through interviews, archival footage, and Ebert's own writings, the film explores his impact on film criticism and his personal journey, including his battle with cancer.",
   "genre": ["documentary", "biopic"],
@@ -125,6 +130,7 @@
 {    
   "item": "1123",
   "title": "Gates of Heaven",
+  "year": 1978,
   "runtime": 85,
   "mpaa": "Not Rated",
   "description": "'Gates of Heaven' is a documentary directed by Errol Morris. The film explores the pet cemetery business, focusing on two such cemeteries in California and the people who run them. Through interviews with the cemetery owners and pet owners, the film delves into themes of love, loss, and the human-animal bond.",
@@ -142,6 +148,7 @@
 {    
   "item": "2244",
   "title": "The Look of Silence",
+  "year": 2014,
   "runtime": 103,
   "mpaa": "PG-13",
   "description": "In 'The Look of Silence,' director Joshua Oppenheimer follows an optometrist named Adi as he confronts the individuals responsible for the Indonesian genocide of the 1960s, including those who murdered his own brother. Through Adi's journey, the film examines memory, trauma, and the legacy of violence.",
@@ -160,6 +167,7 @@
 {    
   "item": "5678",
   "title": "Tabloid",
+  "year": 2010,
   "runtime": 87,
   "mpaa": "R",
   "description": "'Tabloid' is a documentary directed by Errol Morris, focusing on the strange case of Joyce McKinney, a former beauty queen who was accused of kidnapping and raping a Mormon missionary in the 1970s. Through interviews with McKinney and others involved, the film explores themes of obsession, love, and the media.",
@@ -178,6 +186,7 @@
 {    
   "item": "1357",
   "title": "Rain Man",
+  "year": 1988,
   "runtime": 133,
   "mpaa": "R",
   "description": "In 'Rain Man,' Charlie Babbitt discovers that his estranged brother Raymond, an autistic savant, has inherited their deceased father's fortune. As Charlie attempts to gain custody of Raymond to access the money, the two embark on a journey that profoundly impacts both their lives.",
@@ -213,6 +222,7 @@
   "title": "Valkyrie",
   "runtime": 121,
   "mpaa": "PG-13",
+  "year": 2008,
   "description": "In 'Valkyrie,' Colonel Claus von Stauffenberg, played by Tom Cruise, leads a daring plot to assassinate Adolf Hitler and overthrow the Nazi regime during World War II. With a team of fellow German officers, Stauffenberg hatches a plan known as Operation Valkyrie, aiming to bring an end to tyranny and restore honor to their country.",
   "genre": ["drama", "history", "thriller"],
   "director": [{
@@ -244,6 +254,7 @@
 {    
   "item": "1234",
   "title": "Lions for Lambs",
+  "year": 2007,
   "runtime": 92,
   "mpaa": "R",
   "description": "Lions for Lambs interweaves several storylines, including a senator's bold new political move, a journalist chasing a breaking story, and two soldiers trapped behind enemy lines. As the characters' lives intersect, they must confront difficult ethical questions amidst the backdrop of the Afghanistan war.",
@@ -368,6 +379,7 @@
   {
     "item": 4732,
     "title": "Hannibal",
+    "year": 2001,
     "runtime": 131,
     "mpaa": "R",
     "description": "Hannibal Lecter resurfaces in Italy and becomes the target of a disfigured and vengeful victim from his past, while a FBI agent seeks to capture him for his past crimes.",
@@ -405,6 +417,7 @@
     "runtime": 91,
     "genre": ["action", "crime", "thriller"],
     "mpaa": "R",
+    "year": 2018,
     "director": [
       {
         "name": "Keoni Waxman",
@@ -432,6 +445,7 @@
   {
     "id": 1027,
     "title": "The Asian Connection",
+    "year": 2016,
     "description": "Two American expatriates, Jack and Sam, unwittingly steal a drug lord's money when they rob a series of banks in Southeast Asia and become the target of the gang's vengeance.",
     "runtime": 90,
     "genre": ["action", "crime"],
@@ -467,6 +481,7 @@
   {
     "id": 1028,
     "title": "Sniper: Special Ops",
+    "year": 2010,
     "description": "A Special Ops military Force, led by Sergeant Vic Mosby (Tim Abell) with an expert sniper Sergeant Jake Chandler (Steven Seagal) as \"Over Watch\" during a special mission are sent to a remote Afghan village to extract an American Congressman being held by the Taliban.",
     "runtime": 86,
     "genre": ["action", "drama", "war"],
@@ -504,6 +519,7 @@
     "id": 1029,
     "title": "Ticker",
     "description": "Ray Nettles, a San Francisco detective, and his partner Fuzzy must take on to one of the most dangerous terrorist gangs in the city. When one of the terrorists, the beautiful scientist Claire Manning is arrested, Swann, the leader of the terrorists, claims he will detonate bombs throughout the city if she is not released. Because of the possible bloodshed, Nettles calls for the help of explosives expert Frank Glass.",
+    "year": 2001,
     "runtime": 92,
     "genre": ["action", "crime", "thriller"],
     "mpaa": "R",
@@ -539,6 +555,7 @@
   {
     "item": 68667,
     "title": "After Hours",
+    "year": 1985,
     "description": "An ordinary word processor has the worst night of his life after he agrees to visit a girl in Soho whom he met that evening at a coffee shop.",
     "runtime": 97,
     "mpaa": "R",
@@ -579,6 +596,7 @@
   {    
     "item": "99111",
     "title": "A Good Man",
+    "year": 2014,
     "runtime": 103,
     "mpaa": "Not Rated",
     "poster": "https://canvas-bridge.tubitv.com/lrP81H--xjmIF6CgZWFH_p-OKeM=/448x252/smart/img.adrise.tv/dd0f716d-025d-4be8-a9f6-352e48cb8797.jpg",
@@ -608,6 +626,7 @@
   {    
     "item": "12345",
     "title": "Force of Execution",
+    "year": 2013,
     "runtime": 99,
     "mpaa": "R",
     "description": "A crime lord's right-hand man, who falls for a woman targeted by the mob boss, seeks to turn his back on a life of crime.",
@@ -638,6 +657,7 @@
 {    
   "item": "98765",
   "title": "Tucker: The Man and His Dream",
+  "year": 1988,
   "runtime": 110,
   "mpaa": "PG",
   "description": "The story of Preston Tucker, the maverick car designer and his ill-fated challenge to the auto industry with his revolutionary car concept.",
@@ -669,6 +689,7 @@
   {
     "item": 6543,
     "title": "A Woman, a Gun, and a Noodle Shop",
+    "year": 2009,
     "description": "At boss Wang's traditional Chinese noodle shop, a colourful and exotic Persian trader of arms introduces the shop owner's wife to the weapons of the West, and consequently, to mankind's greatest invention: the handgun. As a result, the woman excited with her newest acquisition that kills instantly, a brass, triple-muzzle top-break revolver, naturally, she will need more, however, the loud noise of the firearms' demonstration will inevitably attract a brigade of the local police force who will drop by for an investigation. Soon, grouchy old miser Wang will find out everything about his double-crossing wife's affair with the Inn's mincing weakling apprentice Li, and as the corpses begin piling up, it's going to be every man for himself and all for Wang's crammed strongbox",
     "runtime": 95,
     "mpaa": "R",
@@ -704,6 +725,7 @@
   {
     "item": 2394,
     "title": "Paths of Glory",
+    "year": 1957,
     "description": "During World War I, commanding officer General Broulard (Adolphe Menjou) orders his subordinate, General Mireau (George Macready), to attack a German trench position, offering a promotion as an incentive. Though the mission is foolhardy to the point of suicide, Mireau commands his own subordinate, Colonel Dax (Kirk Douglas), to plan the attack. When it ends in disaster, General Mireau demands the court-martial of three random soldiers in order to save face.",
     "runtime": 88,
     "mpaa": "Not Rated",
@@ -738,6 +760,7 @@
   {
     "item": 6543,
     "title": "Reservoir Dogs",
+    "year": 1992,
     "description": "A crime thriller film directed by Quentin Tarantino, which follows the aftermath of a botched diamond heist as the criminals begin to suspect that one of them is a police informant.",
     "runtime": 99,
     "mpaa": "R",
@@ -778,6 +801,7 @@
   {
     "item": 5678,
     "title": "Little Nicky",
+    "year": 2000,
     "description": "A comedy film about the devil's weakling son, Nicky, who embarks on a mission to save his father and prevent his evil brothers from taking over both the underworld and the earth.",
     "runtime": 90,
     "mpaa": "PG-13",
@@ -819,6 +843,7 @@
   {
     "item": 4192,
     "title": "Lolita",
+    "year": 1962,
     "description": "With a screenplay penned by the author himself, Stanley Kubrick brings Vladimir Nabokov's controversial tale of forbidden love to the screen. Humbert Humbert (James Mason) is a European professor who relocates to an American suburb, renting a room from lonely widow Charlotte Haze (Shelley Winters). Humbert marries Charlotte, but only to nurture his obsession with her comely teenage daughter, Lolita (Sue Lyon). After Charlotte's sudden death, Humbert has Lolita all to himself -- or does he?",
     "runtime": 153,
     "mpaa": "Not Rated",
@@ -861,6 +886,7 @@
   "title": "Fear and Desire",
   "description": "An anti-war film directed by Stanley Kubrick, following a small squad of soldiers who crash behind enemy lines and must confront their own fears and desires.",
   "runtime": 62,
+  "year": 1952,
   "mpaa": "Not Rated",
   "genre": ["war", "drama", "classic"],
   "director": [
@@ -896,6 +922,7 @@
   {
     "item": 5678,
     "title": "Barry Lyndon",
+    "year": 1975,
     "description": "A historical drama film directed by Stanley Kubrick, based on the 1844 novel 'The Luck of Barry Lyndon' by William Makepeace Thackeray.",
     "runtime": 185,
     "mpaa": "PG",
