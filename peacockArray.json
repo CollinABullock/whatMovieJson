@@ -571,6 +571,7 @@
   {
     "item": "142",
     "title": "A Little Bit of Heaven",
+    "year": 2011,
     "runtime": 106,
     "mpaa": "PG-13",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/b2a2461f-82d5-3d00-b873-31cf34b28f14/KEY_ART_16_9?language=eng&territory=US&version=39fc83d6-66fb-3f14-83ed-a3e066b25d93",
@@ -604,6 +605,7 @@
   {
     "item": "143",
     "title": "12 Days of Christmas Eve",
+    "year": 2017,
     "runtime": 89,
     "mpaa": "Not Rated",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/6ff7ba51-463e-3f2d-94a8-8eb55e4ac1fe/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=0993024e-6225-3116-b760-d88f86c11742&output-format=webp",
@@ -633,6 +635,7 @@
   {
     "item": "78787878",
     "title": "8 Mile",
+    "year": 2002,
     "runtime": 110,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/8daa17dd-25dc-3347-a886-f00526c79022/TITLE_ART_3_4/640/480?language=eng&territory=US&version=a8d767bb-6a09-3187-b21b-8efd889e0722&output-format=webp",
@@ -667,6 +670,7 @@
   {
     "item": "111115",
     "title": "9 to 5",
+    "year": 1980,
     "runtime": 109,
     "mpaa": "PG",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/49746fa5-ead3-3c82-983c-bc905b7638a5/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=e7067512-8132-33ae-a4d9-e484aa0a9325&output-format=webp",
@@ -696,6 +700,7 @@
   {
     "item": "P911",
     "title": "9/11",
+    "year": 2017,
     "runtime": 90,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/14ddceb3-ec94-3701-8327-2bf8b37e1ba4/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=8a01125b-b3c9-3319-b901-35bc2689be48&output-format=webp",
@@ -725,6 +730,7 @@
   {
     "item": "5832",
     "title": "99 Homes",
+    "year": 2014,
     "runtime": 112,
     "mpaa": "R",
     "poster": "https://variety.com/wp-content/uploads/2014/08/99.jpg?crop=0px%2C455px%2C4200px%2C2338px&resize=1000%2C563",
@@ -758,6 +764,7 @@
 {
   "item": "7621",
   "title": "A Child's Christmas in Wales",
+  "year": 2015,
   "runtime": 55,
   "mpaa": "Not Rated",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/1d2c14dd-78bb-3671-9cda-67e3a6b82664/TITLE_ART_3_4/640/480?language=eng&territory=US&version=03d5af09-79fc-33ba-8292-dc676e9828cf&output-format=webp",
@@ -788,8 +795,9 @@
   "item": "1267",
   "title": "Steel Country",
   "runtime": 89,
+  "year": 2018,
   "mpaa": "R",
-  "poster": "https://imageservice.disco.peacocktv.com/uuid/64d2f2a5-ad1f-3c68-a9f2-e69e41db4617/TITLE_ART_3_4/640/480?language=eng&territory=US&version=77ae084d-639e-3f51-8e83-2df08e3e8b61&output-format=webp",
+  "poster": "https://images.bauerhosting.com/legacy/empire-images/reviews_films/5cb8a05c133d503e3a490481/steel-country.jpg?ar=16:9&fit=crop&crop=top",
   "description": "When a young boy's body is found in a small Pennsylvania town, a local sanitation truck driver becomes obsessed with finding out the truth behind his death.",
   "genre": ["mystery", "thriller", "drama"],
   "link": "https://www.peacocktv.com/watch-online/movies/a-dark-place/debcdc7e-3011-3c48-a4e9-7c55b38a2b41",
@@ -816,6 +824,7 @@
   {
     "item": "2354",
     "title": "A Faster Horse",
+    "year": 2015,
     "runtime": 90,
     "mpaa": "Not Rated",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/68f45d0d0eb681b9c23b3a6a397472f1a3b5e908e680f4567dc43f960c3e349c.jpg",
@@ -833,6 +842,7 @@
   {
     "item": "7890",
     "title": "A Friend Of The Family: True Evil",
+    "year": 2023,
     "runtime": 89,
     "mpaa": "Not Rated",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/f7119a72-7de3-3bba-a604-59e39ba526ff/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=bc40a0f0-eac7-31e5-882c-31f1738c2ca8",
@@ -850,6 +860,7 @@
   {
     "item": "4367",
     "title": "A Guide to Recognizing Your Saints",
+    "year": 2006,
     "runtime": 100,
     "mpaa": "R",
     "poster": "https://i.ytimg.com/vi/fg3XG44eprI/maxresdefault.jpg",
@@ -879,6 +890,7 @@
   {
     "item": "5392",
     "title": "A Long Way Down",
+    "year": 2014,
     "runtime": 96,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/410ad6ee-0574-32be-b640-20f802aae5a3/LAND_16_9?language=eng&territory=US&version=3447bdc7-59a4-3619-9ba7-c27fadbe32a8",
@@ -907,6 +919,7 @@
   {
     "item": "7314",
     "title": "A Little Trip to Heaven",
+    "year": 2005,
     "runtime": 98,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/8c3d490f-076e-3476-abfa-7b8aee037dbf/TITLE_ART_16_9?language=eng&territory=US&version=2d767d2e-6885-3421-beb1-7f11002d0e2b",
@@ -936,6 +949,7 @@
   {
     "item": "8792",
     "title": "A League of Their Own",
+    "year": 1992,
     "runtime": 128,
     "mpaa": "PG",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/dcc6f270-24cf-3b73-ae64-d804f3ffafae/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=981b0cac-f451-3c7d-b918-66c8473af2e1",
@@ -968,6 +982,7 @@
   {
     "item": "5914",
     "title": "A Map of the World",
+    "year": 1999,
     "runtime": 125,
     "mpaa": "R",
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/5ca87f54db494fae41c3365d5a4b613ce12a1f9faa69ceb291872cedda2e5ff6.jpg",
@@ -996,6 +1011,7 @@
   {
     "item": "3847",
     "title": "A Rainy Day in New York",
+    "year": 2019,
     "runtime": 92,
     "mpaa": "PG-13",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/183e6270-2bd0-34ea-97d8-4f9ae44c3181/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=3b9aedb2-61d4-3974-b30a-319e3b88bfab",
@@ -1025,6 +1041,7 @@
   {    
     "item": "7369",
     "title": "The Act of Killing",
+    "year": 2012,
     "runtime": 159,
     "mpaa": "Not Rated",
     "description": "In 'The Act of Killing,' director Joshua Oppenheimer challenges former Indonesian death squad leaders to reenact their crimes in the style of Hollywood films, offering a chilling exploration of memory, impunity, and the nature of evil.",
@@ -1043,6 +1060,7 @@
   {
     "item": "9275",
     "title": "Addicted to Fresno",
+    "year": 2015,
     "runtime": 85,
     "mpaa": "R",
     "poster": "https://afterellen.com/wp-content/uploads/2020/12/screen-shot-2015-10-07-at-15-10-30.png",
@@ -1071,6 +1089,7 @@
   {
     "item": "6318",
     "title": "Afternoon Delight",
+    "year": 2013,
     "runtime": 97,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/f2fe26fb-5167-362d-9864-f2eeeb344760/LAND_16_9?language=eng&territory=US&version=9174a86f-2582-333c-8a97-b68913f8c2c7",
@@ -1103,6 +1122,7 @@
   {
     "item": "2719",
     "title": "Basmati Blues",
+    "year": 2017,
     "runtime": 106,
     "mpaa": "Not Rated",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/40979f75-e826-33ad-a848-a77fc9c1b096/TITLE_ART_3_4/640/480?language=eng&territory=US&version=2e5883f9-e3b7-374c-8642-da0e25bcb5e2&output-format=webp",
@@ -1131,6 +1151,7 @@
   {
     "item": "1254",
     "title": "Behaving Badly",
+    "year": 2014,
     "runtime": 97,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/af27c713-e302-3b9d-8f33-c436580e532f/TITLE_ART_3_4/640/480?language=eng&territory=US&version=33d83eab-76db-324b-b69c-cf1da0d2cdc0&output-format=webp",
@@ -1160,6 +1181,7 @@
   {
     "item": "7458",
     "title": "Death Becomes Her",
+    "year": 1992,
     "runtime": 104,
     "mpaa": "PG-13",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/b3daad96-523e-39fb-b764-e4728aae89aa/KEY_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=0dcb733e-77a2-33f0-ab6c-b54eca3bc733",
@@ -1189,6 +1211,7 @@
   {
     "item": "5987",
     "title": "Delirious",
+    "year": 2006,
     "runtime": 107,
     "mpaa": "Not Rated",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/e1de0fac-f9e7-3641-b5ce-322eececb718/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=9dc276e3-5894-36dc-a822-aa078d2668e5&output-format=webp",
@@ -1215,6 +1238,7 @@
     "title": "Egg",
     "runtime": 90,
     "mpaa": "Not Rated",
+    "year": 2018,
     "poster": "https://i.ytimg.com/vi/GS8sOa8LpJ4/hqdefault.jpg",
     "description": "A comedic look at the complexities of female friendship and motherhood, as two artistic couples come together to discuss parenthood over dinner.",
     "genre": ["comedy", "drama"],
@@ -1238,6 +1262,7 @@
   {
     "item": "3974",
     "title": "Fear of a Black Hat",
+    "year": 1993,
     "runtime": 88,
     "mpaa": "R",
     "poster": "https://imageservice.disco.peacocktv.com/uuid/edee143d-d906-398f-add6-4cb2390c996f/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=998d40d1-a7c8-38e0-aae4-528d24dda94a&output-format=webp",
@@ -1267,6 +1292,7 @@
 {
   "item": "5482",
   "title": "Eternal Sunshine of the Spotless Mind",
+  "year": 2004,
   "runtime": 108,
   "mpaa": "R",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/2e26dbea-b75c-3722-8afc-949113bf7d7e/KEY_ART_16_9?language=eng&territory=US&version=bb44fae9-2ed1-3a61-a22f-8149eabc1219",
@@ -1299,6 +1325,7 @@
 {
   "item": "3910",
   "title": "American Psycho 2",
+  "year": 2002,
   "runtime": 88,
   "mpaa": "R",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/66323580-8da7-3b81-a30f-0b7f6d893555/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=73a1f247-eb50-3983-ad03-1f45a6a453e7&output-format=webp",
@@ -1323,6 +1350,7 @@
 {
   "item": "1923",
   "title": "Birdemic: Shock and Terror",
+  "year": 2010,
   "runtime": 93,
   "mpaa": "Not Rated",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/306151f4-b6d4-36ec-93fd-ca3444684da7/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=02272642-d59f-3e62-aca7-a41a2f046bb9",
@@ -1348,6 +1376,7 @@
   "item": "5942",
   "title": "Black Christmas",
   "runtime": 98,
+  "year": 1974,
   "mpaa": "R",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/9690ee2a-cdeb-31be-81f0-a24fe15a594c/TITLE_ART_3_4/640/480?language=eng&territory=US&version=f34c3f7c-6097-3bd0-a1a0-632fd64785bb&output-format=webp",
   "description": "During the Christmas break, a group of sorority sisters begin receiving threatening phone calls from a mysterious stranger. As their housemates start to disappear, they realize that they are being targeted by a deranged killer.",
@@ -1375,6 +1404,7 @@
 {
   "item": "1345",
   "title": "Class of Nuke 'Em High",
+  "year": 1986,
   "runtime": 85,
   "mpaa": "R",
   "poster": "https://live.mrf.io/statics/i/ps/i0.wp.com/floridageekscene.com/wp-content/uploads/2021/03/class-of-nuke-em-high-movie-poster-header.jpg?fit=800%2C450&ssl=1&width=1200&enable=upscale",
@@ -1399,6 +1429,7 @@
 {
   "item": "2768",
   "title": "Dead Snow 2: Red vs. Dead",
+  "year": 2014,
   "runtime": 100,
   "mpaa": "Not Rated",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/45acc490-c770-3075-b726-48f2760c04e3/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=f9523047-387b-3691-966c-31475dc112be&output-format=webp",
@@ -1415,6 +1446,7 @@
 {
   "item": "8312",
   "title": "Final Girl",
+  "year": 2015,
   "runtime": 90,
   "mpaa": "R",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/d48b0d67-ce7e-332c-b806-e508f66d715f/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=581797a9-9d7b-3858-a936-137178e0e992",
@@ -1440,6 +1472,7 @@
 {    
   "item": "5678",
   "title": "The Texas Chain Saw Massacre",
+  "year": 1973,
   "runtime": 83,
   "mpaa": "R",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/a44b3e7e-b83f-3517-a891-7c26f4e04c3d/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=026a1c53-dd22-39c0-b41e-bc29fe4ed059",
@@ -1469,6 +1502,7 @@
 {
   "item": "6543",
   "title": "American Psycho",
+  "year": 2000,
   "runtime": 102,
   "mpaa": "R",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/2c0e6b65-b51d-30ed-b2c4-a883246e0e50/KEY_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=2d70f7f1-a127-33f6-8eb1-e0c1db905ac8",
@@ -1502,6 +1536,7 @@
 {
   "item": "7890",
   "title": "House of the Devil",
+  "year": 2009,
   "runtime": 95,
   "mpaa": "R",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/5d4bea46-0ad6-3b18-8ef9-4cba0da0958a/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=726e1831-fa09-382b-acbc-26a55583bcc4",
@@ -1531,6 +1566,7 @@
 {
   "item": "2345",
   "title": "The Invisible Man",
+  "year": 2020,
   "runtime": 124,
   "mpaa": "R",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/e929823a-c99c-3594-8077-aeb3782253fb/TITLE_ART_16_9?language=eng&territory=US&version=b5297f5a-8748-349c-8b1f-2e23f4f2622f",
@@ -1560,6 +1596,7 @@
 {
   "item": "3456",
   "title": "Split",
+  "year": 2016,
   "runtime": 117,
   "mpaa": "PG-13",
   "poster": "https://imageservice.disco.peacocktv.com/uuid/ed38aa2c-985c-36d7-a90d-d7d49aa6980a/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=0729f70e-7ca3-368d-89e4-7c11bca883fb",
@@ -1589,6 +1626,7 @@
 {
   "item": "6789",
   "title": "The Curious Case of Benjamin Button",
+  "year": 2008,
   "runtime": 166,
   "mpaa": "PG-13",
   "poster": "https://media.zenfs.com/en/comingsoon_net_477/bc09488de374711fded1843c82b92913",
@@ -1622,6 +1660,7 @@
   "item": 5432,
   "title": "Kill Bill: Vol. 1",
   "description": "An action-packed martial arts film directed by Quentin Tarantino, where a former assassin, known simply as The Bride, wakes from a coma four years after her jealous ex-lover Bill attempts to murder her on her wedding day. Seeking vengeance, she embarks on a mission to kill her former associates and Bill himself.",
+  "year": "2002",
   "runtime": 111,
   "mpaa": "R",
   "genre": ["action", "martial-arts", "thriller"],
@@ -1660,6 +1699,7 @@
 {
   "item": 7654,
   "title": "Kill Bill Vol. 2",
+  "year": 2003,
   "description": "The second part of Quentin Tarantino's two-part martial arts film series, where the Bride continues her quest for vengeance against the Deadly Viper Assassination Squad and their leader, Bill.",
   "runtime": 137,
   "mpaa": "R",
@@ -1699,6 +1739,7 @@
 {
   "item": 5432,
   "title": "The Big Lebowski",
+  "year": 1998,
   "description": "Jeff `The Dude' Leboswki is mistaken for Jeffrey Lebowski, who is The Big Lebowski. Which explains why he's roughed up and has his precious rug peed on. In search of recompense, The Dude tracks down his namesake, who offers him a job. His wife has been kidnapped and he needs a reliable bagman. Aided and hindered by his pals Walter Sobchak, a Vietnam vet, and Donny, master of stupidity.",
   "runtime": 117,
   "mpaa": "R",
