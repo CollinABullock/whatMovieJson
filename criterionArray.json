@@ -696,8 +696,9 @@
 },
 
 {
-  "item": "5372",
+  "item": 5372,
   "title": "Ishtar",
+  "year": 1987,
   "runtime": 107,
   "mpaa": "PG-13",
   "description": "In 'Ishtar,' two struggling singer-songwriters, Lyle Rogers and Chuck Clarke, dream of fame and fortune in the music industry. Their aspirations lead them on a series of misadventures as they unwittingly become entangled in a convoluted plot involving political intrigue and espionage in the Middle East. As they navigate the dangers of the desert, Lyle and Chuck must rely on their wits, friendship, and questionable musical talents to survive the chaos and find success.",
@@ -727,6 +728,7 @@
 {
   "item": "6248",
   "title": "Barb Wire",
+  "year": 1996,
   "runtime": 98,
   "mpaa": "R",
   "description": "Set in a dystopian future where the Second American Civil War has left the country in ruins, 'Barb Wire' follows the story of Barbara Kopetski, known as Barb Wire, a tough and resourceful bounty hunter and nightclub owner. When Barb's estranged freedom-fighter ex-boyfriend seeks her help to smuggle a scientist out of the country, she finds herself caught in a web of betrayal, conspiracy, and danger. As Barb fights to protect her friends and her freedom, she must confront her past and make choices that could determine the fate of the nation.",
@@ -756,6 +758,7 @@
 {
   "item": "2256",
   "title": "Cruising",
+  "year": 1980,
   "runtime": 102,
   "mpaa": "R",
   "description": "In 'Cruising,' Al Pacino stars as Steve Burns, a young police officer who goes undercover to investigate a series of brutal murders targeting the gay community in New York City's underground leather bars. As Steve immerses himself in the city's subculture, he grapples with his own identity and desires while trying to catch the elusive killer. Tensions rise as Steve becomes increasingly entangled in the dangerous world of sex, violence, and deception, where the line between hunter and prey blurs.",
@@ -783,8 +786,9 @@
 },
 
 {
-  "item": "8963",
+  "item": 8963,
   "title": "Freddy Got Fingered",
+  "year": 2001,
   "runtime": 87,
   "mpaa": "R",
   "description": "In 'Freddy Got Fingered,' Tom Green stars as Gord Brody, a 28-year-old aspiring cartoonist who dreams of making it big in Hollywood. Despite his father's disapproval, Gord refuses to conform to societal norms and pursues his unconventional passions with relentless enthusiasm. As he navigates the challenges of adulthood, Gord's absurd antics and bizarre sense of humor lead him on a wild and unpredictable journey filled with unexpected twists and outrageous escapades.",
@@ -814,6 +818,7 @@
   {
     "item": "4792",
     "title": "Under the Cherry Moon",
+    "year": 1986,
     "runtime": 98,
     "mpaa": "PG-13",
     "description": "In 'Under the Cherry Moon,' Prince stars as Christopher Tracy, a charismatic and charming gigolo who makes a living seducing wealthy women on the French Riviera alongside his friend Tricky. When Christopher crosses paths with Mary Sharon, a rebellious heiress, their encounter sparks a tumultuous romance filled with passion, deception, and betrayal. As they navigate the complexities of love and class divide, Christopher and Mary confront their own vulnerabilities and desires in a world where appearances can be deceiving.",
@@ -843,6 +848,7 @@
   {
     "item": "6321",
     "title": "The Wicker Man",
+    "year": 2006,
     "runtime": 102,
     "mpaa": "PG-13",
     "description": "In the remake of 'The Wicker Man,' Edward Malus, a troubled police officer haunted by the memories of a failed case, receives a letter from his ex-fiancée Willow, pleading for his help in finding her missing daughter on a remote island off the coast of Washington. Upon arriving at the isolated community, Edward discovers a disturbing cult led by the enigmatic Sister Summersisle, where ancient rituals and pagan beliefs reign supreme. As Edward delves deeper into the island's mysteries, he uncovers a sinister conspiracy that threatens to consume him in a terrifying web of deception and sacrifice.",
@@ -873,6 +879,7 @@
 {
   "item": "1902",
   "title": "The Blair Witch Project",
+  "year": 1999,
   "runtime": 81,
   "mpaa": "R",
   "description": "In 'The Blair Witch Project,' three student filmmakers, Heather, Mike, and Josh, venture into the Maryland woods to make a documentary about the legendary Blair Witch. Armed with cameras and camping gear, they quickly become lost in the dense forest, their sense of direction and sanity unraveling as they encounter eerie phenomena and unexplained occurrences. As tensions mount and trust erodes, the trio must confront their deepest fears in a desperate bid to survive the night and escape the malevolent forces that lurk in the darkness.",
@@ -906,6 +913,7 @@
 {
   "item": "3829",
   "title": "Gigli",
+  "year": 2003,
   "runtime": 121,
   "mpaa": "R",
   "description": "In 'Gigli,' Larry Gigli, a low-level mobster, is assigned to kidnap the mentally challenged brother of a federal prosecutor in order to prevent him from testifying against the mob. However, Gigli's simple assignment quickly spirals out of control when he is forced to partner with Ricki, a tough and confident female enforcer. As the mismatched pair embarks on a road trip to complete their mission, they find themselves entangled in a bizarre and unpredictable romance that challenges their loyalties and forces them to confront their own vulnerabilities.",
@@ -935,6 +943,7 @@
 {
   "item": "5983",
   "title": "Swept Away",
+  "year": 2002,
   "runtime": 93,
   "mpaa": "R",
   "description": "In 'Swept Away,' Amber Leighton, a wealthy and arrogant socialite, finds herself stranded on a deserted island with Giuseppe Esposito, a rugged and resourceful sailor, after a sailing trip gone awry. Initially disdainful of Giuseppe's working-class background, Amber soon realizes that she is completely dependent on him for survival. As they struggle to overcome their differences and the harsh realities of their situation, Amber and Giuseppe embark on a journey of self-discovery and unexpected romance that challenges their preconceptions and changes their lives forever.",
@@ -964,6 +973,7 @@
 {
   "item": 4587,
   "title": "Sexy Beast",
+  "year": 2000,
   "runtime": 89,
   "mpaa": "R",
   "description": "In 'Sexy Beast,' retired safecracker Gary 'Gal' Dove is living a peaceful life in Spain with his ex-porn star wife, DeeDee. However, his tranquility is shattered when his former associate, the psychopathic and relentless Don Logan, arrives to recruit him for one last heist. Despite Gal's adamant refusal, Don's menacing presence and violent temper threaten to destroy everything Gal holds dear, leading to a deadly game of cat and mouse.",
@@ -994,6 +1004,7 @@
 {
   "item": 7492,
   "title": "Birth",
+  "year": 2004,
   "runtime": 100,
   "mpaa": "R",
   "description": "In 'Birth,' Anna, a young widow, is thrown into turmoil when a young boy named Sean claims to be the reincarnation of her deceased husband, who died ten years prior. As Anna grapples with the possibility of Sean's identity, her fiancé and loved ones become increasingly concerned about her well-being. As the truth unravels, Anna finds herself torn between skepticism and belief, leading to a haunting and emotional journey of self-discovery and acceptance.",
@@ -1023,6 +1034,7 @@
 {
   "item": 9321,
   "title": "Rashomon",
+  "year": 1950,
   "runtime": 88,
   "mpaa": "Not Rated",
   "description": "In 'Rashomon,' a woodcutter, a priest, and a commoner take refuge from a torrential rainstorm in the ruins of the Rashomon gate. As they discuss a recent murder trial involving a bandit, a samurai, and the samurai's wife, they recount conflicting versions of the events leading to the samurai's death. Each witness presents their own perspective, leaving the truth obscured and the audience questioning the nature of reality and human perception.",
@@ -1052,6 +1064,7 @@
 {
   "item": 5678,
   "title": "24 Hour Party People",
+  "year": 2002,
   "runtime": 117,
   "mpaa": "R",
   "description": "In '24 Hour Party People,' the film follows the vibrant music scene in Manchester from the late 1970s to the early 1990s, focusing on the rise and fall of Factory Records and the influential bands associated with it, such as Joy Division, New Order, and the Happy Mondays. Tony Wilson, the founder of Factory Records, navigates the chaotic world of music promotion, club culture, and artistic rebellion, leaving an indelible mark on the music industry and popular culture.",
@@ -1081,6 +1094,7 @@
   {
     "item": 3456,
     "title": "Fear and Desire",
+    "year": 1952,
     "description": "An anti-war film directed by Stanley Kubrick, following a small squad of soldiers who crash behind enemy lines and must confront their own fears and desires.",
     "runtime": 62,
     "mpaa": "Not Rated",
@@ -1117,6 +1131,7 @@
   {
     "item": 919191,
     "title": "Raging Bull",
+    "year": 1980,
     "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
     "runtime": 129,
     "mpaa": "R",
