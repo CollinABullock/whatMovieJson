@@ -2489,6 +2489,7 @@
     {
       "item": "152",
       "title": "My Dinner with Andre",
+      "year": 1981,
       "runtime": 110,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e881a6d1-c134-4710-970f-0f17f60efe3a/4223fd8610c977b8993a336e4de2cfd88dc81a48.jpg?submitted=1684674091610&host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -2516,6 +2517,7 @@
     {
       "item": "153",
       "title": "Casablanca",
+      "year": 1942,
       "runtime": 102,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/83b99ff6-56a0-4696-aa68-fdd6d3f31efa/35952cf24ca0f154dbf26ece034c598e5363a551.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2548,6 +2550,7 @@
     {
       "item": 153,
       "title": "Citizen Kane",
+      "year": 1941,
       "runtime": 119,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/c22bc8a9-d92d-4a6c-9571-407cdf3244a6/966a71b5d167f35bb98a0f3ea5dbb9e43f65eabb.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2580,6 +2583,7 @@
     {
       "item": 154,
       "title": "Just Like Heaven",
+      "year": 2005,
       "runtime": 95,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/520741ac-57b4-4415-bbb7-c36d33b15723/9655a77e6b705f1a5c892445005d1a732c957671.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2607,6 +2611,7 @@
     {
       "item": 155,
       "title": "Kate and Leopold",
+      "year": 2001,
       "runtime": 118,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1d8dee83-2ba0-46cb-a206-547c1eb8e80f/1763bd41d395dde7c2bc60c50e9b61ba2c321db5.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2639,6 +2644,7 @@
     {
       "item": 156,
       "title": "Are We There Yet?",
+      "year": 2005,
       "runtime": 95,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/983080fe-b63f-4937-b778-0ce0f2fd4116/5091b8750aee120c9a2a8aa4e14ca41298b767df.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -2671,6 +2677,7 @@
     {    
       "item": "157",
       "title": "Get Hard",
+      "year": 2015,
       "runtime": 101,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/949b4950-50a1-4b43-bcaa-552fb7c92cdb/0494444f839cbb147c287c84a2d51d709c41cea4.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2700,6 +2707,7 @@
     {    
       "item": "158",
       "title": "Date Night",
+      "year": 2010,
       "runtime": 88,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/45f4ef12-5ac0-484b-abf9-ac7a0040bad3/4723895d29f24f19843cb5134003584ac05c3371.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2729,6 +2737,7 @@
     {    
       "item": "159",
       "title": "Get Smart",
+      "year": 2008,
       "runtime": 110,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/04a33afd-0f4b-4e7b-8526-5c6da81e71a9/f4942e9cf925ade16eb85c6c2510f890fae93298.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500",
@@ -2760,6 +2769,7 @@
     {    
       "item": "161",
       "title": "Free Fire",
+      "year": 2016,
       "runtime": 91,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e1507ee2-06bf-4e20-a6c3-07ac8b49b464/ad1395165ef55026996562105988d05c83ee45fc.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2789,6 +2799,7 @@
     {    
       "item": "162",
       "title": "Good Morning",
+      "year": 1959,
       "runtime": 95,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/13b954be-f062-4c17-a639-98a602b4eb94/26b9a1ec2d78abe87bd4aaf82ebb3eb0c6c6acf0.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2814,6 +2825,7 @@
 {    
   "item": 163,
   "title": "Jennifer's Body",
+  "year": 2009,
   "runtime": 102,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/7df56b17-de43-4e4e-9d6e-a12cb45ce12c/e53c4cfa522ef4c9f1c5ea7f1449b1b76cd6297e.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2843,6 +2855,7 @@
 {
   "item": 164,
   "title": "City Lights",
+  "year": 1931,
   "runtime": 87,
   "mpaa": "G",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/482ae8af-6dee-47ba-b4d5-8403eba9deca/96267adfa0b9fd3eb22db2d914edb0f1e156f067.jpg?submitted=1684657900442&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2868,6 +2881,7 @@
 {
   "item": 165,
   "title": "While We're Young",
+  "year": 2014,
   "runtime": 97,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/fb8fbbd5-988d-428a-b00b-9b3eaaa2f3eb/e56ac7ef3bb72e300186175dd7490666276c10e2.jpg?submitted=1684676210089&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2901,6 +2915,7 @@
 {
   "item": 166,
   "title": "Get Shorty",
+  "year": 1996,
   "runtime": 105,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/ea5667b9-b8a2-4711-ab1d-3273a3c1e832/9605745a249f8d65e6ecdf27355d783c000bcbd7.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2930,6 +2945,7 @@
 {
   "item": 167,
   "title": "Killing Them Softly",
+  "year": 2012,
   "runtime": 97,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8c806135-2347-4d5d-8876-15df3de8ecef/9c7c3e528de5e582a928db5d31cf0c6b88f713b3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2966,6 +2982,7 @@
 {
   "item": 167,
   "title": "Pulp Fiction",
+  "year": 1994,
   "runtime": 154,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/04d2059a-0056-4693-93cd-5fd1b7b02d4e/394696225b571c335b42a7a9329992b5f33ba8fb.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2995,6 +3012,7 @@
 {
   "item": 168,
   "title": "Robocop",
+  "year": 1987,
   "runtime": 102,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/aca325cd-8b68-470f-abf9-86e15097fc70/a3b2ab28e6e5dc4d21cb41326b784f3d2b385305.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3024,6 +3042,7 @@
 {
   "item": 169,
   "title": "From Dusk Till Dawn",
+  "year": 1996,
   "runtime": 108,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4f841ded-3391-4e0d-b1cb-9996ac7491cb/d5cd85f7b061d7b42ac2844409d54d40e2eeb4ca.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3053,6 +3072,7 @@
 {
   "item": 170,
   "title": "Seven",
+  "year": 1995,
   "runtime": 127,
   "mpaa": "R",
   "poster": "https://i0.wp.com/vaguevisages.com/wp-content/uploads/2024/02/Seven-Cast-Netflix-Every-Actor-Character.jpeg?resize=890%2C501&ssl=1",
@@ -3082,6 +3102,7 @@
 {
   "item": 171,
   "title": "Wedding Crashers",
+  "year": 2005,
   "runtime": 119,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/43423d2c-ce27-4727-9008-9e555bfaf6d5/5abd71a34636060b351f3c509194ee9a16a8c519.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3111,6 +3132,7 @@
 {
   "item": 172,
   "title": "I Now Pronounce You Chuck & Larry",
+  "year": 2007,
   "runtime": 115,
   "mpaa": "PG-13",
   "poster": "https://m.media-amazon.com/images/M/MV5BOGYzZGRlZGQtYWJiNS00YTAzLWJlYzItNDI3N2IyMGQyMmE4XkEyXkFqcGdeQXVyMTIwMjY0NjQz._V1_.jpg",
@@ -3140,6 +3162,7 @@
 {
   "item": 33467,
   "title": "Machete",
+  "year": 2010,
   "description": "After being set up and betrayed by the man who hired him to assassinate a Texas senator, an ex-Federale launches a brutal rampage of revenge against his former boss.",
   "runtime": 105,
   "genre": ["action", "crime", "thriller"],
@@ -3181,6 +3204,7 @@
 {
   "item": 173,
   "title": "Trainwreck",
+  "year": 2015,
   "runtime": 125,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0ccec63f-86ae-4c3d-967b-ab1dcd9b900e/a90f9b9dae3e2e5e34caa9fcfeb46f564521d2c1.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3210,6 +3234,7 @@
 {    
   "item": "174",
   "title": "Friday The 13th",
+  "year": 1980,
   "runtime": 95,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/091df698-401e-42d9-9886-0b9d4c41b460/b13aac0317988b9ee96473445203e7ef8850cdb4.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3239,6 +3264,7 @@
 {    
   "item": "175",
   "title": "Midsommar",
+  "year": 2019,
   "runtime": 147,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1ce3b54f-7e35-4cdf-a60e-b52b5468ac27/329ff1adc9c6b311fb62590a8d011e69b4238838.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3268,6 +3294,7 @@
 {
   "item": 178,
   "title": "Mad Max: Fury Road",
+  "year": 2015,
   "runtime": 120,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8cde025a-223d-4879-9336-3d5f6c9d0c55/844c4fe8d1b5a41bc26aed689f7304f1df812ca1.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3297,6 +3324,7 @@
 {
   "item": "179",
   "title": "The Informant!",
+  "year": 2009,
   "runtime": 108,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/a345d34a-1c89-499b-b280-c763b79b5b7a/f963c995eb445ce7ce5774bb12535e32e587d636.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3326,6 +3354,7 @@
 {
   "item": "180",
   "title": "Watchmen",
+  "year": 2009,
   "runtime": 162,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/100424b5-6eb1-45bd-bc8c-c0459fde578a/f54a3c8e429f555c9c795cd7dee83e58315c0d0f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3355,6 +3384,7 @@
 {
   "item": "181",
   "title": "Ex Machina",
+  "year": 2014,
   "runtime": 108,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/837c49a2-a8de-4621-b9f3-7eb412986ead/6f7ab12fabcfb58eb487c0f8d3a9479e0a22b38c.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3384,6 +3414,7 @@
 {
   "item": 182,
   "title": "After Earth",
+  "year": 2013,
   "runtime": 100,
   "mpaa": "PG-13",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e8042796-7a15-4cb7-b784-d237e81626fb/2794b4614b4d62fdf5a4ab82b1f07df42141dd22.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3409,6 +3440,7 @@
 {
   "item": 183,
   "title": "The Intern",
+  "year": 2015,
   "runtime": 121,
   "mpaa": "PG-13",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/bb7410fe-ee13-4a70-83fd-5d6b43effbbc/f2f8045ee19579524a877395df3a8ecf3e671603.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3438,6 +3470,7 @@
 {
   "item": 184,
   "title": "Click",
+  "year": 2006,
   "runtime": 107,
   "mpaa": "PG-13",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/dad979fb-c4c6-4cc5-9a03-7f85717d5d8f/0e3d0bf50115abec23234a0e0dc31d88acf6edc7.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3467,6 +3500,7 @@
 {
   "item": 185,
   "title": "High Life",
+  "year": 2019,
   "runtime": 113,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/f9ccbc2b-fde5-48a6-9853-fa815b857f16/b6c083488a67b7cab0448c549e7bdfbfbde14628.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3496,6 +3530,7 @@
 {
   "item": 186,
   "title": "Under the Skin",
+  "year": 2013,
   "runtime": 108,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/210edf20-b2a7-47de-9a1d-776121acd159/ac49dc54cfb97981b1c89fde27927e12d2a96325.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3517,6 +3552,7 @@
 {
   "item": 187,
   "title": "Winter's Bone",
+  "year": 2010,
   "runtime": 100,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/3eb75e90-e0ac-43ef-a657-4a86ef5211a1/1a690ea55614408721827fda311e7eec760f03d3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3546,6 +3582,7 @@
 {
   "item": 188,
   "title": "Eastern Promises",
+  "year": 2007,
   "runtime": 100,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/ca436060-3cad-4a91-bbd8-bf68a20acf95/64aa3220d5bfba873cb3bb25c23beb53d153603b.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3574,6 +3611,7 @@
 
 {
   "item": 189,
+  "year": 2001,
   "title": "The Lord of the Rings: The Fellowship of the Ring",
   "runtime": 178,
   "mpaa": "PG-13",
@@ -3604,6 +3642,7 @@
 {
   "item": 190,
   "title": "The Lord of the Rings: The Two Towers",
+  "year": 2002,
   "runtime": 179,
   "mpaa": "PG-13",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1b73bd19-1229-4e5f-986a-ae38ac0f5476/d9e80f2d407361c6c36c8265ffad7d050e5b5293.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3633,6 +3672,7 @@
 {
   "item": 191,
   "title": "Robin Hood: Men in Tights",
+  "year": 1993,
   "runtime": 104,
   "mpaa": "PG-13",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/283535b8-42d8-4e65-8034-cfb21dcbfb93/bbcaebc9494c9481b4c8a04c372cd4efdbcf01b9.jpg?submitted=1684655380202&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3663,6 +3703,7 @@
   "item": 192,
   "title": "Spaceballs",
   "runtime": 96,
+  "year": 1986,
   "mpaa": "PG",
   "poster": "https://m.media-amazon.com/images/S/pv-target-images/6ff4ad5b2576158a6f38cf8059842dcb983ae37192153883054624b9612c6488.jpg",
   "description": "In 'Spaceballs', Lone Starr and his half-man, half-dog companion, Barf, are hired by Princess Vespa's father to rescue her from the clutches of the evil Dark Helmet. Along the way, they encounter a motley crew of characters, including the wise but eccentric Yogurt and the flamboyant President Skroob, as they embark on a hilarious parody-filled adventure through the galaxy.",
@@ -3692,6 +3733,7 @@
 {
   "item": 193,
   "title": "Bill & Ted's Excellent Adventure",
+  "year": 1989,
   "runtime": 90,
   "mpaa": "PG",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e63236ad-7e41-41f0-a0ef-a01798da280d/c23c78bcbf41d561dd73ef651b105d1a05a85ec3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3721,6 +3763,7 @@
 {
   "item": 194,
   "title": "A Night at the Roxbury",
+  "year": 1998,
   "runtime": 82,
   "mpaa": "PG-13",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4b20f246-df54-489c-86f7-f429e8d11940/45388079bba68cd955d8879f8b984b8a180eba9d.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3750,6 +3793,7 @@
 {
   "item": 195,
   "title": "The Breakfast Club",
+  "year": 1985,
   "runtime": 97,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/7c6c3dba-960e-4528-9a57-d9c7ee853abc/c82b33eb96dbb58f9f2b0e120762cfedf7cdc36f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3779,6 +3823,7 @@
 {
   "item": 196,
   "title": "Grease",
+  "year": 1978,
   "runtime": 110,
   "mpaa": "PG",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/387b0cbc-2683-435c-b4c4-07ae9f81deae/987b96a714a923a2b3eef1306d508d715d5fc63e.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3808,6 +3853,7 @@
 {
   "item": 197,
   "title": "Walk the Line",
+  "year": 2005,
   "runtime": 136,
   "mpaa": "PG-13",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/47aeb4cc-f16c-49f1-88b3-5631b89d8c67/6b77aad0fca5a60b01c28b5e98adc73ac7973b42.jpg?submitted=1684657857083&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3837,6 +3883,7 @@
 {    
   "item": "11223",
   "title": "The Bling Ring",
+  "year": 2013,
   "runtime": 90,
   "mpaa": "R",
   "description": "Inspired by actual events, a group of fame-obsessed teenagers use the internet to track celebrities' whereabouts in order to rob their homes.",
@@ -3867,6 +3914,7 @@
 {
   "item": 198,
   "title": "Ghost",
+  "year": 1991,
   "runtime": 127,
   "mpaa": "PG-13",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/523ee217-18b6-455e-85c0-064b1be00640/a0280971dfc72c64aa3549715495909019c9010e.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3896,6 +3944,7 @@
 {
   "item": 199,
   "title": "Road House",
+  "year": 1989,
   "runtime": 114,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/a93af03d-6423-4915-bc20-546abdd63f74/a76c064e56ba293e0288827e8fb594a6c37afcac.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3925,6 +3974,7 @@
 {
   "item": 200,
   "title": "Major League",
+  "year": 1989,
   "runtime": 107,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0ac4d16b-ba02-4d56-ad31-f5e46e3711d6/996c543c981b372406aa54e3303133ed0cdca875.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3954,6 +4004,7 @@
 {
   "item": 201,
   "title": "Semi-Pro",
+  "year": 2008,
   "runtime": 91,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/09c22a60-e42a-4131-b6eb-59841e38a02d/a3ddfe52b93fcc6edcdcc5f7202f0d253d1b909c.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -3981,6 +4032,7 @@
   {
     "item": 1234,
     "title": "Blood Simple",
+    "year": 1984,
     "description": "A 1984 neo-noir crime film marking the directorial debut of the Coen Brothers. It tells the story of a Texas bar owner who hires a private detective to murder his unfaithful wife and her lover.",
     "runtime": 99,
     "mpaa": "R",
@@ -4025,6 +4077,7 @@
   {
     "item": 1234,
     "title": "The Revenant",
+    "year": 2015,
     "description": "While exploring the uncharted wilderness in 1823, frontiersman Hugh Glass (Leonardo DiCaprio) sustains life-threatening injuries from a brutal bear attack. When a member (Tom Hardy) of his hunting team kills his young son (Forrest Goodluck) and leaves him for dead, Glass must utilize his survival skills to find a way back to civilization. Grief-stricken and fueled by vengeance, the legendary fur trapper treks through the snowy terrain to track down the man who betrayed him.",
     "runtime": 156,
     "mpaa": "R",
