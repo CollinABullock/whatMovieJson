@@ -2,6 +2,7 @@
     {
       "item": 421,
       "title": "Capturing the Friedmans",
+      "year": 2003,
       "runtime": 108,
       "mpaa": "Not Rated",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/89f21e68-5cdf-4be2-9ff7-ae45e6e53ba3/98a45aa7361e548af073ee51fb6d288128824aeb.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -18,6 +19,7 @@
     {
       "item": 422,
       "title": "Hoop Dreams",
+      "year": 1994,
       "runtime": 170,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8de6f0f3-38a2-48f8-88ad-7b2805d72782/ff861b8f78294036b0448fdd21cd52b192777d6a.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -35,6 +37,7 @@
     {
       "item": 3791,
       "title": "Modern Times",
+      "year": 1936,
       "runtime": 87,
       "mpaa": "G",
       "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
@@ -69,6 +72,7 @@
     {    
   "item": "2356",
   "title": "The Great Dictator",
+  "year": 1940,
   "runtime": 125,
   "mpaa": "PG",
   "description": "In this iconic satire, Charlie Chaplin portrays both a Jewish barber and a dictator modeled after Adolf Hitler, offering a comedic yet poignant commentary on fascism, discrimination, and the importance of democracy.",
@@ -92,8 +96,9 @@
 },
 
 {    
-  "item": "7894",
+  "item": 7894,
   "title": "The Kid",
+  "year": 1921,
   "runtime": 68,
   "mpaa": "G",
   "description": "In this heartwarming silent film, Charlie Chaplin portrays a tramp who discovers and cares for an abandoned child, forging a touching bond despite their struggles against poverty and authorities.",
@@ -120,6 +125,7 @@
 {    
   "item": "2356",
   "title": "The Gold Rush",
+  "year": 1925,
   "runtime": 95,
   "mpaa": "G",
   "description": "In this classic silent comedy, Charlie Chaplin's iconic tramp character braves the harsh conditions of the Klondike Gold Rush, encountering humor, romance, and adventure amidst the snow-covered landscapes.",
@@ -149,6 +155,7 @@
 {    
   "item": "8912",
   "title": "Limelight",
+  "year": 1950,
   "runtime": 137,
   "mpaa": "PG",
   "description": "In 'Limelight,' Charlie Chaplin portrays a faded comedian who befriends a young ballerina, offering her hope and support amidst their personal struggles, while reflecting on the fleeting nature of fame and the pursuit of happiness.",
@@ -179,6 +186,7 @@
 {    
   "item": "9876",
   "title": "The Inventor: Out for Blood in Silicon Valley",
+  "year": 2019,
   "runtime": 119,
   "mpaa": "Not Rated",
   "description": "In 'The Inventor: Out for Blood in Silicon Valley,' director Alex Gibney examines the rise and fall of Elizabeth Holmes and Theranos, a Silicon Valley startup once heralded as revolutionary but later embroiled in scandal and fraud.",
@@ -198,6 +206,7 @@
 {    
   "item": "3478",
   "title": "The Circus",
+  "year": 1928,
   "runtime": 71,
   "mpaa": "G",
   "description": "In 'The Circus,' Charlie Chaplin's tramp character inadvertently becomes the star attraction of a circus, bringing laughter and chaos wherever he goes, while also navigating the complexities of love and friendship.",
@@ -227,6 +236,7 @@
     {
       "item": 5678,
       "title": "A Brief History of Time",
+      "year": 1991,
       "description": "A documentary exploring the life and work of physicist Stephen Hawking, discussing his theories on the origins of the universe and his personal life.",
       "runtime": 80,
       "mpaa": "Not Rated",
@@ -252,6 +262,7 @@
 {
   "item": 1234,
   "title": "2001: A Space Odyssey",
+  "year": 1968,
   "description": "An imposing black structure provides a connection between the past and the future in this enigmatic adaptation of a short story by revered sci-fi author Arthur C. Clarke. When Dr. Dave Bowman (Keir Dullea) and other astronauts are sent on a mysterious mission, their ship's computer system, HAL, begins to display increasingly strange behavior, leading up to a tense showdown between man and machine that results in a mind-bending trek through space and time.",
   "runtime": 149,
   "mpaa": "G",
@@ -283,6 +294,7 @@
     {
       "item": 423,
       "title": "Grey Gardens",
+      "year": 1975,
       "runtime": 94,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1da58c29-5bfc-4198-8ac6-055f8cd0eee6/4dc94dee2141415dce88080eadd124c70669e1ec.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -303,6 +315,7 @@
     {
       "item": 424,
       "title": "Harlan County USA",
+      "year": 1976,
       "runtime": 103,
       "mpaa": "Not Rated",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1e53285f-4f19-4f8e-aefc-fc4b033a9080/15d572c15677a4bc9560683dd003b05bc88d4e5a.jpg?submitted=1684654546243&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -319,6 +332,7 @@
     {
       "item": 425,
       "title": "Don't Look Back",
+      "year": 1967,
       "runtime": 96,
       "mpaa": "Not Rated",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4bd1bd9d-4697-4765-9cbc-44d41ea7fea9/5843fab096fe446e36ae516ef517cdd325a52889.jpg?submitted=1684658273598&host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500",
@@ -340,6 +354,7 @@
     {
       "item": 426,
       "title": "Nanook of the North",
+      "year": 1922,
       "runtime": 79,
       "mpaa": "Not Rated",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d69498b9-5881-4097-8e36-db1c87080088/e8ce47dcaaddfd42d258afaa5b3676b9f9df3d8d.jpg?submitted=1684684626553&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -357,6 +372,7 @@
     {
       "item": 427,
       "title": "Hearts and Minds",
+      "year": 1974,
       "runtime": 112,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/2c43837c-73a0-4de2-af8e-43a7410b27a8/f5e75cbf57edebe2363a27a2d55730133e838760.jpg?submitted=1684655665813&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -372,8 +388,9 @@
     },
 
     {    
-      "item": "m420",
+      "item": 4200,
       "title": "Navalny",
+      "year": 2022,
       "runtime": 99,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/11a4cff7-b90a-44c0-8cb6-c56b5cbfe5aa/c69eef8569801f9d0dbbedc4359d504032cb7a92.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500",
@@ -399,6 +416,7 @@
     {
       "item": 335,
       "title": "Spirited Away",
+      "year": 2001,
       "runtime": 125,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/3deab668-d0a4-4a8d-9bc8-0952a0ad836e/d24ed5a9b698985647bbb1c77772b9cb65a475a9.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -438,6 +456,7 @@
 {
   "item": 336,
   "title": "Alvin and the Chipmunks: The Squeakquel",
+  "year": 2009,
   "runtime": 88,
   "mpaa": "PG",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/6cc965e7-5290-4838-ba5a-8062140e86c2/3b6c2d8499a3f59805191d197adb3490e9c44e0d.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -472,6 +491,7 @@
     {
       "item": 321,
       "title": "All the Beauty and the Bloodshed",
+      "year": 2023,
       "runtime": 85,
       "mpaa": "Not Rated",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/9aabe565-ab76-45e8-861e-f868742452c6/338f16b9d0f56da699c9212a22c513483855db81.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -494,6 +514,7 @@
     {
       "item": "1977",
       "title": "Eraserhead",
+      "year": 1977,
       "runtime": 89,
       "mpaa": "R",
       "description": "A surreal journey into the mind of a man grappling with fatherhood amidst a nightmarish industrial landscape.",
@@ -520,6 +541,7 @@
     {
       "item": 3290,
       "title": "Forgetting Sarah Marshall",
+      "year": 2007,
       "runtime": 111,
       "mpaa": "R",
       "description": "After a devastating breakup, a heartbroken musician travels to Hawaii to forget his ex-girlfriend, only to find out she's staying at the same resort with her new boyfriend.",
@@ -553,6 +575,7 @@
     {
       "item": 322,
       "title": "There's Something Wrong with Aunt Diane",
+      "year": 2011,
       "runtime": 101,
       "mpaa": "Not Rated",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d873ef0d-ff3b-464c-abd3-8b0d69fa0b6a/a07a77ddbb7be8bb9011ecfcaf76290a6bc2b601.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -570,6 +593,7 @@
     {
       "item": 323,
       "title": "Parasite",
+      "year": 2019,
       "runtime": 132,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d5e3be11-eb8b-449f-89cf-db887ddee777/e8f596810f1dcbe4007065872a3e3552938bad37.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -603,6 +627,7 @@
     {
       "item": 325,
       "title": "Her",
+      "year": 2013,
       "runtime": 126,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b88f46fe-2bb3-43e9-bf7f-36b133af1990/089a9dec0908d7a2fe6dc831118907983e32fc7d.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -636,6 +661,7 @@
     {
       "item": 326,
       "title": "A Ghost Story",
+      "year": 2017,
       "runtime": 92,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/bca9efc3-418f-4778-94c4-f28159f40ed6/d1ba6e48162d7ec5f94e10fd2c32cbd880d77dd6.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -664,6 +690,7 @@
     {
       "item": 327,
       "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
       "runtime": 113,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/700f6eb5-f533-4f1e-9d36-78ef7b849237/82432b34d6b02e614a9432d570bc26c5d5f4fbe7.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -704,6 +731,7 @@
     {
       "item": "m69",
       "title": "Gangs of New York",
+      "year": 2002,
       "runtime": 167,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/5fa4fb60-6bfb-453e-a777-fbce372c5d01/47f77e0f13775ec326c75fbcfc00ba19570de738.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -733,6 +761,7 @@
     {    
       "item": "1m",
       "title": "Priscilla",
+      "year": 2023,
       "runtime": 113,
       "mpaa": "R",
       "poster": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F02%2Fsofia-coppola-a24-priscilla-max-streaming-release-info-1.jpg?cbr=1&q=90",
@@ -758,6 +787,7 @@
     {    
       "item": "103",
       "title": "Avatar",
+      "year": 2009,
       "runtime": 162,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/842bf71a-8f60-4657-9c7a-fe3c991a772a/78ae1d49f67add2b7398d0ab6eabeaac06d98be0.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -787,6 +817,7 @@
     {    
       "item": "104",
       "title": "Avatar:  The Way Of Water",
+      "year": 2022,
       "runtime": 193,
       "mpaa": "PG-13",
       "poster": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/11/avatar-the-way-of-water-poster.jpg",
@@ -816,6 +847,7 @@
     {    
       "item": "105",
       "title": "Predators",
+      "year": 2010,
       "runtime": 107,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/cc485a30-b9ee-463c-93f7-af3717ae9f0d/3b95f9c4fdf21968a375ddbe3e99b3b07b8ca141.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -845,6 +877,7 @@
     {    
       "item": "106",
       "title": "Skyfall",
+      "year": 2012,
       "runtime": 144,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4337043a-5d27-49ab-a7c9-1c52dee7014a/44c5b4a1507b55e6e6661971c951d9d2f2a19835.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -874,6 +907,7 @@
     {
       "item": 9102,
       "title": "A Clockwork Orange",
+      "year": 1974,
       "description": "In an England of the future, Alex (Malcolm McDowell) and his 'Droogs' spend their nights getting high at the Korova Milkbar before embarking on 'a little of the old ultraviolence,' while jauntily warbling 'Singin' in the Rain.' After he's jailed for bludgeoning the Cat Lady to death, Alex submits to behavior modification technique to earn his freedom; he's conditioned to abhor violence. Returned to the world defenseless, Alex becomes the victim of his prior victims.",
       "runtime": 136,
       "mpaa": "R",
@@ -910,6 +944,7 @@
     {    
       "item": "107",
       "title": "Full Metal Jacket",
+      "year": 1987,
       "runtime": 117,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/01dfcf23-7a1c-4e3f-872c-541f1bbca6b6/406cbb8631a51b397252dcd3bce3c446e5dcdb5c.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -939,6 +974,7 @@
     {    
       "item": "108",
       "title": "Dune",
+      "year": 2021,
       "runtime": 156,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e7dc7b3a-a494-4ef1-8107-f4308aa6bbf7/bfea2cc9ae7ede84e74a8efb24656ca08e7fd9d9.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -969,6 +1005,7 @@
       "item": "109",
       "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ",
       "runtime": 95,
+      "year": 1964,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4a98ed1a-0512-4409-a451-fc58efb3ccd6/837360c64b1f374a8046a6d0086e411e6bace4ad.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
       "description": "An insane American general orders a bombing attack on the Soviet Union.",
@@ -997,6 +1034,7 @@
     {    
       "item": "110",
       "title": "A View To A Kill",
+      "year": 1985,
       "runtime": 132,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0b8c7185-7ca0-4065-a43f-7b69a2888056/a3b53f15d8e2d1581f8545cc479105cdcd1e1f69.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1026,6 +1064,7 @@
     {    
       "item": "111",
       "title": "License To Kill",
+      "year": 1987,
       "runtime": 134,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/f2941170-e9eb-4ae7-9985-55b563a1a06a/01b1b5e60848cd9e953edbdd3280831ba90d2af9.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1055,6 +1094,7 @@
     {    
       "item": "112",
       "title": "The Hunt For Red October",
+      "year": 1990,
       "runtime": 136,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/9652f2da-ba93-4b4c-988a-de935d58974d/8f9ea734179548184c76be6e50865b34a77b47fe.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1084,6 +1124,7 @@
     {    
       "item": "113",
       "title": "The Lord Of The Rings:  The Return Of The King",
+      "year": 2003,
       "runtime": 201,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/ad704585-6774-4d37-8c61-1bd41154173f/893d52c9771f2390e0166a1eba386ccbf68cd488.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1113,6 +1154,7 @@
     {    
       "item": "114",
       "title": "Princess Mononoke",
+      "year": 1997,
       "runtime": 134,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e31c2dc2-cb8b-416e-9eda-769be3bb3a6b/d6211efbbeb91ac3736cf1b96afaf3208f09b6a5.jpg?submitted=1684673544124&host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1142,6 +1184,7 @@
     {    
       "item": "115",
       "title": "The Killer Elite",
+      "year": 1975,
       "runtime": 124,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e559ce47-ee47-4dfb-b12d-b09ecba8353a/4245125237ff18f998418c0af78dba559a9c60cc.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1167,6 +1210,7 @@
     {    
       "item": "116",
       "title": "Godzilla:  King Of The Monsters",
+      "year": 2019,
       "runtime": 81,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/63d983ed-9059-40c5-bcbe-103b4bfd23d5/a4898c7f08cf521e1a2b4c9aa4cd185b9fe48c91.jpg?submitted=1684660449592&host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1196,6 +1240,7 @@
     {
       "item": 337,
       "title": "Monsters vs. Aliens",
+      "year": 2009,
       "runtime": 94,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/ff40cd61-60c5-49aa-af0c-66577621ff25/6448b67a8cb917bd7cc460e5bd4fd08f998d02b0.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1242,6 +1287,7 @@
     {    
       "item": "117",
       "title": "Red Dawn",
+      "year": 1984,
       "runtime": 114,
       "mpaa": " PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/a29e7cc7-2f41-4e6f-b837-63371a84b571/cbc64fcfa250a230939fe99c8d0a115988044b71.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1272,6 +1318,7 @@
     {    
       "item": "118",
       "title": "Batman Returns",
+      "year": 1992,
       "runtime": 127,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/7ebb10fa-4552-405c-a5d2-3cc5b21193c7/faf0619843c6df71cd1c7323dcd5d2535e7bfc91.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1299,6 +1346,7 @@
     {    
       "item": "119",
       "title": "Batman Begins",
+      "year": 2005,
       "runtime": 140,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/9cd867d4-81e5-433a-839a-a1c111b2623d/da9dac89339aa52c2f497ee325cef33a9e6c51aa.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1329,6 +1377,7 @@
     {    
       "item": "120",
       "title": "Jurassic World",
+      "year": 2015,
       "runtime": 125,
       "mpaa": "125",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/38c287e7-a404-4d0c-bf9e-65e88b623c51/99f26c0b7deeb7b6b44c9d227c59beae72d2b9d3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1358,6 +1407,7 @@
     {    
       "item": "121",
       "title": "The Phantom",
+      "year": 1996,
       "runtime": 101,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/472ad97f-bb84-4a64-aadf-2f082ea85cd9/bfbd20ca70e18f091e2b1001f080cf91e1a38d62.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1387,6 +1437,7 @@
     {    
       "item": "122",
       "title": "Star Trek 3:  The Search For Spock",
+      "year": 1984,
       "runtime": 106,
       "mpaa": "PG",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/06533216-cd69-42da-93fe-645a804b546d/71c584579a6e316f20031560fefe1d5223612700.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1416,6 +1467,7 @@
     {    
       "item": "122a",
       "title": "The Dark Knight",
+      "year": 2008,
       "runtime": 152,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/52217243-a137-45d6-9c6a-0dfab4633034/4fee222a97308b9e04d79724b86728d86ed94667.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1445,6 +1497,7 @@
     {    
       "item": "123",
       "title": "The Dark Knight Rises",
+      "year": 2012,
       "runtime": 165,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/6ce5965d-cdb2-4f9c-b22b-ae7a091d95a8/3e78fc55f5bb437b2e92c340a7338c049736f609.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1474,6 +1527,7 @@
     {    
       "item": "124",
       "title": "The Matrix:  Revolutions",
+      "year": 2003,
       "runtime": 130,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/7f34ec0d-34d9-42bb-96ac-251a42009f2d/114ce4095bf5a985aa0900a330c9b142610bc7da.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1501,6 +1555,7 @@
     {    
       "item": "125",
       "title": "The Matrix",
+      "year": 1999,
       "runtime": 137,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/012cacbd-5893-4379-b7a6-d3737c61d4b5/26ca29e9f50972e5e7b444fef85e09eb28016cb4.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1528,6 +1583,7 @@
     {    
       "item": "126",
       "title": "The Matrix:  Reloaded",
+      "year": 2003,
       "runtime": 139,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/15f1f852-5a97-4e78-b509-e045dbc1ba37/b288ab4da6359edb8086425a2be4cd9fa69dd467.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1555,6 +1611,7 @@
     {    
       "item": "127",
       "title": "Aliens",
+      "year": 1986,
       "runtime": 138,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/cc2c1671-ee46-4686-b81e-af59607182a2/980cc3b5d515a63961aeae384c2c2ef311b48365.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1584,6 +1641,7 @@
     {    
       "item": "128",
       "title": "The Bourne Ultimatum",
+      "year": 2007,
       "runtime": 116,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/93472ca1-5b9a-4ca0-afd5-95ca5ce028b9/2775a71eed8f49631eb86bf84b3ac8f1f84fbcfc.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1613,6 +1671,7 @@
  {    
       "item": "129",
       "title": "Clear And Present Danger",
+      "year": 1994,
       "runtime": 144,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/ce6d5c66-f385-42f8-9df1-2aa7b38b4d46/151bc27a4a526beb29dcb3ae891b1aa3f3601e24.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
@@ -1642,6 +1701,7 @@
  {    
   "item": "130",
   "title": "The Sum of All Fears",
+  "year": 2002,
   "runtime": 124,
   "mpaa": "PG-13",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/72df4be2-ebfa-44bc-abe2-5b519729fcdb/854c2372f62e96c064455a1fff74ad6b003dde83.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1671,6 +1731,7 @@
   {
     "item": "131",
     "title": "Chain Reaction",
+    "year": 1996,
     "runtime": 107,
     "mpaa": "PG-13",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/05f0eeed-74f5-495f-8532-43d0c18443ca/afcaac4ced6c50d0cae87460c63ddcdc95d16628.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1702,6 +1763,7 @@
   {
     "item": "132",
     "title": "Jack Ryan: Shadow Recruit",
+    "year": 2014,
     "runtime": 105,
     "mpaa": "PG-13",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/61b36446-437e-437f-bfd1-326d4aafbe81/33de565d45e6557d1f013137e2c570d329da5c59.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1732,6 +1794,7 @@
   {
     "item": "133",
     "title": "Patriot Games",
+    "year": 1992,
     "runtime": 117,
     "mpaa": "R",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d4ac3da2-7fcf-4666-abc4-aff12a23ee54/93a5793c6b46bb9b69afdfdf55100e046d3c45ec.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1762,6 +1825,7 @@
   {
     "item": "135",
     "title": "WarGames",
+    "year": 1983,
     "runtime": 114,
     "mpaa": "PG",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0de12893-cb55-4700-a0c3-77330fed617d/636b35211fca68cc50281d369ffa3b7fa1efab60.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1791,6 +1855,7 @@
   {
     "item": "136",
     "title": "Divorce, Italian Style",
+    "year": 1961,
     "runtime": 105,
     "mpaa": "Not Rated",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0fa9ebc7-5481-4267-a94c-1af7f66c81b2/6e873647d3323cd80086050cd6c5b6a0c6e06017.jpg?submitted=1684653320281&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1820,6 +1885,7 @@
   {
     "item": "137",
     "title": "8 1/2",
+    "year": 1963,
     "runtime": 138,
     "mpaa": "Not Rated",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/2242c9bf-18c2-4aa1-a5e1-30ab5b82b6a4/8a29db2fc79de5e14ed8ea12391eef28ec06348e.jpg?submitted=1684654808820&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1849,6 +1915,7 @@
   {
     "item": "138",
     "title": "Some Like It Hot",
+    "year": 1959,
     "runtime": 121,
     "mpaa": "Not Rated",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/9fb6710a-aa1d-4463-9695-28be193a20d3/550b89f26366f996fc4c4f26ac2ef6d1a2d4d2e4.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1878,6 +1945,7 @@
   {
     "item": "139",
     "title": "Paris, Texas",
+    "year": 1984,
     "runtime": 145,
     "mpaa": "R",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/674ca2eb-861d-4e87-a831-7e0cbbdbe58f/04ef4a8660e4b57b55e811db054a858e49f6c3c9.jpg?submitted=1684660759975&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1907,6 +1975,7 @@
   {
     "item": "140",
     "title": "Fargo",
+    "year": 1996,
     "runtime": 98,
     "mpaa": "R",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4e0195fa-36f8-4b59-8b56-bd6fa8680f67/f7cdd436f1a6c98e22d403a287f8aa209cee7cc9.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1943,6 +2012,7 @@
   {
     "item": "141",
     "title": "Shiva Baby",
+    "year": 2021,
     "runtime": 77,
     "mpaa": "R",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/eeec0a16-cebf-4355-9964-e376a3f3eadd/c6fd043228d5954afd3a133ad3f36ce588abd83f.jpg?submitted=1684674864608&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -1972,6 +2042,7 @@
   {
     "item": "142",
     "title": "I, Tonya",
+    "year": 2017,
     "runtime": 120,
     "mpaa": "R",
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8021cbf0-d404-4bc0-948a-fc547e00bf21/d9ea62c343de53b3d7402c81ede43b65ae6a9ced.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2001,6 +2072,7 @@
   {
   "item": "143",
   "title": "Office Space",
+  "year": 1999,
   "runtime": 89,
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4f4cd9c1-aa6b-4d21-ab5c-7954c572aaae/2d96b97e8581ba53c03b8afd42199e5da45ca074.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2030,6 +2102,7 @@
  {    
       "item": "143a",
       "title": "The Color Purple",
+      "year": 2023,
       "runtime": 141,
       "mpaa": "PG-13",
       "poster": "https://external-preview.redd.it/the-color-purple-will-begin-streaming-on-max-next-friday-v0-RjCVQVtg8ahtvSyE0Q_jBkEXjqO9lUCqRPDiq-8fn3Y.jpg?auto=webp&s=1042d3573cd26b8965a87f6b580fdd120c2ef16d",
@@ -2059,6 +2132,7 @@
     {
       "item": "144",
       "title": "Three Colors: Blue",
+      "year": 1994,
       "runtime": 98,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/64bc49b4-3e2a-487a-8915-d3a9c06bcea9/451c4858596d1bbc2d0dfe6ebddfc075faf03954.jpg?submitted=1684660535915&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2080,6 +2154,7 @@
     {
       "item": "145",
       "title": "Three Colors: White",
+      "year": 1994,
       "runtime": 91,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/69b9622e-2c90-4694-90f9-feaec2e307c3/8df266b5d111109887bae9d008da712abacb0a9a.jpg?submitted=1684660929898&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2105,6 +2180,7 @@
     {
       "item": "146",
       "title": "Three Colors: Red",
+      "year": 1994,
       "runtime": 99,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/260c8001-f0dd-4cba-8cd6-7626b1eefcc6/e9e574b9baa89880bb16f93e276eb7939b4757f9.jpg?submitted=1684655220618&host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2130,6 +2206,7 @@
       "item": "1992",
       "title": "Twin Peaks: Fire Walk with Me",
       "runtime": 135,
+      "year": 1992,
       "mpaa": "R",
       "description": "A prequel to the television series Twin Peaks, the film follows the last seven days of Laura Palmer's life, uncovering the dark secrets of her troubled existence.",
       "genre": ["drama", "horror", "mystery"],
@@ -2162,6 +2239,7 @@
     {
       "item": "1984",
       "title": "Dune",
+      "year": 1984,
       "runtime": 137,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4161ed78-fa68-4b0e-87f4-6fa537a848de/1a535f1b0958ca30b070ba6ea23a175fbeffe810.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2196,6 +2274,7 @@
     {    
       "item": "146a",
       "title": "Barbie",
+      "year": 2023,
       "runtime": 115,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/80bc4915-c826-499f-9961-b422b17559b6/59a02df388963dc09fffb1418a67eef382fb57dc.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500",
@@ -2225,6 +2304,7 @@
     {    
       "item": "147",
       "title": "Swiss Army Man",
+      "year": 2016,
       "runtime": 98,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/f2127e58-1c4e-4855-a310-538a8acc91e1/419e1433b4665548e601a23bd4213be0328c7802.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2254,6 +2334,7 @@
     {    
       "item": "148",
       "title": "Drive Me Crazy",
+      "year": 1999,
       "runtime": 92,
       "mpaa": "PG-13",
       "poster": "https://s.yimg.com/zb/imgv1/411f5b5f-16b4-3bc3-899d-464908d5dbe8/t_500x300",
@@ -2279,6 +2360,7 @@
     {    
       "item": "149",
       "title": "Aquaman And The Lost Kingdom",
+      "year": 2023,
       "runtime": 125,
       "mpaa": "PG-13",
       "poster": "https://ntvb.tmsimg.com/assets/p18935685_v_h8_ae.jpg?w=1280&h=720",
@@ -2308,6 +2390,7 @@
     {
       "item": "150",
       "title": "Dracula 2000",
+      "year": 2000,
       "runtime": 99,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1791aafa-5f63-4ed5-8afc-eb75fc1b4138/b681707fb18730eabe00cf88fbf65f80ac05d917.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2340,6 +2423,7 @@
     {
       "item": "151",
       "title": "Bulletproof Monk",
+      "year": 2003,
       "runtime": 104,
       "mpaa": "PG-13",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/dcb25ca1-2109-45df-bb02-884e6a1e65ee/052732a781e2aad18919a15ef0b40838d086a0b8.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
@@ -2370,8 +2454,9 @@
     },
     
     {
-      "item": "movie",
+      "item": 17171,
       "title": "Pygmalion",
+      "year": 1938,
       "runtime": 96,
       "mpaa": "Not Rated",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/932c8751-b394-42d4-89e9-d75a902ee2bb/96b20c66f30f04ebcf915fc29ac2908b54ca7398.jpg?submitted=1684665240394&host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
