@@ -2,6 +2,7 @@
   {
     "item": "1357",
     "title": "Zodiac",
+    "year": 2007,
     "runtime": 157,
     "mpaa": "R",
     "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/movie_asset/92/68/23/zod_salone_16_9_1920x1080_nb_0.jpg",
@@ -35,6 +36,7 @@
   {
     "item": 5678,
     "title": "Titanic",
+    "year": 1997,
     "description": "James Cameron's Titanic is an epic, action-packed romance set against the ill-fated maiden voyage of the R.M.S. Titanic; the pride and joy of the White Star Line and, at the time, the largest moving object ever built. She was the most luxurious liner of her era -- the ship of dreams -- which ultimately carried over 1,500 people to their death in the ice cold waters of the North Atlantic in the early hours of April 15, 1912.",
     "runtime": 195,
     "mpaa": "PG-13",
@@ -75,6 +77,7 @@
 {
   "item": 9876,
   "title": "Terminator 2: Judgment Day",
+  "year": 1991,
   "description": "In this sequel set eleven years after The Terminator, young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot.",
   "runtime": 137,
   "mpaa": "R",
@@ -113,8 +116,9 @@
 }
 ,
 {
-  "item": "2004",
+  "item": 2004,
   "title": "Anchorman: The Legend of Ron Burgundy",
+  "year": 2004,
   "runtime": 94,
   "mpaa": "PG-13",
   "description": "The top-rated anchorman in San Diego's male-dominated broadcast industry faces stiff competition when a talented female reporter joins the team.",
@@ -149,6 +153,7 @@
 {    
   "item": "67890",
   "title": "The Godfather",
+  "year": 1972,
   "runtime": 175,
   "mpaa": "R",
   "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
@@ -184,6 +189,7 @@
 {    
   "item": "9876",
   "title": "Jack Reacher",
+  "year": 2012,
   "runtime": 130,
   "mpaa": "PG-13",
   "description": "Jack Reacher, a former military police officer, is drawn into a case involving a sniper who has killed five seemingly random people. As he investigates, Reacher uncovers a dangerous conspiracy that puts him in the crosshairs of powerful enemies.",
@@ -214,8 +220,9 @@
 },
 
 {    
-  "item": "1234",
+  "item": 1234,
   "title": "Jack Reacher: Never Go Back",
+  "year": 2016,
   "runtime": 118,
   "mpaa": "PG-13",
   "description": "In 'Jack Reacher: Never Go Back,' Reacher returns to his old military unit to meet Major Susan Turner. But upon arrival, he finds out that Turner has been arrested for treason. Convinced of her innocence, Reacher sets out to clear her name and uncover a conspiracy.",
@@ -249,6 +256,7 @@
 {    
   "item": "5678",
   "title": "Risky Business",
+  "year": 1983,
   "runtime": 99,
   "mpaa": "R",
   "description": "In 'Risky Business,' high school student Joel Goodson turns his parents' home into a brothel while they are away. Initially reveling in the freedom and financial gain, Joel soon finds himself in over his head when things spiral out of control.",
@@ -282,6 +290,7 @@
 {    
   "item": "2468",
   "title": "Top Gun",
+  "year": 1986,
   "runtime": 110,
   "mpaa": "PG",
   "description": "In 'Top Gun,' Maverick, a young fighter pilot, joins an elite naval academy to train as a pilot. As he competes for the title of Top Gun, Maverick faces personal and professional challenges, including a dangerous rivalry with a fellow pilot.",
@@ -315,6 +324,7 @@
 {    
   "item": "9876",
   "title": "Vanilla Sky",
+  "year": 2001,
   "runtime": 136,
   "mpaa": "R",
   "description": "In 'Vanilla Sky,' David Aames, a wealthy publisher, finds his life turned upside down after a disfiguring accident. As he struggles to distinguish between reality and dreams, David embarks on a journey of self-discovery that challenges his perceptions of love, identity, and existence.",
@@ -348,6 +358,7 @@
 {    
   "item": "1234",
   "title": "Days of Thunder",
+  "year": 1990,
   "runtime": 107,
   "mpaa": "PG-13",
   "description": "In 'Days of Thunder,' Cole Trickle, a young and talented race car driver, enters the high-stakes world of NASCAR racing. With the help of his mentor, Harry Hogge, Cole navigates the challenges of the racing circuit while facing personal and professional rivalries.",
@@ -380,6 +391,7 @@
 {    
   "item": "5678",
   "title": "The Firm",
+  "year": 1993,
   "runtime": 154,
   "mpaa": "R",
   "description": "In 'The Firm,' Mitch McDeere, a young and ambitious lawyer, is recruited by a prestigious law firm. Initially dazzled by the firm's wealth and success, Mitch soon discovers its dark secrets and becomes embroiled in a dangerous conspiracy that threatens his life and career.",
@@ -415,6 +427,7 @@
 {    
   "item": "24680",
   "title": "The Godfather Part II",
+  "year": 1974,
   "runtime": 202,
   "mpaa": "R",
   "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.",
@@ -450,6 +463,7 @@
 {    
   "item": "24680",
   "title": "Clueless",
+  "year": 1995,
   "runtime": 97,
   "mpaa": "PG-13",
   "description": "A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.",
@@ -480,6 +494,7 @@
 {    
   "item": "13579",
   "title": "The Godfather Part III",
+  "year": 1990,
   "runtime": 162,
   "mpaa": "R",
   "description": "In the midst of trying to legitimize his business dealings in New York City and Italy in 1979, aging Mafia Don Michael Corleone seeks to avow for his sins, while taking his nephew Vincent Mancini under his wing.",
@@ -514,6 +529,7 @@
 {    
   "item": "24680",
   "title": "The Outsiders",
+  "year": 1983,
   "runtime": 91,
   "mpaa": "PG-13",
   "description": "The rivalry between two gangs, the poor Greasers and the rich Socs, only heats up when one gang member kills a member of the other.",
@@ -549,6 +565,7 @@
 {
   "item": 3487,
   "title": "Gladiator",
+  "year": 2000,
   "runtime": 155,
   "mpaa": "R",
   "description": "A former Roman general seeks revenge against the corrupt emperor who murdered his family and sent him into slavery, rising through the ranks of the gladiatorial arena to challenge the tyrant's rule.",
@@ -582,6 +599,7 @@
   {
     "item": "2468",
     "title": "48 Hrs.",
+    "year": 1982,
     "runtime": 96,
     "mpaa": "R",
     "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/08/10/1931558467898/48hrs_Template_SAlone_16_9_1920x1080_1164656_1920x1080.jpg",
@@ -607,6 +625,7 @@
   {
     "item": "4682",
     "title": "There Will Be Blood",
+    "year": 2007,
     "runtime": 158,
     "mpaa": "R",
     "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/movie_asset/57/95/34/twbb_us_2007_sa_16x9_1920x1080.jpg",
@@ -636,6 +655,7 @@
   {
     "item": "2345",
     "title": "Minority Report",
+    "year": 2002,
     "runtime": 145,
     "mpaa": "PG-13",
     "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/movie_asset/62/21/56/mirpt_us_2002_sa_16x9_1920x1080.jpg",
@@ -664,6 +684,7 @@
   ,
   {
     "title": "Shutter Island",
+    "year": 2010,
     "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
     "runtime": 138,
     "mpaa": "R",
@@ -703,6 +724,7 @@
   ,
   {
     "title": "The Wolf of Wall Street",
+    "year": 2013,
     "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption, and the federal government.",
     "runtime": 180,
     "mpaa": "R",
@@ -741,6 +763,7 @@
   },
   {
     "title": "The Aviator",
+    "year": 2004,
     "description": "A biopic depicting the early years of legendary director and aviator Howard Hughes' career, from the late 1920s to the mid-1940s.",
     "runtime": 170,
     "mpaa": "PG-13",
@@ -780,6 +803,7 @@
 
   {
     "title": "Catch Me If You Can",
+    "year": 2002,
     "description": "A true story about Frank Abagnale Jr., who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor.",
     "runtime": 141,
     "mpaa": "PG-13",
@@ -819,6 +843,7 @@
   ,
   {
     "title": "No Country for Old Men",
+    "year": 2007,
     "description": "Violence and mayhem ensue after a hunter stumbles upon some dead bodies, a stash of heroin and more than $2 million in cash near the Rio Grande.",
     "runtime": 122,
     "mpaa": "R",
@@ -858,6 +883,7 @@
   {
     "item": 1234,
     "title": "Inside Llewyn Davis",
+    "year": 2013,
     "description": "A folk singer navigates the Greenwich Village folk scene of 1961.",
     "runtime": 104,
     "mpaa": "R",
@@ -900,6 +926,7 @@
   {
     "item": 5678,
     "title": "Miller's Crossing",
+    "year": 1990,
     "description": "A 1990 neo-noir gangster film set during the Prohibition era. It follows the complex relationships and power struggles between various criminal organizations.",
     "runtime": 115,
     "mpaa": "R",
@@ -944,6 +971,7 @@
   {
     "item": 9876,
     "title": "Raising Arizona",
+    "year": 1987,
     "description": "Fast-paced farce about an unlikely pair who go to extreme lengths to have a child. When an incompetent robber marries a policewoman, they discover that they are infertile. In order to appease his wife's longings for a child, the man steals one of a set of quintuplets, but mayhem ensues when the child's rich father sends a rabbit-shooting bounty hunter after the kidnapper.",
     "runtime": 94,
     "mpaa": "PG-13",
@@ -988,6 +1016,7 @@
   {
     "item": 5863,
     "title": "Saving Private Ryan",
+    "year": 1998,
     "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
     "runtime": 169,
     "mpaa": "R",
@@ -1026,6 +1055,7 @@
   {
     "item": 7589,
     "title": "The Fabelmans",
+    "year": 2022,
     "description": "New Jersey, 1952. Entranced by his first visit to a movie theatre and haunted by the powerful imagery of Cecil B. DeMille's Oscar-winning The Greatest Show on Earth (1952), young Sammy Fabelman returns home seeking to recreate it. And encouraged by Mitzi, his doting mother, Sammy discovers an irresistible passion for making home movies. As a result, the boy's creative projects become increasingly ambitious, inspired by John Ford and The Man Who Shot Liberty Valance (1962). However, when a life-altering family secret hidden in plain sight puts a strain on family ties, influencing his work, Sammy will have to believe in the power of the lens, embrace the slow process of growing up, and pursue his dream to become a storyteller.",
     "runtime": 150,
     "mpaa": "PG-13",
@@ -1063,6 +1093,7 @@
   {
     "item": 9756,
     "title": "Raiders of the Lost Ark",
+    "year": 1981,
     "description": "Renowned archeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.",
     "runtime": 115,
     "mpaa": "PG",
@@ -1101,6 +1132,7 @@
   {
     "item": 3748,
     "title": "The Terminal",
+    "year": 2004,
     "description": "An eastern immigrant finds himself stranded in JFK airport, and must take up temporary residence there.",
     "runtime": 128,
     "mpaa": "PG-13",
@@ -1138,6 +1170,7 @@
   {
     "item": 5124,
     "title": "Amistad",
+    "year": 1997,
     "description": "A historical drama based on the true story of a slave mutiny aboard the ship La Amistad and the legal battle that followed.",
     "runtime": 155,
     "mpaa": "R",
@@ -1178,6 +1211,7 @@
   {
     "item": 5678,
     "title": "War of the Worlds",
+    "year": 2005,
     "description": "Dockworker Ray Ferrier (Tom Cruise) struggles to build a positive relationship with his two children, Rachel (Dakota Fanning) and Robbie (Justin Chatwin). When his ex-wife, Mary Ann (Miranda Otto), drops them off at Ferrier's house, it seems as though it will be just another tension-filled weekend. However, when electromagnetic pulses of lightning strike the area, the strange event turns out to be the beginning of an alien invasion, and Ferrier must now protect his children as they seek refuge.",
     "runtime": 116,
     "mpaa": "PG-13",
@@ -1217,6 +1251,7 @@
   {
     "item": 8765,
     "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
     "description": "An action-adventure film directed by Steven Spielberg, where archaeologist Indiana Jones sets out to find his father and the Holy Grail before the Nazis.",
     "runtime": 127,
     "mpaa": "PG-13",
@@ -1255,6 +1290,7 @@
   {
     "item": 1234,
     "title": "Indiana Jones and the Temple of Doom",
+    "year": 1984,
     "description": "Indiana Jones teams up with a nightclub singer named Wilhelmina Willie Scott and a twelve-year-old Chinese boy named Short Round. They end up in a small distressed village in India, where the people believe that evil spirits have taken all their children away after a sacred precious stone was stolen. They also discover the great mysterious terror surrounding a booby-trapped temple known as the Temple of Doom. Thuggee is beginning to attempt to rise once more, believing that with the power of all five Sankara stones they can rule the world. It's all up to Indiana to put an end to the Thuggee campaign, rescue the lost children, win the girl and conquer the Temple of Doom.",
     "runtime": 118,
     "mpaa": "PG",
@@ -1293,6 +1329,7 @@
   {
     "item": 2345,
     "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "year": 2008,
     "description": "An action-adventure film directed by Steven Spielberg, where Indiana Jones embarks on a quest to find the legendary Crystal Skulls while encountering old foes and new allies.",
     "runtime": 122,
     "mpaa": "PG-13",
@@ -1331,6 +1368,7 @@
   {
     "item": 3456,
     "title": "A.I. Artificial Intelligence",
+    "year": 2001,
     "description": "A robotic boy, the first programmed to love, David (Haley Joel Osment) is adopted as a test case by a Cybertronics employee (Sam Robards) and his wife (Frances O'Connor). Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David. Without final acceptance by humans or machines, David embarks on a journey to discover where he truly belongs, uncovering a world in which the line between robot and machine is both vast and profoundly thin.",
     "runtime": 146,
     "mpaa": "PG-13",
@@ -1368,6 +1406,7 @@
   {
     "item": 5678,
     "title": "The Adventures of Tintin",
+    "year": 2011,
     "description": "A young male reporter and his male dog team up with a pirate to travel on a treasure hunt that was left by the pirate's ancestors. Along the way, they discover that an enemy of the family line is also trying to find the treasure and find an ancient secret.",
     "runtime": 106,
     "mpaa": "PG",
