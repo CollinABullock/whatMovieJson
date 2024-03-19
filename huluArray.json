@@ -3,6 +3,7 @@
   {    
     "item": "99999999",
     "title": "Poor Things",
+    "year": 2023,
     "runtime": 141,
     "mpaa": "R",
     "poster": "https://img1.hulu.com/user/v3/artwork/72867b3c-0c4e-4107-aff7-a1f876c7242f?base_image_bucket_name=image_manager&base_image=16cf2cf7-ab40-4d68-8059-54999a996b11&size=1200x630&format=jpeg",
@@ -36,6 +37,7 @@
   {    
     "item": "991122",
     "title": "All Of Us Strangers",
+    "year": 2023,
     "runtime": 105,
     "mpaa": "R",
     "poster": "https://img2.hulu.com/user/v3/artwork/37b675ee-b81b-4589-9784-20bbe4700ba8?base_image_bucket_name=image_manager&base_image=def485e6-2609-4d99-8e3e-9348f6688fb9&size=1200x630&format=jpeg",
@@ -69,6 +71,7 @@
   {
     "item": "h420",
     "title": "The Abyss",
+    "year": 1988,
     "runtime": 140,
     "mpaa": "PG-13",
     "poster": "https://img1.hulu.com/user/v3/artwork/733df76b-d280-4f96-b13e-3b0c0c345dee?base_image_bucket_name=image_manager&base_image=7e99857b-7032-47d3-af9d-12c65e57da44&region=US&format=jpeg&size=952x536",
@@ -98,6 +101,7 @@
   {
     "item": "movie",
     "title": "Pretty Woman",
+    "year": 1991,
     "runtime": 119,
     "mpaa": "R",
     "poster": "https://img1.hulu.com/user/v3/artwork/d4cddf96-fc7c-4a1a-ab19-f70f51e66252?base_image_bucket_name=image_manager&base_image=cc4c17a5-6258-4750-948c-8c0959b8575d&size=1200x630&format=jpeg",
@@ -127,6 +131,7 @@
   {
     "item": "movie",
     "title": "The Sound of Music",
+    "year": 1965,
     "runtime": 174,
     "mpaa": "G",
     "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4D54035BAC198B450C172573E7AC612EC60C611CC53DEFA023D5D1DCE0461257/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
@@ -156,6 +161,7 @@
   {
     "item": "h422",
     "title": "Scarface",
+    "year": 1983,
     "runtime": 170,
     "mpaa": "R",
     "poster": "https://img1.hulu.com/user/v3/artwork/df471734-b23c-4d66-9124-960173810541?base_image_bucket_name=image_manager&base_image=c3685453-bc24-423f-bdd0-aa6069787173&size=1200x630&format=jpeg",
@@ -185,6 +191,7 @@
   {
     "item": "h423",
     "title": "Client 9: The Rise and Fall of Eliot Spitzer",
+    "year": 1010,
     "runtime": 117,
     "mpaa": "R",
     "poster": "https://img1.hulu.com/user/v3/artwork/19ccc256-57d0-4011-8ab9-71e0ac2b1bbd?base_image_bucket_name=image_manager&base_image=588c1991-7ad2-4897-a68b-69888c0c1fcb&size=1200x630&format=jpeg",
@@ -195,12 +202,14 @@
       "name": "Alex Gibney",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/Alex-Gibney-Gotham-Awards-GettyImages-1356266610-H-2022.jpg?w=1296",
       "imdb": "https://www.imdb.com/name/nm0316795/"
-    }]
+    }],
+    "actors": []
   }
   ,
   {
     "item": "documentary",
     "title": "Enron: The Smartest Guys in the Room",
+    "year": 2005,
     "runtime": 110,
     "mpaa": "Not Rated",
     "poster": "https://img.hulu.com/user/v3/artwork/a11a18e4-b417-4cff-affa-ac0971c94c3f?base_image_bucket_name=image_manager&base_image=c6a90209-825d-4d3d-98ae-ed75ee6dcc3b&size=1200x630&format=jpeg",
@@ -211,12 +220,14 @@
       "name": "Alex Gibney",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/Alex-Gibney-Gotham-Awards-GettyImages-1356266610-H-2022.jpg?w=1296",
       "imdb": "https://www.imdb.com/name/nm0316795/"
-    }]
+    }],
+    "actors":[]
   }
 ,  
 {
   "item": "documentary",
   "title": "A Glitch in the Matrix",
+  "year": 2021,
   "runtime": 108,
   "mpaa": "Not Rated",
   "poster": "https://img3.hulu.com/user/v3/artwork/e2b1d118-9f19-4264-9655-dccb68fd1301?base_image_bucket_name=image_manager&base_image=0c0364b4-85c5-48a7-868d-ba1a8c065f2a&size=1200x630&format=jpeg",
@@ -227,11 +238,13 @@
     "name": "Rodney Ascher",
     "image": "https://m.media-amazon.com/images/M/MV5BMjY1MzA2MTUyMF5BMl5BanBnXkFtZTgwNTgzMTQ3MjE@._V1_.jpg",
     "imdb": "https://www.imdb.com/name/nm2262535/"
-  }]
+  }],
+  "actors":[]
 },
 {
   "item": "h426",
   "title": "Too Funny to Fail",
+  "year": 2017,
   "runtime": 95,
   "mpaa": "Not Rated",
   "poster": "https://img4.hulu.com/user/v3/artwork/c6c29995-0c40-4442-aed6-156bd11e2d9e?base_image_bucket_name=image_manager&base_image=14a455b8-c273-4272-a75e-95bd4741d5cb&region=US&format=jpeg&size=952x536",
@@ -242,7 +255,8 @@
     "name": "Josh Greenbaum",
     "image": "https://m.media-amazon.com/images/M/MV5BMTM4YzQyOTctYjU1YS00YTk2LWI0MzYtOTk5ZTExOTI4N2UwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
     "imdb": "https://www.imdb.com/name/nm2409697/"
-  }]
+  }],
+  "actors":[]
 }
 ,
 
@@ -252,6 +266,7 @@
   {
     "item": 429,
     "title": "Minding the Gap",
+    "year": 2021,
     "runtime": 93,
     "mpaa": "Not Rated",
     "poster": "https://img3.hulu.com/user/v3/artwork/efcd9be9-9541-46b4-abbc-dd8b0606b304?base_image_bucket_name=image_manager&base_image=459411eb-4834-4a54-a64e-90fd6269f1c4&size=1200x630&format=jpeg&operations=%5B%7B%22gradient_vector%22%3A%22(0%2C0%2C0%2C0.5)%7C(0%2C0%2C0%2C0)%7C(0%2C600)%7C(0%2C240)%22%7D%2C%7B%22overlay%22%3A%7B%22position%22%3A%22SouthEast%7C(30%2C30)%22%2C%22operations%22%3A%5B%7B%22image%22%3A%22image_manager%7C869e68d8-de1f-4c66-ac40-521d403076eb%22%7D%2C%7B%22resize%22%3A%22204x204%7Cmax%22%7D%2C%7B%22extent%22%3A%22204x204%22%7D%5D%7D%7D%2C%5D",
@@ -269,6 +284,7 @@
   {
     "item": 430,
     "title": "Hail Satan?",
+    "year": 2019,
     "runtime": 95,
     "mpaa": "R",
     "poster": "https://img.hulu.com/user/v3/artwork/88dd0321-84b5-426d-a57d-bb7875e69bf5?base_image_bucket_name=image_manager&base_image=ec8bba2f-46f4-44c4-aa11-c7e94ab9477b&size=600x338&format=jpeg",
@@ -286,6 +302,7 @@
   {
     "item": 431,
     "title": "The Worst Person in the World",
+    "year": 2021,
     "runtime": 127,
     "mpaa": "R",
     "poster": "https://img2.hulu.com/user/v3/artwork/e30177ce-5201-402d-a346-6333ca2fe5b8?base_image_bucket_name=image_manager&base_image=93492891-4075-4b9c-b211-5cea3f108aaf&size=600x338&format=jpeg",
@@ -315,6 +332,7 @@
   {
     "item": 432,
     "title": "Bad Luck Banging or Loony Porn",
+    "year": 2021,
     "runtime": 106,
     "mpaa": "Not Rated",
     "poster": "https://img1.hulu.com/user/v3/artwork/d55bd317-c0ea-4782-905b-b0b9f5c94237?base_image_bucket_name=image_manager&base_image=af6248dd-c343-46a5-a19f-541fac8cc55a&size=600x338&format=jpeg",
@@ -336,6 +354,7 @@
   {
     "item": 433,
     "title": "Titane",
+    "year": 2021,
     "runtime": 108,
     "mpaa": "R",
     "poster": "https://img2.hulu.com/user/v3/artwork/bcf42641-5348-4bdb-a9bc-cf1e123aab7e?base_image_bucket_name=image_manager&base_image=a864feb1-2232-40ba-af9e-a74c1271a26b&size=600x338&format=jpeg",
@@ -361,6 +380,7 @@
 {
 "item": 434,
 "title": "Nymphomaniac: Part 1",
+"year": 2013,
 "runtime": 117,
 "mpaa": "NC-17",
 "poster": "https://img1.hulu.com/user/v3/artwork/2e78760f-ae5d-465d-afe2-302f447b9c4a?base_image_bucket_name=image_manager&base_image=83a9fe43-db73-4032-9f8e-a0c4632c3cbd&size=600x338&format=jpeg",
@@ -394,6 +414,7 @@
 {
 "item": 435,
 "title": "Benedetta",
+"year": 2021,
 "runtime": 130,
 "mpaa": "R",
 "poster": "https://img.hulu.com/user/v3/artwork/53acf949-ad64-4b5b-b2ac-52da4eafdc97?base_image_bucket_name=image_manager&base_image=ee142715-5bd1-4b9e-995d-2244577b6c77&size=600x338&format=jpeg",
@@ -426,6 +447,7 @@
   {
     "item": 338,
     "title": "The Lost City",
+    "year": 2022,
     "runtime": 112,
     "mpaa": "PG-13",
     "poster": "https://img4.hulu.com/user/v3/artwork/06b377ad-f0ca-4c81-89cc-113a3e744b4f?base_image_bucket_name=image_manager&base_image=25ea4f36-b86d-4b11-8f3f-baa0bc69e1bb&size=600x338&format=jpeg",
@@ -471,6 +493,7 @@
 {
 "item": 339,
 "title": "Mr. & Mrs. Smith",
+"year": 2005,
 "runtime": 120,
 "mpaa": "PG-13",
 "poster": "https://img4.hulu.com/user/v3/artwork/708895f3-9ad3-43c0-a71f-864d1ea2c028?base_image_bucket_name=image_manager&base_image=bff4c944-94b1-475c-9662-b577596a0099&size=600x338&format=jpeg",
@@ -511,6 +534,7 @@
 {
 "item": 340,
 "title": "Tombstone",
+"year": 1995,
 "runtime": 130,
 "mpaa": "R",
 "poster": "https://img4.hulu.com/user/v3/artwork/184d0f39-341e-47c6-b3b8-d48b78959293?base_image_bucket_name=image_manager&base_image=6f2799ca-c7a9-4882-bd88-e9ec3008e772&size=600x338&format=jpeg",
@@ -551,6 +575,7 @@
 {
 "item": 341,
 "title": "Alien vs. Predator",
+"year": 2004,
 "runtime": 101,
 "mpaa": "PG-13",
 "poster": "https://img4.hulu.com/user/v3/artwork/7130e8e2-4216-40c6-a600-4b8a252ca201?base_image_bucket_name=image_manager&base_image=24176b7f-648b-437d-9a76-9c663c442c56&size=600x338&format=jpeg",
@@ -591,6 +616,7 @@
 {
 "item": 342,
 "title": "The Hunter",
+"year": 2011,
 "runtime": 102,
 "mpaa": "R",
 "poster": "https://img4.hulu.com/user/v3/artwork/0562c8a8-bc84-479f-97c4-eb74c3d4a806?base_image_bucket_name=image_manager&base_image=f1b72940-8ddd-44a5-9522-af30de974edc&size=600x338&format=jpeg",
