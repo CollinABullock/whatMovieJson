@@ -658,6 +658,7 @@
 {
 "item": 343,
 "title": "Pearl Harbor",
+"year": 2000,
 "runtime": 183,
 "mpaa": "PG-13",
 "poster": "https://img2.hulu.com/user/v3/artwork/2d2d93bd-0358-409e-b0d9-82b3678d9903?base_image_bucket_name=image_manager&base_image=0bcb3525-5b83-4687-847d-6b54a4b3b3c4&size=600x338&format=jpeg",
@@ -698,6 +699,7 @@
 {
 "item": 344,
 "title": "Blade Runner 2049",
+"year": 2017,
 "runtime": 164,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/fe644b0a-289d-4693-a7f6-64705315b07a?base_image_bucket_name=image_manager&base_image=c080f045-ae74-4cf8-a954-d918eabd821a&size=600x338&format=jpeg",
@@ -738,6 +740,7 @@
 {
 "item": 345,
 "title": "The Equalizer 2",
+"year": 2018,
 "runtime": 121,
 "mpaa": "R",
 "poster": "https://img1.hulu.com/user/v3/artwork/6012fa47-01c6-4341-b884-16d5eed8593a?base_image_bucket_name=image_manager&base_image=643cf1b1-4fcb-4918-b6d9-191c8c9b5947&size=600x338&format=jpeg",
@@ -777,6 +780,7 @@
 {
   "item": 2345,
   "title": "The Waterboy",
+  "year": 1998,
   "description": "Raised by his overprotective mother, Helen (Kathy Bates), Bobby Boucher Jr. (Adam Sandler) is the water boy for a successful college football team coached by Red Beaulieu (Jerry Reed). When Beaulieu fires Bobby, he takes up the same position for a losing rival team, led by despairing Coach Klein (Henry Winkler). After witnessing Bobby beat up a player who teased him too much, Klein adds him to the roster as a linebacker. Soon, Klein's players are championship contenders.",
   "runtime": 90,
   "mpaa": "PG-13",
@@ -817,6 +821,7 @@
 {
   "item": 3456,
   "title": "Billy Madison",
+  "year": 1995,
   "description": "Man-child Billy Madison (Adam Sandler) has been a spoiled rich kid all his life, and spends his days drinking and partying. When his father, hotel magnate Brian (Darren McGavin), becomes fed up with his son's irresponsible ways, he issues an ultimatum. Since Billy passed all his schooling thanks to his father's influence and bribes, he must retake and pass every grade in 24 weeks. Otherwise, the business will be turned over to Brian's conniving associate, Eric (Bradley Whitford).",
   "runtime": 89,
   "mpaa": "PG-13",
@@ -859,6 +864,7 @@
 {
 "item": 346,
 "title": "Sicario: Day of the Soldado",
+"year": 2018,
 "runtime": 122,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/6e3ce93e-79a8-4740-8cc4-5bf27b8706f0?base_image_bucket_name=image_manager&base_image=f4d77c43-f82d-4a39-828a-0727b8e1415e&size=600x338&format=jpeg",
@@ -899,6 +905,7 @@
 {
 "item": 347,
 "title": "Predator",
+"year": 1986,
 "runtime": 107,
 "mpaa": "R",
 "poster": "https://img1.hulu.com/user/v3/artwork/784d3d44-0cf3-429c-a372-bbf8ecbedba7?base_image_bucket_name=image_manager&base_image=ae43a5d2-045d-4cd8-87dc-0a43a4c59e33&size=600x338&format=jpeg",
@@ -939,6 +946,7 @@
 {
 "item": 348,
 "title": "Inception",
+"year": 2010,
 "runtime": 148,
 "mpaa": "PG-13",
 "poster": "https://img3.hulu.com/user/v3/artwork/5519f425-9b21-48fb-8e67-aef24c76604a?base_image_bucket_name=image_manager&base_image=a67e9004-08b8-4612-9fda-8e828d3986bf&size=600x338&format=jpeg",
@@ -979,6 +987,7 @@
 {
 "item": 349,
 "title": "Star Trek IV: The Voyage Home",
+"year": 1986,
 "runtime": 119,
 "mpaa": "PG",
 "poster": "https://img.hulu.com/user/v3/artwork/a40085ba-2df6-4835-ba31-741fac00c12d?base_image_bucket_name=image_manager&base_image=a170c934-2946-450d-b050-2af5be7cabed&size=600x338&format=jpeg",
@@ -1017,6 +1026,7 @@
 {
 "item": 350,
 "title": "X-Men Origins: Wolverine",
+"year": 2009,
 "runtime": 107,
 "mpaa": "PG-13",
 "poster": "https://img2.hulu.com/user/v3/artwork/82480f3f-6f11-4feb-8c4e-b32c0aca2c53?base_image_bucket_name=image_manager&base_image=7b56e1f7-c32e-41b8-bd56-64317821bf0a&size=600x338&format=jpeg",
@@ -1057,6 +1067,7 @@
 {
 "item": 351,
 "title": "Geostorm",
+"year": 2017,
 "runtime": 109,
 "mpaa": "PG-13",
 "poster": "https://img2.hulu.com/user/v3/artwork/1c547b32-ee23-4e66-aba7-fa36459df5b2?base_image_bucket_name=image_manager&base_image=36550aac-a719-406b-85bb-2d7cc09384b5&size=1200x630&format=jpeg",
@@ -1097,6 +1108,7 @@
 {
 "item": 353,
 "title": "The Expendables",
+"year": 2010,
 "runtime": 103,
 "mpaa": "R",
 "poster": "https://img3.hulu.com/user/v3/artwork/57bcc8fc-98c2-4fc4-9329-7f37309aad39?base_image_bucket_name=image_manager&base_image=aacd7bc6-5024-4290-8027-d3a955c61ca8&size=600x338&format=jpeg",
@@ -1138,6 +1150,7 @@
 {
   "item": 354,
   "title": "The Expendables 2",
+  "year": 2012,
   "runtime": 103,
   "mpaa": "R",
   "poster": "https://img.hulu.com/user/v3/artwork/4527fb32-681b-4c3e-8f98-9a75fe443865?base_image_bucket_name=image_manager&base_image=48393a44-2f1c-45ec-9f74-4b9360e6ccb6&size=600x338&format=jpeg",
@@ -1177,6 +1190,7 @@
 {
   "item": 355,
   "title": "The Expendables 3",
+  "year": 2014,
   "runtime": 126,
   "mpaa": "PG-13",
   "poster": "https://img.hulu.com/user/v3/artwork/4527fb32-681b-4c3e-8f98-9a75fe443865?base_image_bucket_name=image_manager&base_image=48393a44-2f1c-45ec-9f74-4b9360e6ccb6&size=600x338&format=jpeg",
@@ -1218,6 +1232,7 @@
 {
 "item": 355,
 "title": "The Mummy",
+"year": 1999,
 "runtime": 125,
 "mpaa": "PG-13",
 "poster": "https://img1.hulu.com/user/v3/artwork/86bbcde2-caab-408d-ba4d-67d883f839af?base_image_bucket_name=image_manager&base_image=5fbfbffe-b832-4eb3-b7b6-f9766dd7df27&size=600x338&format=jpeg",
@@ -1258,6 +1273,7 @@
 {
 "item": 356,
 "title": "The Mummy Returns",
+"year": 2001,
 "runtime": 130,
 "mpaa": "PG-13",
 "poster": "https://img1.hulu.com/user/v3/artwork/86bbcde2-caab-408d-ba4d-67d883f839af?base_image_bucket_name=image_manager&base_image=5fbfbffe-b832-4eb3-b7b6-f9766dd7df27&size=600x338&format=jpeg",
@@ -1298,6 +1314,7 @@
 {
 "item": 357,
 "title": "Godzilla",
+"year": 1998,
 "runtime": 139,
 "mpaa": "PG-13",
 "poster": "https://img4.hulu.com/user/v3/artwork/615329cc-b789-450a-b70d-6e155e4d8f87?base_image_bucket_name=image_manager&base_image=e397fec1-42f6-40c5-b2f4-2861840281b1&size=600x338&format=jpeg",
@@ -1338,6 +1355,7 @@
 {
 "item": 358,
 "title": "I Am Number Four",
+"year": 2011,
 "runtime": 109,
 "mpaa": "PG-13",
 "poster": "https://img3.hulu.com/user/v3/artwork/15359af5-87f0-40c7-a7a2-454434ed9b4a?base_image_bucket_name=image_manager&base_image=8f99a8c9-ecf8-4046-941d-e0f191685ee1&size=600x338&format=jpeg",
@@ -1378,6 +1396,7 @@
 {
 "item": 359,
 "title": "Akira",
+"year": 1988,
 "runtime": 124,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/2c0baf22-e7af-4d40-a63b-bfc506bebbd2?base_image_bucket_name=image_manager&base_image=d34655c9-bc79-46a9-ae3b-50d2c1ccbf38&size=600x338&format=jpeg",
@@ -1397,6 +1416,7 @@
 {
 "item": 360,
 "title": "Maze Runner: The Death Cure",
+"year": 2018,
 "runtime": 143,
 "mpaa": "PG-13",
 "poster": "https://img.hulu.com/user/v3/artwork/56997d10-279a-4555-ade8-cf21c1393546?base_image_bucket_name=image_manager&base_image=3b243af9-bd5a-4bf2-943e-f917ed5e96d2&size=600x338&format=jpeg",
@@ -1437,6 +1457,7 @@
 {
 "item": 361,
 "title": "Robin Hood",
+"year": 2018,
 "runtime": 116,
 "mpaa": "PG-13",
 "poster": "https://img.hulu.com/user/v3/artwork/3cd3aee0-cdf7-436e-815a-b4137289421a?base_image_bucket_name=image_manager&base_image=e1c23929-f49c-4579-960e-6024b20a960f&size=600x338&format=jpeg",
@@ -1477,6 +1498,7 @@
 {
 "item": 362,
 "title": "Prometheus",
+"year": 2012,
 "runtime": 124,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/75c2abd5-6e53-4cab-9cb0-2901d6b93b03?base_image_bucket_name=image_manager&base_image=5c44fcd0-0ef4-4d66-a888-6a95cad44471&size=600x338&format=jpeg",
@@ -1517,6 +1539,7 @@
 {
 "item": 363,
 "title": "Underwater",
+"year": 2020,
 "runtime": 95,
 "mpaa": "PG-13",
 "poster": "https://img4.hulu.com/user/v3/artwork/2e23bd07-9b1b-4c7d-a471-f9a2bdb13aaf?base_image_bucket_name=image_manager&base_image=0f960ec9-9c92-4db6-8754-260e324e7261&size=600x338&format=jpeg",
@@ -1557,6 +1580,7 @@
 {
 "item": 364,
 "title": "The Last Duel",
+"year": 2021,
 "runtime": 152,
 "mpaa": "R",
 "poster": "https://img.hulu.com/user/v3/artwork/5387fb0a-a16e-4118-a244-31056c6d396c?base_image_bucket_name=image_manager&base_image=7ff345e9-c6f1-48fb-8002-7a99614941de&size=600x338&format=jpeg",
@@ -1597,6 +1621,7 @@
 {
 "item": 365,
 "title": "28 Weeks Later",
+"year": 2007,
 "runtime": 100,
 "mpaa": "R",
 "poster": "https://img.hulu.com/user/v3/artwork/6cd96079-fd77-4717-b30d-2b1ff6412a6e?base_image_bucket_name=image_manager&base_image=c7bc280f-2c91-430f-849e-0b8f5a550be2&size=600x338&format=jpeg",
@@ -1637,6 +1662,7 @@
 {
 "item": 366,
 "title": "Alien",
+"year": 1979,
 "runtime": 117,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/27389b6b-bf27-45a6-afdf-cef0fe723cff?base_image_bucket_name=image_manager&base_image=69ab9c55-651d-45f4-8d2e-98450a32bdad&size=600x338&format=jpeg",
@@ -1677,6 +1703,7 @@
 {
 "item": 367,
 "title": "Alien Resurrection",
+"year": 1998,
 "runtime": 109,
 "mpaa": "R",
 "poster": "https://img1.hulu.com/user/v3/artwork/4da92623-1e5a-4d7f-a79f-cc16272aaf6e?base_image_bucket_name=image_manager&base_image=b7dc9793-2546-4f26-9043-a24939d07f84&size=600x338&format=jpeg",
@@ -1716,6 +1743,7 @@
 {
 "item": 368,
 "title": "Alien³",
+"year": 1993,
 "runtime": 114,
 "mpaa": "R",
 "poster": "https://img3.hulu.com/user/v3/artwork/a69c932d-881a-40b8-b154-dd913923feee?base_image_bucket_name=image_manager&base_image=e98470ce-8f6c-4abf-917d-117940527d1a&size=600x338&format=jpeg",
@@ -1756,6 +1784,7 @@
 {
 "item": 369,
 "title": "The Omen",
+"year": 2006,
 "runtime": 110,
 "mpaa": "R",
 "poster": "https://img4.hulu.com/user/v3/artwork/89c917b9-cca0-426a-8080-b85b6f171b1f?base_image_bucket_name=image_manager&base_image=70fddab9-ba0a-41af-9dd4-23a65205a0b2&size=600x338&format=jpeg",
@@ -1796,6 +1825,7 @@
 {
 "item": 370,
 "title": "Aliens vs. Predator: Requiem",
+"year": 2006,
 "runtime": 94,
 "mpaa": "R",
 "poster": "https://img4.hulu.com/user/v3/artwork/164aeec5-daba-4bf5-b333-4cc03bd229ba?base_image_bucket_name=image_manager&base_image=a977cdcf-ab26-4fc0-b3f1-04155fa4268e&size=600x338&format=jpeg",
@@ -1841,6 +1871,7 @@
 {
 "item": 371,
 "title": "Apollo 18",
+"year": 2011,
 "runtime": 86,
 "mpaa": "PG-13",
 "poster": "https://img4.hulu.com/user/v3/artwork/06579b36-1e85-4ef1-8fef-131e61fa771f?base_image_bucket_name=image_manager&base_image=af01236b-f0fb-49d0-8a06-c085da14f3c2&size=600x338&format=jpeg",
@@ -1876,6 +1907,7 @@
 {
 "item": 372,
 "title": "Day of the Dead",
+"year": 1985,
 "runtime": 90,
 "mpaa": "R",
 "poster": "https://img4.hulu.com/user/v3/artwork/0a25cb80-7279-4361-a1d7-d0addd1bf22f?base_image_bucket_name=image_manager&base_image=ce7cddb1-864e-4ac1-97ee-dd26f08c0959&size=600x338&format=jpeg",
@@ -1911,6 +1943,7 @@
 {
 "item": 373,
 "title": "The Omen",
+"year": 1976,
 "runtime": 111,
 "mpaa": "R",
 "poster": "https://img.hulu.com/user/v3/artwork/a178d785-c776-4813-94dc-18e33bd3f614?base_image_bucket_name=image_manager&base_image=00e10944-eb49-42f4-8f89-e8a3e3b66f9e&size=600x338&format=jpeg",
@@ -1946,6 +1979,7 @@
 {
 "item": 374,
 "title": "Predator 2",
+"year": 1990,
 "runtime": 108,
 "mpaa": "R",
 "poster": "https://img1.hulu.com/user/v3/artwork/9d6f9c88-3a8e-4e5a-85b8-f7cf01827f43?base_image_bucket_name=image_manager&base_image=970735b3-419c-430f-be5e-011c0ac35347&size=600x338&format=jpeg",
@@ -1986,6 +2020,7 @@
 {
 "item": 375,
 "title": "Monsters",
+"year": 2010,
 "runtime": 94,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/8704ea88-71f4-4910-91a2-a04947151e95?base_image_bucket_name=image_manager&base_image=626e2646-9cc1-456b-9cf6-20c177d47278&size=600x338&format=jpeg",
@@ -2016,6 +2051,7 @@
 {
 "item": 377,
 "title": "The Creator",
+"year": 2023,
 "runtime": 133,
 "mpaa": "PG-13",
 "poster": "https://img3.hulu.com/user/v3/artwork/1f7c85b7-8614-404e-aa58-5af8702c1c89?base_image_bucket_name=image_manager&base_image=84d7c770-0295-4428-ae24-aac683fdcccc&size=600x338&format=jpeg",
@@ -2051,6 +2087,7 @@
 {
 "item": 378,
 "title": "Pig",
+"year": 2022,
 "runtime": 92,
 "mpaa": "R",
 "poster": "https://img.hulu.com/user/v3/artwork/542a32ed-7b3b-4aad-92e0-645e768a9073?base_image_bucket_name=image_manager&base_image=8fe434cc-eed4-47ff-9fbf-5858d2d9ef2a&size=600x338&format=jpeg",
@@ -2086,6 +2123,7 @@
 {
 "item": 379,
 "title": "Nightmare Alley",
+"year": 2022,
 "runtime": 150,
 "mpaa": "R",
 "poster": "https://img.hulu.com/user/v3/artwork/dd010294-61c6-4ab5-b8d9-7326836717bc?base_image_bucket_name=image_manager&base_image=089a0af0-f588-4a62-8530-8b4d765d7a89&size=600x338&format=jpeg",
@@ -2121,6 +2159,7 @@
 {
 "item": 380,
 "title": "Deep Water",
+"year": 2022,
 "runtime": 115,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/2c4ae82e-2c1b-41d5-a651-82189d1c8b2c?base_image_bucket_name=image_manager&base_image=ea120849-e5a2-496c-a636-ef00832825d9&size=600x338&format=jpeg",
@@ -2158,6 +2197,7 @@
 {
 "item": 381,
 "title": "Sweet Virginia",
+"year": 2017,
 "runtime": 93,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/db4cc6bf-c373-4e60-a6ce-79daffc67aca?base_image_bucket_name=image_manager&base_image=5782dc2d-4fb8-4835-a6fe-28bae0126106&size=600x338&format=jpeg",
@@ -2193,6 +2233,7 @@
 {
 "item": 382,
 "title": "The Nightingale",
+"year": 2018,
 "runtime": 136,
 "mpaa": "R",
 "poster": "https://img3.hulu.com/user/v3/artwork/76bfebaf-d8ab-4566-b354-b8bdbfd01a18?base_image_bucket_name=image_manager&base_image=27c3e9b0-730b-4b88-a68c-41a5370a57b5&size=600x338&format=jpeg",
@@ -2223,6 +2264,7 @@
 {
 "item": 383,
 "title": "Terminal",
+"year": 2018,
 "runtime": 90,
 "mpaa": "Not Rated",
 "poster": "https://img4.hulu.com/user/v3/artwork/bd0b22d2-7438-40a5-88a8-80d2fe44ffb6?base_image_bucket_name=image_manager&base_image=a3a2e1c1-13c1-4670-9983-2355eb68e74d&size=600x338&format=jpeg",
@@ -2259,6 +2301,7 @@
 {
   "item": 6789,
   "title": "Big Daddy",
+  "year": 1999,
   "description": "A comedy film about a lazy man who adopts a young boy to impress his girlfriend, but ends up forming a strong bond with the child.",
   "runtime": 93,
   "mpaa": "PG-13",
@@ -2304,6 +2347,7 @@
 "title": "The Man Who Killed Hitler and Then the Bigfoot",
 "runtime": 98,
 "mpaa": "Not Rated",
+"year": 2018,
 "poster": "https://img1.hulu.com/user/v3/artwork/acf13d6a-2926-431c-a5d0-db81f4168f42?base_image_bucket_name=image_manager&base_image=5c7c483e-f845-4bae-93cd-abcb5e7c7130&size=600x338&format=jpeg",
 "description": "Calvin Barr, a legendary American war veteran, is known for a covert mission during World War II in which he killed Adolf Hitler. Decades later, Calvin is approached by the government to track down and kill another mythical creature: the Bigfoot, which is believed to carry a deadly plague. As he embarks on this dangerous journey, Calvin reflects on his past and the consequences of his actions.",
 "genre": ["drama", "adventure"],
@@ -2338,6 +2382,7 @@
 {
   "item": 6790,
   "title": "50 First Dates",
+  "year": 2004,
   "description": "A romantic comedy about a man who falls in love with a woman with short-term memory loss and has to win her over again every day.",
   "runtime": 99,
   "mpaa": "PG-13",
@@ -2379,6 +2424,7 @@
 {
 "item": 385,
 "title": "I Kill Giants",
+"year": 2017,
 "runtime": 106,
 "mpaa": "Not Rated",
 "poster": "https://img3.hulu.com/user/v3/artwork/025e53a2-4539-4784-a42a-8b295b134408?base_image_bucket_name=image_manager&base_image=cc819b38-f9ff-4466-b1fb-98558d97a20d&size=600x338&format=jpeg",
@@ -2415,6 +2461,7 @@
 {
   "item": 7532,
   "title": "Dodgeball: A True Underdog Story",
+  "year": 2004,
   "description": "Average Joe's Gym and its owner, Peter La Fleur (Vince Vaughn), are both down on their luck. A fancy competing gym called Globo-Gym, run by the maniacal health nut White Goodman (Ben Stiller), is about to put Average Joe's out of business unless Peter can raise $50,000 to keep his mortgage. To save the gym, Peter and a ragtag group of Average Joe's members and employees enter a dodgeball contest with a big cash prize. In response, White forms his own Globo-Gym team to rout the competition.",
   "runtime": 92,
   "mpaa": "PG-13",
@@ -2458,6 +2505,7 @@
 {
 "item": 386,
 "title": "Monos",
+"year": 2019,
 "runtime": 102,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/351c7f48-df41-46cc-a94c-2e639f71d9ab?base_image_bucket_name=image_manager&base_image=5188c400-2563-4d7c-bd4b-84889770256e&size=600x338&format=jpeg",
@@ -2493,6 +2541,7 @@
 {
 "item": 387,
 "title": "Melancholia",
+"year": 2011,
 "runtime": 136,
 "mpaa": "R",
 "poster": "https://img1.hulu.com/user/v3/artwork/271959fb-260a-46ae-9cb7-e319ee1f99d7?base_image_bucket_name=image_manager&base_image=cb64a24f-0aa8-4925-81d0-7ee954b1492e&size=600x338&format=jpeg",
@@ -2527,6 +2576,7 @@
 {
   "item": 7533,
   "title": "Year One",
+  "year": 2009,
   "description": "After Neanderthal hunter Zed (Jack Black) is exiled for eating forbidden fruit, he and his sardonic buddy Oh (Michael Cera) leave their village and begin an epic journey through history. The pals encounter biblical characters such as Cain (David Cross) and Abel, Abraham (Hank Azaria), and others, and wind up in Sodom. Along the way, Zed debunks commonly held beliefs and replaces them with his own delusions of grandeur.",
   "runtime": 100,
   "mpaa": "PG-13",
@@ -2568,6 +2618,7 @@
 {
 "item": 388,
 "title": "The House That Jack Built",
+"year": 2018,
 "runtime": 152,
 "mpaa": "R",
 "poster": "https://img4.hulu.com/user/v3/artwork/b5bf8de6-67b5-4f5d-8397-9f19ba319f45?base_image_bucket_name=image_manager&base_image=7936a934-f2c9-487e-9886-f30aaa461530&size=1200x630&format=jpeg",
@@ -2600,6 +2651,7 @@
 {
 "item": 389,
 "title": "Swallow",
+"year": 2019,
 "runtime": 94,
 "mpaa": "R",
 "poster": "https://img3.hulu.com/user/v3/artwork/4a32a3a0-536c-4ed8-babc-8382dff3d656?base_image_bucket_name=image_manager&base_image=7bb88cb9-4c3b-4030-b580-2eb77bf45dad&size=600x338&format=jpeg",
@@ -2633,6 +2685,7 @@
 {
 "item": 390,
 "title": "Personal Shopper",
+"year": 2016,
 "runtime": 105,
 "mpaa": "R",
 "poster": "https://img3.hulu.com/user/v3/artwork/8187fbc5-435d-453d-bcce-2684856a67d1?base_image_bucket_name=image_manager&base_image=48bbe0e4-e814-488b-b0d2-c6b21a89343a&size=600x338&format=jpeg",
@@ -2657,6 +2710,7 @@
 {
 "item": 391,
 "title": "Once Upon a Time in Hollywood",
+"year": 2019,
 "runtime": 161,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/53ad86e8-d796-4a5f-b6ac-b3339482c22c?base_image_bucket_name=image_manager&base_image=ab3057ce-54f6-4572-88b6-1ea29edcf2ea&size=1200x630&format=jpeg",
@@ -2688,6 +2742,7 @@
 {
 "item": 392,
 "title": "Tropic Thunder",
+"year": 2008,
 "runtime": 107,
 "mpaa": "R",
 "poster": "https://img.hulu.com/user/v3/artwork/73ed908e-b3b0-4033-8937-1d91b1a12e94?base_image_bucket_name=image_manager&base_image=65f06108-f098-4a67-8496-cc60e644ef2f&size=600x338&format=jpeg",
@@ -2721,6 +2776,7 @@
 {
 "item": 393,
 "title": "Straight Outta Compton",
+"year": 2015,
 "runtime": 147,
 "mpaa": "R",
 "poster": "https://img1.hulu.com/user/v3/artwork/a32f9ed4-5820-4dc0-8551-ac6d87961024?base_image_bucket_name=image_manager&base_image=9d35bc1c-4cd8-435c-b74f-08c76a56c938&size=600x338&format=jpeg",
@@ -2754,6 +2810,7 @@
 {
 "item": 394,
 "title": "Empire Records",
+"year": 1995,
 "runtime": 90,
 "mpaa": "PG-13",
 "poster": "https://img.hulu.com/user/v3/artwork/25ca3de3-9925-4ad4-a9c6-170318bff1c1?base_image_bucket_name=image_manager&base_image=7c098603-2fa8-43c0-8d24-7621ace3d1b8&size=600x338&format=jpeg",
@@ -2783,6 +2840,7 @@
 {
 "item": 395,
 "title": "Grandma's Boy",
+"year": 2006,
 "runtime": 94,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/3cc07d84-3c42-4555-9989-397ff2b40ad6?base_image_bucket_name=image_manager&base_image=bd4f0a82-f52d-484a-9a9b-a00e5958d9d6&size=600x338&format=jpeg",
@@ -2816,6 +2874,7 @@
 {
 "item": 396,
 "title": "Heat",
+"year": 1995,
 "runtime": 170,
 "mpaa": "R",
 "poster": "https://img3.hulu.com/user/v3/artwork/88be9f24-47f7-41b5-8dd2-5d99b3101cdf?base_image_bucket_name=image_manager&base_image=210c8afc-7a7b-408f-97b4-894e9d9c4b8b&size=600x338&format=jpeg",
@@ -2850,6 +2909,7 @@
 {
   "item": 6742,
   "title": "Speed",
+  "year": 1994,
   "description": "Los Angeles police officer Jack (Keanu Reeves) angers retired bomb squad member Howard Payne (Dennis Hopper) by foiling his attempt at taking hostages. In revenge, Payne arms a bus with a bomb that will explode if it drops below 50 miles per hour. With the help of spunky passenger Annie (Sandra Bullock), Jack and his partner Harry (Jeff Daniels) try to save the people on the bus before the bomb goes off, while also trying to figure out how Payne is monitoring them.",
   "runtime": 116,
   "mpaa": "R",
@@ -2891,10 +2951,11 @@
 {
   "item": 8314,
   "title": "Super Troopers",
+  "year": 2001,
   "description": "Always looking for action, five over-enthusiastic but under-stimulated Vermont State Troopers raise hell on the highway, keeping motorists anxiously looking in their rear-view mirrors. Between an ongoing feud with the local cops over whose you-know-what is bigger, and the state government wanting to shut them down, the Super Troopers find themselves precariously and hilariously heading toward calamity as they try to avoid extinction.",
   "runtime": 100,
   "mpaa": "R",
-  "genre": ["comedy", "crime", "mystery"],
+  "genre": ["comedy", "crime", "mystery", "indie"],
   "director": [
     {
       "name": "Jay Chandrasekhar",
@@ -2934,6 +2995,7 @@
   "title": "Me, Myself & Irene",
   "description": "Meet Charlie Baileygates, a 17-year veteran of the Rhode Island police force. Charlie is mild-mannered, hard-working, always helpful, and a devoted and loving father to three sons. Unfortunately, Charlie has Split Personality Disorder, and when he runs out of his medication ... Meet Hank Baileygates (Jim Carrey), Charlie's hyper-aggressive alter-ego. Hank's got a filthy mouth, drinks like a fish, breaks skulls and loves dirty, dirty sex.",
   "runtime": 116,
+  "year": 2000,
   "mpaa": "R",
   "genre": ["comedy", "crime"],
   "director": [
@@ -2980,6 +3042,7 @@
 {
 "item": 397,
 "title": "Masterminds",
+"year": 2015,
 "runtime": 95,
 "mpaa": "PG-13",
 "poster": "https://img1.hulu.com/user/v3/artwork/a8010702-21f2-4900-b96b-4d616dbc5039?base_image_bucket_name=image_manager&base_image=c458d7e4-918b-4d42-aadb-4f7e1437eaba&size=600x338&format=jpeg",
@@ -3014,6 +3077,7 @@
 {
   "item": 8779,
   "title": "Napoleon Dynamite",
+  "year": 2004,
   "description": "A quirky comedy film about a socially awkward teenager named Napoleon Dynamite who navigates life in a small Idaho town while dealing with his eccentric family and friends.",
   "runtime": 96,
   "mpaa": "PG",
@@ -3056,6 +3120,7 @@
 {
   "item": 8780,
   "title": "Speed 2: Cruise Control",
+  "year": 1997,
   "description": "Annie (Sandra Bullock) is looking forward to a Caribbean cruise with her cop boyfriend, Alex (Jason Patric), who purchased the tickets to make up for lying about working on the SWAT team. Their trip turns dangerous, however, when an explosion disables the ship's communication system and it becomes clear that the vessel is under someone else's control. Alex and Annie must fight for survival as they discover that John Geiger (Willem Dafoe), a crazed passenger, is behind the chaos.",
   "runtime": 121,
   "mpaa": "PG-13",
@@ -3091,6 +3156,7 @@
 {
   "item": 5789,
   "title": "Weekend at Bernie's",
+  "year": 1987,
   "description": "Fun-loving salesmen Richard (Jonathan Silverman) and Larry (Andrew McCarthy) are invited by their boss, Bernie (Terry Kiser), to stay the weekend at his posh beach house. Little do they know that Bernie is the perpetrator of a fraud they've uncovered and is arranging to have them killed. When the plan backfires and Bernie is killed instead, the buddies decide not to let a little death spoil their vacation. They pretend Bernie is still alive, leading to hijinks and corpse desecration galore.",
   "runtime": 97,
   "mpaa": "PG-13",
@@ -3126,6 +3192,7 @@
 {
   "item": 6792,
   "title": "Revenge of the Nerds",
+  "year": 1984,
   "description": "A comedy film about a group of socially awkward college students who form their own fraternity to fight back against the jocks and bullies on campus.",
   "runtime": 90,
   "mpaa": "R",
@@ -3171,6 +3238,7 @@
 {
   "item": 5522,
   "title": "Con Air",
+  "year": 1997,
   "description": "Just-paroled army ranger Cameron Poe (Nicolas Cage) is headed back to his wife (Monica Potter), but must fly home aboard a prison transport flight dubbed Jailbird with some of the worst criminals living. Along with Diamond Dog (Ving Rhames) and Baby-O (Mykelti Williamson), genius serial killer Cyrus The Virus Grissom (John Malkovich) unleashes a violent escape plot in mid-flight. Secretly working with U.S. Marshall Vince Larkin (John Cusack), Poe tries to foil Grissom's plan.",
   "runtime": 115,
   "mpaa": "R",
@@ -3212,6 +3280,7 @@
 {
 "item": 398,
 "title": "Arizona",
+"year": 2018,
 "runtime": 85,
 "mpaa": "R",
 "poster": "https://img.hulu.com/user/v3/artwork/5f8425e1-fc32-4c4b-8da6-467de41f5910?base_image_bucket_name=image_manager&base_image=320542ce-84b4-4abc-ab5b-2f9cdf4299e5&size=600x338&format=jpeg",
@@ -3265,6 +3334,7 @@
 {    
   "item": "9876",
   "title": "Knight and Day",
+  "year": 2010,
   "runtime": 109,
   "mpaa": "PG-13",
   "description": "In 'Knight and Day,' a chance encounter thrusts a woman named June Havens into the world of international espionage. Paired with a mysterious and charming secret agent named Roy Miller, June finds herself on a whirlwind adventure across the globe, dodging danger at every turn.",
@@ -3300,6 +3370,7 @@
 {
 "item": 400,
 "title": "Eight Crazy Nights",
+"year": 2007,
 "runtime": 76,
 "mpaa": "PG-13",
 "poster": "https://img1.hulu.com/user/v3/artwork/dc4db4af-ab04-4be6-a0f6-d2c11bdc9491?base_image_bucket_name=image_manager&base_image=087e9e1d-9e72-46d0-a735-efd5cd0c1a60&region=US&format=jpeg&size=952x536",
@@ -3324,6 +3395,7 @@
 {
 "item": 401,
 "title": "High School High",
+"year": 1996,
 "runtime": 86,
 "mpaa": "PG-13",
 "poster": "https://img4.hulu.com/user/v3/artwork/7b589e71-0fef-45dd-b0ee-e8b47361b362?base_image_bucket_name=image_manager&base_image=34839c03-856d-4c29-9956-fe3d1b1b08f2&size=600x338&format=jpeg",
@@ -3348,6 +3420,7 @@
 {
 "item": 402,
 "title": "Popstar: Never Stop Never Stopping",
+"year": 2016,
 "runtime": 87,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/e2bb5a87-e1da-448b-94a0-8c7d94a02e0a?base_image_bucket_name=image_manager&base_image=e753f4d7-3ea5-484c-b931-f1bc3af42e94&size=600x338&format=jpeg",
@@ -3380,6 +3453,7 @@
 {
 "item": 404,
 "title": "Spencer",
+"year": 2021,
 "runtime": 117,
 "mpaa": "R",
 "poster": "https://img4.hulu.com/user/v3/artwork/6a4e4519-def0-41f8-898d-f4d3b8521af5?base_image_bucket_name=image_manager&base_image=5abb01b4-8d9e-4c49-9f3a-332bf8befcfc&size=1200x630&format=jpeg",
@@ -3408,6 +3482,7 @@
 {
 "item": 405,
 "title": "Hustlers",
+"year": 2019,
 "runtime": 110,
 "mpaa": "R",
 "poster": "https://img2.hulu.com/user/v3/artwork/a03d28ac-90ef-4e75-8f40-081a52e85f20?base_image_bucket_name=image_manager&base_image=7f9274cd-b3fe-4fd9-8d1d-445774deafc7&size=600x338&format=jpeg",
@@ -3437,6 +3512,7 @@
 {
 "item": 406,
 "title": "The Assistant",
+"year": 2020,
 "runtime": 87,
 "mpaa": "R",
 "poster": "https://img4.hulu.com/user/v3/artwork/94c3d0f4-b5d2-4252-aa12-b959e3f5c6f3?base_image_bucket_name=image_manager&base_image=4b094e24-696d-4ebe-abc7-9b1fe04100ad&size=600x338&format=jpeg",
@@ -3465,6 +3541,7 @@
 {
   "item": 99002,
   "title": "The King of Comedy",
+  "year": 1983,
   "description": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late-night talk-show host who craves his own privacy.",
   "runtime": 109,
   "mpaa": "PG",
@@ -3500,6 +3577,7 @@
 {
   "item": 7890,
   "title": "A Serious Man",
+  "year": 2009,
   "description": "A black comedy-drama film about a Jewish man who seeks advice from three different rabbis after experiencing a series of unfortunate events in his life.",
   "runtime": 106,
   "mpaa": "R",
@@ -3545,6 +3623,7 @@
 {
   "item": 9090,
   "title": "Hook",
+  "year": 1992,
   "description": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
   "runtime": 142,
   "mpaa": "PG",
