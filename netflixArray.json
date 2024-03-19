@@ -2,6 +2,7 @@
 	{
 		"item": "n922",
 		"title": "Dumb and Dumber",
+		"year": 1994,
 		"runtime": 107,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa5nYFw0e7NZ27XKo7YK9PfcX1iODfc8ms78qboF4lB3ecs2qwIfUDUIob_whKip4wW-NsKzMoyG_RPW0nscu2l0V3KM9cXgGc8.jpg?r=3f6",
@@ -40,6 +41,7 @@
 	{
 		"item": 4567,
 		"title": "Uncut Gems",
+		"year": 2019,
 		"description": "Howard Ratner (Adam Sandler) is a once successful New York gems dealer whose gambling addiction has left his family and career in shambles, and him hundreds of thousands in debt. Always looking for the next big bet, Howard thinks he finally hit it big when he discovers a rare uncut Opal from Ethiopia, with a very interested high-profile buyer. But the closer Howard gets to finally winning big, the more he is forced to realize he can't keep running from the consequences of his actions.",
 		"runtime": 135,
 		"mpaa": "R",
@@ -86,6 +88,7 @@
 	{
 		"item": "mn933",
 		"title": "Love and Basketball",
+		"year": 2000,
 		"runtime": 124,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSoNsy3TmnvJEP4Nxy9YrZ_V6jfIDyrx7LwpBCy6HEKZaRbYLNT4MxNQHp1kcyd7KQWPzYPnSVqQIBwhkdRAZ1sLn-xZFNlziMU.jpg?r=44b",
@@ -112,6 +115,7 @@
 {
   "item": "n909",
   "title": "The Commuter",
+	"year": 2018,
   "runtime": 105,
   "mpaa": "PG-13",
   "poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABccNsdWWMT4WcIiBe5uETG8yCotlFyeCGFWS-W5OpzWvJTL0Pyhdzcr08YpEI6OPIPqkoIx3ruDi4AsXpy8xGndwU5hS9ZwxEC8.jpg?r=c0d",
@@ -141,6 +145,7 @@
 {
   "item": "n912",
   "title": "Turbo",
+	"year": 2013,
   "runtime": 96,
   "mpaa": "PG",
   "poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABegbtM4jpgk9lqRcHbUwKlyq-rAYdN6LIQ69-3P-XDH-DKLYQEraNJ8ZietcBIu_JbVXAB0PCwxynoDUHgiaqD8MZ3Vloe5M9vs2vlzU14whastDFmpqxyOBd_VvMYHpUgb2I4_UyEA7j7V8Vv8-ztMlGK1t4nLStEQ.jpg?r=28b",
@@ -170,6 +175,7 @@
 	{
 		"item": "N911",
 		"title": "You Are Not Alone: Fighting the Wolf Pack",
+		"year": 2024,
 		"runtime": 102,
 		"mpaa": "R",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVbH8BG145WRpPUc4o4WwjRpZ5HGAI1Wg3lJuM2rAYZMmt-CrZGY2nM75-M5jTapS8iraBFopsP_TpTwwrMrGTBhtJLmGwB0jz4r3odP69AmKitIAdW1lpW0LUIm1Cp0poYu.jpg?r=373",
@@ -199,6 +205,7 @@
 	{
 		"item": "3579",
 		"title": "Phantom Thread",
+		"year": 2017,
 		"runtime": 130,
 		"mpaa": "R",
 		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTYcSq5Yu8GJUeWBnIioqYv0L6on8QJwybGp1BINcsSx7v1uwsIk_d7f8DhPTX4RpmS51lxq-_SgpGJ3B5FukrE3_ogHMiEhgseU.jpg?r=787",
@@ -228,6 +235,7 @@
 	{
 		"item": "N301",
 		"title": "Last Breath",
+		"year": 2018,
 		"runtime": 85,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYmZw6rpsQiit_33C2Czyn4FX0WB2xYPFQTplpZa65XrLr3C8bbG6m7eu_iJx6HCD7NKAdvNDn01cGEfo-txC_rZQ2qEhWNDEkrC.jpg?r=42b",
@@ -254,6 +262,7 @@
 	{
 		"item": 302,
 		"title": "Out of Thin Air",
+		"year": 2017,
 		"runtime": 85,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa2Sl1akvN80VikqzzhSJVVZJjMrJrB5c67MMGmlYeihrstOV2vO4tz8qjpepLBkvk1iWQeyr-3iBgLOxC35DKF5_RXFSoBzizp0.jpg?r=4db",
@@ -281,6 +290,7 @@
 	{
 		"item": 303,
 		"title": "The Phantom",
+		"year": 2021,
 		"runtime": 90,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfy3PVY24eGR4MvZ_q7IJM66afvYg2WLaulnovxnALylYd0XCFmeJpkoybBLxN0g-jIrGGmEgdGFo_bWVz6NXKQL1EPRYOec5xtH.jpg?r=419",
@@ -302,6 +312,7 @@
 	{
 		"item": 304,
 		"title": "Abducted in Plain Sight",
+		"year": 2017,
 		"runtime": 91,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWTU_9PsnFxT3CMSj0XD1TbbTIeZ5FCjsnskd7E4fIqYDJ7vuhjeUv4rzy8ecX_lprC6Ki3w1iHAB_kuoCK4dwac_m3HT9M7BXr6.jpg?r=250",
@@ -325,6 +336,7 @@
 		"title": "Memories of a Murderer: The Nilsen Tapes",
 		"runtime": 84,
 		"mpaa": "Not Rated",
+		"year": 2021,
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTpnwqhuOhMCcINMC4j-ZBT_KVyWDvA-rhERTkM5mhb0FzcnXHsQdVOs7zm7Lk6Fp1bUrZOOsnfwrwR2R-owxYCDqD5gwD8bPsrjbUQr5SM3rSoZk_YLZYTVgDdNENR8toQMKA.jpg?r=00d",
 		"description": "In 'Memories of a Murderer: The Nilsen Tapes', a documentary film, delves into the mind of one of Britain's most notorious serial killers, Dennis Nilsen, who confessed to the murders of at least 15 young men between 1978 and 1983. Through recordings of Nilsen's own voice from his prison cell, as well as interviews with detectives and experts, the film explores the chilling details of Nilsen's crimes and the lasting impact they had on the victims' families and society.",
 		"genre": [
@@ -344,6 +356,7 @@
 	{
 		"item": 306,
 		"title": "American Murder: The Family Next Door",
+		"year": 2021,
 		"runtime": 82,
 		"mpaa": "Not Rated",
 		"poster": "https://caffeinatedpete.files.wordpress.com/2020/10/chris01.jpg",
@@ -365,6 +378,7 @@
 	{
 		"item": "307",
 		"title": "Girl In The Picture",
+		"year": 2023,
 		"runtime": 102,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXgTlx0lMAt4G0LYzyci35w8XtY16aMyRP5gGSlQ-lbxiwE5vlKq5SryJGEQSfezMlzv5JXmmxxwTk-Jm4uMded1rA5waKnUyjUImeyvYoJhcmKBSUzohTuWHJbfTeh1OwbQdQ.jpg?r=3aa",
@@ -386,6 +400,7 @@
 	{
 		"item": "308",
 		"title": "Take Care Of Maya",
+		"year": 2022,
 		"runtime": 104,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABePp2lE9pAVCoBPAvfnWUuWErkdp7MIkDyIS-SjjSx59sXcutQaxfLzW2yWTKbWK3gJmgJuHHJ6U5W5HoqKdvKD0Ufo53ZNimjQDeojGb2mGmMlgN3OQ2w0mYkJjNnVkHPb5KQ.jpg?r=b90",
@@ -406,6 +421,7 @@
 	{
 		"item": "309",
 		"title": "Missing: The Lucie Blackman Case",
+		"year": 2020,
 		"runtime": 82,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU420B4JFxkiiPWWgbibibbBNuktBrwHVQgm2I5NJyioKRHKAx7ltIZFP8c9LYF0-ip0jNCovqYlthjgyE2TZBmg_sZSbYuwlh1SN-uGwlBq9HMoyHfudCzjXXwQ_rJgjimliw.jpg?r=325",
@@ -434,6 +450,7 @@
 	{
 		"item": "310",
 		"title": "Lover Stalker Killer",
+		"year": 2020,
 		"runtime": 90,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbUS-rEb5Ev1X_yT_q2RcPBe8bi8oNgh3UKIOILxHV0mcv2j9EzJ35Tl-HABYmNxUuigtY_b0ce2olAorUl1A5t5ckwlgCKkIJU8XH2gbwP2gqcR3P_grZUOh6GSOEqlMKe-hTOoR8XSCoSgugLIA4yd-quNkq6PvQE541tv95rk-ov-N78w4mehK0CCDmRcvdFjprWfqGBvhDoUHpLC192HHr31WEZKznj_dLIlYtzRZjS2R6QQKLrEWhD0VK4RfbJvqsW49OzLC1eAm5OeE1B2ujwcurKk7leFhU8kwnNTpt6JriRskTWlpg.jpg?r=8a4",
@@ -455,6 +472,7 @@
 	{
 		"item": "311",
 		"title": "Victim/Suspect",
+		"year": 2020,
 		"runtime": 95,
 		"mpaa": "R",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWaGvEZ123zn_imxDxLXZUH9hcc_EN7Gz2JpnPVSm2Zu_L6C1KQ8QLmMm1NXorLreVB3kaScGvhJvj0xuWmCLYszL4rGqaRdKA7eu6QbBIUW81-DMQqB-MW-72J2joHKnAoYNw.jpg?r=940",
@@ -475,6 +493,7 @@
 	{
 		"item": 312,
 		"title": "Team Foxcatcher",
+		"year": 2016,
 		"runtime": 91,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaQLYl_3i8puIkpfHPnfWlG3HBptaz7UGxWWZzuweJBHU3FGtwG77vGAph2lCzZ3XVSvZOcYHmLWRzrKh9RF2spGzzR8qzavXnWokKftR138lgEI8VErmDA7iY6uHv4WLQ04.jpg?r=99b",
@@ -498,6 +517,7 @@
 		"title": "Voyeur",
 		"runtime": 96,
 		"mpaa": "Not Rated",
+		"year": 2017,
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdXUCfBzmFeteGMc616GlG2fAULjMWB7POLWXgskbDSUei3weCvlQnByXkJqcXTlfbYASr3UfjlkSt7UG9UEr0LdK_iUOELv-VwwLPwGzMHT_YjG_rtHzSH02G6GX6xB8hiG_w.jpg?r=0ef",
 		"description": "In 'Voyeur', a documentary film, investigates the bizarre story of renowned journalist Gay Talese and the motel owner Gerald Foos. Talese becomes embroiled in Foos's decades-long obsession with voyeurism, as Foos secretly observed and documented his guests' intimate encounters through specially designed ceiling vents. The film delves into the ethical dilemmas faced by Talese and the complexities of privacy, consent, and journalistic integrity.",
 		"genre": [
@@ -529,11 +549,12 @@
 		"item": 314,
 		"title": "Nobody Speaks: Trials of the Free Press",
 		"runtime": 95,
+		"year": 2017,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRCtr6Hc7dmuIN_jOeYl-oEPa2iyPjF-TbUDykRA-emUiHm6h-ZlurLbKSPaf2vBKdMAnBt-jhsQFsnMnwHyVJ18pwcufl24a2_OyfRdLYN773LHK2L3zIp5OJlE3U97FEdSIg.jpg?r=549",
 		"description": "In 'Nobody Speaks: Trials of the Free Press', a documentary film, examines the challenges faced by the free press in modern society, particularly in the wake of high-profile legal battles involving media outlets. The film explores the implications of the Hulk Hogan vs. Gawker case, which led to Gawker's bankruptcy, as well as other instances of powerful individuals using legal means to silence or manipulate the press. Through interviews and analysis, 'Nobody Speaks' raises important questions about the role of the media in holding power to account and defending freedom of speech.",
 		"genre": [
-			"documentary"
+			"documentary", "crime"
 		],
 		"link": "https://www.netflix.com/title/80168227",
 		"director": [
@@ -549,6 +570,7 @@
 		"item": 315,
 		"title": "FYRE: The Greatest Party That Never Happened",
 		"runtime": 97,
+		"year": 2020,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSAOHMHfR20KTVfEOTi802I7I0BVDr3uV-f_ShpLoHOKeDKabpgajEzca3Qzu4EJTCrY8OSlkxwjuoOmidxrw8dT5pAaNPNRhdgVjoh0u_TqfOaW7-4SFgZ1xVqDyXCQvkIJ0g.jpg?r=835",
 		"description": "In 'FYRE: The Greatest Party That Never Happened', a documentary film, explores the infamous Fyre Festival, a highly promoted and heavily hyped music festival that ultimately turned into a disastrous failure. The film delves into the behind-the-scenes chaos and mismanagement that led to the festival's collapse, as well as the fallout for attendees, investors, and those involved in its organization. Through interviews and footage, 'FYRE' provides a cautionary tale about the dangers of unchecked ambition and the power of social media.",
@@ -575,6 +597,7 @@
 	{
 		"item": 316,
 		"title": "Athlete A",
+		"year": 2020,
 		"runtime": 103,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVSNHIsVCj7WjH_YGyQes7qxdaAPoD_ivMm6nPtnc_HWXxWr-Ze2um1szQ-4Fd5P_dnDgmitYp1f-JSiMS1AWEc8eEhDEftF-RUr_qt_iE_Dk37QSH5rTWThR9cCf7HcIka1dw.jpg?r=94d",
@@ -600,6 +623,7 @@
 	{
 		"item": 317,
 		"title": "The Tinder Swindler",
+		"year": 2022,
 		"runtime": 110,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRKBrGrthIrC-NZi1tQauJIBJBXWPZZhHyQzOLm0g2WUMv-q4OtegtvTPblYa9ZxgeQh48z1s8FQcIEl_ZdDq3pDyglg_3ChSYzGMzvN85yLEnYwOWdNU_S-blaPpkTTlJ-W.jpg?r=b69",
@@ -626,6 +650,7 @@
 	{
 		"item": 318,
 		"title": "Tell Me Who I Am",
+		"year": 2019,
 		"runtime": 85,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfdzCbIBpN8CKaCf9VxkwaAUBtrIxiRWwrsz_NeIt3IoOYgOwh7g-WqdwniQxNmEo3-1RK8n3Jp3W4FxC6MMl6ICx8265pQHtEXlLMlGq0wQ8a23vjzZ7Z4BQ76F_KpSndw_.jpg?r=320",
@@ -647,6 +672,7 @@
 	{
 		"item": 319,
 		"title": "Studio 54: The Documentary",
+		"year": 2018,
 		"runtime": 98,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQLcdG3dxZZ3W85kECtQg5lTb2R3Jpi9OqvsT7dyF_9wUi06ZOivWiUjiESSHcLWXG5Xe6Fwej9Z1hahRb41SDViIotCYikzs14.jpg?r=0b2",
@@ -667,6 +693,7 @@
 	{
 		"item": 320,
 		"title": "Halftime",
+		"year": 2020,
 		"runtime": 90,
 		"mpaa": "Not Rated",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVPy2XSG3Tnk4geNggNkx01XbNh-aWzr7c41YZi-HSB0QmftP4pJi9QS3fOMwlaR2p03DEMNJN5DSZfZPJn-njYDw52962AWRL0JesJAWQZFT3ShAAuJU2UnLa1wvYeI1TgO.jpg?r=0d3",
@@ -693,6 +720,7 @@
 	{
 		"item": "n420",
 		"title": "Alice Doesn't Live Here Anymore",
+		"year": 1974,
 		"runtime": 112,
 		"mpaa": "PG",
 		"poster": "https://cdn.posteritati.com/posters/000/000/061/484/alice-doesnt-live-here-anymore-md-web.jpg",
@@ -730,6 +758,7 @@
 	{
 		"item": "n421",
 		"title": "Mystic River",
+		"year": 2006,
 		"runtime": 138,
 		"mpaa": "R",
 		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVOeN7D5dBV71HAKqkK90_Gpzq1-gkNPCkCD4PtsLncNGr5_4IUVaHxlwcPI9QDKTuAddFto5t1NIc9Gz09zfMy-wzLiXXV410A-.jpg?r=f37",
@@ -768,6 +797,7 @@
 	{
 		"item": "n422",
 		"title": "Mank",
+		"year": 2020,
 		"runtime": 131,
 		"mpaa": "R",
 		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZY6YzEAAghoMMIokbpvzLkHdhWF_oOv4e43Un9_fnOv_2Ed_98ygTHu9sVFPCkNq8V3LPc2IPYidhWiiC2NoouN-P4ZWmtnvZYT.jpg?r=230",
@@ -805,6 +835,7 @@
 	{
 		"item": "n423",
 		"title": "The Killer",
+		"year": 2023,
 		"runtime": 119,
 		"mpaa": "R",
 		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYwJ58qLtYrSOxAC0kEru8dHvEx7qEwMiax1D4gw6rZRgk2_CxU1q16JJNM8ZZ6Et4wwyTywHXSZcQz2T1IHD7DlI9_rWnqC6JYE.jpg?r=ffb",
@@ -842,6 +873,7 @@
 	{
 		"item": "n4",
 		"title": "The Hateful Eight",
+		"year": 2015,
 		"runtime": 187,
 		"mpaa": "R",
 		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcNVzPf_NZS6e-XlVzNRfKoLq0V910UqsXarGDB7flXBZVyP8LORguKjrM5AUXHI0JLT1EUH0YSMzucMdovYv9LZNPT5TbwLkl7W.jpg?r=74a",
@@ -880,6 +912,7 @@
 	{
 		"item": "1n",
 		"title": "The Power of the Dog",
+		"year": 2021,
 		"runtime": 126,
 		"mpaa": "R",
 		"poster": "https://ntvb.tmsimg.com/assets/p20420065_v_h10_ae.jpg?w=1280&h=720",
@@ -917,6 +950,7 @@
 	{
 		"item": "1",
 		"title": "John Wick",
+		"year": 2014,
 		"runtime": 101,
 		"description": "When a gangster's son steals his car and kills his dog, fearless ex-assassin John Wick takes on the entire mob to get his revenge.",
 		"genre": [
@@ -959,7 +993,7 @@
 			"sequel"
 		],
 		"title": "The Equalizer 3",
-		"release-year": "2023",
+		"year": 2023,
 		"runtime": 119,
 		"mpaa": "R",
 		"description": "Robert McCall vows to stop an Italian crime syndicate from brutalizing and extorting the residents of a small coastal town that has won his heart.",
@@ -988,6 +1022,8 @@
 	{
 		"item": "3",
 		"title": "American Assassin",
+		"mpaa":"PG-13",
+		"year": 2017,
 		"runtime": 111,
 		"description": "After grad student Mitch Rapp suffers a tragic loss during a terrorist attack, his single-minded thirst for vengeance catches the interest of the CIA.",
 		"genre": [
@@ -1018,6 +1054,8 @@
 	{
 		"item": "4",
 		"title": "Ready Player One",
+		"mpaa": "PG-13",
+		"year": 2018,
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYvrba6Z7rACiS5YwCgXPpkSRwFpOyrD8Eqazld4fiJBtSP2qwTMV1YdwZ5rNQNX0-wW6JZHQn9f6KvPMTxw-kyuTpXmzqUN__uk2G3Xkgq5CBNsZ3j3piye6DMkzm09immx7vMMoEUQgvCBQlpqDQ4F5l1ooPUL12U.jpg?r=9fe",
 		"runtime": 140,
 		"description": "In a world on the brink of collapse, a talented gamer takes the lead in a series of challenges to win ownership of a massive virtual reality universe.",
@@ -1054,6 +1092,7 @@
 	{
 		"item": "5",
 		"title": "Meg 2: The Trench",
+		"year": 2023,
 		"mpaa": "PG-13",
 		"runtime": 115,
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXA08yhKXmcOdp-3Fz7LCCvvkGEo7J0b-p-56FJzB4V8YvoRJrLJ9KGXDeKnIm-FnNtBeBrZa_c2zffyoOimR7b_tqVc0FGIbjA.jpg?r=cd5",
@@ -1088,6 +1127,7 @@
 	{
 		"item": "8",
 		"title": "Lucy",
+		"year": 2010,
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABTQyKvI3VeRem-3y8Gal7XK3zG-ZkMGkQ9Nt1kON_zJsY2keO4vEeqaEr00zZFERCUYpa1iDKMfa2rkDJ4ixsPq3s2wz-8KHJHc.jpg?r=dbf",
 		"runtime": 89,
 		"mpaa": "R",
@@ -1125,6 +1165,7 @@
 	{
 		"item": "9",
 		"title": "Desperado",
+		"year": 1995,
 		"runtime": 104,
 		"description": "To avenge the death of his girlfriend, a mysterious guitar player hunts down the villainous drug lord responsible and forces him to face the music.",
 		"genre": [
@@ -1157,6 +1198,7 @@
 	{
 		"item": "10",
 		"title": "The Woman King",
+		"year": 2022,
 		"runtime": 135,
 		"mpaa": "PG-13",
 		"genre": [
@@ -1194,6 +1236,7 @@
 	{
 		"item": "11",
 		"title": "Bullet Train",
+		"year": 2022,
 		"runtime": 126,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdKD_7ZiQTuhiW2RKxTF7Z_YjUuid1J_13cAcINFMBFahgf067RXmvbLE6vqRzLq19JJgCqcc-gY3G9_QuW_ca62SJzIvh-IAzc.jpg?r=397",
@@ -1231,6 +1274,7 @@
 	{
 		"item": "11n",
 		"title": "Long Shot",
+		"year": 2019,
 		"runtime": 125,
 		"mpaa": "R",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABbD80c65TgTPS46wbgnVLbty_hTwAnOhNnxkejcxzi7oYzGRQtZzGGG1yq7d6V556WwRQbuXUr9DzZbSel4RF57QdTPke-fKUlc.jpg?r=f6c",
@@ -1268,6 +1312,7 @@
 	{
 		"item": "12n",
 		"title": "Hot Tub Time Machine",
+		"year": 2010,
 		"runtime": 101,
 		"mpaa": "R",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABVCk1Gwq98YtE0AtBAsi3gSCpMq5zZ6sNlzyFGwTc7i1EPu7vRAYz_NoW278pEKRUsqxwA7GPTkmjm2vIb7FHlldoCfG9EX-t9lL.jpg?r=28b",
@@ -1305,6 +1350,7 @@
 	{
 		"item": "13n",
 		"title": "Dirty Grandpa",
+		"year": 2016,
 		"runtime": 102,
 		"mpaa": "R",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdbkT63Jq3b9lCO1WSpPefv5fAKfVbDLXhv_D2mVmLCfjwgyOnMttZuKIN90F7U_g-n1OhNPwE-6Nrs9rJP8-OOeF3TurH20Jhts.jpg?r=d81",
@@ -1341,6 +1387,7 @@
 	{
 		"item": "12",
 		"title": "Anaconda",
+		"year": 1997,
 		"runtime": 89,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABVcTCb2znlXwXdxh053xIazo-ESecP8gj3FDlTovc3yciASqfFWZaXMO3zuEQh2T0j339Kx53Hfs4RskMs2Nq5N4NlFiAF2AWMI.jpg?r=636",
@@ -1379,6 +1426,7 @@
 	{
 		"item": "13",
 		"title": "Extraction 2",
+		"year": 2022,
 		"runtime": 123,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABSWevXq-2HZjLz10nifg7t5eH4RqaVlnnDaCELyXFmw0oLvntZBXngdglBl5Iz7iuz43_W6lI0_96zmgIHIUMLMK8oUq5zfO9vyUFmFiXMVjKeSV17SbCayGl0M06QAsU0Wx.jpg?r=a98",
@@ -1411,6 +1459,7 @@
 	{
 		"item": "14",
 		"title": "Extraction",
+		"year": 2020,
 		"runtime": 118,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeAGTIHwDqrikWfk98_xqZhnPzJoiufhjavBREs2mXPqX950ulbC7n9-_KOU_8PFJVT7Eb4wQdLeR6WnB6s3pO6BzrngTPrA9VRsSlIT0q2_Q6ouFyxn-AwEGdInqb2_jt26Gw.jpg?r=362",
@@ -1443,6 +1492,7 @@
 		"item": "15",
 		"title": "65",
 		"runtime": 92,
+		"year": 2023,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYl2Ees15ICNqtuZkh3Ggm3sZZAIpOQEercxsv5OM0IeW0Z66HOBP-JVSnMjPrD5rdF-ueBsS4HnmeGIbCZ1dORA6XVwyq9KI-o.jpg?r=420",
 		"description": "After surviving a crash landing, an astronaut and his passenger must outlast the perils of prehistoric Earth to reach their only hope for escape.",
@@ -1474,6 +1524,7 @@
 	{
 		"item": "16",
 		"title": "The Meg",
+		"year": 2018,
 		"runtime": 113,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABaJLrF0O0oiu3lM1oAc5km8es_xCGHoczjV1GnQ6oHY9_JWnmup3y3nqKOid1BndRWAkxPMOse97q-2imuOs7S0TPmtmxJeRlcg.jpg?r=c5e",
@@ -1512,6 +1563,7 @@
 	{
 		"item": "17",
 		"title": "Dredd",
+		"year": 2012,
 		"runtime": 95,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdLHDRTdyDpw8UOXVZR9h_sG_ZJxSa09KW-khXwBiXCBe_Eby-mKuIJkCOp2GYwH1svw1xMSYU8g8P_NC3cBCgPax-V6OpnnSYHV.jpg?r=e51",
@@ -1550,6 +1602,7 @@
 	{
 		"item": "18",
 		"title": "Black Adam",
+		"year": 2022,
 		"runtime": 124,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABUCP2OWsUC_nT0_RY6hkC2AMYzGAs0KGgONfUSZ9v7_gxCLh1ykF9iIoHpIS8_blqx8b5oUI6bM-KZzAZXBeBgcghsng0UaGlBY.jpg?r=a31",
@@ -1583,6 +1636,7 @@
 	{
 		"item": "19",
 		"title": "Sausage Party",
+		"year": 2016,
 		"runtime": 88,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABb_IuA-aEPrODgc-QO_s0MWtGCX4voxQelPoMZDghD3UUDnhfbzjIor6FX4vb_h5cbU43qy22QCcHAZHegyE3Fk6p_nChCpUKzA.jpg?r=09d",
@@ -1620,6 +1674,7 @@
 	{
 		"item": "20",
 		"title": "Fury",
+		"year": 2014,
 		"runtime": 135,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABRlU6_tZczRFnkjYyv78xlumQl17IlP2b2lNjDtA9KqsrfMv0lBTFpUyrTjjOINLPxcL36ZtWAEd2-4INO5A4w6jPaRWVYke5Ok.jpg?r=a18",
@@ -1657,6 +1712,7 @@
 	{
 		"item": "21",
 		"title": "The Other Guys",
+		"year": 2010,
 		"runtime": 107,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYvlnLajzMSrdXBLsKXytXZhJJmhuxUISbr002ccLS5FfrqY5wnMbSHGTfeq-CTkuLTXIt9neN4hkvsFfeq-qDvx0Swnsf5mIKM.jpg?r=68f",
@@ -1694,6 +1750,7 @@
 	{
 		"item": "22",
 		"title": "Jurassic Park",
+		"year": 1993,
 		"runtime": 126,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcVUa1bV4GFKwUFBxthBZjyMOJPkkg9RB9_uNOJBN7kG7zZX2JQ2kJrRr38EzvtP61bz-kxIbxbIjNBJPVdlENeMJkc2tKBAidw.jpg?r=9a8",
@@ -1731,6 +1788,7 @@
 	{
 		"item": "23",
 		"title": "Cold Pursuit",
+		"year": 2019,
 		"runtime": 118,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdgN-I0_Dq-TAOKVQCqEkUfR-wYiA9eESTKjljr5-mVjzxIZYtT9aGhgc_5dP0BXxttxPYSS2JYswpVU3SDDW0IgDcLVBj87bKE.jpg?r=de8",
@@ -1768,6 +1826,7 @@
 	{
 		"item": "24",
 		"title": "Lone Survivor",
+		"year": 2013,
 		"runtime": 121,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABbbg3Bew3zDbLq95y7dFb-NpUpr74gVza_peZnPwTcCLfX9KKxjd-mIJiR3f42WJuMfN9vSwu_xyJc4oS3HZa1tMs1z77o5pHGw.jpg?r=0f6",
@@ -1805,6 +1864,7 @@
 	{
 		"item": "25",
 		"title": "No Hard Feelings",
+		"year": 2023,
 		"runtime": 103,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdjIRcE2B9G7So_x32wF49c8psg9bFatBlH9ZSE1LX40CSzFeUhdS-UbI1KtE7ZQ1hTDTpXfZlB4Nb04sEwnWvC579S3eSA9Kmw.jpg?r=41e",
@@ -1843,6 +1903,7 @@
 		"item": "26",
 		"title": "Minions",
 		"runtime": 90,
+		"year": 2015,
 		"mpaa": "G",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdaEMvIGiJT0glP97Iu-2yTFYZIIAyqcOaO0ooytpnMQFZtXdzBgaNwNdSc-5pqoRdyZP09ArxkCPVcNiKHB6B0-m87Lt3j3iVeCVMRMhWVseL8Y5wy4uNIyvAQr32D83PtnAIrkDsgYX9927jhbEoQh8XItxNUeNiI.jpg?r=7d5",
 		"description": "Travel back in time with Kevin, Stuart and Bob in this prequel that follows the Minions as they try to win the favor of supervillain Scarlet Overkill.",
@@ -1880,6 +1941,7 @@
 	{
 		"item": "27",
 		"title": "Neighbors",
+		"year": 2014,
 		"runtime": 96,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABSPjZEJvQaaCgpI-ucUDFhZJXKCdbF3h1q4R0d9JVNcq5CmtlliVjAgvslRP9kWoOFhhUBNx5Xd3q7q3jbgpO0XzcYT-2RP-Bes.jpg?r=0bb",
@@ -1916,6 +1978,7 @@
 	{
 		"item": "27",
 		"title": "The Suicide Squad",
+		"year": 2021,
 		"runtime": 132,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABU63O7mS5nRBhNeTpNlMkF_P8fndo7eQ6r2tB4bZoGxOJ5ZjJcH4U6J5g_7KjdsO4oBdDW4YNJ8BmytpXppd8HSpqfvc4mYhog8.jpg?r=48a",
@@ -1954,6 +2017,7 @@
 	{
 		"item": "28",
 		"title": "Blazing Saddles",
+		"year": 1974,
 		"runtime": 92,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABan-UMchxm7-rYwOOX6KbvoSD7kTEEHO6hjtg9wrt3TzUI617nim1C-hvxOUtZjo5lluu4U5wxaSWoLPZpqeTpw0sO1iKoER_rI.jpg?r=793",
@@ -1986,6 +2050,7 @@
 	{
 		"item": "29",
 		"title": "School Of Rock",
+		"year": 2002,
 		"runtime": 109,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABQ_oVgCiaXkABSAjkDrwiddYBOinRQ3Q6XdRAOFOsiYWfDxR2zgjRGuEXkL6nDGCI_7uqq7i6pwQd1IVcrz0K95JV-V799m06ko.jpg?r=176",
@@ -2018,6 +2083,7 @@
 	{
 		"item": "29",
 		"title": "Mamma Mia!",
+		"year": 2008,
 		"runtime": 108,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABSjhYa8x89TuapdPqtzCahGtxfrgNEWX_IChbnSn8GC9DEO7swlzSPc_OH7jl_6HR_HzEh4YmJlftU8chBH-49lNkiy383jLTo0.jpg?r=58e",
@@ -2056,6 +2122,7 @@
 	{
 		"item": "30",
 		"title": "Twins",
+		"year": 1988,
 		"runtime": 106,
 		"mpaa": "G",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABVY_QnTCZXvDBeJSgy1q4zupeUOERLRjbvCuP8i2VXhJ1zEgEps9czOwJVvxu2dUdP12Iuq0DPU2Cd8Hib592ny3PqORMJaMYY0.jpg?r=40d",
@@ -2088,6 +2155,7 @@
 	{
 		"item": "31",
 		"title": "A Bad Mom's Christmas",
+		"year": 2017,
 		"runtime": 104,
 		"mpaa": "R",
 		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXObR5eQlG4zRlefdTfrJJfYSNhYS-Zi670Dybl1UVN0EiMpvWaV5vtdeWQqOQu6tFsq8g_a5XnRZMgWzYPB6Bcjh-S3esIOhKU.jpg?r=612",
@@ -2127,6 +2195,7 @@
 		"title": "She's The Man",
 		"runtime": 105,
 		"mpaa": "PG-13",
+		"year": 2006,
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABR_IrfJfJu97SMQ6rldthXMbrpjwFvs4wSPayxO0oKj5mhli_3uHSzOxB0oEV5JdEDixtDPIhVhGtkESRN46EDigX9DuV4wQVlE.jpg?r=309",
 		"description": "Teenager Viola tries to convince the students at her twin brother's school that she's actually him in this twist on Shakespeare's Twelfth Night.",
 		"genre": [
@@ -2158,6 +2227,7 @@
 	{
 		"item": "33",
 		"title": "Meet The Parents",
+		"year": 2000,
 		"runtime": 107,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABfWNcA8VCMRTAhgVwUJ3O3_g8lpeCZafXh7mxsaOrzubrycs5hTWFQ-sNdEMiwDstHffJb0_GtXsz-piN4wKpnzW5RxwpWYy-GU.jpg?r=0a2",
@@ -2195,6 +2265,7 @@
 	{
 		"item": "34",
 		"title": "The House Bunny",
+		"year": 2008,
 		"runtime": 97,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABUlN5s3w66-zHL0eIUjJ8JwMaXvZ2AUPLGyg2NzJBNgJQeaOy18JqCOF0mnUcuZCNlFfrFafl_uxSt1Afoc5_NijesfXr3-cGLY.jpg?r=9ce",
@@ -2232,6 +2303,7 @@
 	{
 		"item": "35",
 		"title": "13 Going On 30",
+		"year": 2004,
 		"runtime": 97,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeywrqOWuUiQGarXoeIVLhOc7E6re6JwBDfJmWUUsVL94O_7uVTQs8JxYKZc7Yw4jABG_X3JdKAdYkxfF1zuOvHheF95YXJBEeE.jpg?r=21d",
@@ -2265,6 +2337,7 @@
 	{
 		"item": "36",
 		"title": "My Best Friend's Wedding",
+		"year": 1997,
 		"runtime": 104,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABROYI1dmbpPy_EtDF8v1p76OAzHmZmrVS4Tm0CbF64Iw8Iy523vZjc3oXzyW749k7vow1d7juEcLj2JKgebtNHHe64iCZwsDP8Tl.jpg?r=bdf",
@@ -2302,6 +2375,7 @@
 	{
 		"item": "37",
 		"title": "She's All That",
+		"year": 1998,
 		"runtime": 95,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABQpkB9oRXj261sApVFLba9FOuWTB6F2kevZv9bJ105pCo0HlHPMF1ryw4jFtbQQCojux3MVPU4Wcx9kdG3nzdUhnNrcTEe9ZoEnj.jpg?r=3e1",
@@ -2340,6 +2414,7 @@
 	{
 		"item": "38",
 		"title": "Don't Look Up",
+		"year": 2021,
 		"runtime": 143,
 		"mpaa": "R",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeEb2lWd-JuI5rSKjLf1xnqb1fGSWq3d2--CBkT2hVDFRnqP3JaUYtQf_FE-q1m5frfTNm1lnqZ-4brfdgLb980oFIbclAS5aCyJ32woJB1HYECfH5cAVPAyx5hCjUtVidIt.jpg?r=116",
@@ -2378,6 +2453,7 @@
 	{
 		"item": "39",
 		"title": "The Great Gatsby",
+		"year": 2013,
 		"runtime": 142,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABebyn8XblSaVJZ3514SdfNUQmdk0qVtlqKvsVnUHpnOobgt1z3dg8Qx07RXoB3Y_SozdDfxE7HTTGXIGiqDGrxMMNlROUgNNM5AQ.jpg?r=586",
@@ -2415,6 +2491,7 @@
 	{
 		"item": "40",
 		"title": "Glass Onion, A Knives Out Mystery",
+		"year": 2022,
 		"runtime": 142,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeOrhdb7Hx-4aOrI6LLOpeGdwn1sfzqJvMwV3CwAE9ixj1cXniTONYYrRspBQ520vn2TKNQtgKD6sTWPTt0AKIIjCLGYBLCRqDbq2jF59TtdFMeTH3s311TfeLuCId6DK_u63w.jpg?r=a9b",
@@ -2452,6 +2529,7 @@
 	{
 		"item": "41",
 		"title": "Where The Crawdads Sing",
+		"year": 2022,
 		"runtime": 125,
 		"mpaa": "PG-13",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABe1IDcnP_ikWJ55NXjTk_A-H7UiGtJpBU1bI4jsG62i6pKULPNOV_hPsuQkfZPkA3L5WlMfS_kOMMBKrdBpldqN2XE8dgvntw-s.jpg?r=c1a",
@@ -2484,6 +2562,7 @@
 	{
 		"item": "14n",
 		"title": "Erin Brockovich",
+		"year": 2000,
 		"runtime": 131,
 		"mpaa": "R",
 		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABVTqrmN0F5HJ_Ie0x5gm5H4CM_TglpgPzQpcvgVZN3-YQEf-U1nOVce3qZbqZ2MVbtROHn94CNQt-fba1VWRyu9bja90rbqi2RA.jpg?r=bca",
@@ -2521,6 +2600,7 @@
 	{
 		"item": "42",
 		"title": "Blackhat",
+		"year": 2015,
 		"runtime": 132,
 		"mpaa": "R",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABc18kOzBzoRQjWNuoE98J1wuEn7ctE2G8JhzszvTLV7gvhPr-Y8p1njiAiUtIRBFCnNaVyUo86MWYJFsuKy9ZHC71xXfnxMtheI.jpg?r=7a8",
@@ -2553,6 +2633,7 @@
 	{
 		"item": "43",
 		"title": "Joker",
+		"year": 2019,
 		"runtime": 121,
 		"mpaa": "R",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABTYcZRD-94Zapbubx0PZiwLkQnlWn3pRfr2NABcEo0uAuo_E9Jfo8TtSrkoiPrCMf_oTkrs5JPBAZCRxabq0O0_Tj2aCsr9VmFc.jpg?r=e68",
@@ -2591,6 +2672,7 @@
 	{
 		"item": "44",
 		"title": "Boyz N The Hood",
+		"year": 1991,
 		"runtime": 112,
 		"mpaa": "R",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXCvB4mULiHXeIr9IMOFcvGgZtwr98YdxwBVZiAVuOHUvofoIbMiIGMmWmzc3x1u4w3KlxK-g4zmq0Qe4sl6gXbTtSoFCO03l1gI.jpg?r=f14",
@@ -2628,6 +2710,7 @@
 	{
 		"item": "45",
 		"title": "Training Day",
+		"year": 2001,
 		"runtime": 122,
 		"mpaa": "R",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcc80J3zsl4KkTcmA8-DoEn9ShaehP1Gdc_UMe1-WsZHL27CiyxZnBDt7Nuj4y_t3gUxwkebU-MoVdOG6RoIUvmXruhlla4UgIx4.jpg?r=108",
@@ -2662,6 +2745,7 @@
 		"title": "Gravity",
 		"runtime": 90,
 		"mpaa": "PG-13",
+		"year": 2013,
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABZg18wquH4ivi2STVibYaqLpp28cQw6Ea6oSE8OdfOKCn5bPu12UzyL8RXpgcBR1hnt-xz56j-iAYY-_Z49Vud81A96lAeqNdO2B.jpg?r=256",
 		"description": "When debris destroys their shuttle, a medical engineer and a seasoned astronaut find themselves floating through space with no connection to Earth.",
 		"genre": [
@@ -2693,6 +2777,7 @@
 	{
 		"item": "47",
 		"title": "Jackie Brown",
+		"year": 1997,
 		"runtime": 154,
 		"mpaa": "R",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeDM2ocWL45aTorVxoUWClZWNi8Zd8E4f_YT4WseCcBoRu_oR49cseR9cD7BbPGHPQb5vBHw8uve0Ru_yzYB72Bosjfvy0Drt59_.jpg?r=3a7",
@@ -2730,6 +2815,7 @@
 	{
 		"item": "48",
 		"title": "L.A. Confidential",
+		"year": 1997,
 		"runtime": 137,
 		"mpaa": "R",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABST75AW5puvY6dCw1dp9Z4KvqbVqaAS8EYiMgIVZuRyzWYFg326WbsXMysnyc_jUx5PcJ63xWUSOZx76xZAhdygYRkECs6R2U1zy.jpg?r=d9a",
@@ -2769,6 +2855,7 @@
 	{
 		"item": "49",
 		"title": "The Nice Guys",
+		"year": 2016,
 		"runtime": 115,
 		"mpaa": "R",
 		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcdoI9wt06-b37uAmT-eoylZeffyB-oSDNTB-mr4VmKOYKhANjWcx3waQ7WBX6tiMLh25WJt6-mIILD0XmYbCz_EUqwmGmgNYTps.jpg?r=54f",
