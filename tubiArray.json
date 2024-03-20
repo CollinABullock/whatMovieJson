@@ -985,6 +985,33 @@
   "link": "https://tubitv.com/movies/579647/fahrenheit-9-11",
   "poster": "https://ntvb.tmsimg.com/assets/p34667_v_h8_ab.jpg?w=960&h=540"
 }
+,
+
+{
+  "item": 9304,
+  "year": 1999,
+  "title": "Flawless",
+  "runtime": 112,
+  "mpaa": "R",
+  "description": "Flawless is a crime drama film directed by Joel Schumacher. Set in New York City, the film follows the unlikely friendship between a retired security guard suffering from a stroke, Walter Koontz, played by Robert De Niro, and a drag queen named Rusty, portrayed by Philip Seymour Hoffman. When Walter becomes the victim of a robbery and loses his ability to speak, Rusty helps him to recover through singing lessons. As their bond deepens, they embark on a journey of self-discovery and redemption, challenging societal norms and prejudices. With powerful performances and poignant storytelling, Flawless explores themes of acceptance, forgiveness, and the human capacity for change.",
+  "genre": ["crime", "drama"],
+  "director": [{
+    "name": "Joel Schumacher",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2020/06/joel-schumacher-obit.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001708/"
+  }],
+  "actors": [{
+    "name": "Robert De Niro",
+    "image": "https://people.com/thmb/5m8WUpuC38Opy51dL4fTaz_MaKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/gettyimages-1202357729-c8f22c1ef5db4bfa9ecc67df3bbb5738.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000134/"
+  }, {
+    "name": "Philip Seymour Hoffman",
+    "image": "https://image.cnbcfm.com/api/v1/image/101432506-151109167.jpg?v=1392920292",
+    "imdb": "https://www.imdb.com/name/nm0000450/"
+  }],
+  "link": "https://tubitv.com/movies/312176/flawless",
+  "poster": "https://i.ytimg.com/vi/wD6fUgWIDr0/maxresdefault.jpg"
+}
 
   
   

@@ -478,8 +478,98 @@
 }
 ,
 
+{
+  "item": 9012,
+  "year": 2020,
+  "title": "The War with Grandpa",
+  "runtime": 94,
+  "mpaa": "PG",
+  "description": "The War with Grandpa is a family comedy directed by Tim Hill. The film follows the story of a young boy named Peter, who is forced to give up his room to his grandfather, Ed, when he moves in with the family. Unwilling to part with his beloved space, Peter devises a series of pranks to drive his grandpa out. What starts as innocent fun soon escalates into an all-out war between Peter and his grandpa, with hilarious consequences. With its heartwarming moments and comedic hijinks, The War with Grandpa is a delightful family film that explores the bond between generations.",
+  "genre": ["comedy", "family"],
+  "director": [{
+    "name": "Tim Hill",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM4MjgzNjMzOF5BMl5BanBnXkFtZTYwNzI2NjU3._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0383708/"
+  }],
+  "actors": [{
+    "name": "Robert De Niro",
+    "image": "https://media.vanityfair.com/photos/5560918a1aaec7043ea51d48/master/w_2560%2Cc_limit/robert-deniro-184702518.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000134/"
+  }, {
+    "name": "Oakes Fegley",
+    "image": "https://www.news-herald.com/wp-content/uploads/2021/07/20210715_aadaf1b2-a172-5769-9218-07bbafb25969-1.jpg?w=1024",
+    "imdb": "https://www.imdb.com/name/nm6463673/"
+  }, {
+    "name": "Uma Thurman",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTViOTM2NzItZTA5Yi00Y2ZkLWJlYTgtZjFmMDBlYmJiYzJkXkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000235/"
+  }],
+  "link": "https://www.hulu.com/movie/the-war-with-grandpa-6e2cfc13-8af6-4728-af9a-eb2c8a79c5c0",
+  "poster": "https://media.zenfs.com/en/comingsoon_net_477/c1cb4aa39d61222209a9879f01d8cf43"
+}
+,
 
+{
+  "item": 9102,
+  "year": 2008,
+  "title": "What Just Happened",
+  "runtime": 104,
+  "mpaa": "R",
+  "description": "What Just Happened is a comedy-drama directed by Barry Levinson. The film follows a Hollywood producer named Ben who navigates the ups and downs of the film industry while dealing with personal and professional challenges. As he juggles demanding directors, temperamental actors, and studio executives, Ben finds himself in increasingly absurd and comedic situations. With its satirical take on the inner workings of Hollywood, What Just Happened offers a humorous yet insightful look at the entertainment business.",
+  "genre": ["comedy", "drama"],
+  "director": [{
+    "name": "Barry Levinson",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjljM2IxMTgtZWQ5NS00NDIwLWJjZDktYWQ1MzkxYmIzNGY4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001466/"
+  }],
+  "actors": [{
+    "name": "Robert De Niro",
+  "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+  "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+  }, {
+    "name": "Bruce Willis",
+    "image": "https://people.com/thmb/mI1G2rmaFBmQ97fZZuX3QKA4Rh8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(886x437:888x439)/bruce-willis-life-in-photos-tout-1-030124-9c196437f4be4e40b7dbd8bf977afb30.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000246/"
+  }, {
+    "name": "Catherine Keener",
+    "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/12/ckcovercanva.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001416/"
+  }, {
+    "name": "Stanley Tucci",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/stanley-tucci-on-tuesday-september-19-2023-news-photo-1695752186.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001804/"
+  }],
+  "link": "https://www.hulu.com/watch/1a842d17-7a36-4a49-a75d-69f96673fbc3",
+  "poster": "https://img2.hulu.com/user/v3/artwork/1a842d17-7a36-4a49-a75d-69f96673fbc3?base_image_bucket_name=image_manager&base_image=e95a3e3b-2fc3-40d9-b417-d74b027025da&size=1200x630&format=jpeg"
+}
+,
 
+{
+  "item": 9203,
+  "year": 2013,
+  "title": "Killing Season",
+  "runtime": 91,
+  "mpaa": "R",
+  "description": "Killing Season is an action thriller directed by Mark Steven Johnson. The film follows the story of two veterans from the Bosnian War, an American named Benjamin Ford and a Serbian named Emil Kovac, who find themselves locked in a deadly game of cat and mouse in the Appalachian Mountains. As old wounds resurface and past grievances come to light, Ford and Kovac engage in a brutal fight for survival, where the lines between hunter and prey become blurred. With its intense action sequences and gripping plot, Killing Season explores themes of revenge, redemption, and the cost of war.",
+  "genre": ["action", "thriller"],
+  "director": [{
+    "name": "Mark Steven Johnson",
+    "image": "https://deadline.com/wp-content/uploads/2018/05/mark-steven-johnson-e1526434073156.jpg",
+    "imdb": "https://www.imdb.com/name/nm0427964/"
+  }],
+  "actors": [{
+    "name": "Robert De Niro",
+    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+  }, {
+    "name": "John Travolta",
+    "image": "https://www.nickiswift.com/img/gallery/john-travoltas-easter-video-with-his-kids-is-melting-hearts/intro-1650305196.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000237/"
+  }],
+  "link": "https://www.hulu.com/movie/d0847c30-5387-4c14-84aa-e1ad1d71a760",
+  "poster": "https://img2.hulu.com/user/v3/artwork/d0847c30-5387-4c14-84aa-e1ad1d71a760?base_image_bucket_name=image_manager&base_image=f01fd77a-2c17-47d8-9489-35139b3f5046&size=1200x630&format=jpeg"
+}
+,
 
 {
 "item": 434,
