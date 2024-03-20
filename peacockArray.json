@@ -501,6 +501,38 @@
     }]
   }
   ,
+
+  {
+    "item": "9012",
+    "year": 1984,
+    "title": "Once Upon a Time in America",
+    "runtime": 229,
+    "mpaa": "R",
+    "description": "Once Upon a Time in America is an epic crime drama directed by Sergio Leone. Spanning several decades, the film chronicles the lives of a group of Jewish gangsters in New York City. It explores themes of friendship, betrayal, and the American Dream against the backdrop of Prohibition-era America. With its sprawling narrative, stunning cinematography, and haunting score, Once Upon a Time in America is a masterpiece of cinema.",
+    "genre": ["crime", "drama"],
+    "director": [{
+      "name": "Sergio Leone",
+      "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/10/Sergio-Leone.png",
+      "imdb": "https://www.imdb.com/name/nm0001466/"
+    }],
+    "actors": [{
+      "name": "Robert De Niro",
+      "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+      "imdb": "https://www.imdb.com/name/nm0000134/"
+    }, {
+      "name": "James Woods",
+      "image": "https://variety.com/wp-content/uploads/2018/07/james-woods.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000249/"
+    }, {
+      "name": "Elizabeth McGovern",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/11/1410430228092/QA-Elizabeth-McGovern-009.jpg?width=620&quality=85&auto=format&fit=max&s=f8904309a7ea3014b6e30ab69fda9d83",
+      "imdb": "https://www.imdb.com/name/nm0001525/"
+    }],
+    "link": "https://www.paramountplus.com/movies/video/oH8R37CjFPJ3dBHKoJpQfiOnVCUWi9O_/",
+    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2024/01/05/2297403971891/OUTA_SAlone_16_9_1920x1080_NB_2553452_1920x1080.jpg"
+  }
+,  
+
   {
     "item": "140",
     "title": "A Jersey Christmas",

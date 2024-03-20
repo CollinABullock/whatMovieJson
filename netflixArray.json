@@ -4620,6 +4620,44 @@
 			}
 		]
 	},
+
+	{
+		"item": "5678",
+		"year": 2012,
+		"title": "Silver Linings Playbook",
+		"runtime": 122,
+		"mpaa": "R",
+		"description": "Silver Linings Playbook is a heartfelt romantic comedy-drama directed by David O. Russell. The film follows Pat Solatano, a man with bipolar disorder who moves back in with his parents after spending time in a mental institution. As Pat tries to rebuild his life and win back his estranged wife, he forms an unlikely bond with Tiffany, a young widow with her own struggles. Through their turbulent journey, they discover unexpected silver linings amidst life's challenges.",
+		"genre": ["comedy", "drama", "romance"],
+		"director": [{
+			"name": "David O. Russell",
+			"image": "https://www.indiewire.com/wp-content/uploads/2015/08/david-o-russell.jpeg",
+			"imdb": "https://www.imdb.com/name/nm0751102/"
+		}],
+		"actors": [{
+			"name": "Bradley Cooper",
+			"image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTWMU-hTEfE9uijYMdXLmGszgxLyiWtA_lBOaTUq82IDM__vhe-JaCEK8Cx_OKdoXKZ8YCGL8Mf2PR6-7Q",
+			"imdb": "https://www.imdb.com/name/nm0177896/bio/"
+		}, {
+			"name": "Jennifer Lawrence",
+			"image": "https://media.vanityfair.com/photos/618c0614fdf674f0522a9fb7/master/w_2560%2Cc_limit/LBY_210805_JENNIFER_LAWRENCE_VF_09G_Shot_10_028_QC_sRGB_LR.jpg",
+			"imdb": "https://www.imdb.com/name/nm2225369/?ref_=tt_ov_st"
+		}, {
+			"name": "Robert De Niro",
+				"image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+				"imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+		}, {
+			"name": "Jacki Weaver",
+			"image": "https://variety.com/wp-content/uploads/2021/11/Jacki-Weaver-headshot.jpeg?w=650",
+			"imdb": "https://www.imdb.com/name/nm0915865/"
+		}],
+		"link": "https://www.netflix.com/title/70244164",
+		"poster": "https://i0.wp.com/the-art-of-autism.com/wp-content/uploads/2020/05/Silver-Linings-Playbook-poster.jpg?fit=770%2C481&ssl=1"
+	},
+
+	
+	
+
 	{
 		"item": "88",
 		"title": "May December",

@@ -377,6 +377,42 @@
     }]
   }
 ,  
+
+{
+  "item": "1234",
+  "year": 1990,
+  "title": "Goodfellas",
+  "runtime": 146,
+  "mpaa": "R",
+  "description": "Goodfellas is a gripping crime drama directed by Martin Scorsese, based on the true story of Henry Hill, a former mobster turned informant. Set in the 1950s and 1960s, the film follows Hill's rise through the ranks of the Italian-American Mafia in New York City. It delves deep into the inner workings of organized crime, exploring themes of loyalty, betrayal, and the allure of power. With its iconic performances, razor-sharp dialogue, and masterful direction, Goodfellas is widely regarded as one of the greatest films ever made.",
+  "genre": ["crime", "drama"],
+  "director": [{
+    "name": "Martin Scorcese",
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
+    "imdb": "https://www.imdb.com/name/nm0000217/"
+  }],
+  "actors": [{
+    "name": "Robert De Niro",
+    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "imdb": "https://www.imdb.com/name/nm0000134/"
+  }, {
+    "name": "Ray Liotta",
+    "image": "https://www.slashfilm.com/img/gallery/ray-liotta-gave-cinema-its-greatest-voiceover-performance-ever-in-goodfellas/intro-1653699157.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000501/"
+  }, {
+    "name": "Joe Pesci",
+    "image": "https://faroutmagazine.co.uk/static/uploads/1/2023/01/Listen-to-Joe-Pesci-cover-The-Beatles-in-1968.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000582/"
+  }, {
+    "name": "Lorraine Bracco",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2020/05/lorraine-bracco.jpg?quality=75&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0000966/"
+  }],
+  "link": "https://www.hulu.com/movie/01d5fb21-5896-420b-9346-9667bfc235d4",
+  "poster": "https://img3.hulu.com/user/v3/artwork/01d5fb21-5896-420b-9346-9667bfc235d4?base_image_bucket_name=image_manager&base_image=2fa118b3-da7a-4f3d-a159-b8b1c57d9d0b&size=1200x630&format=jpeg"
+}
+,
+
 {
 "item": 434,
 "title": "Nymphomaniac: Part 1",
