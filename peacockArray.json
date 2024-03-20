@@ -35,6 +35,40 @@
   ,
   
   {
+    "item": 2099,
+    "year": 2000,
+    "title": "Memento",
+    "runtime": 113,
+    "mpaa": "R",
+    "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "genre": ["mystery", "thriller"],
+    "director": [{
+      "name": "Christopher Nolan",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+    "imdb": "https://www.imdb.com/name/nm0634240/"
+    }],
+    "actors": [{
+        "name": "Guy Pearce",
+        "image": "https://static.independent.co.uk/2021/10/01/12/2ERHRG3%20copy.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001602/"
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "image": "https://s41230.pcdn.co/wp-content/uploads/2019/10/vegan-plant-based-news-carrie-anne-moss.jpg",
+        "imdb": "https://www.imdb.com/name/nm0005251/"
+      },
+      {
+        "name": "Joe Pantoliano",
+        "image": "https://vz.cnwimg.com/wp-content/uploads/2010/11/Joe-Pantoliano.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001597/"
+      }
+    ],
+    "link": "https://www.peacocktv.com/watch-online/movies/memento/c375a0e4-f17e-330b-bf4f-0dcd16dfe670",
+    "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/08/Memento.jpg?resize=1200,630"
+  }
+,  
+
+  {
     "id": 1030,
     "title": "Kill Switch",
     "year": 2017,
@@ -762,7 +796,7 @@
     "year": 2017,
     "runtime": 90,
     "mpaa": "R",
-    "poster": "https://imageservice.disco.peacocktv.com/uuid/14ddceb3-ec94-3701-8327-2bf8b37e1ba4/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=8a01125b-b3c9-3319-b901-35bc2689be48&output-format=webp",
+    "poster": "https://imageservice.disco.peacocktv.com/uuid/14ddceb3-ec94-3701-8327-2bf8b37e1ba4/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=2261044f-e326-35c5-85b6-293649636381",
     "description": "9/11 is a gripping drama that unfolds in the aftermath of the tragic events of September 11, 2001. The film follows five strangers trapped in an elevator inside the World Trade Center's North Tower during the terrorist attacks. As they struggle to survive and come to terms with the harrowing reality unfolding outside, tensions rise, and bonds are formed amidst the chaos. With its powerful performances and poignant storytelling, 9/11 offers a raw and emotional portrayal of hope and humanity in the face of unspeakable tragedy.",
     "genre": ["drama", "thriller", "history"],
     "link": "https://www.peacocktv.com/watch-online/movies/911/7bcce21c-47a6-3b91-bea9-f36872db7e6e",

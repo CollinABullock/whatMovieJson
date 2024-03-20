@@ -28,6 +28,80 @@
     "imdb": "https://www.imdb.com/name/nm0005182/"
   }]
   },
+
+  {
+    "item": 2095,
+    "year": 2006,
+    "title": "The Prestige",
+    "runtime": 130,
+    "mpaa": "PG-13",
+    "description": "Obsession, jealousy, and rivalry push two 19th-century magicians to engage in a deadly battle of illusions.",
+    "genre": ["drama", "mystery", "science-fiction", "history"],
+    "director": [{
+      "name": "Christopher Nolan",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+      "imdb": "https://www.imdb.com/name/nm0634240/"
+    }],
+    "actors": [{
+      "name": "Hugh Jackman",
+      "image": "https://media.gq.com/photos/58b9fda8803bdb766dd69ef7/16:9/w_1280,c_limit/wolverine.jpg",
+      "imdb": "https://www.imdb.com/name/nm0413168/"
+      },
+      {
+        "name": "Christian Bale",
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTxmCA9jJ2MrULWgxOwNuZ9Bki9s0G1wKMoVZRquX1t2K6cZfcH7Bm_ueGnkj1GndH_RfDQGlcQrpn4ZYI",
+        "imdb": "https://www.imdb.com/name/nm0000288/"
+      },
+      {
+        "name": "Michael Caine",
+        "image": "https://c.files.bbci.co.uk/7D51/production/_87918023_michael_caine_youth_ap.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000323/"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UQ836S9qDWRgX1TYCkzykIuWIK8=/1660x1107/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/63MMCIXPOAOUKAMXJMW7HTAWCU.jpg",
+        "imdb": "https://www.imdb.com/name/nm0424060/"
+      }
+    ],
+    "link": "https://tv.apple.com/us/movie/the-prestige/umc.cmc.xafhh76eamlmtgprndbgiq71",
+    "poster": "https://ntvb.tmsimg.com/assets/p161581_v_h8_ay.jpg?w=960&h=540"
+  }
+,  
+
+
+{
+  "item": 2096,
+  "year": 1999,
+  "title": "Fight Club",
+  "runtime": 139,
+  "mpaa": "R",
+  "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+  "genre": ["drama", "comedy", "action"],
+  "director": [{
+    "name": "David Fincher",
+      "image": "https://www.premiumbeat.com/blog/wp-content/uploads/2022/11/featuredimage.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000399/"
+  }],
+  "actors": [{
+    "name": "Brad Pitt",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWRkMDE5MjUtN2MyYi00MzAyLWIwOWMtNWU0NzNkZDczOWUyXkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Edward Norton",
+      "image": "https://media.vanityfair.com/photos/5d9b9b1c15cfd60008961f62/master/pass/MCDINHU_EC001.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001570/"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "image": "https://people.com/thmb/NKAx3CdtbWK9Uxknql0jF5czz3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(705x347:707x349)/helena-bonham-carter-031524-51a052e35e3647c0927f07f8f9918eb5.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000307/"
+    }
+  ],
+  "link": "https://tv.apple.com/us/movie/fight-club/umc.cmc.70dbl3043tb6ealg0u12k1pih",
+  "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/4b/bb/e7/4bbbe7f6-54d4-8328-10d2-f2c9ed7ba40c/FightClub_CoverArt_3840x2160.lsr/738x416.webp"
+}
+,
   {
     "item": 5678,
     "title": "The Tragedy of Macbeth",

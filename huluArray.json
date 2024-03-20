@@ -158,6 +158,49 @@
     }]
   }
   ,
+
+  {
+    "item": 2098,
+    "year": 2017,
+    "title": "Dunkirk",
+    "runtime": 106,
+    "mpaa": "PG-13",
+    "description": "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+    "genre": ["action", "drama", "history", "war"],
+    "director": [{
+      "name": "Christopher Nolan",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+      "imdb": "https://www.imdb.com/name/nm0634240/"
+    }],
+    "actors": [{
+        "name": "Fionn Whitehead",
+        "image": "https://wwd.com/wp-content/uploads/2017/07/rexfeatures_8852520d.jpg",
+        "imdb": "https://www.imdb.com/name/nm8471254/"
+      },
+      {
+        "name": "Barry Keoghan",
+        "image": "https://static.independent.co.uk/2024/02/23/15/GettyImages-1976097590.jpg",
+        "imdb": "https://www.imdb.com/name/nm4422686/"
+      },
+      {
+        "name": "Mark Rylance",
+				"image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/15A15/production/_86679588_bridge-of-spies-rylance-ap.jpg",
+				"imdb": "https://www.imdb.com/name/nm0751102/"
+      }, {
+        "name": "Cillian Murphy",
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/21/a0ab1286-a64e-4cdc-8a99-25fd202a9350/thumbnail/1280x720/1f47d561ff5c069ee21d8507394dd4df/0221-cmo-cillianmurphy-intv-mid-2699502-640x360.jpg?v=873773698949ef4145348bb09cabd43d",
+        "imdb": "https://www.imdb.com/name/nm0614165/"
+      }, {
+        "name": "Tom Hardy",
+    "image": "https://media.gq.com/photos/632b4e9763f2eae5a8460f51/16:9/w_2560%2Cc_limit/1340297096",
+    "imdb": "https://www.imdb.com/name/nm0362766/"
+      }
+    ],
+    "link": "https://www.hulu.com/movie/ea2ce48b-b1a0-4efc-a484-a7ec1415cf5e",
+    "poster": "https://img2.hulu.com/user/v3/artwork/ea2ce48b-b1a0-4efc-a484-a7ec1415cf5e?base_image_bucket_name=image_manager&base_image=bbd3bc19-5201-4ca1-a242-ecbffdbff52d&region=US&format=jpeg&size=952x536"
+  }
+,  
+
   {
     "item": "h422",
     "title": "Scarface",
