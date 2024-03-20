@@ -28,6 +28,69 @@
     "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/350AE7548DB8D329DAC06DC86241B8B7CF70A811E08C0E8AE9050E1F2363585F/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
     "link": "https://www.disneyplus.com/movies/the-straight-story/3XDcRhanrvP6?irclickid=wnEzH7V6ZxyPWh5SCG1I71TDUkHynRypRSAe3k0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0d01000a-3c75-47e9-8400-201565ef7cb7&dclid=CN7GoMaY7YQDFWaFpgQdkfQCnw"
   },
+
+  {
+    "item": 9405,
+    "year": 2002,
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "runtime": 142,
+    "mpaa": "PG",
+    "description": "Star Wars: Episode II - Attack of the Clones is a science fiction film directed by George Lucas. Set in the midst of the Clone Wars, the film follows Jedi Knight Anakin Skywalker and Senator Padmé Amidala as they navigate political intrigue and forbidden romance. As tensions rise and dark forces plot against the Republic, Anakin's journey to becoming a Jedi Knight becomes increasingly entangled with his feelings for Padmé and the lure of the dark side. With its epic battles, stunning visual effects, and iconic characters, Attack of the Clones is a thrilling chapter in the Star Wars saga.",
+    "genre": ["action", "adventure", "fantasy", "science-fiction"],
+    "director": [{
+      "name": "George Lucas",
+      "image": "https://d23.com/app/uploads/2015/08/george-lucas-1180w-600h-1180x600.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000184/"
+    }],
+    "actors": [{
+      "name": "Hayden Christensen",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/HaydenChristensenGettyImages-1245131254.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0159789/"
+    }, {
+      "name": "Natalie Portman",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/natalie-portman-attends-the-2024-film-independent-spirit-news-photo-1709924174.jpg?crop=1xw:0.37505xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000204/"
+    }, {
+      "name": "Ewan McGregor",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/Ewan-McGregor-Obi-Wan-Kenobi-Panel-GettyImages-1481006872-H-2024.jpg?w=1296",
+    "imdb": "https://www.imdb.com/name/nm0000191/"
+    }],
+    "link": "https://www.disneyplus.com/movies/star-wars-attack-of-the-clones-episode-ii/mgpYHGnzZW6N",
+    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1D6C8278D399FD280CC3B54A9BC7D23122756B7F43C1D16D2A29CE442260009C/scale?width=1200&aspectRatio=1.78&format=webp"
+  }
+,  
+
+{
+  "item": 9506,
+  "year": 2005,
+  "title": "Star Wars: Episode III - Revenge of the Sith",
+  "runtime": 140,
+  "mpaa": "PG-13",
+  "description": "Star Wars: Episode III - Revenge of the Sith is a science fiction film directed by George Lucas. Set during the final days of the Clone Wars, the film depicts the tragic fall of Jedi Knight Anakin Skywalker to the dark side of the Force and his transformation into the Sith Lord Darth Vader. As the Galactic Republic crumbles and the Jedi Order faces extinction, Anakin's descent into darkness becomes inexorable, leading to confrontations with his former mentor Obi-Wan Kenobi and the rise of the tyrannical Galactic Empire. With its epic battles, emotional depth, and stunning visual effects, Revenge of the Sith is a pivotal chapter in the Star Wars saga.",
+  "genre": ["action", "adventure", "fantasy", "science-fiction"],
+  "director": [{
+    "name": "George Lucas",
+      "image": "https://d23.com/app/uploads/2015/08/george-lucas-1180w-600h-1180x600.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000184/"
+    }],
+    "actors": [{
+      "name": "Hayden Christensen",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/HaydenChristensenGettyImages-1245131254.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0159789/"
+    }, {
+      "name": "Natalie Portman",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/natalie-portman-attends-the-2024-film-independent-spirit-news-photo-1709924174.jpg?crop=1xw:0.37505xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0000204/"
+    }, {
+      "name": "Ewan McGregor",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/Ewan-McGregor-Obi-Wan-Kenobi-Panel-GettyImages-1481006872-H-2024.jpg?w=1296",
+    "imdb": "https://www.imdb.com/name/nm0000191/"
+  }],
+  "link": "https://www.disneyplus.com/movies/star-wars-revenge-of-the-sith-episode-iii/4WvbqLFumNvi",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B38E9B3419A8AF5BA743C323CF835E7864A0406C310697CC34A072DE7E940FAD/scale?width=1200&aspectRatio=1.78&format=webp"
+}
+,
+
   {
     "item": 8056,
     "title": "The BFG",
