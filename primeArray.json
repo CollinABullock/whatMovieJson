@@ -3447,6 +3447,33 @@
   "poster": "https://m.media-amazon.com/images/S/pv-target-images/a3a748ff6156949e7d4eb2fdc29b1fa320a102805d0cfed8b2693efe93c108c8.jpg"
 }
 ,
+
+{
+  "item": 6789,
+  "year": 2008,
+  "title": "Righteous Kill",
+  "runtime": 101,
+  "mpaa": "R",
+  "description": "Righteous Kill is a crime thriller directed by Jon Avnet. The film follows two veteran New York City detectives, Turk and Rooster, who are on the trail of a vigilante serial killer targeting criminals who have slipped through the justice system. As they delve deeper into the investigation, the line between justice and vengeance becomes blurred, leading to shocking revelations and moral dilemmas. With its gripping plot twists and powerhouse performances from its lead actors, Righteous Kill keeps audiences on the edge of their seats until the final twist.",
+  "genre": ["crime", "drama", "thriller"],
+  "director": [{
+    "name": "Jon Avnet",
+    "image": "https://www.moviemaker.com/wp-content/uploads/2020/01/Jon-Avnet.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000816/"
+  }],
+  "actors": [{
+    "name": "Robert De Niro",
+    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+  }, {
+    "name": "Al Pacino",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/Al-Pacino-Oscars-Onstage-GettyImages-2074653513-H-2024.jpg?w=1296",
+        "imdb": "https://www.imdb.com/name/nm0000199/"
+  }],
+  "link": "https://www.amazon.com/gp/video/detail/0SKP1A0OSZSTKGAM6KWBN58BFO/ref=atv_dl_rdr?tag=justus1ktp-20",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/6948fd96845c609383343bdafe078c7a9cd9f100b1065e1eb34ef2169b42e0d4.jpg"
+},
+
   
   {
     "item": 296,

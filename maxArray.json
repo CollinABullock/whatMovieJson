@@ -96,6 +96,37 @@
 }
 ,
 
+{
+  "item": 5678,
+  "year": 1998,
+  "title": "Great Expectations",
+  "runtime": 111,
+  "mpaa": "R",
+  "description": "Great Expectations is a romantic drama directed by Alfonso Cuarón, based on the classic novel by Charles Dickens. The film follows the story of Finn, a young man who falls in love with the enigmatic Estella, a woman from a wealthy but troubled family. As Finn navigates the complexities of love and desire, he becomes entangled in the dark secrets of Estella's past and the manipulative schemes of her guardian, the mysterious benefactor. With its atmospheric cinematography and poignant storytelling, Great Expectations offers a compelling exploration of love, identity, and the pursuit of dreams.",
+  "genre": ["romance", "drama"],
+  "director": [{
+    "name": "Alfonso Cuarón",
+				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEPp10vDSnxNHdr87jtOCpuRVWbhHQfhY3WmcTiz3U_EABIYK",
+				"imdb": "https://www.imdb.com/name/nm0190859/"
+  }],
+  "actors": [{
+    "name": "Ethan Hawke",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/index-1671656121.jpg?crop=0.782xw:1.00xh;0.0933xw,0&resize=2048:*",
+    "imdb": "https://www.imdb.com/name/nm0000160/"
+  }, {
+    "name": "Gwyneth Paltrow",
+    "image": "https://media.allure.com/photos/6560e38a6c863c5e9fec1d0a/16:9/w_2560%2Cc_limit/gwyneth%2520paltrow%2520november%25202023.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000569/"
+  }, {
+    "name": "Robert De Niro",
+    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+  }],
+  "link": "https://play.max.com/video/watch/36e59c70-ddbb-4578-acd5-ac79c6088f57/c098b73e-adaf-4740-9fec-ef0777159909",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/454dcf5f-3ff1-453c-89dc-971bfe7599a5/5acc0925902032a1a6b53a6877999a88a05b54a0.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500"
+}
+,
+
     {
       "item": 3791,
       "title": "Modern Times",

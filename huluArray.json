@@ -414,6 +414,33 @@
 ,
 
 {
+  "item": 4567,
+  "year": 2000,
+  "title": "Men of Honor",
+  "runtime": 129,
+  "mpaa": "R",
+  "description": "Men of Honor is a biographical drama directed by George Tillman Jr. The film tells the inspiring true story of Carl Brashear, the first African American diver in the United States Navy. Despite facing racism and adversity, Brashear's determination and perseverance lead him to overcome incredible odds to achieve his dream of becoming a master diver. With themes of courage, resilience, and the pursuit of excellence, Men of Honor celebrates the indomitable human spirit.",
+  "genre": ["biography", "drama"],
+  "director": [{
+    "name": "George Tillman Jr.",
+    "image": "https://variety.com/wp-content/uploads/2019/01/george-tillman-jr..jpg",
+    "imdb": "https://www.imdb.com/name/nm0863588/"
+  }],
+  "actors": [{
+    "name": "Cuba Gooding Jr.",
+    "image": "https://variety.com/wp-content/uploads/2016/01/cuba-gooding-jr-diversity.jpg?w=1000",
+    "imdb": "https://www.imdb.com/name/nm0000421/"
+  }, {
+    "name": "Robert De Niro",
+    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+  }],
+  "link": "https://www.hulu.com/watch/67dd3f45-66c0-4304-93a7-4f12fada29b1",
+  "poster": "https://img.hulu.com/user/v3/artwork/67dd3f45-66c0-4304-93a7-4f12fada29b1?base_image_bucket_name=image_manager&base_image=b0445753-02a2-40dd-a882-b11923d41904&region=US&format=jpeg&size=952x536"
+},
+
+
+{
 "item": 434,
 "title": "Nymphomaniac: Part 1",
 "year": 2013,
