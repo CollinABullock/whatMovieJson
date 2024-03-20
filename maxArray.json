@@ -35,6 +35,68 @@
     },
 
     {
+      "item": 2345,
+      "year": 2010,
+      "title": "Stone",
+      "runtime": 105,
+      "mpaa": "R",
+      "description": "Stone is a psychological thriller directed by John Curran. The film follows the complex relationship between a convicted arsonist, Gerald 'Stone' Creeson, and a parole officer, Jack Mabry. As Stone seeks parole, he manipulates Mabry's beliefs and morals, leading to a twisted game of manipulation and deception. With themes of guilt, redemption, and the human psyche, Stone delves into the darkest corners of the human soul.",
+      "genre": ["thriller", "drama"],
+      "director": [{
+        "name": "John Curran",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2017/09/769341148_5571303488001_5571279748001-vs.jpg?w=681&h=383&crop=1",
+        "imdb": "https://www.imdb.com/name/nm0192974/"
+      }],
+      "actors": [{
+        "name": "Robert De Niro",
+        "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+        "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+      }, {
+        "name": "Edward Norton",
+				"image": "https://images.hellomagazine.com/horizon/landscape/453850f68ae5-edward-norton.jpg",
+				"imdb": "https://www.imdb.com/name/nm0001570/?ref_=tt_cl_t_2"
+      }, {
+        "name": "Milla Jovovich",
+				"image": "https://cdn.images.express.co.uk/img/dynamic/36/590x/action-stars-Milla-Jovovich-Arnold-Schwarzenegger-the-terminator-resident-evil-1016099.jpg?r=1550571655851",
+				"imdb": "https://www.imdb.com/name/nm0000170/"
+      }],
+      "link": "https://play.max.com/video/watch/a6309f9b-5eb4-4257-b3d7-0bd56d9b0449/f21bb533-6706-441f-aa22-efa48d8e1a34",
+      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/aa474229-040b-4a78-b45d-dadfe59b975c/aa70a0cc64eb22a37e3fa0382368e3671ec4c048.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+    }
+,  
+
+{
+  "item": 3456,
+  "year": 2013,
+  "title": "The Family",
+  "runtime": 111,
+  "mpaa": "R",
+  "description": "The Family is a dark comedy directed by Luc Besson. The film follows the Manzoni family, a notorious mafia clan relocated to Normandy, France, under the Witness Protection Program. Despite their attempts to blend in, old habits die hard, and the family's criminal past quickly catches up with them. As they navigate the challenges of suburban life while dealing with their enemies, the Manzonis resort to their trademark violence to protect themselves. With a blend of humor, action, and suspense, The Family offers a unique take on the mobster genre.",
+  "genre": ["action", "comedy", "crime"],
+  "director": [{
+    "name": "Luc Besson",
+				"image": "https://deadline.com/wp-content/uploads/2023/12/Luc-Besson.jpg",
+				"imdb": "https://www.imdb.com/name/nm0000108/"
+  }],
+  "actors": [{
+    "name": "Robert De Niro",
+    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+  }, {
+    "name": "Michelle Pfeiffer",
+    "image": "https://cdn.britannica.com/03/197303-050-C91F36B5/Michelle-Pfeiffer-2007.jpg?w=400&h=300&c=crop",
+    "imdb": "https://www.imdb.com/name/nm0000201/"
+  }, {
+    "name": "Dianna Agron",
+    "image": "https://www.thelist.com/img/gallery/what-dianna-agron-has-been-up-to-since-the-end-of-glee/l-intro-1640897173.jpg",
+    "imdb": "https://www.imdb.com/name/nm1872698/"
+  }],
+  "link": "https://play.max.com/video/watch/02004a55-abc4-47ce-90cc-6b71b91ca700/63bfdcfe-3262-4fc2-983c-ca94cd793586",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/5b13c166-5c0d-4f92-9893-6ee4f7a1c72c/520549bd616440f267e8836c1ab726f3a3f015c3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+
+    {
       "item": 3791,
       "title": "Modern Times",
       "year": 1936,

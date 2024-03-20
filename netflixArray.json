@@ -4655,7 +4655,36 @@
 		"poster": "https://i0.wp.com/the-art-of-autism.com/wp-content/uploads/2020/05/Silver-Linings-Playbook-poster.jpg?fit=770%2C481&ssl=1"
 	},
 
-	
+	{
+		"item": 9101,
+		"year": 2006,
+		"title": "The Good Shepherd",
+		"runtime": 167,
+		"mpaa": "R",
+		"description": "The Good Shepherd is a gripping espionage thriller directed by Robert De Niro. Set against the backdrop of the Cold War, it follows the story of Edward Wilson, a dedicated CIA agent who becomes entangled in a web of deception, betrayal, and moral ambiguity. As Wilson rises through the ranks of the intelligence community, he navigates a dangerous world of secrets and lies, sacrificing his personal relationships for the greater good. With its complex characters, intricate plot, and atmospheric cinematography, The Good Shepherd offers a compelling exploration of loyalty, patriotism, and the cost of secrecy.",
+		"genre": ["drama", "thriller"],
+		"director": [{
+			"name": "Robert De Niro",
+				"image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+				"imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+		}],
+		"actors": [{
+			"name": "Matt Damon",
+			"image": "https://hips.hearstapps.com/hmg-prod/images/matt-damon-attends-uk-premiere-of-oppenheimer-at-the-odeon-news-photo-1689794931.jpg?crop=1xw:0.5001xh;center,top&resize=1200:*",
+			"imdb": "https://www.imdb.com/name/nm0000354/"
+		}, {
+			"name": "Angelina Jolie",
+			"image": "https://assets.vogue.com/photos/61852e738e54a43d46410db8/4:3/w_2560%2Cc_limit/GettyImages-1349812316.jpg",
+			"imdb": "https://www.imdb.com/name/nm0001401/"
+		}, {
+			"name": "Alec Baldwin",
+				"image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSuYBOiGP2ZAxJotmeQcYxn3DjFBL0zoMmurQS0QLxYVn9zGwvQoFUMQVjt4cgb-se_wUvvZhQdkblI2aA",
+				"imdb": "https://www.imdb.com/name/nm0000285/"
+		}],
+		"link": "https://www.netflix.com/title/70044695",
+		"poster": "https://ntvb.tmsimg.com/assets/p159377_v_h10_aa.jpg?w=1280&h=720"
+	}
+,	
 	
 
 	{
