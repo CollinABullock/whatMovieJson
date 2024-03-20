@@ -321,6 +321,68 @@
 }
 ,
 
+{
+  "item": "9012",
+  "year": 1984,
+  "title": "Once Upon a Time in America",
+  "runtime": 229,
+  "mpaa": "R",
+  "description": "Once Upon a Time in America is an epic crime drama directed by Sergio Leone. Spanning several decades, the film chronicles the lives of a group of Jewish gangsters in New York City. It explores themes of friendship, betrayal, and the American Dream against the backdrop of Prohibition-era America. With its sprawling narrative, stunning cinematography, and haunting score, Once Upon a Time in America is a masterpiece of cinema.",
+  "genre": ["crime", "drama"],
+  "director": [{
+    "name": "Sergio Leone",
+    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/10/Sergio-Leone.png",
+    "imdb": "https://www.imdb.com/name/nm0001466/"
+  }],
+  "actors": [{
+    "name": "Robert De Niro",
+    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "imdb": "https://www.imdb.com/name/nm0000134/"
+  }, {
+    "name": "James Woods",
+    "image": "https://variety.com/wp-content/uploads/2018/07/james-woods.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000249/"
+  }, {
+    "name": "Elizabeth McGovern",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/11/1410430228092/QA-Elizabeth-McGovern-009.jpg?width=620&quality=85&auto=format&fit=max&s=f8904309a7ea3014b6e30ab69fda9d83",
+    "imdb": "https://www.imdb.com/name/nm0001525/"
+  }],
+  "link": "https://www.paramountplus.com/movies/video/oH8R37CjFPJ3dBHKoJpQfiOnVCUWi9O_/",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2024/01/05/2297403971891/OUTA_SAlone_16_9_1920x1080_NB_2553452_1920x1080.jpg"
+}
+,
+
+{
+  "item": "5678",
+  "year": 1987,
+  "title": "The Untouchables",
+  "runtime": 119,
+  "mpaa": "R",
+  "description": "The Untouchables is a gripping crime thriller directed by Brian De Palma, set during the Prohibition era in Chicago. It follows the real-life story of Eliot Ness, a federal agent determined to bring down the notorious gangster Al Capone. As Ness forms a team of incorruptible agents known as the 'Untouchables,' he engages in a dangerous game of cat and mouse with Capone's empire. Fueled by a sense of justice and duty, Ness navigates a treacherous underworld filled with violence, corruption, and betrayal.",
+  "genre": ["crime", "drama", "thriller", "history"],
+  "director": [{
+    "name": "Brian De Palma",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2ODM5ODg4MV5BMl5BanBnXkFtZTcwMTExNTgwMw@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000361/"
+  }],
+  "actors": [{
+    "name": "Kevin Costner",
+    "image": "https://s.yimg.com/ny/api/res/1.2/alS8XAtTN_5G0ovg19.2tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQwMQ--/https://media.zenfs.com/en/parade_250/2081f96d5668fbf2d8569c68f6096919",
+    "imdb": "https://www.imdb.com/name/nm0000126/"
+  }, {
+    "name": "Sean Connery",
+    "IMDB": "https://www.imdb.com/name/nm0000125/",
+    "image": "https://cdn.vox-cdn.com/thumbor/TWDaAKSwMBrgOKypdLAATDTkY1o=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22004071/GettyImages_830373568.jpg"
+  }, {
+    "name": "Robert De Niro",
+    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "imdb": "https://www.imdb.com/name/nm0000134/"
+  }],
+  "link": "https://www.paramountplus.com/movies/video/0tnMAzwCVxRVBmd3DwW2T_dIgpjNa697/",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/08/26/1938054211527/UTBL_SAlone_16_9_1920x1080_NB_2170024_1920x1080.jpg"
+}
+,
+
 {    
   "item": "9876",
   "title": "Vanilla Sky",
