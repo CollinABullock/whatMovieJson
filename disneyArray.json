@@ -91,6 +91,229 @@
 }
 ,
 
+{
+  "item": 9607,
+  "year": 1977,
+  "title": "Star Wars: Episode IV - A New Hope",
+  "runtime": 121,
+  "mpaa": "PG",
+  "description": "Star Wars: Episode IV - A New Hope is a science fiction film directed by George Lucas. Set in a galaxy far, far away, the film follows the young farm boy Luke Skywalker as he embarks on an epic journey to rescue Princess Leia from the clutches of the evil Darth Vader and the tyrannical Galactic Empire. Along the way, Luke teams up with the wise Jedi Knight Obi-Wan Kenobi, portrayed by Alec Guinness, the roguish smuggler Han Solo, and the loyal droid duo R2-D2 and C-3PO. With its groundbreaking special effects, iconic characters, and timeless story of good versus evil, A New Hope became a cultural phenomenon and launched the beloved Star Wars franchise.",
+  "genre": ["action", "adventure", "fantasy", "science-fiction", "classic"],
+  "director": [{
+    "name": "George Lucas",
+      "image": "https://d23.com/app/uploads/2015/08/george-lucas-1180w-600h-1180x600.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000184/"
+  }],
+  "actors": [{
+    "name": "Mark Hamill",
+    "image": "https://www.nme.com/wp-content/uploads/2021/01/markhamill-lukeskywalker-2000x1270-1-696x442.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000434/"
+  }, {
+    "name": "Harrison Ford",
+    "IMDB": "https://www.imdb.com/name/nm0000148/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+  }, {
+    "name": "Carrie Fisher",
+    "image": "https://people.com/thmb/5o19f9MgsxY-0lRVK4hybjMmoQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/carrie-fisher-tout-dbb34f64cf1a40208ac3c18e44a8856b.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000402/"
+  }, {
+    "name": "Alec Guinness",
+    "image": "https://media.vanityfair.com/photos/58e176b20be4b8661b502ae1/master/pass/alec-guinness-star-wars.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000027/"
+  }],
+  "link": "https://www.disneyplus.com/movies/star-wars-a-new-hope-episode-iv/12fVeZxD2fWJ",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/81A736C2B6CC7B7B4A3F2E2381E36542715DFC550F765F49BC0770898DE5F32B/scale?width=1200&aspectRatio=1.78&format=webp"
+}
+,
+
+{
+  "item": 9708,
+  "year": 1980,
+  "title": "Star Wars: Episode V - The Empire Strikes Back",
+  "runtime": 124,
+  "mpaa": "PG",
+  "description": "Star Wars: Episode V - The Empire Strikes Back is a science fiction film directed by Irvin Kershner. Set shortly after the events of 'A New Hope,' the film follows the Rebel Alliance as they are pursued by the evil Galactic Empire. Luke Skywalker, Princess Leia, and Han Solo seek refuge on the remote planet of Dagobah, where Luke trains under the guidance of the wise Jedi Master Yoda. Meanwhile, Darth Vader relentlessly pursues Luke, hoping to turn him to the dark side of the Force. With its epic battles, shocking plot twists, and iconic moments, The Empire Strikes Back is widely regarded as one of the greatest sequels in cinematic history.",
+  "genre": ["action", "adventure", "fantasy", "science-fiction", "sequel"],
+  "director": [{
+    "name": "Irvin Kershner",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2010/11/Irvin_Kershner_a_l.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001419/"
+  }],
+  "actors": [{
+    "name": "Mark Hamill",
+    "image": "https://www.nme.com/wp-content/uploads/2021/01/markhamill-lukeskywalker-2000x1270-1-696x442.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000434/"
+  }, {
+    "name": "Harrison Ford",
+    "IMDB": "https://www.imdb.com/name/nm0000148/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+  }, {
+    "name": "Carrie Fisher",
+    "image": "https://people.com/thmb/5o19f9MgsxY-0lRVK4hybjMmoQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/carrie-fisher-tout-dbb34f64cf1a40208ac3c18e44a8856b.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000402/"
+  }, {
+    "name": "Billy Dee Williams",
+    "image": "https://media.comicbook.com/wp-content/uploads/2013/10/billy-dee-williams-harvey-dent.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001850/"
+  }],
+  "link": "https://www.disneyplus.com/movies/star-wars-the-empire-strikes-back-episode-v/iqtDTZAewwYl",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B92552B7CE9B7BB39BB3BDC551F35DB98C04740118F5B30975134814DF7A4E62/scale?width=1200&aspectRatio=1.78&format=webp"
+}
+,
+
+{
+  "item": 9809,
+  "year": 1983,
+  "title": "Star Wars: Episode VI - Return of the Jedi",
+  "runtime": 131,
+  "mpaa": "PG",
+  "description": "Star Wars: Episode VI - Return of the Jedi is a science fiction film directed by Richard Marquand. Set after the events of 'The Empire Strikes Back,' the film follows the Rebel Alliance as they launch a daring mission to rescue Han Solo from the clutches of the vile gangster Jabba the Hutt. Meanwhile, Luke Skywalker continues his training as a Jedi Knight under the guidance of Master Yoda. As the Rebel fleet prepares to face the Empire's new Death Star, Luke confronts his father, Darth Vader, in a final showdown between the forces of good and evil. With its thrilling action sequences, epic battles, and emotional climax, Return of the Jedi concludes the original Star Wars trilogy in spectacular fashion.",
+  "genre": ["action", "adventure", "fantasy", "science-fiction", "sequel"],
+  "director": [{
+    "name": "Richard Marquand",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMAEOJ8cS1BOHuwRgpNHwAx2X-EOBHqUAI5cQYz8rTMEuHxhw4S_73BC-kbg2yzx70tAv5lCugkIngRd1XJTCn3owlyJ1ZwL-1AaOlwDm3EWrlrqgo-NmzO1aZGNblVYTX_KZVw1oaR1GW/s1600/EP6_BTS_2248_FrankConnor.jpg",
+    "imdb": "https://www.imdb.com/name/nm0547659/"
+  }],
+  "actors": [{
+    "name": "Mark Hamill",
+    "image": "https://www.nme.com/wp-content/uploads/2021/01/markhamill-lukeskywalker-2000x1270-1-696x442.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000434/"
+  }, {
+    "name": "Harrison Ford",
+    "IMDB": "https://www.imdb.com/name/nm0000148/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+  }, {
+    "name": "Carrie Fisher",
+    "image": "https://people.com/thmb/5o19f9MgsxY-0lRVK4hybjMmoQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/carrie-fisher-tout-dbb34f64cf1a40208ac3c18e44a8856b.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000402/"
+  }, {
+    "name": "Billy Dee Williams",
+    "image": "https://media.comicbook.com/wp-content/uploads/2013/10/billy-dee-williams-harvey-dent.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001850/"
+  }],
+  "link": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/773B031A52B5727F7C218E42149B45095C21A8BA56601EB1F51FC46485304210/scale?width=1200&aspectRatio=1.78&format=webp",
+  "poster": "https://www.disneyplus.com/movies/star-wars-return-of-the-jedi-episode-vi/6QGKo5mjDBS8"
+}
+,
+
+{
+  "item": 9910,
+  "year": 2015,
+  "title": "Star Wars: Episode VII - The Force Awakens",
+  "runtime": 138,
+  "mpaa": "PG-13",
+  "description": "Star Wars: Episode VII - The Force Awakens is a science fiction film directed by J.J. Abrams. Set 30 years after the events of 'Return of the Jedi,' the film follows a new generation of heroes, including Rey, Finn, and Poe Dameron, as they join forces with the Resistance to combat the sinister First Order and search for the missing Jedi, Luke Skywalker. Along the way, they encounter familiar faces from the past, including Han Solo, portrayed by Harrison Ford, and General Leia Organa, and confront the dark legacy of the Sith. With its thrilling action, compelling characters, and return to the spirit of the original trilogy, The Force Awakens reinvigorated the Star Wars franchise for a new era.",
+  "genre": ["action", "adventure", "fantasy", "science-fiction", "sequel"],
+  "director": [{
+    "name": "J.J. Abrams",
+      "image": "https://cdn.britannica.com/23/129823-050-4B487943/TV-JJ-movie-Abrams.jpg?w=400&h=300&c=crop",
+      "imdb": "https://www.imdb.com/name/nm0009190/"
+  }],
+  "actors": [{
+    "name": "Daisy Ridley",
+    "image": "https://ew.com/thmb/X7mD8lPRNhPsp6meL_2255aHCr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/daisy-ridley-1-1ef28a3e236b4853b16f83a581ada09d.jpg",
+    "imdb": "https://www.imdb.com/name/nm5397459/"
+  }, 	{
+    "name": "Adam Driver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
+    "imdb": "https://www.imdb.com/name/nm3485845/"
+  },{
+    "name": "John Boyega",
+    "image": "https://media.vanityfair.com/photos/630674e2caa275dbf0be6455/master/pass/john-boyega-site-image.jpg",
+    "imdb": "https://www.imdb.com/name/nm3915784/"
+  }, {
+    "name": "Oscar Isaac",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-240719-R1262_FEA_Oscar_Isaac_A.jpg",
+    "imdb": "https://www.imdb.com/name/nm1209966/"
+  }, {
+    "name": "Harrison Ford",
+    "IMDB": "https://www.imdb.com/name/nm0000148/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+  }],
+  "link": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/85BA7173BBB70BA7C7BD12EC06D40338915947B1996DA602F4D4A29001F1ED67/scale?width=1200&aspectRatio=1.78&format=webp",
+  "poster": "https://www.disneyplus.com/movies/star-wars-the-force-awakens-episode-vii/1LEKJPDPeMr7"
+}
+,
+
+{
+  "item": 9911,
+  "year": 2017,
+  "title": "Star Wars: Episode VIII - The Last Jedi",
+  "runtime": 152,
+  "mpaa": "PG-13",
+  "description": "Star Wars: Episode VIII - The Last Jedi is a science fiction film written and directed by Rian Johnson. Continuing the saga set forth by 'The Force Awakens,' the film follows Rey as she seeks out Jedi Master Luke Skywalker to receive training in the ways of the Force. Meanwhile, the Resistance, led by General Leia Organa, faces off against the First Order in a desperate battle for survival. As secrets from the past are revealed and loyalties are tested, the fate of the galaxy hangs in the balance. With its stunning visuals, epic battles, and deep exploration of the Force, The Last Jedi challenges the very essence of what it means to be a hero.",
+  "genre": ["action", "adventure", "fantasy", "science-fiction", "sequel"],
+  "director": [{
+    "name": "Rian Johnson",
+    "image": "https://media.newyorker.com/photos/6377bc34da27cea69260aa08/master/pass/Chotiner-RianJohnson-1.jpg",
+    "imdb": "https://www.imdb.com/name/nm0426059/"
+  }],
+  "actors": [{
+    "name": "Daisy Ridley",
+    "image": "https://ew.com/thmb/X7mD8lPRNhPsp6meL_2255aHCr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/daisy-ridley-1-1ef28a3e236b4853b16f83a581ada09d.jpg",
+    "imdb": "https://www.imdb.com/name/nm5397459/"
+  }, 	{
+    "name": "Adam Driver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
+    "imdb": "https://www.imdb.com/name/nm3485845/"
+  },{
+    "name": "John Boyega",
+    "image": "https://media.vanityfair.com/photos/630674e2caa275dbf0be6455/master/pass/john-boyega-site-image.jpg",
+    "imdb": "https://www.imdb.com/name/nm3915784/"
+  }, {
+    "name": "Oscar Isaac",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-240719-R1262_FEA_Oscar_Isaac_A.jpg",
+    "imdb": "https://www.imdb.com/name/nm1209966/"
+  }, {
+    "name": "Mark Hamill",
+    "image": "https://www.nme.com/wp-content/uploads/2021/01/markhamill-lukeskywalker-2000x1270-1-696x442.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000434/"
+  },
+  {
+    "name": "Carrie Fisher",
+    "image": "https://people.com/thmb/5o19f9MgsxY-0lRVK4hybjMmoQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/carrie-fisher-tout-dbb34f64cf1a40208ac3c18e44a8856b.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000402/"
+  }],
+  "link": "https://www.disneyplus.com/movies/star-wars-the-last-jedi-episode-viii/1nCWFK1pmAI0",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1A17D0D449D5A9E24FD41D3A849B47FF902363B58410EBF2EC49349D62C7AEBF/scale?width=1200&aspectRatio=1.78&format=webp"
+}
+,
+
+{
+  "item": 9912,
+  "year": 2019,
+  "title": "Star Wars: Episode IX - The Rise of Skywalker",
+  "runtime": 142,
+  "mpaa": "PG-13",
+  "description": "Star Wars: Episode IX - The Rise of Skywalker is a science fiction film directed by J.J. Abrams. In the final chapter of the Skywalker saga, the Resistance faces the First Order once more as Rey, Finn, and Poe Dameron continue their fight against the dark forces threatening the galaxy. As Rey's journey to discover her true identity unfolds, she must confront the return of Emperor Palpatine and the truth about her connection to the Force. With old friends and new allies by their side, the heroes of the Resistance embark on a perilous mission to stop the rise of evil and restore hope to the galaxy.",
+  "genre": ["action", "adventure", "fantasy", "science-fiction", "sequel"],
+  "director": [{
+    "name": "J.J. Abrams",
+    "image": "https://cdn.britannica.com/23/129823-050-4B487943/TV-JJ-movie-Abrams.jpg?w=400&h=300&c=crop",
+    "imdb": "https://www.imdb.com/name/nm0009190/"
+  }],
+  "actors": [{
+    "name": "Daisy Ridley",
+    "image": "https://ew.com/thmb/X7mD8lPRNhPsp6meL_2255aHCr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/daisy-ridley-1-1ef28a3e236b4853b16f83a581ada09d.jpg",
+    "imdb": "https://www.imdb.com/name/nm5397459/"
+  }, 	{
+    "name": "Adam Driver",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
+    "imdb": "https://www.imdb.com/name/nm3485845/"
+  },{
+    "name": "John Boyega",
+    "image": "https://media.vanityfair.com/photos/630674e2caa275dbf0be6455/master/pass/john-boyega-site-image.jpg",
+    "imdb": "https://www.imdb.com/name/nm3915784/"
+  }, {
+    "name": "Oscar Isaac",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-240719-R1262_FEA_Oscar_Isaac_A.jpg",
+    "imdb": "https://www.imdb.com/name/nm1209966/"
+  }],
+  "link": "https://www.disneyplus.com/movies/star-wars-the-rise-of-skywalker-episode-ix/5e8JThYwCYgw",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C35BCF661F71931176F9E7E5B495BCAACF2D88D6823C284D61871D87E5FAE79/scale?width=1200&aspectRatio=1.78&format=webp"
+}
+,
+
   {
     "item": 8056,
     "title": "The BFG",
