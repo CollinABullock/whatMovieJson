@@ -439,6 +439,47 @@
   "poster": "https://img.hulu.com/user/v3/artwork/67dd3f45-66c0-4304-93a7-4f12fada29b1?base_image_bucket_name=image_manager&base_image=b0445753-02a2-40dd-a882-b11923d41904&region=US&format=jpeg&size=952x536"
 },
 
+{
+  "item": 7890,
+  "year": 2004,
+  "title": "Shark Tale",
+  "runtime": 90,
+  "mpaa": "PG",
+  "description": "Shark Tale is an animated comedy directed by Vicky Jenson, Bibo Bergeron, and Rob Letterman. The film takes place in a colorful underwater world and follows the adventures of a small fish named Oscar, who becomes an unlikely hero after he tells a white lie about slaying a shark. As Oscar's story spreads, he finds himself caught up in a dangerous web of deceit and intrigue involving a shark mafia boss and his son. With its vibrant animation, memorable characters, and humorous storyline, Shark Tale is an entertaining adventure for audiences of all ages.",
+  "genre": ["animation", "comedy", "kids"],
+  "director": [{
+    "name": "Vicky Jenson",
+    "image": "https://womenandhollywood.com/wp-content/uploads/2020/05/Vicky_Jenson_Selects_059_FINAL_PeN_Fixed-768x1152-1.jpg",
+    "imdb": "https://www.imdb.com/name/nm0421613/"
+  }, {
+    "name": "Bibo Bergeron",
+    "image": "https://i.ytimg.com/vi/HGKwoNLZVXs/maxresdefault.jpg",
+    "imdb": "https://www.imdb.com/name/nm0074099/"
+  }, {
+    "name": "Rob Letterman",
+    "image": "https://images.bauerhosting.com/legacy/media/5f26/f66e/059e/c9d0/0ab6/1665/rob-letterman.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+    "imdb": "https://www.imdb.com/name/nm0504151/"
+  }],
+  "actors": [{
+    "name": "Will Smith",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/231204105033-will-smith-file-2022.jpg?c=original",
+    "imdb": "https://www.imdb.com/name/nm0000226/"
+  }, {
+    "name": "Jack Black",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Jack-Black.jpg",
+    "imdb": "https://www.imdb.com/name/nm0085312/?ref_=tt_ov_st"
+  }, {
+    "name": "Robert De Niro",
+  "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+  "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+  }],
+  "link": "https://www.hulu.com/watch/dae07e75-4db5-4734-a246-3d1610bfa999",
+  "poster": "https://img.hulu.com/user/v3/artwork/dae07e75-4db5-4734-a246-3d1610bfa999?base_image_bucket_name=image_manager&base_image=edcf4aab-fbe5-4051-b29f-b5fb01f49c8c&region=US&format=jpeg&size=952x536"
+}
+,
+
+
+
 
 {
 "item": 434,

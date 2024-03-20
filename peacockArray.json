@@ -500,7 +500,38 @@
       "imdb": "https://www.imdb.com/name/nm0582561/"
     }]
   }
-  ,  
+  , 
+  
+  {
+    "item": 8901,
+    "year": 2004,
+    "title": "Fahrenheit 9/11",
+    "runtime": 122,
+    "mpaa": "R",
+    "description": "Fahrenheit 9/11 is a documentary film written and directed by Michael Moore. The film examines the presidency of George W. Bush, the War on Terror, and the aftermath of the September 11 attacks. Through interviews, news footage, and analysis, Moore presents a critical perspective on the administration's actions, policies, and their impact on American society. Fahrenheit 9/11 sparked widespread debate and controversy upon its release, becoming one of the highest-grossing documentaries of all time.",
+    "genre": ["documentary", "crime"],
+    "director": [{
+      "name": "Michael Moore",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/12/gettyimages-496226560.jpg?w=3000",
+      "imdb": "https://www.imdb.com/name/nm0604810/"
+    }],
+    "actors": [{
+      "name": "Michael Moore",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/12/gettyimages-496226560.jpg?w=3000",
+      "imdb": "https://www.imdb.com/name/nm0604810/"
+    }, {
+      "name": "George W. Bush",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2023/11/AP23298698722553-e1699654391973.jpg?w=1280",
+      "imdb": "https://en.wikipedia.org/wiki/George_W._Bush"
+    }, {
+      "name": "Dick Cheney",
+      "image": "https://cdn.britannica.com/32/73332-004-C7DE1B6A/Dick-Cheney.jpg",
+      "imdb": "https://en.wikipedia.org/wiki/Dick_Cheney"
+    }],
+    "link": "https://www.peacocktv.com/watch-online/movies/fahrenheit-911/9336dd35-b173-33df-9296-46f3a0e2a7be",
+    "poster": "https://ntvb.tmsimg.com/assets/p34667_v_h8_ab.jpg?w=960&h=540"
+  }
+,  
 
   {
     "item": "140",
