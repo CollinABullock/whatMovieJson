@@ -998,6 +998,47 @@
     },
 
     {
+      "item": 331,
+      "title": "Judas and the Black Messiah",
+      "year": 2021,
+      "runtime": 126,
+      "mpaa": "R",
+      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/986a5167-329c-4263-bd9f-01caa4e3d9a7/97becb3418e9c83ab9573b7e13a343e202b68b8f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "description": "The true story of Fred Hampton, chairman of the Illinois Black Panther Party, and William O'Neal, the FBI informant who infiltrated the organization. As Hampton rises to prominence as a charismatic leader and advocate for social justice, O'Neal becomes entangled in a web of deceit and betrayal.",
+      "genre": ["biopic", "drama"],
+      "link": "https://play.max.com/movie/986a5167-329c-4263-bd9f-01caa4e3d9a7",
+      "director": [{
+        "name": "Shaka King",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5ZWM5OGItZWQwYS00Y2UyLWI3ZmQtNDRjM2YzNTNjNTY4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "imdb": "https://www.imdb.com/name/nm1991099/"
+      }],
+      "actors": [
+        {
+          "name": "Daniel Kaluuya",
+        "image": "https://www.indiewire.com/wp-content/uploads/2019/11/Get-Out.jpg",
+        "imdb": "https://www.imdb.com/name/nm2257207/"
+        },
+        {
+          "name": "LaKeith Stanfield",
+          "image": "https://media.gq.com/photos/599ddf9b021601733ff6a615/16:9/w_2560%2Cc_limit/lakeith-stanfield.jpg",
+          "imdb": "https://www.imdb.com/name/nm3147750/"
+        },
+        {
+          "name": "Jesse Plemons",
+          "image": "https://img.texasmonthly.com/2021/06/jesse-plemons.jpg?auto=compress&crop=faces&fit=crop&fm=jpg&h=900&ixlib=php-3.3.1&q=45&w=1600",
+          "imdb": "https://www.imdb.com/name/nm0687146/"
+        },
+        {
+          "name": "Dominique Fishback",
+          "image": "https://variety.com/wp-content/uploads/2022/03/Dominique-Fishbeck.jpg?w=1000",
+          "imdb": "https://www.imdb.com/name/nm5166024/"
+        }
+      ]
+    }
+  ,    
+  
+
+    {
       "item": 9102,
       "title": "A Clockwork Orange",
       "year": 1974,

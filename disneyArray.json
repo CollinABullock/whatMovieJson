@@ -645,6 +645,272 @@
 },
 
 {
+  "item": 1234,
+  "year": 2003,
+  "title": "Finding Nemo",
+  "runtime": 100,
+  "mpaa": "G",
+  "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+  "genre": ["animation", "adventure", "comedy", "kids"],
+  "director": [{
+    "name": "Andrew Stanton",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2012/3/1/1330621929995/Andrew-Stanton-Spielberg--007.jpg?width=465&dpr=1&s=none",
+    "imdb": "https://www.imdb.com/name/nm0004056/"
+  }],
+  "actors": [{
+      "name": "Albert Brooks",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/231109115427-01-albert-brooks-file-1979.jpg?c=original",
+      "imdb": "https://www.imdb.com/name/nm0000985/"
+    },
+    {
+      "name": "Ellen DeGeneres",
+      "image": "https://cdn.britannica.com/98/251998-050-E5B0D4E6/Actress-and-comedian-Ellen-Degeneres.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001122/"
+    },
+    {
+      "name": "Willem Dafoe",
+      "image": "https://facts.net/wp-content/uploads/2023/07/30-facts-about-willem-dafoe-1689164014.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000353/"
+    }
+,    
+    {
+      "name": "Alexander Gould",
+      "image": "https://www.collegemagazine.com/wp-content/uploads/2010/10/shane-400x300.jpg",
+      "imdb": "https://www.imdb.com/name/nm0331944/"
+    }
+  ],
+  "link": "https://www.disneyplus.com/movies/finding-nemo/5Gpj2XqF7BV2",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/69EFCE0C4DED1AD62380A123563ABF74905BF248FAAA05AC2A6E8E9626866299/scale?width=1200&aspectRatio=1.78&format=webp"
+},
+
+{
+  "item": 1234,
+  "year": 2016,
+  "title": "Finding Dory",
+  "runtime": 97,
+  "mpaa": "PG",
+  "description": "Finding Dory is a 2016 American computer-animated adventure film produced by Pixar Animation Studios and released by Walt Disney Pictures. Directed by Andrew Stanton with co-direction by Angus MacLane, the screenplay was written by Stanton and Victoria Strouse. The film is a sequel to the 2003 film Finding Nemo and features the voices of Ellen DeGeneres, Albert Brooks, Ed O'Neill, Kaitlin Olson, Ty Burrell, Diane Keaton, and Eugene Levy. The story follows Dory, a regal blue tang fish who suffers from short-term memory loss, as she embarks on a journey to be reunited with her parents.",
+  "genre": ["animation", "adventure", "comedy"],
+  "director": [{
+    "name": "Andrew Stanton",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2012/3/1/1330621929995/Andrew-Stanton-Spielberg--007.jpg?width=465&dpr=1&s=none",
+    "imdb": "https://www.imdb.com/name/nm0004056/"
+  }, {
+    "name": "Angus MacLane",
+    "image": "https://live.screendollars.com/wp-content/uploads/2021/10/4-ANGUS-MACLANE-FINDING-DORY-scaled.jpg",
+    "imdb": "https://www.imdb.com/name/nm0533691/"
+  }],
+  "actors": [{
+    "name": "Albert Brooks",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/231109115427-01-albert-brooks-file-1979.jpg?c=original",
+    "imdb": "https://www.imdb.com/name/nm0000985/"
+  },
+  {
+    "name": "Ellen DeGeneres",
+    "image": "https://cdn.britannica.com/98/251998-050-E5B0D4E6/Actress-and-comedian-Ellen-Degeneres.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001122/"
+  },
+   {
+    "name": "Ed O'Neill",
+    "image": "https://media.architecturaldigest.com/photos/5ccb376504c41e0abe9a7cd9/16:9/w_3487,h_1961,c_limit/GettyImages-540434214.jpg",
+    "imdb": "https://www.imdb.com/name/nm0642145/"
+  }, {
+    
+      "name": "Sigourney Weaver",
+      "image": "actor_image_url",
+      "imdb": "https://www.imdb.com/name/nm0000244/"
+    }
+    
+  ],
+  "link": "https://www.disneyplus.com/movies/finding-dory/2L6w30vnqebX",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/353A504C8DEC7A1D4065EDA1F7F8ABED4D3CE2E7E2508782AAB33B5A6E5AB8BE/scale?width=1200&aspectRatio=1.78&format=webp"
+}
+,
+
+{
+  "item": 1234,
+  "year": 1995,
+  "title": "Toy Story",
+  "runtime": 81,
+  "mpaa": "G",
+  "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+  "genre": ["animation", "adventure", "comedy", "kids"],
+  "director": [{
+    "name": "John Lasseter",
+    "image": "https://d322auu2i73vkf.cloudfront.net/legacy/2017/02/_largeTransform16x9/johnlasseter.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005124/"
+  }],
+  "actors": [{
+    "name": "Tom Hanks",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/tom-hanks-attends-the-photocall-for-elvis-during-the-75th-news-photo-1688072666.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000158/"
+  }, {
+    "name": "Tim Allen",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/1200/675/tim-allen.jpg?ve=1&tl=1",
+    "imdb": "https://www.imdb.com/name/nm0000741/"
+  }, {
+    "name": "Don Rickles",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/57f3c0c/2147483647/strip/true/crop/2048x1365+0+202/resize/1440x960!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F36%2F89%2Fc4d315396b4acf53c1512411e445%2Fla-et-don-rickles-life-in-pictures-20170406-002",
+    "imdb": "https://www.imdb.com/name/nm0001677/"
+  }, {
+    "name": "Jim Varney",
+    "image": "https://npr.brightspotcdn.com/legacy/sites/wkms/files/201711/Jim-Varney.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001815/"
+  }],
+  "link": "https://www.disneyplus.com/movies/toy-story/1Ye1nzUgtF7d",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8F161B52338EE723D8F1C5DA31740A434E4A85F8749F9E2B9984309C287B90CF/scale?width=1200&aspectRatio=1.78&format=webp"
+}
+,
+
+{
+  "item": 2345,
+  "year": 1999,
+  "title": "Toy Story 2",
+  "runtime": 92,
+  "mpaa": "G",
+  "description": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
+  "genre": ["animation", "adventure", "comedy", "kids", "sequel"],
+  "director": [{
+    "name": "John Lasseter",
+    "image": "https://d322auu2i73vkf.cloudfront.net/legacy/2017/02/_largeTransform16x9/johnlasseter.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005124/"
+  }, {
+    "name": "Ash Brannon",
+    "image": "https://i.ytimg.com/vi/KkT_KkSg67M/maxresdefault.jpg",
+    "imdb": "https://www.imdb.com/name/nm0104540/"
+  }, {
+    "name": "Lee Unkrich",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2019/01/lee_unkrich__0.jpg",
+    "imdb": "https://www.imdb.com/name/nm0881279/"
+  }],
+  "actors": [{
+    "name": "Tom Hanks",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/tom-hanks-attends-the-photocall-for-elvis-during-the-75th-news-photo-1688072666.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000158/"
+  }, {
+    "name": "Tim Allen",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/1200/675/tim-allen.jpg?ve=1&tl=1",
+    "imdb": "https://www.imdb.com/name/nm0000741/"
+  }, {
+    "name": "Joan Cusack",
+    "image": "https://facts.net/wp-content/uploads/2023/10/20-unbelievable-facts-about-joan-cusack-1696648426.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000349/"
+  }, {
+    "name": "Kelsey Grammer",
+    "image": "https://i.guim.co.uk/img/media/ec1b0b8cb5eb5a96b89d6ca2118c3243a65aa5c9/22_261_5419_3250/master/5419.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=961e6f748380835a0366e02fe0685d09",
+    "imdb": "https://www.imdb.com/name/nm0001288/"
+  }],
+  "link": "https://www.disneyplus.com/movies/toy-story-2/6eunXQzaXkGr",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4667D541430B42E82AF161915C9EA0CE13A4108C4ECA15AC6DBFA3A0030B3F6B/scale?width=1200&aspectRatio=1.78&format=webp"
+}
+,
+
+{
+  "item": 3456,
+  "year": 2010,
+  "title": "Toy Story 3",
+  "runtime": 103,
+  "mpaa": "G",
+  "description": "Woody, Buzz Lightyear, and the rest of the gang embark on a road trip with Bonnie and a new toy named Forky. The adventurous journey turns into an unexpected reunion as Woody's slight detour leads him to his long-lost friend Bo Peep.",
+  "genre": ["animation", "adventure", "comedy", "kids", "sequel"],
+  "director": [{
+    "name": "Lee Unkrich",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2019/01/lee_unkrich__0.jpg",
+    "imdb": "https://www.imdb.com/name/nm0881279/"
+  }],
+  "actors": [{
+    "name": "Tom Hanks",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/tom-hanks-attends-the-photocall-for-elvis-during-the-75th-news-photo-1688072666.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000158/"
+  }, {
+    "name": "Tim Allen",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/1200/675/tim-allen.jpg?ve=1&tl=1",
+    "imdb": "https://www.imdb.com/name/nm0000741/"
+  }, {
+    "name": "Joan Cusack",
+    "image": "https://facts.net/wp-content/uploads/2023/10/20-unbelievable-facts-about-joan-cusack-1696648426.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000349/"
+  }, {
+    "name": "Ned Beatty",
+    "image": "https://e3.365dm.com/21/06/2048x1152/skynews-ned-beatty-superman_5414701.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000881/"
+  }],
+  "link": "https://www.disneyplus.com/movies/toy-story-3/5i3MkHrmohAt",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DFA21D80509E043EC4CB79E121224FA2FB344AF40ED03B510576F4ED9D831960/scale?width=1200&aspectRatio=1.78&format=webp"
+}
+,
+
+{
+  "item": 4567,
+  "year": 2019,
+  "title": "Toy Story 4",
+  "runtime": 100,
+  "mpaa": "G",
+  "description": "When a new toy called 'Forky' joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+  "genre": ["animation", "adventure", "comedy", "kids", "sequel"],
+  "director": [{
+    "name": "Josh Cooley",
+    "image": "https://www.indiewire.com/wp-content/uploads/2020/04/josh-cooley.jpg",
+    "imdb": "https://www.imdb.com/name/nm0176847/"
+  }],
+  "actors": [{
+    "name": "Tom Hanks",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/tom-hanks-attends-the-photocall-for-elvis-during-the-75th-news-photo-1688072666.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000158/"
+  }, {
+    "name": "Tim Allen",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/1200/675/tim-allen.jpg?ve=1&tl=1",
+    "imdb": "https://www.imdb.com/name/nm0000741/"
+  }, {
+    "name": "Annie Potts",
+    "image": "https://media.zenfs.com/en/first_for_women_876/32781e742ac2f5e008a47491b8e3151f",
+    "imdb": "https://www.imdb.com/name/nm0001634/"
+  }, {
+    "name": "Tony Hale",
+    "image": "https://media.vanityfair.com/photos/5d0e5dbab1f2b47c010cf849/master/pass/tony-hale-arrested-development-canceled.jpg",
+    "imdb": "https://www.imdb.com/name/nm0355024/"
+  }],
+  "link": "https://www.disneyplus.com/movies/toy-story-4/2CtjW4tKzIHp",
+  "poster": "https://media.vanityfair.com/photos/5d0e5dbab1f2b47c010cf849/master/pass/tony-hale-arrested-development-canceled.jpg"
+}
+,
+
+{
+  "item": 7890,
+  "year": 2022,
+  "title": "Lightyear",
+  "runtime": 108,
+  "mpaa": "PG",
+  "description": "Legendary space ranger Buzz Lightyear embarks on an intergalactic adventure alongside ambitious recruits Izzy, Mo, Darby, and his robot companion, Sox. As this motley crew tackles their toughest mission yet, they must learn to work together as a team to escape the evil Zurg and his dutiful robot army that are never far behind.",
+  "genre": ["animation", "science-fiction", "action", "kids"],
+  "director": [{
+    "name": "Angus MacLane",
+    "image": "https://live.screendollars.com/wp-content/uploads/2021/10/4-ANGUS-MACLANE-FINDING-DORY-scaled.jpg",
+    "imdb": "https://www.imdb.com/name/nm0533691/"
+  }],
+  "actors": [{
+    "name": "Chris Evans",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdnkLrjpVJDcNcR5qmQHCgdsgOEpFmnYAqO0hApkmiQGLkaT9ZINqLLXgHPoJV3rlr30&usqp=CAU",
+      "imdb": "https://www.imdb.com/name/nm0262635/"
+  }, {
+    "name": "Keke Palmer",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcR6dzCGN1U_YORWP3C-lqvrvNcYWmIYHp3pD0wcUfo6dhpyUPygZzE43Jl-SaZesQeNI-iiv1BUUCzz4vU",
+    "imdb": "https://en.wikipedia.org/wiki/Keke_Palmer"
+  }, {
+    "name": "Taika Waititi",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSSA4udCiebJxAJhSqEq-C8QMJ8XaYRM0yfwSGKQ3tP6Eh76MkLs8IMg8JwC8PGDFtjZEk4FV6kKe5L944",
+    "imdb": "https://www.imdb.com/name/nm0169806/"
+  }, {
+    "name": "Dale Soules",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSktFap3_bfyZUQoLAKnfoMeE_-TlDA_oykm3lhjXexkIgtyH2RPao0P97by6BUilpewqNsC2TkUMhGXAo",
+    "imdb": "https://www.imdb.com/name/nm0815831/"
+  }],
+  "link": "https://www.disneyplus.com/movies/lightyear/2Pq8mtUg7ztB",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8322F69965CBC34996939EADE20559071CFD92B1BD32F5E387B0279E5D758238/scale?width=1200&aspectRatio=1.78&format=webp"
+}
+,
+
+{
   "item": 987765,
   "title": "X2",
   "year": 2003,
