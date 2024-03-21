@@ -2671,6 +2671,125 @@
 ,
 
 {
+  "item": 6543,
+  "year": 1965,
+  "title": "The Greatest Story Ever Told",
+  "runtime": 260,
+  "mpaa": "G",
+  "description": "Epic retelling of the life of Jesus Christ from his birth to his crucifixion and resurrection.",
+  "genre": ["drama", "history", "classic"],
+  "director": [{
+    "name": "George Stevens",
+    "image": "https://www.oscars.org/sites/oscars/files/styles/learn_collection_image_phone/public/1086_023624_1956.png?itok=evaVO-Gz",
+    "imdb": "https://www.imdb.com/name/nm0828242/"
+  }],
+  "actors": [{
+    "name": "Max von Sydow",
+          "image": "https://www.swtimes.com/gcdn/authoring/2020/03/15/NTRE/ghows-AR-a0aa676a-8e00-2b62-e053-0100007fe991-fef7b747.jpeg",
+          "imdb": "https://www.imdb.com/name/nm0001884/"
+  }, {
+    "name": "Dorothy McGuire",
+    "image": "https://i.ytimg.com/vi/n7Sv0qmPSoU/maxresdefault.jpg",
+    "imdb": "https://www.imdb.com/name/nm0570165/"
+  }],
+  "link": "https://www.amazon.com/gp/video/detail/0O74TB949DFHPBADZP36202U5E/ref=atv_dl_rdr?tag=justus1ktp-20",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/3bdab5f653293b3953a9159598b014e1010594b57c78d08167f6086080de67c0.jpg"
+}
+,
+
+{
+  "item": 9876,
+  "year": 1935,
+  "title": "Texas Terror",
+  "runtime": 51,
+  "mpaa": "Not Rated",
+  "description": "After a bank robbery goes wrong, a cowboy is left to take the blame and clear his name.",
+  "genre": ["western", "classic"],
+  "director": [{
+    "name": "Robert N. Bradbury",
+    "image": "https://i.ytimg.com/vi/cRokXeYZ5vY/hqdefault.jpg",
+    "imdb": "https://www.imdb.com/name/nm0102853/"
+  }],
+  "actors": [{
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }, {
+    "name": "Lucile Browne",
+    "image": "https://prod-images.tcm.com/Master-Profile-Images/LucileBrowne.771899.jpg",
+    "imdb": "https://www.imdb.com/name/nm0115494/"
+  }, {
+    "name": "LeRoy Mason",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Western_Mail_%281942%29_-_LeRoy_Mason.jpg",
+    "imdb": "https://www.imdb.com/name/nm0557054/"
+  }],
+  "link": "https://www.amazon.com/gp/video/detail/0TN23Y3PX0ECRG642JDVLHJ6ZY/ref=atv_dl_rdr?tag=justus1ktp-20",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/49f6b6a1292b944d7df4deb1667a5044145ab5bc9b1ae3367cd44acb10ff3ef2.jpg"
+}
+,
+
+{
+  "item": 9877,
+  "year": 1963,
+  "title": "McLintock!",
+  "runtime": 127,
+  "mpaa": "Not Rated",
+  "description": "A wealthy cattle rancher fights against various troubles at home and at work.",
+  "genre": ["comedy", "romance", "western"],
+  "director": [{
+    "name": "Andrew V. McLaglen",
+    "image": "https://www.dga.org/~/media/Images/Landscape%20Images/Visual%20History/VH117%20McLaglen/McLaglenH1.ashx",
+    "imdb": "https://www.imdb.com/name/nm0571844/"
+  }],
+  "actors": [{
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }, {
+    "name": "Maureen O'Hara",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/10/25/17/Maureen-OHara.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000053/"
+  }, {
+    "name": "Patrick Wayne",
+    "image": "https://www.johnwayne.com/wp-content/uploads/2022/03/103-0042.jpg",
+    "imdb": "https://www.imdb.com/name/nm0915593/"
+  }],
+  "link": "https://www.amazon.com/McLintock-John-Wayne/dp/B004WPJHD0",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/bacebc0e9a08d09c61cc317ff9500358c0207576dfe8e160f4d27b3f85b1fbd0._UR1920,1080_SX720_FMjpg_.jpg"
+}
+,
+
+{
+  "item": 9878,
+  "year": 1947,
+  "title": "Angel and the Badman",
+  "runtime": 100,
+  "mpaa": "Approved",
+  "description": "A wounded outlaw is sheltered by a Quaker family, causing him to reevaluate his life and beliefs.",
+  "genre": ["western", "romance"],
+  "director": [{
+    "name": "James Edward Grant",
+    "image": "https://abcdvdvideo.myshopify.com/cdn/shop/products/dp-18376_1024x1024.jpg?v=1519182517",
+    "imdb": "https://www.imdb.com/name/nm0335114/"
+  }],
+  "actors": [{
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }, {
+    "name": "Gail Russell",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWU3MjRhOTMtYjZlZC00Mzc2LTk4NDUtZDAyNWMxOTUwYjI0XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000068/"
+  }, {
+    "name": "Harry Carey",
+    "image": "https://obscurehollywood.net/art/Harry-Carey.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001984/"
+  }],
+  "link": "https://www.amazon.com/gp/video/detail/0I49GM4U3GUSXLCLZPLXYX9BLI/ref=atv_dl_rdr?tag=justus1ktp-20",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/b4d93884e00efc4605b027c47d6c376eb2456fd8ba60598c8c5a0e21e77c7aaf.jpg"
+}
+,
+
+{
 "item": 332,
 "title": "Room",
 "year": 2015,

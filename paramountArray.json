@@ -168,6 +168,41 @@
 ,
 
 {
+  "item": 8756,
+  "year": 1971,
+  "title": "Big Jake",
+  "runtime": 110,
+  "mpaa": "PG-13",
+  "description": "The avenging head of the McCandle clan returns to his estranged family and leads the search for his kidnapped grandson. Big Jake sets off, his sons in tow, to deliver the ransom to the kidnappers, but has little intention of handing it over without a fight.",
+  "genre": ["western", "adventure", "classic"],
+  "director": [{
+    "name": "George Sherman",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjM0MTYyNWYtMjhjZS00MmUxLTllNzEtMjU4YTY1ZWVlNmYwXkEyXkFqcGdeQXVyMjQ5NjcwODg@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0791982/"
+  }, {
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }],
+  "actors": [{
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }, {
+    "name": "Richard Boone",
+    "image": "https://www.thespectrum.com/gcdn/-mm-/d256f30d09f762b80ac6bc9dfda4857f5ebe6b97/c=0-112-2048-1269/local/-/media/2017/08/30/TXNMGroup/StGeorge/636396965350505666-1.-Richard-Boone-as-the-villainous-Fain-in-Big-Jake---Cinema-Center-Films.jpg",
+    "imdb": "https://www.imdb.com/name/nm0095490/"
+  }, {
+    "name": "Patrick Wayne",
+    "image": "https://www.johnwayne.com/wp-content/uploads/2022/03/103-0042.jpg",
+    "imdb": "https://www.imdb.com/name/nm0915593/"
+  }],
+  "link": "https://www.paramountplus.com/movies/video/kG6pDTuDGaCS0q3t4HMMXvhzKdz8o7uH/",
+  "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2023/01/17/2162153027840/BIGJ_SAlone_16_9_1920x1080_NB_1890413_1920x1080.jpg"
+}
+,
+
+{
   "item": 9876,
   "title": "Terminator 2: Judgment Day",
   "year": 1991,

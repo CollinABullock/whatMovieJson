@@ -818,6 +818,98 @@
   ,
 
   {
+    "item": 7654,
+    "year": 1948,
+    "title": "Red River",
+    "runtime": 133,
+    "mpaa": "Approved",
+    "description": "Headstrong Thomas Dunson (John Wayne) starts a thriving Texas cattle ranch with the help of his faithful trail hand, Groot (Walter Brennan), and his protégé, Matt Garth (Montgomery Clift), an orphan Dunson took under his wing when Matt was a boy. In need of money following the Civil War, Dunson and Matt lead a cattle drive to Missouri, where they will get a better price than locally, but the crotchety older man and his willful young partner begin to butt heads on the exhausting journey.",
+    "genre": ["western", "drama", "classic"],
+    "director": [{
+      "name": "Howard Hawks",
+      "image": "https://www.goldderby.com/wp-content/uploads/2019/05/Howard-Hawks.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001328/"
+    }],
+    "actors": [{
+      "name": "John Wayne",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000078/"
+    }, {
+      "name": "Montgomery Clift",
+      "image": "https://lh3.googleusercontent.com/proxy/r_immXHQWRj3xv6uLLY1geFSjd2iFXuoNKh_1dbogblBoWEv3ikdHbf5ygzkJ1UeW6Lw9EWBfCGlBNXAZMCukAXGNHPGKeisVyoLocAObqvbe3cQmW2ckyb4er5tWUkHKe8XoBdrWCH2czI8-SlJiWpNQQ",
+      "imdb": "https://www.imdb.com/name/nm0001050/"
+    }, {
+      "name": "Joanne Dru",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWZjMGM0MmQtMGI3YS00YzNlLTgyZTMtYWIyZGZmMDllZmI5XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0239606/"
+    }],
+    "link": "https://tubitv.com/movies/514356/red-river-colorized",
+    "poster": "https://canvas-bridge02.tubitv.com/5w_n78PCsPXluqRho1Az0lz3Dug=/0x0:1920x1066/448x252/smart/img.adrise.tv/24165592-3237-403e-b908-9047404ab291.jpg"
+  }
+,  
+
+{
+  "item": 9877,
+  "year": 1963,
+  "title": "McLintock!",
+  "runtime": 127,
+  "mpaa": "Not Rated",
+  "description": "A wealthy cattle rancher fights against various troubles at home and at work.",
+  "genre": ["comedy", "romance", "western"],
+  "director": [{
+    "name": "Andrew V. McLaglen",
+    "image": "https://www.dga.org/~/media/Images/Landscape%20Images/Visual%20History/VH117%20McLaglen/McLaglenH1.ashx",
+    "imdb": "https://www.imdb.com/name/nm0571844/"
+  }],
+  "actors": [{
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }, {
+    "name": "Maureen O'Hara",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/10/25/17/Maureen-OHara.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000053/"
+  }, {
+    "name": "Patrick Wayne",
+    "image": "https://www.johnwayne.com/wp-content/uploads/2022/03/103-0042.jpg",
+    "imdb": "https://www.imdb.com/name/nm0915593/"
+  }],
+  "link": "https://tubitv.com/movies/100011075/mclintock",
+  "poster": "https://canvas-bridge02.tubitv.com/bd1VNxgs1OVaBpo6KKOSgtcyhE4=/1x3:896x500/448x252/smart/img.adrise.tv/56ec283a-eca3-4a66-97e9-0d4ba039fc32.jpg"
+}
+,
+
+{
+  "item": 9878,
+  "year": 1947,
+  "title": "Angel and the Badman",
+  "runtime": 100,
+  "mpaa": "Approved",
+  "description": "A wounded outlaw is sheltered by a Quaker family, causing him to reevaluate his life and beliefs.",
+  "genre": ["western", "romance"],
+  "director": [{
+    "name": "James Edward Grant",
+    "image": "https://abcdvdvideo.myshopify.com/cdn/shop/products/dp-18376_1024x1024.jpg?v=1519182517",
+    "imdb": "https://www.imdb.com/name/nm0335114/"
+  }],
+  "actors": [{
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }, {
+    "name": "Gail Russell",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWU3MjRhOTMtYjZlZC00Mzc2LTk4NDUtZDAyNWMxOTUwYjI0XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000068/"
+  }, {
+    "name": "Harry Carey",
+    "image": "https://obscurehollywood.net/art/Harry-Carey.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001984/"
+  }],
+  "link": "https://tubitv.com/movies/229875/angel-and-the-badman",
+  "poster": "https://i.ytimg.com/vi/zfcy57guJuI/maxresdefault.jpg"
+}
+,
+
+  {
     "item": 5678,
     "year": 1940,
     "title": "The Philadelphia Story",
