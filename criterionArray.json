@@ -693,6 +693,33 @@
 ,
 
 {
+  "item": 5432,
+  "year": 1939,
+  "title": "Stagecoach",
+  "runtime": 96,
+  "mpaa": "Not Rated",
+  "description": "John Ford's landmark Western revolves around an assorted group of colorful passengers aboard the Overland stagecoach bound for Lordsburg, New Mexico, in the 1880s. An alcoholic philosophizer (Thomas Mitchell), a lady of ill repute (Claire Trevor) and a timid liquor salesman (Donald Meek) are among the motley crew of travelers who must contend with an escaped outlaw, the Ringo Kid (John Wayne), and the ever-present threat of an Apache attack as they make their way across the Wild West.",
+  "genre": ["western", "classic"],
+  "director": [{
+    "name": "John Ford",
+    "image": "https://www.knowledge.ca/sites/default/files/Programs/John%20Ford%3A%20The%20Man%20Who%20Invented%20America/John%20Ford%20The%20Man%20Who%20Invented%20America.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000406/"
+  }],
+  "actors": [{
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }, {
+    "name": "Claire Trevor",
+    "image": "https://iheartingrid.files.wordpress.com/2015/06/claire-trevor-1.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001802/"
+  }],
+  "link": "https://www.criterionchannel.com/stagecoach",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/09bd2b95-fcae-4df3-b46b-b152df83bca8-874ef0c6.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+}
+,
+
+{
   "item": "7785",
   "title": "Heaven's Gate",
   "runtime": 219,

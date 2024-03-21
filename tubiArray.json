@@ -790,7 +790,32 @@
     "link": "https://tubitv.com/movies/356527/blue-velvet"
   },
 
-  
+  {
+    "item": 5432,
+    "year": 1939,
+    "title": "Stagecoach",
+    "runtime": 96,
+    "mpaa": "Not Rated",
+    "description": "John Ford's landmark Western revolves around an assorted group of colorful passengers aboard the Overland stagecoach bound for Lordsburg, New Mexico, in the 1880s. An alcoholic philosophizer (Thomas Mitchell), a lady of ill repute (Claire Trevor) and a timid liquor salesman (Donald Meek) are among the motley crew of travelers who must contend with an escaped outlaw, the Ringo Kid (John Wayne), and the ever-present threat of an Apache attack as they make their way across the Wild West.",
+    "genre": ["western", "classic"],
+    "director": [{
+      "name": "John Ford",
+      "image": "https://www.knowledge.ca/sites/default/files/Programs/John%20Ford%3A%20The%20Man%20Who%20Invented%20America/John%20Ford%20The%20Man%20Who%20Invented%20America.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000406/"
+    }],
+    "actors": [{
+      "name": "John Wayne",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000078/"
+    }, {
+      "name": "Claire Trevor",
+      "image": "https://iheartingrid.files.wordpress.com/2015/06/claire-trevor-1.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001802/"
+    }],
+    "link": "https://tubitv.com/movies/499716/stagecoach",
+    "poster": "https://canvas-bridge.tubitv.com/SW2DQUBC4M7Ca3p1CjbrM7AiDX8=/1920x1080/smart/img.adrise.tv/95e930c8-78a0-4d5b-b432-aaed490ab301.jpg"
+  }
+  ,
 
   {
     "item": 5678,
