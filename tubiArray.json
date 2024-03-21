@@ -517,7 +517,40 @@
   "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Evolve-Featured-Images-46.jpg"
 },
 
-
+{    
+  "item": 3698,
+  "year": 1972,
+  "title": "Everything You Always Wanted to Know About Sex *But Were Afraid to Ask",
+  "runtime": 88,
+  "mpaa": "R",
+  "description": "A collection of seven vignettes based on the book by the same name, exploring aspects of human sexuality.",
+  "genre": ["comedy"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }, {
+    "name": "Gene Wilder",
+    "image": "https://variety.com/wp-content/uploads/2014/06/gene-wilder-dead.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0000698/"
+  }, {
+    "name": "Lou Jacobi",
+    "image": "https://static01.nyt.com/images/2009/10/25/nyregion/25jacobi_CA0/articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+    "imdb": "https://www.imdb.com/name/nm0414335/"
+  }, {
+    "name": "Louise Lasser",
+    "image": "https://images.squarespace-cdn.com/content/v1/50d753ace4b00e80afab9f20/1485225518093-B8VCEIH8GWL4XOOPH09J/image-asset.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0488916/"
+  }],
+  "link": "https://tubitv.com/movies/305814/everything-you-always-wanted-to-know-about-sex-but-were-afraid-to-ask",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/861c4010e16465079e0cbd51862fe9ee3ecfd4ae05188a29f0420c94e68a4221.jpg"
+}
+,
 
 
 {    

@@ -3486,6 +3486,76 @@
     }]
   },
 
+  {    
+  "item": 3698,
+  "year": 1972,
+  "title": "Everything You Always Wanted to Know About Sex *But Were Afraid to Ask",
+  "runtime": 88,
+  "mpaa": "R",
+  "description": "A collection of seven vignettes based on the book by the same name, exploring aspects of human sexuality.",
+  "genre": ["comedy"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }, {
+    "name": "Gene Wilder",
+    "image": "https://variety.com/wp-content/uploads/2014/06/gene-wilder-dead.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0000698/"
+  }, {
+    "name": "Lou Jacobi",
+    "image": "https://static01.nyt.com/images/2009/10/25/nyregion/25jacobi_CA0/articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+    "imdb": "https://www.imdb.com/name/nm0414335/"
+  }, {
+    "name": "Louise Lasser",
+    "image": "https://images.squarespace-cdn.com/content/v1/50d753ace4b00e80afab9f20/1485225518093-B8VCEIH8GWL4XOOPH09J/image-asset.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0488916/"
+  }],
+  "link": "https://www.amazon.com/gp/video/detail/B0C4Z7BG9N/ref=atv_dp_atf_prime_sd_mv_play_t1ADAAAAAA0wr0?tag=justus1ktp-20&autoplay=1&t=0",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/861c4010e16465079e0cbd51862fe9ee3ecfd4ae05188a29f0420c94e68a4221.jpg"
+}
+,
+
+{    
+  "item": 2468,
+  "year": 2016,
+  "title": "Cafe Society",
+  "runtime": 96,
+  "mpaa": "PG-13",
+  "description": "In the 1930s, a young Bronx native moves to Hollywood, where he falls in love with the secretary of his powerful uncle, an agent to the stars. After returning to New York, he is swept up in the vibrant world of high society nightclub life.",
+  "genre": ["comedy", "drama", "romance", "history"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Jesse Eisenberg",
+    "image": "https://variety.com/wp-content/uploads/2017/05/jesse-eisenberg.png",
+    "imdb": "https://www.imdb.com/name/nm0251986/"
+  }, {
+    "name": "Kristen Stewart",
+    "image": "https://media.glamour.com/photos/64506a01c651730826b85435/master/w_2560%2Cc_limit/1486926133",
+    "imdb": "https://www.imdb.com/name/nm0829576/"
+  }, {
+    "name": "Steve Carell",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0E4JvlpFYatER0RLZ-4qX6z7T9YMG7MavoQsCjen58CK6JqJa",
+    "imdb": "https://www.imdb.com/name/nm0136797/"
+  }, {
+    "name": "Blake Lively",
+    "image": "https://media.allure.com/photos/65806995c427f980a204d04b/16:9/w_2383,h_1341,c_limit/blake%20lively%20loud%20luxury%20pink%20lipstick.jpg",
+    "imdb": "https://www.imdb.com/name/nm0515116/"
+  }],
+  "link": "https://www.amazon.com/gp/video/detail/B08B4X9LNX/ref=atv_dp_atf_prime_sd_mv_play_t1ADAAAAAA0wr0?tag=justus1ktp-20&autoplay=1&t=0",
+  "poster": "https://i.ytimg.com/vi/4NRQPTE2Y-c/maxresdefault.jpg"
+}
+,
+
   {
     "item": 295,
     "title": "Couples Retreat",
