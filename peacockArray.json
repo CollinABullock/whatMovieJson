@@ -1214,6 +1214,78 @@
   },
 
   {    
+  "item": 1357,
+  "year": 2000,
+  "title": "Small Time Crooks",
+  "runtime": 94,
+  "mpaa": "PG",
+  "description": "A loser of a crook and his wife strike it rich when a botched bank job's cover business becomes a spectacular success.",
+  "genre": ["comedy", "crime"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }, {
+    "name": "Tracey Ullman",
+    "image": "https://variety.com/wp-content/uploads/2016/10/traceyullman.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001808/"
+  }, {
+    "name": "Hugh Grant",
+    "image": "https://www.looper.com/img/gallery/the-untold-truth-of-hugh-grant/intro-1638896717.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000424/"
+  }, {
+    "name": "Elaine May",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjg2Mzg2YWQtY2Q5ZS00YzFjLWIzZTUtZjkwZDFjZGE5MGU5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005212/"
+  }],
+  "link": "https://www.peacocktv.com/watch-online/movies/small-time-crooks/bc9c9ed2-aaf7-3d22-ab2a-e308eb6e5b01",
+  "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Small-Time-Crooks.jpg?w=1024"
+},
+
+{    
+  "item": 2468,
+  "year": 1995,
+  "title": "Mighty Aphrodite",
+  "runtime": 95,
+  "mpaa": "R",
+  "description": "When he discovers his adopted son is a genius, a New York sportswriter seeks out the boy's birth mother: a ditzy porn star and prostitute.",
+  "genre": ["comedy", "romance"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }, {
+    "name": "Mira Sorvino",
+    "image": "https://cdnph.upi.com/sv/ph/og/upi/2441516025475/2018/1/1990b9787de0126759d8d0b64c67e2ee/v1.5/Mira-Sorvino-joins-Crackles-StartUp-for-Season-3.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000227/"
+  }, {
+    "name": "Helena Bonham Carter",
+    "image": "https://media.vanityfair.com/photos/5d54140702bf930008778d6b/master/w_2560%2Cc_limit/TheCrown_302_00054_Rv2.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000307/"
+  }, {
+    "name": "F. Murray Abraham",
+    "image": "https://cdn.cloverhealth.com/filer_public/4e/af/4eaf80df-4f50-42c6-96f8-8b0d5eca064a/how-f-murray-abraham-stays-healthy.png",
+    "imdb": "https://www.imdb.com/name/nm0000719/"
+  }],
+  "link": "https://www.peacocktv.com/watch-online/movies/mighty-aphrodite/5774d5e0-7993-3215-afa8-784cba9ae769",
+  "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Evolve-Featured-Images-46.jpg"
+},
+
+
+
+
+
+  {    
     "item": 9101,
     "year": 2005,
     "title": "Match Point",
