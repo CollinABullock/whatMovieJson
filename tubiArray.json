@@ -478,7 +478,7 @@
     "imdb": "https://www.imdb.com/name/nm0000106/"
   }
   ],
-  "link": "https://images.justwatch.com/icon/104966985/s100/tubitv.webp",
+  "link": "https://tubitv.com/movies/100014056/everyone-says-i-love-you?start=true&tracking=google-feed&utm_source=google-feed",
   "poster": "https://i.ytimg.com/vi/vAEI3arNVBc/maxresdefault.jpg"
 }
 ,
@@ -549,6 +549,80 @@
   }],
   "link": "https://tubitv.com/movies/305814/everything-you-always-wanted-to-know-about-sex-but-were-afraid-to-ask",
   "poster": "https://m.media-amazon.com/images/S/pv-target-images/861c4010e16465079e0cbd51862fe9ee3ecfd4ae05188a29f0420c94e68a4221.jpg"
+}
+,
+
+{    
+  "item": 3698,
+  "year": 1984,
+  "title": "Broadway Danny Rose",
+  "runtime": 84,
+  "mpaa": "PG",
+  "description": "A hapless talent manager's latest client is a washed-up lounge singer who might have a chance at a big comeback.",
+  "genre": ["comedy", "drama"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }, {
+    "name": "Mia Farrow",
+    "image": "https://pagesix.com/wp-content/uploads/sites/3/2020/04/mia-farrow-quincy.jpg?quality=75&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0001201/"
+  }, {
+    "name": "Nick Apollo Forte",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2020/02/broadway_danny_rose_1984_55-h_2020.jpg",
+    "imdb": "https://www.imdb.com/name/nm0286645/"
+  }, {
+    "name": "Sandy Baron",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGUyNzM1NzktOThiNy00Nzk0LTk1ODItMGU3ZTY2NGU4ZWNkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0056212/"
+  }],
+  "link": "https://tubitv.com/movies/304800/broadway-danny-rose",
+  "poster": "https://img.rgstatic.com/content/movie/e8cc9201-8259-4dcb-9779-cf0e5a2ed905/backdrop-1280.jpg"
+}
+,
+
+{    
+  "item": 1357,
+  "year": 1998,
+  "title": "Celebrity",
+  "runtime": 113,
+  "mpaa": "R",
+  "description": "The fortunes of a husband and wife differ drastically after they divorce.",
+  "genre": ["comedy", "drama"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Kenneth Branagh",
+      "image": "https://variety.com/wp-content/uploads/2021/10/Kenneth_Branagh-Variety-Cover-Story-16x9-2.jpg?w=1920&h=1080&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0000110/"
+  }, {
+    "name": "Judy Davis",
+    "image": "https://www.slantmagazine.com/wp-content/uploads/2007/02/film_judydavis.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001115/"
+  }, {
+    "name": "Jesse Eisenberg",
+    "image": "https://variety.com/wp-content/uploads/2017/05/jesse-eisenberg.png",
+    "imdb": "https://www.imdb.com/name/nm0251986/"
+  }, {
+    "name": "Melanie Griffith",
+    "image": "https://images.hola.com/imagenes/actualidad/20231212244981/antonio-banderas-melanie-griffith-como-se-conocieron/1-348-316/antonio-banderas-getty3-t.jpg?tx=w_680",
+    "imdb": "https://www.imdb.com/name/nm0000429/"
+  }, {
+    "name": "Leonardo DiCaprio",
+        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000138/"
+  }],
+  "link": "https://tubitv.com/movies/100014232/celebrity",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/1b8f4cee291250e5d1c67828a2a471483677c0e9240bd384211443f5fec76f9d._SX1080_FMjpg_.jpg"
 }
 ,
 
