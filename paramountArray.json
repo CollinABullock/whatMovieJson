@@ -1423,6 +1423,38 @@
     "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2B99DE6A6D381F806D50B8421804473A8B7468A0EE4E112CA9A47A66D0FF56DC/scale?width=1200&aspectRatio=1.78&format=webp",
     "link": "https://www.paramountplus.com/movies/video/223hos4N4T3rGA1sX_vul2DMp1et9eD2/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHygu0xLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CKDdtoi27IQDFcvwGAIdGkQNEQ"
   },
+
+  {    
+    "item": 1234,
+    "year": 2002,
+    "title": "Insomnia",
+    "runtime": 118,
+    "mpaa": "R",
+    "description": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.",
+    "genre": ["crime", "drama", "mystery", "thriller", "remake"],
+    "director": [{
+      "name": "Christopher Nolan",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+      "imdb": "https://www.imdb.com/name/nm0634240/"
+    }],
+    "actors": [{
+      "name": "Al Pacino",
+      "image": "https://static.euronews.com/articles/stories/08/30/10/38/1200x675_cmsv2_82f6af80-5221-51e9-9848-40e5b0cbdebe-8301038.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000199/"
+    }, {
+      "name": "Robin Williams",
+      "image": "https://www.billboard.com/wp-content/uploads/media/robin-williams-2009-billboard-650.jpg?w=650",
+      "imdb": "https://www.imdb.com/name/nm0000245/"
+    }, {
+      "name": "Hilary Swank",
+      "image": "https://people.com/thmb/f8x1TawvDaDUiNM1Wapu2Qysltk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/hilary-swank-ordinary-angels-premiere-021924-tout-a934ef04429e473aba5c74d4080093ad.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005476/"
+    }],
+    "link": "https://www.paramountplus.com/movies/video/90LpNoNLF2uMshp_OXeGAo6PaBQpNdOX/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHU3xU1LVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CNvPoLyChIUDFYWEpgQdjP0Mwg",
+    "poster": "https://streamcoimg-a.akamaihd.net/000/406/9276/4069276-Banner-L2-7e651a4da296207aa62455d109722960.jpg"
+  }
+,  
+
   {
     "item": 2345,
     "title": "Indiana Jones and the Kingdom of the Crystal Skull",

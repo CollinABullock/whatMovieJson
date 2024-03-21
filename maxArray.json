@@ -4004,6 +4004,41 @@
 }
 ,
 
+{    
+  "item": 2468,
+  "year": 1986,
+  "title": "Hannah and Her Sisters",
+  "runtime": 107,
+  "mpaa": "PG-13",
+  "description": "Between two Thanksgivings, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+  "genre": ["comedy", "drama", "classic"],
+  "director": [{
+    "name": "Woody Allen",
+      "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Mia Farrow",
+    "image": "https://pagesix.com/wp-content/uploads/sites/3/2020/04/mia-farrow-quincy.jpg?quality=75&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0001201/"
+  }, {
+    "name": "Dianne Wiest",
+    "image": "https://people.com/thmb/5rt71av53KMzjHnkqUU_uzJ2A_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1039x465:1041x467)/Dianne-Wiest-032823-01-a06542fb815e41189e0a45aebce137f6.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001848/"
+  }, {
+    "name": "Michael Caine",
+    "image": "https://people.com/thmb/kR7Pag_h006o-BWdOdrn6Zf0mx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/michael-caine69-987b236327764608ad200351f28e0881.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000323/"
+  }, {
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "link": "https://play.max.com/video/watch/358c469b-412a-4e28-b483-a2e9f2de1aa3/32ddcd98-a744-40d0-92bd-cf0b6e16f906",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/cbd3b18b3b0fbf22cd99a54c99c94b551e4b79af090c0b23ca534f7f3ca34a5b._SX1080_FMjpg_.jpg"
+}
+,
+
 {
   "item": 198,
   "title": "Ghost",

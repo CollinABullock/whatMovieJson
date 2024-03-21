@@ -3360,6 +3360,72 @@
     }]
   },
 
+  {    
+  "item": 5678,
+  "year": 1977,
+  "title": "Annie Hall",
+  "runtime": 93,
+  "mpaa": "PG",
+  "description": "Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.",
+  "genre": ["comedy", "romance", "classic"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }, {
+    "name": "Diane Keaton",
+    "image": "https://www.firstforwomen.com/wp-content/uploads/sites/2/2025/01/GettyImages-2893996-e1704983040303.jpg?w=951",
+    "imdb": "https://www.imdb.com/name/nm0000473/"
+  }, {
+    "name": "Tony Roberts",
+    "image": "https://images.forwardcdn.com/image/1300x/center/images/cropped/croptony-roberts-photo-1-with-woody-allen-and-dian-1452857714.jpg",
+    "imdb": "https://www.imdb.com/name/nm0731620/"
+  }],
+  "link": "https://www.amazon.com/gp/video/detail/0RMP320ENXLF9CVLRB8RJG2GEM/ref=atv_dl_rdr?tag=justus1ktp-20",
+  "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Annie-Hall-1977.jpg"
+}
+,
+
+{    
+  "item": 1357,
+  "year": 2008,
+  "title": "Vicky Cristina Barcelona",
+  "runtime": 96,
+  "mpaa": "PG-13",
+  "description": "Two girlfriends on a summer holiday in Spain become enamored with the same painter, unaware that his ex-wife, with whom he has a tempestuous relationship, is about to re-enter the picture.",
+  "genre": ["comedy", "drama", "romance"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Rebecca Hall",
+    "image": "https://static01.nyt.com/images/2016/10/09/arts/109REBECCAHALL1/109REBECCAHALL1-videoSixteenByNineJumbo1600.jpg",
+    "imdb": "https://www.imdb.com/name/nm0356017/"
+  }, {
+    "name": "Scarlett Johansson",
+    "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UQ836S9qDWRgX1TYCkzykIuWIK8=/1660x1107/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/63MMCIXPOAOUKAMXJMW7HTAWCU.jpg",
+    "imdb": "https://www.imdb.com/name/nm0424060/"
+  }, {
+    "name": "Javier Bardem",
+    "image": "https://www.nickiswift.com/img/gallery/how-javier-bardem-became-a-hollywood-icon/l-intro-1681529112.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000849/"
+  }, {
+    "name": "Penélope Cruz",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/pen-c3-a9lope-cruz-at-the-14th-governors-awards-held-at-the-ray-news-photo-1705594076.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0004851/"
+  }],
+  "link": "https://www.amazon.com/gp/video/detail/0M294YV3S0MQZUG789S9C2HP7G/ref=atv_dl_rdr?tag=justus1ktp-20",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/6efe50a5f1a8cd5c293ebc82a68c474bdac5754da83894fee991a12d5faaec6c.jpg"
+}
+,
+
   {
     "item": 294,
     "title": "Eat Pray Love",

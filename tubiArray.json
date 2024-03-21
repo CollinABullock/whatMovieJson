@@ -283,7 +283,139 @@
 ,  
 
 {    
-  "item": "1234",
+  "item": 5678,
+  "year": 1977,
+  "title": "Annie Hall",
+  "runtime": 93,
+  "mpaa": "PG",
+  "description": "Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.",
+  "genre": ["comedy", "romance", "classic"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }, {
+    "name": "Diane Keaton",
+    "image": "https://www.firstforwomen.com/wp-content/uploads/sites/2/2025/01/GettyImages-2893996-e1704983040303.jpg?w=951",
+    "imdb": "https://www.imdb.com/name/nm0000473/"
+  }, {
+    "name": "Tony Roberts",
+    "image": "https://images.forwardcdn.com/image/1300x/center/images/cropped/croptony-roberts-photo-1-with-woody-allen-and-dian-1452857714.jpg",
+    "imdb": "https://www.imdb.com/name/nm0731620/"
+  }],
+  "link": "https://tubitv.com/movies/100015786/annie-hall",
+  "poster": "https://canvas-bridge.tubitv.com/9c6Io7vec2J8wYdtvAgMFAaM_wQ=/448x252/smart/img.adrise.tv/ce28d355-d768-416c-a429-0bc18326767e.jpg"
+}
+,
+
+{    
+  "item": 1357,
+  "year": 2008,
+  "title": "Vicky Cristina Barcelona",
+  "runtime": 96,
+  "mpaa": "PG-13",
+  "description": "Two girlfriends on a summer holiday in Spain become enamored with the same painter, unaware that his ex-wife, with whom he has a tempestuous relationship, is about to re-enter the picture.",
+  "genre": ["comedy", "drama", "romance"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Rebecca Hall",
+    "image": "https://static01.nyt.com/images/2016/10/09/arts/109REBECCAHALL1/109REBECCAHALL1-videoSixteenByNineJumbo1600.jpg",
+    "imdb": "https://www.imdb.com/name/nm0356017/"
+  }, {
+    "name": "Scarlett Johansson",
+    "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UQ836S9qDWRgX1TYCkzykIuWIK8=/1660x1107/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/63MMCIXPOAOUKAMXJMW7HTAWCU.jpg",
+    "imdb": "https://www.imdb.com/name/nm0424060/"
+  }, {
+    "name": "Javier Bardem",
+    "image": "https://www.nickiswift.com/img/gallery/how-javier-bardem-became-a-hollywood-icon/l-intro-1681529112.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000849/"
+  }, {
+    "name": "Penélope Cruz",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/pen-c3-a9lope-cruz-at-the-14th-governors-awards-held-at-the-ray-news-photo-1705594076.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+    "imdb": "https://www.imdb.com/name/nm0004851/"
+  }],
+  "link": "https://tubitv.com/movies/582081/vicky-cristina-barcelona",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/6efe50a5f1a8cd5c293ebc82a68c474bdac5754da83894fee991a12d5faaec6c.jpg"
+}
+,
+
+{    
+  "item": 3698,
+  "year": 1987,
+  "title": "Radio Days",
+  "runtime": 88,
+  "mpaa": "PG",
+  "description": "A nostalgic look at radio's golden age focusing on one ordinary family and the various performers in the medium.",
+  "genre": ["comedy", "drama"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Mia Farrow",
+    "image": "https://pagesix.com/wp-content/uploads/sites/3/2020/04/mia-farrow-quincy.jpg?quality=75&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0001201/"
+  }, {
+    "name": "Dianne Wiest",
+    "image": "https://people.com/thmb/5rt71av53KMzjHnkqUU_uzJ2A_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1039x465:1041x467)/Dianne-Wiest-032823-01-a06542fb815e41189e0a45aebce137f6.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001848/"
+  }, {
+    "name": "Seth Green",
+    "image": "https://facts.net/wp-content/uploads/2023/07/36-facts-about-seth-green-1689084075.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001293/"
+  }],
+  "link": "https://tubitv.com/movies/301238",
+  "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9764_v_h9_aa.jpg"
+},
+
+{    
+  "item": 9876,
+  "year": 1979,
+  "title": "Manhattan",
+  "runtime": 96,
+  "mpaa": "R",
+  "description": "The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+  "genre": ["comedy", "drama", "romance"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }, {
+    "name": "Diane Keaton",
+    "image": "https://www.firstforwomen.com/wp-content/uploads/sites/2/2025/01/GettyImages-2893996-e1704983040303.jpg?w=951",
+    "imdb": "https://www.imdb.com/name/nm0000473/"
+  }, {
+    "name": "Meryl Streep",
+    "image": "https://miro.medium.com/v2/resize:fit:1024/1*mFNGpKrvVqB6-2-UUT-uUQ.png",
+    "imdb": "https://www.imdb.com/name/nm0000658/"
+  }, {
+    "name": "Mariel Hemingway",
+    "image": "https://www.myprimelife.com/wp-content/uploads/2018/05/mariel-hemingway-actress-1920x1091.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000446/"
+  }],
+  "link": "https://tubitv.com/movies/401470/manhattan",
+  "poster": "https://canvas-bridge.tubitv.com/XbqunqS6eELG38FS6aptoViFnz0=/448x252/smart/img.adrise.tv/b127d22a-53aa-462b-b41c-7b4c8b5028ef.jpg"
+},
+
+
+
+{    
+  "item": 12346789,
   "year": 1926,
   "title": "The General",
   "runtime": 67,
