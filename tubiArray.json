@@ -412,6 +412,78 @@
   "poster": "https://canvas-bridge.tubitv.com/XbqunqS6eELG38FS6aptoViFnz0=/448x252/smart/img.adrise.tv/b127d22a-53aa-462b-b41c-7b4c8b5028ef.jpg"
 },
 
+{    
+  "item": 2468,
+  "year": 1985,
+  "title": "The Purple Rose of Cairo",
+  "runtime": 82,
+  "mpaa": "PG",
+  "description": "In 1930s New Jersey, a movie character walks off the screen and into the real world.",
+  "genre": ["comedy", "fantasy", "romance"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Mia Farrow",
+    "image": "https://pagesix.com/wp-content/uploads/sites/3/2020/04/mia-farrow-quincy.jpg?quality=75&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0001201/"
+  }, {
+    "name": "Jeff Daniels",
+    "image": "https://www.closerweekly.com/wp-content/uploads/2018/05/jeff-daniels.jpg?fit=3000%2C2003&quality=86&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0000353/"
+  }, {
+    "name": "Danny Aiello",
+    "image": "https://media.vanityfair.com/photos/5df3aa0a2c0f020009c54bd1/4:3/w_1788,h_1341,c_limit/Danny-Aiello-obit.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000732/"
+  }],
+  "link": "https://tubitv.com/movies/301237/the-purple-rose-of-cairo",
+  "poster": "https://canvas-bridge02.tubitv.com/3bff3O85FOzNGRM5oeNniFHYjRw=/1920x1080/smart/img.adrise.tv/7cc9ef1f-32c1-459a-be0d-7eeab25294b6.png"
+},
+
+{    
+  "item": 1357,
+  "year": 1996,
+  "title": "Everyone Says I Love You",
+  "runtime": 101,
+  "mpaa": "R",
+  "description": "A New York girl sets her father up with a beautiful woman in a troubled marriage while her stepsister gets engaged.",
+  "genre": ["comedy", "musical", "romance"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }, {
+    "name": "Goldie Hawn",
+    "image": "https://cdn.britannica.com/31/71631-050-7DD6D322/Goldie-Hawn-Cactus-Flower.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000445/"
+  }, {
+    "name": "Julia Roberts",
+      "image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
+  }, {
+    "name": "Edward Norton",
+    "image": "https://facts.net/wp-content/uploads/2023/09/47-facts-about-edward-norton-1695613130.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001570/"
+  },
+  {
+    "name": "Drew Barrymore",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/drew-barrymore-show-1.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000106/"
+  }
+  ],
+  "link": "https://images.justwatch.com/icon/104966985/s100/tubitv.webp",
+  "poster": "https://i.ytimg.com/vi/vAEI3arNVBc/maxresdefault.jpg"
+}
+,
+
+
 
 
 {    

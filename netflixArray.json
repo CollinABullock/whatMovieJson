@@ -545,6 +545,42 @@
 			}
 		]
 	},
+
+	{    
+		"item": 2468,
+		"year": 1998,
+		"title": "Antz",
+		"runtime": 83,
+		"mpaa": "PG",
+		"description": "A rather neurotic ant tries to break from his totalitarian society while trying to win the affection of the princess he loves.",
+		"genre": ["animation", "adventure", "comedy", "kids"],
+		"director": [{
+			"name": "Eric Darnell",
+			"image": "https://i.ytimg.com/vi/tpsc1XHf0Ok/maxresdefault.jpg",
+			"imdb": "https://www.imdb.com/name/nm0208013/"
+		}, {
+			"name": "Tim Johnson",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTY3ODMyMzk4N15BMl5BanBnXkFtZTgwOTg0MDk5NDE@._V1_.jpg",
+			"imdb": "https://www.imdb.com/name/nm0426055/"
+		}],
+		"actors": [{
+			"name": "Woody Allen",
+      "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000095/"
+		}, {
+			"name": "Sharon Stone",
+			"image": "https://img.etimg.com/thumb/width-640,height-480,imgsize-1103790,resizemode-75,msid-108464193/magazines/panache/sharon-stones-shocking-revelation-basic-instinct-actress-names-hollywood-producer-who-pressured-her-for-intimacy-with-co-star/sharon-stone.jpg",
+			"imdb": "https://www.imdb.com/name/nm0000234/"
+		}, {
+			"name": "Gene Hackman",
+			"image": "https://images05.military.com/sites/default/files/styles/full/public/media/people/2013/10/genehackmanfrenchconnection.jpg",
+			"imdb": "https://www.imdb.com/name/nm0000432/"
+		}],
+		"link": "https://www.netflix.com/watch/17236549?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C%2CVideo%3A17236549%2CdetailsPagePlayButton",
+		"poster": "https://art-s.nflximg.net/9df0f/809f3e5564047a3532b102ec28d03440b5b9df0f.jpg"
+	}
+,	
+
 	{
 		"item": 314,
 		"title": "Nobody Speaks: Trials of the Free Press",
