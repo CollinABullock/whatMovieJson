@@ -666,6 +666,33 @@
 },
 
 {
+  "item": 7654,
+  "year": 1958,
+  "title": "Bell, Book, and Candle",
+  "runtime": 106,
+  "mpaa": "Not Rated",
+  "description": "Bell, Book, and Candle is a 1958 American Technicolor romantic comedy film directed by Richard Quine and based on the successful Broadway play of the same name by John Van Druten.",
+  "genre": ["comedy", "romance", "classic"],
+  "director": [{
+    "name": "Richard Quine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Richard_Quine_%281942%29.jpg",
+    "imdb": "https://www.imdb.com/name/nm0704005/"
+  }],
+  "actors": [{
+    "name": "James Stewart",
+      "image": "https://images04.military.com/sites/default/files/styles/full/public/media/people/2013/07/james_stewart_air_force_photo.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000071/"
+  }, {
+    "name": "Kim Novak",
+    "image": "https://people.com/thmb/TBa1yjLgqCZ33eLJ1-vwIrJHl1M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/kim-novak-tout--26595d5f618c484b9ce78064d67792c2.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001571/"
+  }],
+  "link": "https://www.criterionchannel.com/bell-book-and-candle",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/1236ccd4-a4e8-41e3-ace3-6248ce695616.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+}
+,
+
+{
   "item": "7785",
   "title": "Heaven's Gate",
   "runtime": 219,

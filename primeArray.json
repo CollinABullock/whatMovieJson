@@ -2585,7 +2585,64 @@
     }]
   },
 
+  {
+    "item": 1234,
+    "year": 1946,
+    "title": "It's a Wonderful Life",
+    "runtime": 130,
+    "mpaa": "PG",
+    "description": "George Bailey has so many problems he is thinking about ending it all - and it's Christmas! As the angels discuss George, we see his life in flashback. As George is about to jump from a bridge, he ends up rescuing his guardian angel, Clarence - who then shows George what his town would have looked like if it hadn't been for all his good deeds over the years.",
+    "genre": ["drama", "fantasy", "christmas", "classic"],
+    "director": [{
+      "name": "Frank Capra",
+      "image": "https://www.austinfilm.org/wp-content/uploads/2015/04/capra.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001008/"
+    }],
+    "actors": [{
+      "name": "James Stewart",
+      "image": "https://images04.military.com/sites/default/files/styles/full/public/media/people/2013/07/james_stewart_air_force_photo.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000071/"
+    }, {
+      "name": "Donna Reed",
+      "image": "https://npr.brightspotcdn.com/98/57/2dd45e48418787a2347bbc0fa92d/donna-reed-turner-classic-movies.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001658/"
+    }, {
+      "name": "Lionel Barrymore",
+      "image": "https://www.classic-monsters.com/wp-content/uploads/2014/07/Lionel-Barrymore_main-NEW.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000859/"
+    }],
+    "link": "https://www.amazon.com/gp/video/detail/0HBTU14T5UK6XW6YGL7R4VJPYT/ref=atv_dl_rdr?tag=justus1ktp-20",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/f4706fcb0552d7819f3c446883333cfbf83f37a10ce03d44eaab90aec314d692.jpg"
+  }
+,  
  
+{
+  "item": 9876,
+  "year": 1962,
+  "title": "The Man Who Shot Liberty Valance",
+  "runtime": 123,
+  "mpaa": "Not Rated",
+  "description": "Questions arise when Senator Stoddard (James Stewart) attends the funeral of a local man named Tom Doniphon (John Wayne) in a small Western town. Flashing back, we learn Doniphon saved Stoddard, then a lawyer, when he was roughed up by a crew of outlaws terrorizing the town, led by Liberty Valance (Lee Marvin). As the territory's safety hung in the balance, Doniphon and Stoddard, two of the only people standing up to him, proved to be very important, but different, foes to Valance.",
+  "genre": ["western", "classic"],
+  "director": [{
+    "name": "John Ford",
+    "image": "https://www.knowledge.ca/sites/default/files/Programs/John%20Ford%3A%20The%20Man%20Who%20Invented%20America/John%20Ford%20The%20Man%20Who%20Invented%20America.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000406/"
+  }],
+  "actors": [{
+    "name": "James Stewart",
+      "image": "https://images04.military.com/sites/default/files/styles/full/public/media/people/2013/07/james_stewart_air_force_photo.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000071/"
+  }, {
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }],
+  "link": "https://www.amazon.com/gp/video/detail/0OFMHUTOA69RRO4C5GDWLUTKFH/ref=atv_dl_rdr?tag=justus1ktp-20",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/39f7bc9d2d8466532ff620e7b5fa04f1e820d731f6939d65d91c5acb0b22f710.jpg"
+}
+,
+
 {
 "item": 332,
 "title": "Room",

@@ -111,6 +111,64 @@
 
 {
   "item": 9876,
+  "year": 1962,
+  "title": "The Man Who Shot Liberty Valance",
+  "runtime": 123,
+  "mpaa": "Not Rated",
+  "description": "Questions arise when Senator Stoddard (James Stewart) attends the funeral of a local man named Tom Doniphon (John Wayne) in a small Western town. Flashing back, we learn Doniphon saved Stoddard, then a lawyer, when he was roughed up by a crew of outlaws terrorizing the town, led by Liberty Valance (Lee Marvin). As the territory's safety hung in the balance, Doniphon and Stoddard, two of the only people standing up to him, proved to be very important, but different, foes to Valance.",
+  "genre": ["western", "classic"],
+  "director": [{
+    "name": "John Ford",
+    "image": "https://www.knowledge.ca/sites/default/files/Programs/John%20Ford%3A%20The%20Man%20Who%20Invented%20America/John%20Ford%20The%20Man%20Who%20Invented%20America.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000406/"
+  }],
+  "actors": [{
+    "name": "James Stewart",
+      "image": "https://images04.military.com/sites/default/files/styles/full/public/media/people/2013/07/james_stewart_air_force_photo.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000071/"
+  }, {
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }],
+  "link": "https://www.paramountplus.com/movies/video/YvRGJONHCSR9EiODT0f5NIgjoK_iQXmh/",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2020/04/29/1731506243603/LIBV_SAlone_16_9_1920x1080_1814641_1920x1080.jpg"
+}
+,
+
+{
+  "item": 9876,
+  "year": 1969,
+  "title": "True Grit",
+  "runtime": 128,
+  "mpaa": "G",
+  "description": "After hired hand Tom Chaney (Jeff Corey) murders the father of 14-year-old Mattie Ross (Kim Darby), she seeks vengeance and hires U.S. Marshal Rooster Cogburn (John Wayne), a man of true grit, to track Chaney into Indian territory. As the two begin their pursuit, a Texas Ranger, La Boeuf (Glen Campbell), joins the manhunt in hopes of capturing Chaney for the murder of a Texas senator and collecting a substantial reward. The three clash on their quest of bringing to justice the same man.",
+  "genre": ["western", "classic"],
+  "director": [{
+    "name": "Henry Hathaway",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2UxOWVmNDAtYTY1YS00MmQxLWE2YTctYTVmMjlkMWI1NjAzXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0368949/"
+  }],
+  "actors": [{
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }, {
+    "name": "Glen Campbell",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/150619175350-01-glen-campbell-restricted.jpg?q=w_3000,h_1687,x_0,y_0,c_fill/h_618",
+    "imdb": "https://www.imdb.com/name/nm0001997/"
+  }, {
+    "name": "Kim Darby",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDA1MTg4NV5BMl5BanBnXkFtZTgwNzI3MTY3MTE@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0201315/"
+  }],
+  "link": "https://www.paramountplus.com/movies/video/Fsqg6JjgtUG2DC938wgMs1c2GSDyZDGC/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHUWlU3IzOv3k0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CODe2u-JhoUDFbvSTwIdD_8JOQ",
+  "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2021/10/13/1961557059974/TGRIT_SAlone_16_9_1920x1080_922525_1920x1080.jpg"
+}
+,
+
+{
+  "item": 9876,
   "title": "Terminator 2: Judgment Day",
   "year": 1991,
   "description": "In this sequel set eleven years after The Terminator, young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot.",

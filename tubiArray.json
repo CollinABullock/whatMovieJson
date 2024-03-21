@@ -790,6 +790,39 @@
     "link": "https://tubitv.com/movies/356527/blue-velvet"
   },
 
+  
+
+  {
+    "item": 5678,
+    "year": 1940,
+    "title": "The Philadelphia Story",
+    "runtime": 112,
+    "mpaa": "Not Rated",
+    "description": "This classic romantic comedy focuses on Tracy Lord (Katharine Hepburn), a Philadelphia socialite who has split from her husband, C.K. Dexter Haven (Cary Grant), due both to his drinking and to her overly demanding nature. As Tracy prepares to wed the wealthy George Kittredge (John Howard), she crosses paths with both Dexter and prying reporter Macaulay Connor (James Stewart). Unclear about her feelings for all three men, Tracy must decide whom she truly loves.",
+    "genre": ["comedy", "romance", "classic"],
+    "director": [{
+      "name": "George Cukor",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2I0MzRlMTYtNjQ4Ni00MmM5LTg0NTUtODBiMTg0Y2JlMTI4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0002031/"
+    }],
+    "actors": [{
+      "name": "Cary Grant",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/10/5-Cary-Grant-1200x834.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000026/"
+    }, {
+      "name": "Katharine Hepburn",
+      "image": "https://media.vanityfair.com/photos/5734ae70fc0d5bb622aee144/master/pass/t-katharine-hepburn-pants-hollywood.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000031/"
+    }, {
+      "name": "James Stewart",
+      "image": "https://images04.military.com/sites/default/files/styles/full/public/media/people/2013/07/james_stewart_air_force_photo.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000071/"
+    }],
+    "link": "https://tubitv.com/movies/100012699/the-philadelphia-story",
+    "poster": "https://canvas-bridge02.tubitv.com/uXfjQV-p7U865_m-V6sRVM4xT2Y=/448x252/smart/img.adrise.tv/0efd8a23-4f06-4497-af39-fa57ea8c9d4b.jpg"
+  }
+,  
+
   {
     "item": 4732,
     "title": "Hannibal",
