@@ -2790,6 +2790,37 @@
 ,
 
 {
+  "item": 9879,
+  "year": 1957,
+  "title": "Legend of the Lost",
+  "runtime": 109,
+  "mpaa": "Approved",
+  "description": "A man and a woman searching for a lost treasure find themselves in an adventure across the Sahara Desert.",
+  "genre": ["adventure", "drama"],
+  "director": [{
+    "name": "Henry Hathaway",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2UxOWVmNDAtYTY1YS00MmQxLWE2YTctYTVmMjlkMWI1NjAzXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0368949/"
+  }],
+  "actors": [{
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }, {
+    "name": "Sophia Loren",
+    "image": "https://people.com/thmb/4383NgJ7pNWR0PRcbvjoVkHX1Sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1710x627:1712x629)/Sophia-Loren-091923-03-1bbaba3d68fc4979acedfc523453cdfb.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000047/"
+  }, {
+    "name": "Rossano Brazzi",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAyNTYzNDU3N15BMl5BanBnXkFtZTcwODA1NDk0NA@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0106831/"
+  }],
+  "link": "https://www.amazon.com/Legend-Lost-John-Wayne/dp/B07JDXGR8N",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/4f4fb11559804a30a4bdfcab670adfac267a9dbd0c76b41da5af3a79e0357a40._SX1080_FMjpg_.jpg"
+}
+,
+
+{
 "item": 332,
 "title": "Room",
 "year": 2015,

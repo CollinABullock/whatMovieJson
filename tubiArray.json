@@ -909,6 +909,37 @@
 }
 ,
 
+{
+  "item": 9879,
+  "year": 1957,
+  "title": "Legend of the Lost",
+  "runtime": 109,
+  "mpaa": "Approved",
+  "description": "A man and a woman searching for a lost treasure find themselves in an adventure across the Sahara Desert.",
+  "genre": ["adventure", "drama"],
+  "director": [{
+    "name": "Henry Hathaway",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2UxOWVmNDAtYTY1YS00MmQxLWE2YTctYTVmMjlkMWI1NjAzXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0368949/"
+  }],
+  "actors": [{
+    "name": "John Wayne",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  }, {
+    "name": "Sophia Loren",
+    "image": "https://people.com/thmb/4383NgJ7pNWR0PRcbvjoVkHX1Sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1710x627:1712x629)/Sophia-Loren-091923-03-1bbaba3d68fc4979acedfc523453cdfb.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000047/"
+  }, {
+    "name": "Rossano Brazzi",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAyNTYzNDU3N15BMl5BanBnXkFtZTcwODA1NDk0NA@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0106831/"
+  }],
+  "link": "https://tubitv.com/movies/302700/legend-of-the-lost",
+  "poster": "https://canvas-bridge.tubitv.com/XimjcONguJoaYVG4trepCW9I5IM=/33x156:904x640/448x252/smart/img.adrise.tv/f1504ce8-70e4-4524-885c-17243fbfcdc2.jpg"
+}
+,
+
   {
     "item": 5678,
     "year": 1940,
