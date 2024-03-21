@@ -717,7 +717,7 @@
   }, {
     
       "name": "Sigourney Weaver",
-      "image": "actor_image_url",
+      "image": "https://ew.com/thmb/-ongROf-gKybPgetJRMh5jV96yk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ghostbusters-02-6796c544dc2443578df3b5370640d2f5.jpg",
       "imdb": "https://www.imdb.com/name/nm0000244/"
     }
     
@@ -909,6 +909,41 @@
   "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8322F69965CBC34996939EADE20559071CFD92B1BD32F5E387B0279E5D758238/scale?width=1200&aspectRatio=1.78&format=webp"
 }
 ,
+
+{
+  "item": 9876,
+  "year": 2008,
+  "title": "Wall-E",
+  "runtime": 98,
+  "mpaa": "G",
+  "description": "Wall-E is a 2008 American computer-animated science fiction film produced by Pixar Animation Studios and released by Walt Disney Pictures. It follows a solitary robot named Wall-E, who is tasked with cleaning up a deserted Earth far in the future.",
+  "genre": ["animation", "adventure", "science-fiction", "kids"],
+  "director": [{
+    "name": "Andrew Stanton",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2012/3/1/1330621929995/Andrew-Stanton-Spielberg--007.jpg?width=465&dpr=1&s=none",
+    "imdb": "https://www.imdb.com/name/nm0004056/"
+  }],
+  "actors": [{
+    "name": "Ben Burtt",
+    "image": "https://variety.com/wp-content/uploads/2023/04/MCDWALL_EC025-e1682120598691.jpg",
+    "imdb": "https://www.imdb.com/name/nm0123355/"
+  }, {
+    "name": "Elissa Knight",
+    "image": "https://www.picclickimg.com/D1IAAOSwJkFlLy0d/Elissa-Knight-Wall-E-Hand-Signed-4x6-Photo-TC46-860.webp",
+    "imdb": "https://www.imdb.com/name/nm0460968/"
+  }, {
+    "name": "Jeff Garlin",
+    "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1235168279-e1663862148931.jpg",
+    "imdb": "https://www.imdb.com/name/nm0301538/"
+  }, {
+    "name": "Sigourney Weaver",
+    "image": "https://ew.com/thmb/-ongROf-gKybPgetJRMh5jV96yk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ghostbusters-02-6796c544dc2443578df3b5370640d2f5.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000244/"
+  }],
+  "link": "https://www.disneyplus.com/movies/wall-e/5G1wpZC2Lb6I",
+  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C8D13FFDEA93C10069A51DDA07050A362726ADCA060AACEE5DACB61CD3F7891/scale?width=1200&aspectRatio=1.78&format=webp"
+},
+
 
 {
   "item": 987765,

@@ -2298,6 +2298,44 @@
 			}
 		]
 	},
+
+	{
+		"item": 1234,
+		"year": 2017,
+		"title": "The Meyerowitz Stories",
+		"runtime": 112,
+		"mpaa": "R",
+		"description": "The Meyerowitz Stories (New and Selected) is a 2017 American comedy-drama film directed and written by Noah Baumbach. The film follows adult siblings who gather in New York City to contend with their strong-willed father, and the dysfunctional relationships they have with each other.",
+		"genre": ["comedy", "drama"],
+		"director": [{
+			"name": "Noah Baumbach",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLe374BJWRV1p48CQ_6-3lKN_QoBFIODzXmxeSmvdsZ0JDPnQR",
+    "imdb": "https://www.imdb.com/name/nm0000876/"
+		}],
+		"actors": [{
+			"name": "Adam Sandler",
+        "IMDB": "https://www.imdb.com/name/nm0001191/",
+        "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/09/1140-adam-sandler-basketball.jpg"
+		}, {
+			"name": "Ben Stiller",
+			"image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
+			"imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
+		}, {
+			"name": "Dustin Hoffman",
+			"image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRME8rJOKeFH8yMcgAUnXHvAvmxQIDNxFsEiHqzPqowm_OwSGbMHokVWWilZ_XaAvnj3u83UINcYxYz7nQ",
+			"imdb": "https://www.imdb.com/name/nm0000163/"
+		}, {
+			"name": "Emma Thompson",
+			"image": "https://resize.elle.fr/article/var/plain_site/storage/images/societe/news/decouvrez-pourquoi-emma-thompson-demissionne-d-un-film-3778105/90283216-1-fre-FR/Decouvrez-pourquoi-Emma-Thompson-demissionne-d-un-film.jpg",
+			"imdb": "https://www.imdb.com/name/nm0000668/"
+		}],
+		"link": "https://www.netflix.com/title/80174434",
+		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQC4bThrXxkaWenB9ApCS2g4YjFguMxFUTgHmrYOJzA_fSZT_ihTkGGLY1jfV54u1D4vcrSyAIwpirK3Hh11rmKT-twkWZouhwK5PAz9oDbZsbguj-9CjAqc_hwlPLnGNWa8KQ.jpg?r=4e4"
+	}
+,	
+
+
+
 	{
 		"item": "34",
 		"title": "The House Bunny",

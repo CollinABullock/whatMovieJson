@@ -201,6 +201,43 @@
   }
 ,  
 
+{
+  "item": 5678,
+  "year": 1984,
+  "title": "Ghostbusters",
+  "runtime": 105,
+  "mpaa": "PG",
+  "description": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become ghostbusters to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
+  "genre": ["comedy", "fantasy", "action"],
+  "director": [{
+    "name": "Ivan Reitman",
+    "image": "https://ew.com/thmb/PuurHNFB2SCVCMJTgoEoq_2xurc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ivan-Reitman-0001-4d5cd527539749599a8aa4c781ca5fe5.jpg",
+    "imdb": "https://www.imdb.com/name/nm0718645/"
+  }],
+  "actors": [{
+    "name": "Bill Murray",
+    "image": "https://ew.com/thmb/vbxp3zobz8hvFKfHN8esGHiMa9g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/msdghos_ec065-2000-1ad1207627cc469794b8f7e824ba6fc9.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000195/"
+  }, {
+    "name": "Dan Aykroyd",
+    "image": "https://media.gq.com/photos/55a6ad765f1c7af15a1f2cd5/4:3/w_1856,h_1392,c_limit/ghost-busters-dan-aykroyd.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000101/"
+  }, {
+    "name": "Harold Ramis",
+    "IMDB": "https://www.imdb.com/name/nm0000607/",
+    "image": "https://media.gq.com/photos/55828a881177d66d68d52523/4:3/w_600,h_450,c_limit/blogs-the-feed-harold-ramis-director-actor-80s-caddyshack-groundhog-day.jpg"
+  }, {
+    "name": "Sigourney Weaver",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQ0RqT4ylW4KgRmsjqhRIoJW_Ok7NKWiy2y9JVc8hQ0cpxZtEoAz7RWtt1IJowHaSTKS8W0YasitoBpMBU",
+    "imdb": "https://www.imdb.com/name/nm0000244/"
+  }],
+  "link": "https://www.hulu.com/watch/0a7184af-7705-4884-bcef-908c27edb1af",
+  "poster": "https://img4.hulu.com/user/v3/artwork/0a7184af-7705-4884-bcef-908c27edb1af?base_image_bucket_name=image_manager&base_image=88b94861-b051-4285-8b62-c8a4455de17d&region=US&format=jpeg&size=952x536"
+}
+,
+
+
+
   {
     "item": "h422",
     "title": "Scarface",
