@@ -1216,6 +1216,7 @@
       "imdb": "https://www.imdb.com/name/nm11948816/"
     }]
   },
+
   {
     "item": "228",
     "title": "Step Brothers",
@@ -1228,15 +1229,10 @@
     "link": "https://www.amazon.com/gp/video/detail/B0B8SL76R8/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
     "director": [{
       "name": "Adam McKay",
-      "image": "",
+      "image": "https://www.btlnews.com/wp-content/uploads/2015/12/LR-Adam-McKay.jpg",
       "imdb": "https://www.imdb.com/name/nm0570912/"
     }],
-    "actors": [{
-      "director": [{
-        "name": "Adam McKay",
-        "image": "https://media.gq.com/photos/61ae8c6b5f5bc36144ea4ec9/16:9/w_2560%2Cc_limit/AMCKAY-22_R.jpg",
-        "imdb": "https://www.imdb.com/name/nm0570912/"
-      }],
+
       "actors": [{
         "name": "Will Ferrell",
       "image": "https://ca-times.brightspotcdn.com/dims4/default/076a75b/2147483647/strip/false/crop/3500x1969+0+176/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F35%2F0c%2F568646e5482e8f5ce52d1d84b1cd%2Fny-premiere-of-apple-tvs-the-shrink-next-door-90227.jpg",
@@ -1250,7 +1246,6 @@
       "image": "https://www.trbimg.com/img-5a2e0c07/turbine/la-et-golden-globes-2018-nominees-winners-pict-036/1200/16x9/",
       "imdb": "https://www.imdb.com/name/nm0005460/"
     }]
-  }]
   },
   
   

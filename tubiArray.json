@@ -627,6 +627,41 @@
 ,
 
 {    
+  "item": 9876,
+  "year": 1999,
+  "title": "Sweet and Lowdown",
+  "runtime": 95,
+  "mpaa": "PG-13",
+  "description": "Emmet Ray (Sean Penn) isn't an easy guy to be around -- among other things, he's inconsiderate and egomaniacal. He also happens to be a jazz guitarist with undeniable talent, and despite his many faults, he ends up winning the heart of Hattie (Samantha Morton), a kind young mute woman. Hattie's seemingly endless patience with Emmet is tested, however, with his incessant irresponsibility and infidelity, leading their relationship to the breaking point.",
+  "genre": ["comedy", "drama", "music"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "Sean Penn",
+    "image": "https://the-talks.com/wp-content/uploads/2021/08/Sean-Penn-02.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000576/"
+  }, {
+    "name": "Samantha Morton",
+    "image": "https://assets.vogue.com/photos/632e2cbf5d23e258402fa793/master/w_2560%2Cc_limit/TSQ1_101_072221_0047_a.jpg",
+    "imdb": "https://www.imdb.com/name/nm0608090/"
+  }, {
+    "name": "Uma Thurman",
+    "image": "https://s.abcnews.com/images/GMA/actress-uma-thurman-gty-moe-010-230613_1686750985536_hpMain_16x9_992.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000235/"
+  }, {
+    "name": "Anthony LaPaglia",
+    "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2014/03/anthony-lapaglia.jpg?fit=618%2C412&ssl=1",
+    "imdb": "https://www.imdb.com/name/nm0001446/"
+  }],
+  "link": "https://tubitv.com/movies/100014233/sweet-and-lowdown",
+  "poster": "https://canvas-bridge02.tubitv.com/sfp5-8QExFkTKhnkmpmTSeYZyhI=/448x252/smart/img.adrise.tv/9393d974-f7f3-476b-9350-62593924db8f.jpg"
+}
+,
+
+{    
   "item": 2468,
   "year": 1988,
   "title": "Another Woman",
@@ -879,6 +914,41 @@
 }
 ,
 
+{    
+  "item": 2468,
+  "year": 1994,
+  "title": "Bullets Over Broadway",
+  "runtime": 98,
+  "mpaa": "R",
+  "description": "Struggling 1920s playwright David Shayne (John Cusack), having failed to secure financing for his latest work, reluctantly makes a deal with mob boss Nick Valenti (Joe Viterelli) : a Broadway debut with the chance to direct, as long as Nick's flibbertigibbet girlfriend, Olive (Jennifer Tilly), plays one of the lead roles. As Olive and star Helen Sinclair (Dianne Wiest) attempt to upstage each other, Olive's gangland bodyguard Cheech (Chazz Palminteri) starts suggesting changes to David's script.",
+  "genre": ["comedy", "crime"],
+  "director": [{
+    "name": "Woody Allen",
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000095/"
+  }],
+  "actors": [{
+    "name": "John Cusack",
+    "image": "https://deadline.com/wp-content/uploads/2023/01/Image-e1675111705913.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0000131/"
+  }, {
+    "name": "Dianne Wiest",
+    "image": "https://people.com/thmb/5rt71av53KMzjHnkqUU_uzJ2A_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1039x465:1041x467)/Dianne-Wiest-032823-01-a06542fb815e41189e0a45aebce137f6.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001848/"
+  }, {
+    "name": "Jennifer Tilly",
+    "image": "https://www.ampedasia.com/wp-content/uploads/2015/04/Jennifer-Tilly.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000236/"
+  }, {
+    "name": "Chazz Palminteri",
+    "image": "https://static.politico.com/21/43/28e792124dc1a44a3df2695e4503/101119-chazzpalminteri-getty-1160.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001590/"
+  }],
+  "link": "https://tubitv.com/movies/100014231/bullets-over-broadway",
+  "poster": "https://canvas-bridge02.tubitv.com/1BPsnnedmuKVcnaqoLaU8QFHWXw=/17x13:886x495/448x252/smart/img.adrise.tv/8bcd83c0-1a38-4c07-97e0-da07bd74f019.jpg"
+}
+,
+
 {
   "item": 9878,
   "year": 1947,
@@ -893,6 +963,7 @@
     "imdb": "https://www.imdb.com/name/nm0335114/"
   }],
   "actors": [{
+    "name": "John Wayne",
     "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
