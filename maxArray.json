@@ -1861,6 +1861,41 @@
       "imdb": "https://www.imdb.com/name/nm0000342/"
   }]
     },
+
+    {    
+  "item": 7654,
+  "year": 1954,
+  "title": "Seven Samurai",
+  "runtime": 207,
+  "mpaa": "Not Rated",
+  "description": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food. A giant battle occurs when 40 bandits attack the village.",
+  "genre": ["action", "adventure", "drama", "foreign", "classic"],
+  "director": [{
+    "name": "Akira Kurosawa",
+    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "imdb": "https://www.imdb.com/name/nm0000041/"
+  }],
+  "actors": [{
+    "name": "Toshirô Mifune",
+    "image": "https://pyxis.nymag.com/v1/imgs/bf2/298/b2861120c04cc0740c0d6e7519a4627ecb-6-toshiro-mifune.2x.h473.w710.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001536/"
+  }, {
+    "name": "Takashi Shimura",
+    "image": "https://assets.americancinematheque.com/wp-content/uploads/2022/03/21163251/Takashi-Shimura-Series-HERO.jpg",
+    "imdb": "https://www.imdb.com/name/nm0795428/"
+  }, {
+    "name": "Keiko Tsushima",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2RiMWQzMzYtOTQ4OC00NGM0LWFmYzEtNjQ1MmFhNjQ2NDM1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0875687/"
+  }, {
+    "name": "Yukiko Shimazaki",
+    "image": "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/19-/uFyAyVFQPOnDyaU63hfQ7gZkgZFRPC_medium.jpg",
+    "imdb": "https://www.imdb.com/name/nm0793927/"
+  }],
+  "link": "https://play.max.com/movie/c00ace36-3a1d-43ad-a7f9-206cbc3abcab",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/c00ace36-3a1d-43ad-a7f9-206cbc3abcab/04aa091c3fe1ebd2067957f6baf6870724d21e60.jpg?submitted=1684670018475&host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
    
   {
     "item": "131",
