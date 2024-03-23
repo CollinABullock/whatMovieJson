@@ -282,6 +282,38 @@
 ,
 
 
+
+{
+  "item": 3690,
+  "year": 2010,
+  "title": "Hereafter",
+  "runtime": 129,
+  "mpaa": "PG-13",
+  "description": "A supernatural drama centered on three people - a blue-collar American, a French journalist, and a London school boy - who are touched by death in different ways.",
+  "genre": ["drama", "fantasy"],
+  "director": [{
+    "name": "Clint Eastwood",
+    "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+    "imdb": "https://www.imdb.com/name/nm0000142/"
+  }],
+  "actors": [{
+    "name": "Matt Damon",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9LHOr-9heRREg1kcbUk3wpeADWC2F80UMqnx-F7mB1Oda9wWf",
+      "imdb": "https://www.imdb.com/name/nm0000354/"
+  }, {
+    "name": "Cécile De France",
+    "image": "https://cineuropa.org/imgCache/2021/05/06/1620292350582_0620x0413_0x18x1000x666_1701691031500.jpg",
+    "imdb": "https://www.imdb.com/name/nm0208647/"
+  }, {
+    "name": "Jay Mohr",
+    "image": "https://www.reviewjournal.com/wp-content/uploads/2014/06/web1_8239372-1-150007_3.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005234/"
+  }],
+  "link": "https://play.max.com/video/watch/8529ddb2-57dd-49b0-9849-f5be2c9b0eb3/e6f651ea-7797-4fc0-96a4-82f87599e161",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/5f8e689c-2664-4c10-a527-fa014b49c264/8bf664ef685a560863638db1b178ca052ce9a59f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+
 {    
   "item": "2356",
   "title": "The Gold Rush",
