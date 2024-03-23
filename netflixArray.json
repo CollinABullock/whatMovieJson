@@ -2334,7 +2334,36 @@
 	}
 ,	
 
-
+{
+  "item": 9876,
+  "year": 1973,
+  "title": "High Plains Drifter",
+  "runtime": 105,
+  "mpaa": "R",
+  "description": "A mysterious stranger with no name rides into a small Old West town, where the townspeople hire him as their protector against three outlaws who are due to be released from prison.",
+  "genre": ["western", "action"],
+  "director": [{
+    "name": "Clint Eastwood",
+  "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+  "imdb": "https://www.imdb.com/name/nm0000142/"
+  }],
+  "actors": [{
+    "name": "Clint Eastwood",
+  "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+  "imdb": "https://www.imdb.com/name/nm0000142/"
+  }, {
+    "name": "Verna Bloom",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGIwNGQxMGYtYTdlYi00MmQ3LWI4ZmYtMTU4ZmQzNmM0NWQzXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0089217/"
+  }, {
+    "name": "Marianna Hill",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2I5YjJiZDYtNmRhMy00OWJhLWE0OTUtZDE3ZjFhOGM4YWRkXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0384010/"
+  }],
+  "link": "https://www.netflix.com/title/589340",
+  "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/MixCollage-10-Jan-2024-09-11-AM-1162.jpg?resize=1200,630"
+}
+,
 
 	{
 		"item": "34",
