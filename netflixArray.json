@@ -2365,6 +2365,37 @@
 }
 ,
 
+{
+  "item": 4578,
+  "year": 1971,
+  "title": "Play Misty for Me",
+  "runtime": 102,
+  "mpaa": "R",
+  "description": "A brief fling between a male disc jockey and an obsessed female fan takes a frightening, and perhaps even deadly turn when another woman enters the picture.",
+  "genre": ["drama", "thriller"],
+  "director": [{
+    "name": "Clint Eastwood",
+  "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+  "imdb": "https://www.imdb.com/name/nm0000142/"
+  }],
+  "actors": [{
+    "name": "Clint Eastwood",
+  "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+  "imdb": "https://www.imdb.com/name/nm0000142/"
+  }, {
+    "name": "Jessica Walter",
+    "image": "https://media.gq.com/photos/605defd080f320d0f2f01b67/16:9/w_2560%2Cc_limit/GettyImages-531277126.jpg",
+    "imdb": "https://www.imdb.com/name/nm0910057/"
+  }, {
+    "name": "Donna Mills",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/donna-mills.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005230/"
+  }],
+  "link": "https://www.netflix.com/title/60021085",
+  "poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZfVIJOSeUQul2OEe_ZkWn0isVkDPaUJtGbpXrsnBLPmVW0Nwxq933JNboHXzkSZMsAJYKcAh2hxcmg-b-PO5OUAf0bYUrfxfLSG.jpg?r=c59"
+}
+,
+
 	{
 		"item": "34",
 		"title": "The House Bunny",
