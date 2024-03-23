@@ -1034,39 +1034,7 @@
     }]
   },
 
-  {
-    "item": 329,
-    "title": "The Good, the Bad, and the Ugly",
-    "year": 1966,
-    "runtime": 161,
-    "mpaa": "R",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/442730a0-10b1-4ded-a3d5-ca359c0cc155/91c0b59c0fb6aaa9f2c76f4dd8f2c20e13c20f88.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
-    "description": "Three gunslingers, Blondie, Tuco, and Angel Eyes, embark on a quest to find a buried treasure during the American Civil War. As they navigate through the brutal landscape of the Wild West, they encounter betrayal, deception, and epic gunfights. 'The Good, the Bad, and the Ugly' is renowned for its iconic characters, gripping storytelling, and unforgettable soundtrack, making it a timeless masterpiece of cinema.",
-    "genre": ["western", "foreign", "classic"],
-    "link": "https://www.max.com/movies/good-the-bad-and-the-ugly/442730a0-10b1-4ded-a3d5-ca359c0cc155",
-    "director": [{
-      "name": "Sergio Leone",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjNlZmVjMjYtYjdjOC00ZjgwLTkxOWYtMDgyZmY5NjcyMGZjXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg",
-      "imdb": "https://www.imdb.com/name/nm0001466/"
-    }],
-    "actors": [
-      {
-        "name": "Clint Eastwood",
-        "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
-        "imdb": "https://www.imdb.com/name/nm0000142/"
-      },
-      {
-        "name": "Eli Wallach",
-        "image": "https://ichef.bbci.co.uk/news/624/mcs/media/images/75812000/jpg/_75812787_167b9325-2567-413e-979d-0776ffc4527f.jpg",
-        "imdb": "https://www.imdb.com/name/nm0908919/"
-      },
-      {
-        "name": "Lee Van Cleef",
-        "image": "https://miro.medium.com/v2/resize:fit:1400/1*0XMqpJwc8tzrveeja1WqmA.png",
-        "imdb": "https://www.imdb.com/name/nm0001812/"
-      }
-    ]
-  },
+
 
 
   
