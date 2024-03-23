@@ -716,17 +716,17 @@
     ],
     "actors": [
       {
-        "name": "Adam Horovitz (Ad-Rock)",
+        "name": "Adam Horovitz",
         "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-190629-457021942.jpg?w=910&h=511&crop=1",
         "imdb": "https://www.imdb.com/name/nm0005010/"
       },
       {
-        "name": "Michael Diamond (Mike D)",
+        "name": "Michael Diamond",
         "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/mike-d-6dc2b7d1-7d64-41b5-8897-65bce69f03e8.jpg",
         "imdb": "https://www.imdb.com/name/nm0004875/"
       },
       {
-        "name": "Adam Yauch (MCA)",
+        "name": "Adam Yauch",
         "image": "https://townsquare.media/site/366/files/2012/05/Adam-Yauch-Bass.jpg",
         "imdb": "https://www.imdb.com/name/nm0945142/"
       }
