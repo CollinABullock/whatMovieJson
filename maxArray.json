@@ -249,6 +249,37 @@
   ]
 },
 
+{
+  "item": 2468,
+  "year": 1964,
+  "title": "A Fistful of Dollars",
+  "runtime": 99,
+  "mpaa": "R",
+  "description": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.",
+  "genre": ["western", "foreign", "classic", "action"],
+  "director": [{
+    "name": "Sergio Leone",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjNlZmVjMjYtYjdjOC00ZjgwLTkxOWYtMDgyZmY5NjcyMGZjXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001466/"
+  }],
+  "actors": [
+    {
+      "name": "Clint Eastwood",
+      "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+      "imdb": "https://www.imdb.com/name/nm0000142/"
+  }, {
+    "name": "Marianne Koch",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Marianne_Koch_in_%22A_Fistful_of_Dollars%22%2C_1964.png",
+    "imdb": "https://www.imdb.com/name/nm0461455/"
+  }, {
+    "name": "Gian Maria Volontè",
+    "image": "https://repeatingislands.files.wordpress.com/2013/02/gian-maria-volonte-indio.jpg",
+    "imdb": "https://www.imdb.com/name/nm0901003/"
+  }],
+  "link": "https://play.max.com/video/watch/99dc1363-6d3c-422d-873f-64917b70f4f1/0853dc45-ae2b-4c2d-9607-9f372e62656b",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8aa9ca06-f4f6-4fcb-9a12-44cf738c2fc1/07d1a1f5bb778c7aab744ddec7f04c061f1bbbfc.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500"
+}
+,
 
 
 {    
