@@ -223,7 +223,7 @@
   "mpaa": "R",
   "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/442730a0-10b1-4ded-a3d5-ca359c0cc155/91c0b59c0fb6aaa9f2c76f4dd8f2c20e13c20f88.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
   "description": "Three gunslingers, Blondie, Tuco, and Angel Eyes, embark on a quest to find a buried treasure during the American Civil War. As they navigate through the brutal landscape of the Wild West, they encounter betrayal, deception, and epic gunfights. 'The Good, the Bad, and the Ugly' is renowned for its iconic characters, gripping storytelling, and unforgettable soundtrack, making it a timeless masterpiece of cinema.",
-  "genre": ["western", "foreign", "classic"],
+  "genre": ["western", "foreign", "classic", "action"],
   "link": "https://www.max.com/movies/good-the-bad-and-the-ugly/442730a0-10b1-4ded-a3d5-ca359c0cc155",
   "director": [{
     "name": "Sergio Leone",
@@ -3930,6 +3930,37 @@
     "imdb": "https://www.imdb.com/name/nm0152638/"
   }]
 },
+
+{
+  "item": 1357,
+  "year": 2008,
+  "title": "Gran Torino",
+  "runtime": 116,
+  "mpaa": "R",
+  "description": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a young Hmong teenager, who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+  "genre": ["drama"],
+  "director": [{
+    "name": "Clint Eastwood",
+      "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+      "imdb": "https://www.imdb.com/name/nm0000142/"
+  }],
+  "actors": [{
+    "name": "Clint Eastwood",
+    "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+    "imdb": "https://www.imdb.com/name/nm0000142/"
+  }, {
+    "name": "Bee Vang",
+    "image": "https://deadline.com/wp-content/uploads/2021/02/MCDGRTO_EC017-e1613685589488.jpg",
+    "imdb": "https://www.imdb.com/name/nm2934232/"
+  }, {
+    "name": "Ahney Her",
+    "image": "https://facts.net/wp-content/uploads/2023/11/15-astounding-facts-about-ahney-her-1698997280.jpg",
+    "imdb": "https://www.imdb.com/name/nm3087485/"
+  }],
+  "link": "https://play.max.com/video/watch/9925af13-c761-4b2e-b3d5-9dc31f5d3cff/d3539c89-a33a-48d9-9411-58bb37520a2d",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b6dcdf12-a211-4df8-bfdc-3fcb6c21ce62/9ef6779db6b7e6f2aaac5b666fcf8e8657497594.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
 
 {
   "item": 192,
