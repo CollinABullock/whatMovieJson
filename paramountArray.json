@@ -168,6 +168,37 @@
 ,
 
 {
+  "item": 5678,
+  "year": 2006,
+  "title": "Flags of Our Fathers",
+  "runtime": 135,
+  "mpaa": "R",
+  "description": "The life stories of the six men who raised the flag at the Battle of Iwo Jima, a turning point in World War II.",
+  "genre": ["drama", "history", "war"],
+  "director": [{
+    "name": "Clint Eastwood",
+  "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+  "imdb": "https://www.imdb.com/name/nm0000142/"
+  }],
+  "actors": [{
+    "name": "Ryan Phillippe",
+    "image": "https://static.independent.co.uk/2021/02/15/15/155670_5100.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000202/"
+  }, {
+    "name": "Adam Beach",
+    "image": "https://i.cbc.ca/1.4126571.1542116454!/fileImage/httpImage/adam-beach.jpg",
+    "imdb": "https://www.imdb.com/name/nm0063050/"
+  }, {
+    "name": "Jesse Bradford",
+    "image": "https://64.media.tumblr.com/c6cc5c9cfa799222b4917ba4a89a0d82/tumblr_opy2t6oRZ41r7b601o1_640.jpg",
+    "imdb": "https://www.imdb.com/name/nm0004778/"
+  }],
+  "link": "https://www.paramountplus.com/movies/video/FKeNCHOgo9R_gwqsNipTUJBROkG589zR/",
+  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2023/05/22/2210479171802/FLAGS_US_2006_SA_16x9_1920x1080_NB_2222646_1920x1080.jpg"
+}
+, 
+
+{
   "item": 8756,
   "year": 1971,
   "title": "Big Jake",

@@ -1034,7 +1034,36 @@
     }]
   },
 
-
+  {
+    "item": 5678,
+    "year": 2006,
+    "title": "Flags of Our Fathers",
+    "runtime": 135,
+    "mpaa": "R",
+    "description": "The life stories of the six men who raised the flag at the Battle of Iwo Jima, a turning point in World War II.",
+    "genre": ["drama", "history", "war"],
+    "director": [{
+      "name": "Clint Eastwood",
+    "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+    "imdb": "https://www.imdb.com/name/nm0000142/"
+    }],
+    "actors": [{
+      "name": "Ryan Phillippe",
+      "image": "https://static.independent.co.uk/2021/02/15/15/155670_5100.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000202/"
+    }, {
+      "name": "Adam Beach",
+      "image": "https://i.cbc.ca/1.4126571.1542116454!/fileImage/httpImage/adam-beach.jpg",
+      "imdb": "https://www.imdb.com/name/nm0063050/"
+    }, {
+      "name": "Jesse Bradford",
+      "image": "https://64.media.tumblr.com/c6cc5c9cfa799222b4917ba4a89a0d82/tumblr_opy2t6oRZ41r7b601o1_640.jpg",
+      "imdb": "https://www.imdb.com/name/nm0004778/"
+    }],
+    "link": "https://www.amazon.com/gp/video/detail/0H6BI62COEVAV3ZFDQP6O8BJO9/ref=atv_dl_rdr?tag=justus1ktp-20",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/1b9598d250134e655da2063a8d9f27a779537e8b6e423e7cd70bdb1f6229ed7c.jpg"
+  }
+,  
 
 
   
