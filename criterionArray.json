@@ -30,6 +30,40 @@
   },
 
   {
+    "item": 1234,
+    "year": 1950,
+    "title": "Rashomon",
+    "runtime": 88,
+    "mpaa": "",
+    "description": "Brimming with action while incisively examining the nature of truth, Rashomon is perhaps the finest film ever to investigate the philosophy of justice. Through an ingenious use of camera and flashbacks, Kurosawa reveals the complexities of human nature as four people recount different versions of the story of a man's murder and the rape of his wife.",
+    "genre": ["drama", "mystery", "foreign", "classic"],
+    "director": [{
+      "name": "Akira Kurosawa",
+      "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+      "imdb": "https://www.imdb.com/name/nm0000041/"
+    }],
+    "actors": [{
+      "name": "Toshirô Mifune",
+      "image": "https://pyxis.nymag.com/v1/imgs/bf2/298/b2861120c04cc0740c0d6e7519a4627ecb-6-toshiro-mifune.2x.h473.w710.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001536/"
+      },
+      {
+        "name": "Machiko Kyô",
+        "image": "https://static01.nyt.com/images/2019/05/19/obituaries/19kyo-obit1/16kyo3-videoSixteenByNineJumbo1600.jpg",
+         "imdb": "https://www.imdb.com/name/nm0478166/"
+      },
+      {
+        "name": "Masayuki Mori",
+        "image": "https://media.baselineresearch.com/images/367936/367936_full.jpg",
+        "imdb": "https://www.imdb.com/name/nm0605040/"
+      }
+    ],
+    "link": "https://www.criterionchannel.com/rashomon",
+    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/75503cb0-6850-4789-a1ef-3c42ef0205f7-dbb1ea3f.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+  }
+,
+
+  {
     "item": 3791,
     "title": "Modern Times",
     "year": 1936,
