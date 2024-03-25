@@ -39,7 +39,7 @@
     "genre": ["drama", "mystery", "foreign", "classic"],
     "director": [{
       "name": "Akira Kurosawa",
-      "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+      "image": "./directors/AkiraKurosawa.png",
       "imdb": "https://www.imdb.com/name/nm0000041/"
     }],
     "actors": [{
@@ -73,7 +73,7 @@
   "genre": ["drama", "history", "foreign", "classic"],
   "director": [{
     "name": "Akira Kurosawa",
-    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "image": "./directors/AkiraKurosawa.png",
     "imdb": "https://www.imdb.com/name/nm0000041/"
   }],
   "actors": [{
@@ -106,7 +106,7 @@
   "genre": ["action", "drama", "foreign", "classic"],
   "director": [{
     "name": "Akira Kurosawa",
-    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "image": "./directors/AkiraKurosawa.png",
     "imdb": "https://www.imdb.com/name/nm0000041/"
   }],
   "actors": [{
@@ -139,7 +139,7 @@
   "genre": ["adventure", "action", "foreign", "classic"],
   "director": [{
     "name": "Akira Kurosawa",
-    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "image": "./directors/AkiraKurosawa.png",
     "imdb": "https://www.imdb.com/name/nm0000041/"
   }],
   "actors": [{
@@ -1230,7 +1230,7 @@
   "director": [{
     "name": "Akira Kurosawa",
     "imdb": "https://www.imdb.com/name/nm0000041/",
-    "image": "https://cdn.britannica.com/85/136185-050-A47F2881/Kurosawa-Akira.jpg"
+    "image": "./directors/AkiraKurosawa.png",
   }],
   "actors": [{
     "name": "Toshiro Mifune",
@@ -1289,7 +1289,7 @@
   "genre": ["action", "adventure", "drama", "foreign", "classic"],
   "director": [{
     "name": "Akira Kurosawa",
-    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "image": "./directors/AkiraKurosawa.png",
     "imdb": "https://www.imdb.com/name/nm0000041/"
   }],
   "actors": [{

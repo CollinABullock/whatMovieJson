@@ -27,7 +27,7 @@
       "genre": ["drama", "mystery", "foreign", "classic"],
       "director": [{
         "name": "Akira Kurosawa",
-        "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+        "image": "./directors/AkiraKurosawa.png",
         "imdb": "https://www.imdb.com/name/nm0000041/"
       }],
       "actors": [{
@@ -61,7 +61,7 @@
   "genre": ["drama", "history", "foreign", "classic"],
   "director": [{
     "name": "Akira Kurosawa",
-    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "image": "./directors/AkiraKurosawa.png",
     "imdb": "https://www.imdb.com/name/nm0000041/"
   }],
   "actors": [{
@@ -94,7 +94,7 @@
   "genre": ["action", "drama", "foreign", "classic"],
   "director": [{
     "name": "Akira Kurosawa",
-    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "image": "./directors/AkiraKurosawa.png",
     "imdb": "https://www.imdb.com/name/nm0000041/"
   }],
   "actors": [{
@@ -127,7 +127,7 @@
   "genre": ["adventure", "action", "foreign", "classic"],
   "director": [{
     "name": "Akira Kurosawa",
-    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "image": "./directors/AkiraKurosawa.png",
     "imdb": "https://www.imdb.com/name/nm0000041/"
   }],
   "actors": [{
@@ -2047,7 +2047,7 @@
   "genre": ["crime", "drama", "mystery", "foreign", "classic", "test"],
   "director": [{
     "name": "Akira Kurosawa",
-    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "image": "./directors/AkiraKurosawa.png",
     "imdb": "https://www.imdb.com/name/nm0000041/"
   }],
   "actors": [{
@@ -2138,7 +2138,7 @@
   "genre": ["action", "adventure", "drama", "foreign", "classic"],
   "director": [{
     "name": "Akira Kurosawa",
-    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "image": "./directors/AkiraKurosawa.png",
     "imdb": "https://www.imdb.com/name/nm0000041/"
   }],
   "actors": [{
