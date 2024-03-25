@@ -85,6 +85,39 @@
 },
 
 {
+  "item": 1357,
+  "year": 1961,
+  "title": "Yojimbo",
+  "runtime": 110,
+  "mpaa": "",
+  "description": "A nameless ronin, or samurai with no master (Toshirô Mifune), enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon (Kamatari Fujiwara) and sake merchant Tokuemon (Takashi Shimura) to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
+  "genre": ["action", "drama", "foreign", "classic"],
+  "director": [{
+    "name": "Akira Kurosawa",
+    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "imdb": "https://www.imdb.com/name/nm0000041/"
+  }],
+  "actors": [{
+    "name": "Toshirô Mifune",
+    "image": "https://pyxis.nymag.com/v1/imgs/bf2/298/b2861120c04cc0740c0d6e7519a4627ecb-6-toshiro-mifune.2x.h473.w710.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001536/"
+  }, {
+    "name": "Tatsuya Nakadai",
+    "image": "https://s3.amazonaws.com/criterion-production/images/4268-31a45a9adab74ccdb36bc6fc20e58d64/Nakadai_birthday_current_333_045_medium.jpg",
+    "imdb": "https://www.imdb.com/name/nm0621377/"
+    },
+    {
+      "name": "Yôko Tsukasa",
+      "image": "https://prod-images.tcm.com/Master-Profile-Images/YokoTsukasa.194676.jpg",
+      "imdb": "https://www.imdb.com/name/nm0878992/"
+    }
+  ],
+  "link": "https://www.max.com/movies/yojimbo/d1cf648d-3cf1-4a97-b497-648c02735403",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d1cf648d-3cf1-4a97-b497-648c02735403/d97ddebc5291474d01cf2744e47e5a5b251cb57d.jpg?submitted=1684671870279&host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+
+{
   "item": 9012,
   "year": 1958,
   "title": "The Hidden Fortress",
