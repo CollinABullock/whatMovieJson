@@ -63,6 +63,39 @@
   }
 ,
 
+{
+  "item": 5678,
+  "year": 1957,
+  "title": "Throne of Blood",
+  "runtime": 110,
+  "mpaa": "Not Rated",
+  "description": "Based on Shakespeare's Macbeth, Throne of Blood is a captivating Japanese adaptation set in feudal Japan.",
+  "genre": ["drama", "history", "foreign", "classic"],
+  "director": [{
+    "name": "Akira Kurosawa",
+    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/07/Akira-Kurosawa.png",
+    "imdb": "https://www.imdb.com/name/nm0000041/"
+  }],
+  "actors": [{
+    "name": "Toshirô Mifune",
+    "image": "https://pyxis.nymag.com/v1/imgs/bf2/298/b2861120c04cc0740c0d6e7519a4627ecb-6-toshiro-mifune.2x.h473.w710.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001536/"
+    },
+    {
+      "name": "Isuzu Yamada",
+      "image": "https://www.telegraph.co.uk/multimedia/archive/02279/yamada_2279256b.jpg",
+      "imdb": "https://www.imdb.com/name/nm0945842/"
+    },
+    {
+      "name": "Minoru Chiaki",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDkxODE1MjctNDQ5OS00ZWI2LTk0MjgtNzU5YjE5ZDY5YTljXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+      "imdb": "https://www.imdb.com/name/nm0156852/"
+    }
+  ],
+  "link": "https://www.criterionchannel.com/throne-of-blood",
+  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/bdd96617-dcfb-4d77-bdc4-88e0c765f945.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+},
+
   {
     "item": 3791,
     "title": "Modern Times",
