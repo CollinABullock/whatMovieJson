@@ -80,7 +80,7 @@
     "link": "https://www.hulu.com/movie/733df76b-d280-4f96-b13e-3b0c0c345dee",
     "director": [{
       "name": "James Cameron",
-      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQTffSHnEbSAPLrSn1CDMselzUqIzB7k1FWsM_wzaW9gNO6MKYYs47AZoD30L0LeKKIJW_JFLg2p1EMizU",
+      "image": "./directors/JamesCameron.jpeg",
       "imdb": "https://www.imdb.com/name/nm0000116/"
     }],
     "actors": [{
@@ -280,7 +280,7 @@
     "link": "https://www.hulu.com/movie/19ccc256-57d0-4011-8ab9-71e0ac2b1bbd",
     "director": [{
       "name": "Alex Gibney",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/Alex-Gibney-Gotham-Awards-GettyImages-1356266610-H-2022.jpg?w=1296",
+      "image": "./directors/AlexGibney.jpeg",
       "imdb": "https://www.imdb.com/name/nm0316795/"
     }],
     "actors": []
@@ -298,7 +298,7 @@
     "link": "https://www.hulu.com/movie/a11a18e4-b417-4cff-affa-ac0971c94c3f",
     "director": [{
       "name": "Alex Gibney",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/Alex-Gibney-Gotham-Awards-GettyImages-1356266610-H-2022.jpg?w=1296",
+      "image": "./directors/AlexGibney.jpeg",
       "imdb": "https://www.imdb.com/name/nm0316795/"
     }],
     "actors":[]
@@ -983,7 +983,7 @@
 "director": [
   {
     "name": "Denis Villeneuve",
-    "image": "https://variety.com/wp-content/uploads/2024/01/GettyImages-1347326046.jpg?w=1000&h=563&crop=1",
+    "image": "./directors/DenisVilleneuve.webp",
     "imdb": "https://www.imdb.com/name/nm0898288/"
   }
 ],
@@ -1189,7 +1189,7 @@
 "director": [
   {
     "name": "John McTiernan",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvFaTjcgEBTDfC65aqiqURENjozC-Ic162y79a5CE57HwmEZD",
+    "image": "./directors/JohnMcTiernan.jpeg",
     "imdb": "https://www.imdb.com/name/nm0001532/"
   }
 ],
@@ -1230,7 +1230,7 @@
 "director": [
   {
     "name": "Christopher Nolan",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+    "image": "./directors/ChristopherNolan.jpg",
     "imdb": "https://www.imdb.com/name/nm0634240/"
   }
 ],
@@ -2027,7 +2027,7 @@
 "director": [
   {
     "name": "David Fincher",
-    "image": "https://www.premiumbeat.com/blog/wp-content/uploads/2022/11/featuredimage.jpg",
+    "image": "./directors/DavidFincher.webp",
     "imdb": "https://www.imdb.com/name/nm0000399/"
   }
 ],
@@ -2584,7 +2584,7 @@
     {
       "name": "Dennis Dugan",
       "IMDB": "https://www.imdb.com/name/nm0001156/",
-      "image": "https://pagesix.com/wp-content/uploads/sites/3/2020/12/GettyImages-611045618.jpg?quality=75&strip=all"
+      "image": "./directors/DennisDugan.webp"
     }
   ],
   "actors": [
@@ -3615,7 +3615,7 @@
   "genre": ["action", "comedy", "romance", "spy"],
   "director": [{
     "name": "James Mangold",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-1259093125-copy.jpg?w=1296",
+    "image": "./directors/JamesMangold.webp",
     "imdb": "https://www.imdb.com/name/nm0003506/"
   }],
   "actors": [{
@@ -3859,12 +3859,12 @@
   "director": [{
     "name": "Ethan Coen",
       "IMDB": "https://www.imdb.com/name/nm0001054/",
-      "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+      "image": "./public/directors/EthanCoen.webp"
     },
     {
       "name": "Joel Coen",
       "IMDB": "https://www.imdb.com/name/nm0001053/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"}
+      "image": "./directors/JoelCoen.jpg"}
   ],
   "actors": [
     {

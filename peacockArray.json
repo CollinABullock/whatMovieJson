@@ -11,7 +11,7 @@
   "link": "https://www.peacocktv.com/stream-movies/oppenheimer",
   "director": [{
     "name": "Christopher Nolan",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+    "image": "./directors/ChristopherNolan.jpg",
     "imdb": "https://www.imdb.com/name/nm0634240/"
   }],
   "actors": [{
@@ -44,7 +44,7 @@
     "genre": ["mystery", "thriller"],
     "director": [{
       "name": "Christopher Nolan",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+    "image": "./directors/ChristopherNolan.jpg",
     "imdb": "https://www.imdb.com/name/nm0634240/"
     }],
     "actors": [{
@@ -150,7 +150,7 @@
     "genre": ["comedy", "drama"],
     "director": [{
       "name": "Judd Apatow",
-      "image": "https://www.indiewire.com/wp-content/uploads/2020/09/AP_20026203886163.jpg?w=600&h=337&crop=1",
+      "image": "./directors/JuddApatow.webp",
       "imdb": "https://www.imdb.com/name/nm0031976/"
     }],
     "actors": [{
@@ -640,7 +640,7 @@
   }],
   "actors": [{
     "name": "Kenneth Branagh",
-      "image": "https://variety.com/wp-content/uploads/2021/10/Kenneth_Branagh-Variety-Cover-Story-16x9-2.jpg?w=1920&h=1080&crop=1",
+      "image": "./directors/KennethBranagh.webp",
       "imdb": "https://www.imdb.com/name/nm0000110/"
   }, {
     "name": "Judy Davis",
@@ -2016,7 +2016,7 @@
   "link": "https://www.peacocktv.com/watch-online/movies/drama/the-curious-case-of-benjamin-button/28478094-6b7a-3190-992c-b53ea632f9a7",
   "director": [{
     "name": "David Fincher",
-    "image": "https://www.premiumbeat.com/blog/wp-content/uploads/2022/11/featuredimage.jpg",
+    "image": "./directors/DavidFincher.webp",
     "imdb": "https://www.imdb.com/name/nm0000399/"
   }],
   "actors": [{
@@ -2129,12 +2129,12 @@
     {
       "name": "Ethan Coen",
       "IMDB": "https://www.imdb.com/name/nm0001054/",
-      "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+      "image": "./public/directors/EthanCoen.webp"
     },
     {
       "name": "Joel Coen",
       "IMDB": "https://www.imdb.com/name/nm0001053/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+      "image": "./directors/JoelCoen.jpg"
     }
   ],
   "actors": [

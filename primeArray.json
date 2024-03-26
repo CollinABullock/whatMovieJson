@@ -27,12 +27,12 @@
   "genre": ["comedy", "drama", "classic", "silent-film"],
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Mack Swain",
@@ -346,7 +346,7 @@
     "link": "https://www.amazon.com/gp/video/detail/B0B63969QL/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
     "director": [{
       "name": "James Mangold",
-      "image": "https://www.indiewire.com/wp-content/uploads/2020/08/AP_20027819581673.jpg",
+      "image": "./directors/JamesMangold.webp",
       "imdb": "https://www.imdb.com/name/nm0003506/"
     }],
     "actors": [{
@@ -406,7 +406,7 @@
   "link": "https://www.amazon.com/Bottoms-Rachel-Sennott/dp/B0CG8K3W7D/ref=sr_1_5?dib=eyJ2IjoiMSJ9.-Bie4jqbyquJoBZmmxf-Y8DXhjzi4Ro5NTyzupiyo_wG9aaDf-y1zDRMvDwfghQFNFcfQXVH9TUrR5Mtr7shLBxa2rMoe_nbkz_VG7W5Mkq2whX0lG0EqYu6oBPjcZYmJGY_xZ7tQlvAfsaIkU71TVEnpmd56VN0lTm31h4qXY9q2M63_AeqkDClQkRuZ8jz0Qm4DyEMHzfob-6qTw0-ggc-VORCrX9_iIhoTLjjgBk.v0mPIIcMDKf9yAm2C8BsHsgBVC_YRqh1wX4JIphHfng&dib_tag=se&qid=1709222230&refinements=p_n_ways_to_watch%3A12007865011&s=instant-video&sr=1-5",
   "director": [{
     "name": "Emma Seligman",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2EyOWExMGYtNzhhMC00OWY1LWJlZDEtY2QyMzFhYTBjMTlmXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_.jpg",
+    "image": "./directors/EmmaSeligman.jpg",
     "imdb": "https://www.imdb.com/name/nm7364391/"
   }],
   "actors": [{
@@ -602,7 +602,7 @@
     "genre": ["adventure", "drama", "science-fiction"],
     "director": [{
       "name": "Christopher Nolan",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+      "image": "./directors/ChristopherNolan.jpg",
       "imdb": "https://www.imdb.com/name/nm0634240/"
     }],
     "actors": [{
@@ -1044,7 +1044,7 @@
     "genre": ["drama", "history", "war"],
     "director": [{
       "name": "Clint Eastwood",
-    "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+    "image": "./public/directors/ClintEastwood.png",
     "imdb": "https://www.imdb.com/name/nm0000142/"
     }],
     "actors": [{
@@ -1080,7 +1080,7 @@
     "link": "https://www.amazon.com/gp/video/detail/B00BR9VLBK/ref=atv_dp_amz_c_TS5124c5_1_12?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
     "director": [{
       "name": "Dennis Dugan",
-  "image": "https://vz.cnwimg.com/wp-content/uploads/2014/01/GettyImages-102356833.jpg",
+  "image": "./directors/DennisDugan.webp",
   "imdb": "https://www.imdb.com/name/nm0241187/"
     }],
     "actors": [{
@@ -1529,12 +1529,12 @@
     "director": [   {
       "name": "Ethan Coen",
       "IMDB": "https://www.imdb.com/name/nm0001054/",
-      "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+      "image": "./public/directors/EthanCoen.webp"
     },
     {
       "name": "Joel Coen",
       "IMDB": "https://www.imdb.com/name/nm0001053/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+      "image": "./directors/JoelCoen.jpg"
     }],
     "actors": [{
       "name": "George Clooney",
@@ -2618,7 +2618,7 @@
   "genre": ["western", "classic"],
   "director": [{
     "name": "John Ford",
-    "image": "https://www.knowledge.ca/sites/default/files/Programs/John%20Ford%3A%20The%20Man%20Who%20Invented%20America/John%20Ford%20The%20Man%20Who%20Invented%20America.jpg",
+    "image": "./directors/JohnFord.jpg",
     "imdb": "https://www.imdb.com/name/nm0000406/"
   }],
   "actors": [{
@@ -2645,7 +2645,7 @@
   "genre": ["western", "classic"],
   "director": [{
     "name": "John Ford",
-    "image": "https://www.knowledge.ca/sites/default/files/Programs/John%20Ford%3A%20The%20Man%20Who%20Invented%20America/John%20Ford%20The%20Man%20Who%20Invented%20America.jpg",
+    "image": "./directors/JohnFord.jpg",
     "imdb": "https://www.imdb.com/name/nm0000406/"
   }],
   "actors": [{
@@ -3341,7 +3341,7 @@
     "link": "https://www.amazon.com/gp/video/detail/B094F2CQMX/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
     "director": [{
       "name": "Alejandro González Iñárritu",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTQzNjk2MTM5MV5BMl5BanBnXkFtZTcwOTk2MDE1Mw@@._V1_.jpg",
+      "image": "./directors/AlejandroGonzálezIñárritu.avif",
       "imdb": "https://www.imdb.com/name/nm0327944/"
     }],
     "actors": [{
@@ -4234,7 +4234,7 @@
     "genre": ["biopic", "drama"],
     "director": [{
       "name": "David Lynch",
-        "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+        "image": "./directors/DavidLynch.jpg",
         "imdb": "https://www.imdb.com/name/nm0000186/"
     }],
     "actors": [{
@@ -4300,7 +4300,7 @@
 "link": "https://www.amazon.com/gp/video/detail/B00D5UKWNW/ref=atv_dp_amz_c_TS5124c5_1_17?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
 "director": [{
   "name": "John Milius",
-  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNOLCx2fePrA1JhZTtcfyY-Kx6aI-Uxab6ik3r9zgFGS5G02Tc",
+  "image": "./directors/JohnMilius.jpeg",
   "imdb": "https://www.imdb.com/name/nm0587518/"
 }],
 "actors": [{

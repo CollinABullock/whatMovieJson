@@ -835,7 +835,7 @@
     "genre": ["western", "classic"],
     "director": [{
       "name": "John Ford",
-      "image": "https://www.knowledge.ca/sites/default/files/Programs/John%20Ford%3A%20The%20Man%20Who%20Invented%20America/John%20Ford%20The%20Man%20Who%20Invented%20America.jpg",
+      "image": "./directors/JohnFord.jpg",
       "imdb": "https://www.imdb.com/name/nm0000406/"
     }],
     "actors": [{

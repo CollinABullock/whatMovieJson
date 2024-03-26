@@ -11,7 +11,7 @@
     "link": "https://www.paramountplus.com/movies/video/wjQ4RChi6BHHu4MVTncppVuCwu44uq2Q/",
     "director": [{
       "name": "David Fincher",
-      "image": "https://www.premiumbeat.com/blog/wp-content/uploads/2022/11/featuredimage.jpg",
+      "image": "./directors/DavidFincher.webp",
       "imdb": "https://www.imdb.com/name/nm0000399/"
     }],
     "actors": [{
@@ -44,7 +44,7 @@
     "director": [
       {
         "name": "James Cameron",
-        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQTffSHnEbSAPLrSn1CDMselzUqIzB7k1FWsM_wzaW9gNO6MKYYs47AZoD30L0LeKKIJW_JFLg2p1EMizU",
+        "image": "./directors/JamesCameron.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000116/"
       }
     ],
@@ -244,7 +244,7 @@
   "director": [
     {
       "name": "James Cameron",
-      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQTffSHnEbSAPLrSn1CDMselzUqIzB7k1FWsM_wzaW9gNO6MKYYs47AZoD30L0LeKKIJW_JFLg2p1EMizU",
+      "image": "./directors/JamesCameron.jpeg",
   "imdb": "https://www.imdb.com/name/nm0000116/"
     }
   ],
@@ -1073,12 +1073,12 @@
       {
         "name": "Ethan Coen",
         "IMDB": "https://www.imdb.com/name/nm0001054/",
-        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+        "image": "./public/directors/EthanCoen.webp"
       },
       {
         "name": "Joel Coen",
         "IMDB": "https://www.imdb.com/name/nm0001053/",
-        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+        "image": "./directors/JoelCoen.jpg"
       }
     ],
     "actors": [
@@ -1113,12 +1113,12 @@
       {
         "name": "Ethan Coen",
         "IMDB": "https://www.imdb.com/name/nm0001054/",
-        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+        "image": "./public/directors/EthanCoen.webp"
       },
       {
         "name": "Joel Coen",
         "IMDB": "https://www.imdb.com/name/nm0001053/",
-        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+        "image": "./directors/JoelCoen.jpg"
       }
     ],
     "actors": [
@@ -1155,13 +1155,13 @@
     "director": [
       {
         "name": "Ethan Coen",
-        "IMDB": "https://www.imdb.com/name/nm0001054/",
-        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
-      },
-      {
-        "name": "Joel Coen",
-        "IMDB": "https://www.imdb.com/name/nm0001053/",
-        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+      "IMDB": "https://www.imdb.com/name/nm0001054/",
+      "image": "./public/directors/EthanCoen.webp"
+    },
+    {
+      "name": "Joel Coen",
+      "IMDB": "https://www.imdb.com/name/nm0001053/",
+      "image": "./directors/JoelCoen.jpg"
       }
     ],
     "actors": [
@@ -1201,12 +1201,12 @@
       {
         "name": "Ethan Coen",
         "IMDB": "https://www.imdb.com/name/nm0001054/",
-        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+        "image": "./public/directors/EthanCoen.webp"
       },
       {
         "name": "Joel Coen",
         "IMDB": "https://www.imdb.com/name/nm0001053/",
-        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+        "image": "./directors/JoelCoen.jpg"
       }
     ],
     "actors": [

@@ -173,12 +173,12 @@
     "genre": ["comedy", "drama"],
     "director": [{
       "name": "Charlie Chaplin",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "image": "./directors/CharlieChaplin.jpg",
       "imdb": "https://www.imdb.com/name/nm0000122/"
     }],
     "actors": [{
       "name": "Charlie Chaplin",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "image": "./directors/CharlieChaplin.jpg",
       "imdb": "https://www.imdb.com/name/nm0000122/"
     }, {
       "name": "Paulette Goddard",
@@ -208,12 +208,12 @@
     "genre": ["comedy", "drama", "classic", "silent-film"],
     "director": [{
       "name": "Charlie Chaplin",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "image": "./directors/CharlieChaplin.jpg",
       "imdb": "https://www.imdb.com/name/nm0000122/"
     }],
     "actors": [{
       "name": "Charlie Chaplin",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "image": "./directors/CharlieChaplin.jpg",
       "imdb": "https://www.imdb.com/name/nm0000122/"
     }, {
       "name": "Paulette Goddard",
@@ -234,12 +234,12 @@
   "genre": ["comedy", "drama", "classic", "silent-film"],
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Jackie Coogan",
@@ -261,12 +261,12 @@
   "genre": ["comedy", "drama", "classic", "silent-film"],
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Mack Swain",
@@ -291,12 +291,12 @@
   "genre": ["drama", "romance", "classic"],
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Claire Bloom",
@@ -322,12 +322,12 @@
   "genre": ["comedy", "drama", "romance", "silent-film", "classic"],
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Merna Kennedy",
@@ -353,7 +353,7 @@
   "genre": ["documentary", "crime", "classic"],
   "director": [{
     "name": "Errol Morris",
-    "image": "https://cdn.vox-cdn.com/thumbor/vUdKz2NQ_1n_eII_5zxNq7uZCrs=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8826533/179578289.jpg",
+    "image": "./directors/ErrolMorris.webp",
     "imdb": "https://www.imdb.com/name/nm0601619/"
   }],
   "actors": [],
@@ -371,7 +371,7 @@
   "genre": ["documentary"],
   "director": [{
     "name": "Errol Morris",
-    "image": "https://cdn.vox-cdn.com/thumbor/vUdKz2NQ_1n_eII_5zxNq7uZCrs=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8826533/179578289.jpg",
+    "image": "./directors/ErrolMorris.webp",
     "imdb": "https://www.imdb.com/name/nm0601619/"
   }],
   "actors": [],
@@ -501,7 +501,7 @@
         "imdb": "https://www.imdb.com/name/nm1519666/"
       }, {
         "name": "Kenneth Branagh",
-        "image": "https://ew.com/thmb/QBtzZ7O8aO6NUsywi7MxEbz68bo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kenneth-branagh-a-haunting-in-venice-081523-2a0d896ac47d493bb240d51f5291bb90.jpg",
+        "image": "./directors/KennethBranagh.webp",
         "imdb": "https://www.imdb.com/name/nm0000110/"
       }, {
         "name": "Judi Dench",
@@ -550,7 +550,7 @@
     "genre": ["drama", "mystery", "thriller", "romance"],
     "director": [{
       "name": "David Lynch",
-      "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+      "image": "./directors/DavidLynch.jpg",
       "imdb": "https://www.imdb.com/name/nm0000186/"
     }],
     "actors": [{
@@ -580,7 +580,7 @@
     "genre": ["mystery", "thriller", "horror"],
     "director": [{
       "name": "David Lynch",
-      "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+      "image": "./directors/DavidLynch.jpg",
       "imdb": "https://www.imdb.com/name/nm0000186/"
     }],
     "actors": [{
@@ -613,7 +613,7 @@
     "genre": ["drama", "mystery"],
     "director": [{
       "name": "David Lynch",
-      "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+      "image": "./directors/DavidLynch.jpg",
       "imdb": "https://www.imdb.com/name/nm0000186/"
     }],
     "actors": [{
@@ -836,7 +836,7 @@
   "genre": ["western", "classic"],
   "director": [{
     "name": "John Ford",
-    "image": "https://www.knowledge.ca/sites/default/files/Programs/John%20Ford%3A%20The%20Man%20Who%20Invented%20America/John%20Ford%20The%20Man%20Who%20Invented%20America.jpg",
+    "image": "./directors/JohnFord.jpg",
     "imdb": "https://www.imdb.com/name/nm0000406/"
   }],
   "actors": [{
@@ -1169,7 +1169,7 @@
   "director": [{
     "name": "Jonathan Glazer",
     "imdb": "https://www.imdb.com/name/nm0327273/",
-    "image": "https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/584669"
+    "image": "./directors/JonathanGlazer.avif"
   }],
   "actors": [{
     "name": "Ray Winstone",
@@ -1200,7 +1200,7 @@
   "director": [{
     "name": "Jonathan Glazer",
     "imdb": "https://www.imdb.com/name/nm0327273/",
-    "image": "https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/584669"
+    "image": "./directors/JonathanGlazer.avif"
   }],
   "actors": [{
     "name": "Nicole Kidman",

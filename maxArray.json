@@ -11,7 +11,7 @@
       "link": "https://www.max.com/movies/capturing-the-friedmans/89f21e68-5cdf-4be2-9ff7-ae45e6e53ba3?reason=anonymous&returnUrl=https%3A%2F%2Fplay.max.com%2Fmovie%2F89f21e68-5cdf-4be2-9ff7-ae45e6e53ba3",
       "director": [{
         "name": "Andrew Jarecki",
-        "image": "https://cdn.vox-cdn.com/thumbor/nZhhXRRweMsTfwfApK0Evi6TCdQ=/0x61:3088x2377/1200x800/filters:focal(0x61:3088x2377)/cdn.vox-cdn.com/uploads/chorus_image/image/45844518/jarecki.0.0.jpg",
+        "image": "./directors/AndrewJarecki.jpg",
         "imdb": "https://www.imdb.com/name/nm1285613/"
       }],
       "actors": []
@@ -46,7 +46,7 @@
           "imdb": "https://www.imdb.com/name/nm0605040/"
         }
       ],
-      "link": "",
+      "link": "https://play.max.com/video/watch/c5818973-717d-4c92-83a7-7c66ff1906ab/da330ec6-ee89-4cae-87bc-70f3dee30a57",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/df036988-3af6-4683-b9c9-391246e2b6ba/e4a9d7d7c55dc8abc3e7ea9ed774f057d39ae2af.jpg?submitted=1684672994412&host=wbd-images.prod-vod.h264.io&partner=beamcom"
     }
 ,   
@@ -180,7 +180,7 @@
       "genre": ["thriller", "drama"],
       "director": [{
         "name": "John Curran",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2017/09/769341148_5571303488001_5571279748001-vs.jpg?w=681&h=383&crop=1",
+        "image": "whatMovie/whatMovie/public/directors/JohnCurran.webp",
         "imdb": "https://www.imdb.com/name/nm0192974/"
       }],
       "actors": [{
@@ -242,7 +242,7 @@
   "genre": ["romance", "drama"],
   "director": [{
     "name": "Alfonso Cuarón",
-				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEPp10vDSnxNHdr87jtOCpuRVWbhHQfhY3WmcTiz3U_EABIYK",
+				"image": "./directors/AlfonsoCuaron.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0190859/"
   }],
   "actors": [{
@@ -273,12 +273,12 @@
       "genre": ["comedy", "drama", "classic", "silent-film"],
       "director": [{
         "name": "Charlie Chaplin",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+        "image": "./directors/CharlieChaplin.jpg",
         "imdb": "https://www.imdb.com/name/nm0000122/"
       }],
       "actors": [{
         "name": "Charlie Chaplin",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+        "image": "./directors/CharlieChaplin.jpg",
         "imdb": "https://www.imdb.com/name/nm0000122/"
       }, {
         "name": "Paulette Goddard",
@@ -308,12 +308,12 @@
   "genre": ["comedy", "drama", "classic", "silent-film"],
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Paulette Goddard",
@@ -334,12 +334,12 @@
   "genre": ["comedy", "drama", "classic", "silent-film"],
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Jackie Coogan",
@@ -369,7 +369,7 @@
   "actors": [
     {
       "name": "Clint Eastwood",
-      "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+      "image": "./public/directors/ClintEastwood.png",
       "imdb": "https://www.imdb.com/name/nm0000142/"
     },
     {
@@ -401,7 +401,7 @@
   "actors": [
     {
       "name": "Clint Eastwood",
-      "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+      "image": "./public/directors/ClintEastwood.png",
       "imdb": "https://www.imdb.com/name/nm0000142/"
   }, {
     "name": "Marianne Koch",
@@ -429,7 +429,7 @@
   "genre": ["drama", "fantasy"],
   "director": [{
     "name": "Clint Eastwood",
-    "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+    "image": "./public/directors/ClintEastwood.png",
     "imdb": "https://www.imdb.com/name/nm0000142/"
   }],
   "actors": [{
@@ -460,12 +460,12 @@
   "genre": ["comedy", "drama", "classic", "silent-film"],
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Mack Swain",
@@ -490,12 +490,12 @@
   "genre": ["drama", "romance", "classic"],
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Claire Bloom",
@@ -521,7 +521,7 @@
   "genre": ["documentary", "crime"],
   "director": [{
     "name": "Alex Gibney",
-    "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2770,w_4926,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1507614885/GettyImages-462307014_uo1hek",
+    "image": "./directors/AlexGibney.jpeg",
     "imdb": "https://www.imdb.com/name/nm0316795/"
   }],
   "actors": [],
@@ -541,12 +541,12 @@
   "genre": ["comedy", "drama", "romance", "silent-film", "classic"],
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-161060589.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Merna Kennedy",
@@ -573,7 +573,7 @@
         {
           "name": "Errol Morris",
           "IMDB": "https://www.imdb.com/name/nm0601619/",
-          "image": "https://th-thumbnailer.cdn-si-edu.com/_EiYNfrjSuC4R7C4t1NftIIuNRw=/800x450/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/Profile-Errol-Morris-631.jpg"
+          "image": "./directors/ErrolMorris.webp"
         }
       ],
       "actors": [
@@ -753,7 +753,7 @@
       "link": "https://www.max.com/movies/spirited-away/3deab668-d0a4-4a8d-9bc8-0952a0ad836e",
       "director": [{
         "name": "Hayao Miyazaki",
-        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9_CR8hEkvsmPKEloLHKbm5AlrmKpS2M80IxUpIvep9WwOezXF",
+        "image": "./directors/HayaoMiyazaki.jpeg",
         "imdb": "https://www.imdb.com/name/nm0594503/"
       }],
       "actors": [
@@ -849,7 +849,7 @@
       "genre": ["horror", "drama", "classic"],
       "director": [{
         "name": "David Lynch",
-        "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+        "image": "./directors/DavidLynch.jpg",
         "imdb": "https://www.imdb.com/name/nm0000186/"
       }],
       "actors": [{
@@ -930,7 +930,7 @@
       "link": "https://www.max.com/movies/parasite/d5e3be11-eb8b-449f-89cf-db887ddee777",
       "director": [{
         "name": "Bong Joon Ho",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-01/240112-bong-joon-ho-mn-1020-75b530.jpg",
+        "image": "./public/directors/BongJoonHo.webp",
         "imdb": "https://www.imdb.com/name/nm0094435/"
       }],
       "actors": [
@@ -998,7 +998,7 @@
       "link": "https://www.max.com/movies/ghost-story/bca9efc3-418f-4778-94c4-f28159f40ed6",
       "director": [{
         "name": "David Lowery",
-        "image": "https://variety.com/wp-content/uploads/2023/03/David-Lowery.jpg?w=1000",
+        "image": "./directors/DavidLowery.webp",
         "imdb": "https://www.imdb.com/name/nm2104653/"
       }],
       "actors": [
@@ -1124,7 +1124,7 @@
     "link": "https://play.max.com/movie/842bf71a-8f60-4657-9c7a-fe3c991a772a",
     "director": [{
     "name": "James Cameron",
-    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQTffSHnEbSAPLrSn1CDMselzUqIzB7k1FWsM_wzaW9gNO6MKYYs47AZoD30L0LeKKIJW_JFLg2p1EMizU",
+    "image": "./directors/JamesCameron.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000116/"
     }],
     "actors": [{
@@ -1154,7 +1154,7 @@
     "link": "https://play.max.com/movie/82857c4f-1813-4f6a-b94f-5dab6051b43e",
     "director": [{
       "name": "James Cameron",
-      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQTffSHnEbSAPLrSn1CDMselzUqIzB7k1FWsM_wzaW9gNO6MKYYs47AZoD30L0LeKKIJW_JFLg2p1EMizU",
+      "image": "./directors/JamesCameron.jpeg",
       "imdb": "https://www.imdb.com/name/nm0000116/"
       }],
       "actors": [{
@@ -1352,7 +1352,7 @@
     "link": "https://play.max.com/video/watch/07323549-c382-4363-a3fe-97a365e81331/06a38397-862d-4419-be84-0641939825e7",
     "director": [{
     "name": "Denis Villeneuve",
-    "image": "https://variety.com/wp-content/uploads/2024/01/GettyImages-1347326046.jpg?w=1000&h=563&crop=1",
+    "image": "./directors/DenisVilleneuve.webp",
     "imdb": "https://www.imdb.com/name/nm0898288/"
     }],
     "actors": [{
@@ -1472,7 +1472,7 @@
     "link": "https://play.max.com/movie/9652f2da-ba93-4b4c-988a-de935d58974d",
     "director": [{
     "name": "John McTiernan",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvFaTjcgEBTDfC65aqiqURENjozC-Ic162y79a5CE57HwmEZD",
+    "image": "./directors/JohnMcTiernan.jpeg",
     "imdb": "https://www.imdb.com/name/nm0001532/"
     }],
     "actors": [{
@@ -1532,7 +1532,7 @@
     "link": "https://play.max.com/video/watch/9790bf2c-b9fb-4825-bd69-dbb111768659/325c6c4f-383c-44e7-9d92-40c2711296a3",
     "director": [{
     "name": "Hayao Miyazaki",
-    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9_CR8hEkvsmPKEloLHKbm5AlrmKpS2M80IxUpIvep9WwOezXF",
+    "image": "./directors/HayaoMiyazaki.jpeg",
     "imdb": "https://www.imdb.com/name/nm0594503/"
     }],
     "actors": [{
@@ -1665,7 +1665,7 @@
     "link": "https://play.max.com/video/watch/47fd6de7-9ffa-4b37-8ff5-62f178b264d4/6237134d-d1ac-41ce-bcac-3ae5e1fa2d7e",
     "director": [{
     "name": "John Milius",
-    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNOLCx2fePrA1JhZTtcfyY-Kx6aI-Uxab6ik3r9zgFGS5G02Tc",
+    "image": "./directors/JohnMilius.jpeg",
     "imdb": "https://www.imdb.com/name/nm0587518/"
     }],
     "actors": [{
@@ -1724,7 +1724,7 @@
     "link": "https://play.max.com/video/watch/28517d19-4c00-46e0-b139-b506cbcc4b40/ad9dfba7-864a-4104-9054-fa7957d74f40",
     "director": [{
     "name": "Christopher Nolan",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+    "image": "./directors/ChristopherNolan.jpg",
     "imdb": "https://www.imdb.com/name/nm0634240/"
     }],
     "actors": [{
@@ -1845,7 +1845,7 @@
     "link": "https://play.max.com/video/watch/46c5fcd3-9081-49e1-941f-5f31abd27f98/b6a82b24-bcfe-453d-9b9d-563a5ad02a99",
     "director": [{
       "name": "Christopher Nolan",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+      "image": "./directors/ChristopherNolan.jpg",
       "imdb": "https://www.imdb.com/name/nm0634240/"
       }],
       "actors": [{
@@ -1875,7 +1875,7 @@
     "link": "https://play.max.com/video/watch/e95435b2-2c89-4788-b711-b7f346f03da9/01844b86-4a19-4778-b4a9-110b00b85e03",
     "director": [{
       "name": "Christopher Nolan",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+      "image": "./directors/ChristopherNolan.jpg",
       "imdb": "https://www.imdb.com/name/nm0634240/"
       }],
       "actors": [{
@@ -1989,7 +1989,7 @@
     "link": "https://play.max.com/video/watch/e1adbefc-54e4-4c3d-bf2c-525a4d397f19/5e2dabd8-0ba8-4962-a4c7-54dbd1c5cf8f",
     "director": [{
       "name": "James Cameron",
-      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQTffSHnEbSAPLrSn1CDMselzUqIzB7k1FWsM_wzaW9gNO6MKYYs47AZoD30L0LeKKIJW_JFLg2p1EMizU",
+      "image": "./directors/JamesCameron.jpeg",
       "imdb": "https://www.imdb.com/name/nm0000116/"
     }],
     "actors": [{
@@ -2175,7 +2175,7 @@
     "link": "https://play.max.com/video/watch/d018188e-a887-4175-8e92-7ffd9693692d/d2bc0a9c-cf82-46b1-974d-4d3da8f7f8ce",
     "director": [{
       "name": "Andrew Davis",
-      "image": "https://images.squarespace-cdn.com/content/v1/6047dc41dbb7676dcac46ad1/1617810367529-ERQ9V8UOJRXFQ30WYSYN/Andrew+Davis+Publicity+cu.jpg",
+      "image": "./public/directors/AndrewDavis.jpg",
       "imdb": "https://www.imdb.com/name/nm0204654/"
     }],
     "actors": [{
@@ -2207,7 +2207,7 @@
     "link": "https://play.max.com/video/watch/e367e54a-7210-4e96-8de9-4a038cfea180/868b636c-c1ef-45c3-96f3-1a596f5e571a",
     "director": [{
       "name": "Kenneth Branagh",
-      "image": "https://variety.com/wp-content/uploads/2021/10/Kenneth_Branagh-Variety-Cover-Story-16x9-2.jpg?w=1920&h=1080&crop=1",
+      "image": "./directors/KennethBranagh.webp",
       "imdb": "https://www.imdb.com/name/nm0000110/"
     }],
     "actors": [{
@@ -2329,7 +2329,7 @@
     "link": "https://play.max.com/video/watch/96f48fce-8926-4e44-bacc-7808bdb96981/5bb19ed9-e2c2-4a59-b2e7-d771cfcccaf8",
     "director": [{
       "name": "Federico Fellini",
-      "image": "https://variety.com/wp-content/uploads/2024/01/fellini-oscar.jpg?w=1000",
+      "image": "./directors/FedericoFellini.webp",
       "imdb": "https://www.imdb.com/name/nm0000019/"
     }],
     "actors": [{
@@ -2359,7 +2359,7 @@
     "link": "https://play.max.com/video/watch/61d03719-e391-4206-9ef7-9b3673f58646/3d8cb977-cadc-4aa1-92ff-8d7a2d1b61e2",
     "director": [{
       "name": "Billy Wilder",
-      "image": "https://static.timesofisrael.com/www/uploads/2020/04/AP_460116025-e1586795144307.jpg",
+      "image": "./directors/BillyWilder.jpg",
       "imdb": "https://www.imdb.com/name/nm0000697/"
     }],
     "actors": [{
@@ -2421,12 +2421,12 @@
   
         "name": "Ethan Coen",
         "IMDB": "https://www.imdb.com/name/nm0001054/",
-        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+        "image": "./public/directors/EthanCoen.webp"
       },
       {
         "name": "Joel Coen",
         "IMDB": "https://www.imdb.com/name/nm0001053/",
-        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+        "image": "./directors/JoelCoen.jpg"
       
     }],
     "actors": [{
@@ -2456,7 +2456,7 @@
     "link": "https://play.max.com/video/watch/87bf6f72-24a6-468e-87cc-171df1fec864/bfea93de-8a6d-4bab-bfa7-ec49a963b1f9",
     "director": [{
       "name": "Emma Seligman",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2EyOWExMGYtNzhhMC00OWY1LWJlZDEtY2QyMzFhYTBjMTlmXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_.jpg",
+      "image": "./directors/EmmaSeligman.jpg",
       "imdb": "https://www.imdb.com/name/nm7364391/"
     }],
     "actors": [{
@@ -2546,7 +2546,7 @@
     "link": "https://play.max.com/video/watch/06555a40-7b96-41de-a048-febceab7cf9b/7621c5dc-32a1-4608-865e-5d66a6d63631",
     "director": [{
     "name": "Blitz Bazawule",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6765/production/_132096462_gettyimages-1829287167_976.jpg",
+    "image": "./directors/BlitzBazawule.jpg",
     "imdb": "https://www.imdb.com/name/nm7577540/"
     }],
     "actors": [{
@@ -2576,7 +2576,7 @@
       "link": "https://play.max.com/video/watch/38b8f7d7-1930-4984-837a-1e44db482cf8/df199f7a-f77c-4b16-8668-4caedfc2f3b0",
       "director": [{
         "name": "Krzysztof Kieślowski",
-        "image": "https://i.guim.co.uk/img/static/sys-images/Film/Pix/pictures/2011/11/8/1320765328281/KRZYSZTOF-KIESLOWSKI-007.jpg?width=465&dpr=1&s=none",
+        "image": "./directors/KrzysztofKieślowski.avif",
         "imdb": "https://www.imdb.com/name/nm0001425/"
       }],
       "actors": [{
@@ -2598,7 +2598,7 @@
       "link": "https://play.max.com/video/watch/167dc854-340a-4b83-b2d4-84cccea2ff04/fec57c4d-d90a-4d93-9b6a-1fad733e3060",
       "director": [{
         "name": "Krzysztof Kieślowski",
-        "image": "https://i.guim.co.uk/img/static/sys-images/Film/Pix/pictures/2011/11/8/1320765328281/KRZYSZTOF-KIESLOWSKI-007.jpg?width=465&dpr=1&s=none",
+        "image": "./directors/KrzysztofKieślowski.avif",
         "imdb": "https://www.imdb.com/name/nm0001425/"
       }],
       "actors": [{
@@ -2624,7 +2624,7 @@
       "link": "https://play.max.com/video/watch/0ef41d6e-28d5-4285-9a14-4fc06389644e/8aef478d-8f71-446b-ae3f-e211e93ce43c",
       "director": [{
         "name": "Krzysztof Kieślowski",
-        "image": "https://i.guim.co.uk/img/static/sys-images/Film/Pix/pictures/2011/11/8/1320765328281/KRZYSZTOF-KIESLOWSKI-007.jpg?width=465&dpr=1&s=none",
+        "image": "./directors/KrzysztofKieślowski.avif",
         "imdb": "https://www.imdb.com/name/nm0001425/"
       }],
       "actors": [{
@@ -2647,7 +2647,7 @@
       "genre": ["drama", "horror", "mystery"],
       "director": [{
         "name": "David Lynch",
-        "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+        "image": "./directors/DavidLynch.jpg",
         "imdb": "https://www.imdb.com/name/nm0000186/"
       }],
       "actors": [{
@@ -2683,7 +2683,7 @@
       "link": "https://play.max.com/video/watch/d4aa9884-8e5c-40e7-957c-765ab733f35d/4ea720a1-eca0-4ae2-8608-35b910d9aaea",
       "director": [{
         "name": "David Lynch",
-        "image": "https://api.floodmagazine.com/wp-content/uploads/2022/06/David-Lynch.jpg",
+        "image": "./directors/DavidLynch.jpg",
         "imdb": "https://www.imdb.com/name/nm0000186/"
       }],
       "actors": [{
@@ -2718,7 +2718,7 @@
     "link": "https://play.max.com/video/watch/d6b9a9c4-f703-4208-b093-386f303b4044/e86fa8dd-8184-401e-b04f-a7568aa18e8d",
     "director": [{
     "name": "Greta Gerwig",
-    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSj7SUg_D8fi50Ndx9JNoGRmPuCqQQ21Mt8NDJD4FC5f_4zIjyZzEd5hOui0h5sxoroSQXqAOg672GUlPQ",
+    "image": "./directors/GretaGerwig.jpeg",
     "imdb": "https://www.imdb.com/name/nm1950086/"
     }],
     "actors": [{
@@ -2804,7 +2804,7 @@
     "link": "https://play.max.com/video/watch/d50c51e4-bed0-47b5-bba7-1b60a70be530/d09acd40-f3e3-4c15-9561-4d5478595229",
     "director": [{
     "name": "James Wan",
-    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcT1kOrdtnPCiiA7AldadFeviQPzkU5mJQcM5kyJw0J2AVy7aouA5p83YIExP5de2Kjrpdf6TbXLOQcsuvw",
+    "image": "./directors/JamesMangold.webp",
     "imdb": "https://www.imdb.com/name/nm1490123/"
     }],
     "actors": [{
@@ -3055,7 +3055,7 @@
       "link": "https://play.max.com/video/watch/caf76579-5688-4be4-917e-1dfd429d64db/3dffa6b5-8e39-48b1-85aa-a9e5f2d3d239",
       "director": [{
         "name": "James Mangold",
-        "image": "https://variety.com/wp-content/uploads/2023/02/mangold.jpg?w=1000",
+        "image": "./directors/JamesMangold.webp",
         "imdb": "https://www.imdb.com/name/nm0003506/"
       }],
       "actors": [{
@@ -3088,7 +3088,7 @@
       "link": "https://play.max.com/video/watch/11d5b179-6241-4a92-902d-86dc0bc5c1c9/e4b6945e-95f1-456e-8752-bfeb0da069a3",
       "director": [{
         "name": "Brian Levant",
-        "image": "https://static.wikia.nocookie.net/scoobydoo/images/3/33/Brian_Levant.png/revision/latest?cb=20130120182346",
+        "image": "whatMovie/whatMovie/public/directors/BrianLevant.webp",
         "imdb": "https://www.imdb.com/name/nm0505421/"
       }],
       "actors": [{
@@ -3121,7 +3121,7 @@
     "link": "https://play.max.com/video/watch/77f71d87-a131-4f11-af82-4a3e2598846d/01e6c36d-69d7-4156-b5d4-b4f808b8efc8",
     "director": [{
     "name": "Etan Coen",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTFkMjlkNWEtOWUxMS00MmQwLWJmOTMtNWI2NzAyMjliNGU4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "image": "./directors/EtanCoen.jpg",
     "imdb": "https://www.imdb.com/name/nm1000113/"
     }],
     "actors": [{
@@ -3213,7 +3213,7 @@
     "link": "https://play.max.com/video/watch/4cadafae-50e7-48f5-9d54-a1edb5eba849/1ca09bf2-8805-4992-bd29-9ba30a164a80",
     "director": [{
       "name": "Ben Wheatley",
-      "image": "https://miro.medium.com/v2/resize:fit:1200/1*3LHqGuCQXorll7fYrzDJPw.jpeg",
+      "image": "./directors/BenWheatley.jpg",
       "imdb": "https://www.imdb.com/name/nm1296554/?ref_=tt_ov_dr"
     }],
     "actors": [{
@@ -3269,7 +3269,7 @@
   "link": "https://play.max.com/video/watch/bc3fe7b7-4d02-4946-a12f-70423652ce70/b61f2246-c549-4fbc-b469-856736c58be8",
   "director": [{
     "name": "Karyn Kusama",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXn4w3Nw5Xxu77KUVwG1nSJI95Y5GYRlV4iUsqPvtADc2PycMd",
+    "image": "./directors/KarynKusama.jpeg",
     "imdb": "https://www.imdb.com/name/nm0473431/"
   }],
   "actors": [{
@@ -3299,12 +3299,12 @@
   "link": "https://play.max.com/video/watch/f27acb33-e442-4c4f-89db-1cd29c262d6f/8ef56b27-fb70-48d8-b2cd-b8a164b170ae",
   "director": [{
     "name": "Charlie Chaplin",
-    "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1638569170/211203-charlie-chaplin-banned-tease-02_mltfwd",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }],
   "actors": [{
     "name": "Charlie Chaplin",
-    "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1638569170/211203-charlie-chaplin-banned-tease-02_mltfwd",
+    "image": "./directors/CharlieChaplin.jpg",
     "imdb": "https://www.imdb.com/name/nm0000122/"
   }, {
     "name": "Virginia Cherrill",
@@ -3357,7 +3357,7 @@
   "genre": ["western", "classic"],
   "director": [{
     "name": "John Ford",
-    "image": "https://www.knowledge.ca/sites/default/files/Programs/John%20Ford%3A%20The%20Man%20Who%20Invented%20America/John%20Ford%20The%20Man%20Who%20Invented%20America.jpg",
+    "image": "./directors/JohnFord.jpg",
     "imdb": "https://www.imdb.com/name/nm0000406/"
   }],
   "actors": [{
@@ -3386,7 +3386,7 @@
   "link": "https://play.max.com/video/watch/c686e248-847c-4cdf-be43-704529a0263d/75163568-a089-44eb-9f08-9c39ca22180d",
   "director": [{
     "name": "Barry Sonnenfeld",
-    "image": "https://www.dga.org/-/media/Images/Landscape-Images/Visual-History/VH233-Sonnenfeld/Hero.ashx?as=1&h=630&mh=630&mw=1200&w=630&hash=F0B40D7546C1F506755BDB0E383635A97C6A1635?t=43",
+    "image": "./directors/BarrySonnenfeld.png",
     "imdb": "https://www.imdb.com/name/nm0001756/"
   }],
   "actors": [{
@@ -3416,7 +3416,7 @@
   "link": "https://play.max.com/video/watch/4348b149-4688-4032-a844-fbf40511c014/66d5918f-15c4-4cc7-b9fb-c7463630bbab",
   "director": [{
     "name": "Andrew Dominik",
-    "image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/8/8/7/1385887_andrewdominik_663615.jpg",
+    "image": "./directors/AndrewDominik.jpg",
     "imdb": "https://www.imdb.com/name/nm0235712/"
   }],
   "actors": [{
@@ -3543,7 +3543,7 @@
   "link": "https://play.max.com/video/watch/3f06ef4e-9319-4ea4-8773-62e04b89a479/848a8082-03e1-48a7-bb53-a17f87935029",
   "director": [{
     "name": "David Fincher",
-    "image": "https://www.premiumbeat.com/blog/wp-content/uploads/2022/11/featuredimage.jpg",
+    "image": "./directors/DavidFincher.webp",
     "imdb": "https://www.imdb.com/name/nm0000399/"
   }],
   "actors": [{
@@ -3603,7 +3603,7 @@
   "link": "https://play.max.com/video/watch/f3f5d52e-49a4-406d-bdd0-262fb0fbb1b6/57fb574b-2b6c-49d2-a376-17b71aec80f4",
   "director": [{
     "name": "Dennis Dugan",
-    "image": "https://vz.cnwimg.com/wp-content/uploads/2014/01/GettyImages-102356833.jpg",
+    "image": "./directors/DennisDugan.webp",
     "imdb": "https://www.imdb.com/name/nm0241187/"
   }],
   "actors": [{
@@ -3675,7 +3675,7 @@
   "link": "https://play.max.com/movie/0ccec63f-86ae-4c3d-967b-ab1dcd9b900e?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1011lyknzMwA",
   "director": [{
     "name": "Judd Apatow",
-    "image": "https://www.indiewire.com/wp-content/uploads/2020/09/AP_20026203886163.jpg?w=600&h=337&crop=1",
+    "image": "./directors/JuddApatow.webp",
     "imdb": "https://www.imdb.com/name/nm0031976/"
   }],
   "actors": [{
@@ -3735,7 +3735,7 @@
   "link": "https://play.max.com/video/watch/68f4c4a6-9fe4-4a68-addd-e8c432072a4f/27fb1707-8e38-433e-a352-cdaad9dfc7e5",
   "director": [{
     "name": "Ari Aster",
-    "image": "https://media.gq.com/photos/645021b7b9334d15567ae21c/3:2/w_3998,h_2665,c_limit/1481286424",
+    "image": "./directors/AriAster.webp",
     "imdb": "https://www.imdb.com/name/nm4583742/"
   }],
   "actors": [{
@@ -3765,7 +3765,7 @@
   "link": "https://play.max.com/video/watch/20ad7c25-cba0-49f5-af53-9cabeb0a8224/fba5c86f-e6b1-439f-9480-6ca19441ccf4",
   "director": [{
     "name": "George Miller",
-    "image": "https://i.guim.co.uk/img/media/8fe749ddb04112b5ad1aafedc97ca35fccb3f9c1/0_9_4068_2442/master/4068.jpg?width=700&quality=85&auto=format&fit=max&s=4a38fb96ec72ffdc63653e94b0b1188d",
+    "image": "./directors/GeorgeMiller.webp",
     "imdb": "https://www.imdb.com/name/nm0004306/"
   }],
   "actors": [{
@@ -3855,7 +3855,7 @@
   "link": "https://play.max.com/video/watch/d1e24a98-0c6d-40c7-b7df-294c3ddbd88e/8f802386-0438-4beb-a25c-40653662267a",
   "director": [{
     "name": "Alex Garland",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/img-1826bww2-1585163119.jpg",
+    "image": "./directors/AlexGarland.jpg",
     "imdb": "https://www.imdb.com/name/nm0307497/"
   }],
   "actors": [{
@@ -3971,7 +3971,7 @@
   "link": "https://play.max.com/video/watch/d12aee58-edd6-4311-aa6e-524eebf2b24d/3a6fe820-1a51-4c69-becd-a0d52d2e7d92",
   "director": [{
     "name": "Claire Denis",
-    "image": "https://i.guim.co.uk/img/media/089a06c37bed5ea3256c016688897e3ebf7e7d84/606_189_5535_3321/master/5535.jpg?width=1200&quality=85&auto=format&fit=max&s=e986e83404c0a98b4590a143c1245be9",
+    "image": "./directors/ClaireDenis.webp",
     "imdb": "https://www.imdb.com/name/nm0220400/"
   }],
   "actors": [{
@@ -4001,7 +4001,7 @@
   "link": "https://play.max.com/video/watch/db5c05b3-53b7-4623-a959-cc9a37396afd/9028da54-7104-439d-bd1d-9db700607463",
   "director": [{
     "name": "Jonathan Glazer",
-    "image": "https://i.guim.co.uk/img/media/b99bf765b3b7c4b0155400107922709532845142/0_224_6720_4032/master/6720.jpg?width=465&dpr=1&s=none",
+    "image": "./directors/JonathanGlazer.avif",
     "imdb": "https://www.imdb.com/name/nm0327273/"
   }],
   "actors": [{
@@ -4053,7 +4053,7 @@
   "link": "https://play.max.com/video/watch/cdada3cc-ba06-43c4-be32-f5cdb4a8b486/60b3463a-6622-40cb-84f7-797343f94ba5",
   "director": [{
     "name": "David Cronenberg",
-    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/10/1410353449685/David-Cronenberg-portrait-014.jpg?width=700&quality=85&auto=format&fit=max&s=3b7a7a87ea2cad648b83e731b3f44343",
+    "image": "./directors/DavidCronenberg.webp",
     "imdb": "https://www.imdb.com/name/nm0000343/"
   }],
   "actors": [{
@@ -4171,12 +4171,12 @@
   "genre": ["drama"],
   "director": [{
     "name": "Clint Eastwood",
-      "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+      "image": "./public/directors/ClintEastwood.png",
       "imdb": "https://www.imdb.com/name/nm0000142/"
   }],
   "actors": [{
     "name": "Clint Eastwood",
-    "image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+    "image": "./public/directors/ClintEastwood.png",
     "imdb": "https://www.imdb.com/name/nm0000142/"
   }, {
     "name": "Bee Vang",
@@ -4295,7 +4295,7 @@
   "link": "https://play.max.com/movie/7c6c3dba-960e-4528-9a57-d9c7ee853abc",
   "director": [{
     "name": "John Hughes",
-    "image": "https://i.guim.co.uk/img/static/sys-images/Film/Pix/pictures/2009/8/7/1249633934042/John-Hughes-photographed--002.jpg?width=465&dpr=1&s=none",
+    "image": "./directors/JohnHughes.avif",
     "imdb": "https://www.imdb.com/name/nm0000455/"
   }],
   "actors": [{
@@ -4355,7 +4355,7 @@
   "link": "https://play.max.com/movie/47aeb4cc-f16c-49f1-88b3-5631b89d8c67",
   "director": [{
     "name": "James Mangold",
-    "image": "https://www.indiewire.com/wp-content/uploads/2020/08/AP_20027819581673.jpg",
+    "image": "./directors/JamesMangold.webp",
     "imdb": "https://www.imdb.com/name/nm0003506/"
   }],
   "actors": [{
@@ -4451,7 +4451,7 @@
   "link": "https://play.max.com/movie/523ee217-18b6-455e-85c0-064b1be00640",
   "director": [{
     "name": "Jerry Zucker",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTMyNDAyNDkyN15BMl5BanBnXkFtZTcwODA0NjgwMw@@._V1_.jpg",
+    "image": "./directors/JerryZucker.jpg",
     "imdb": "https://www.imdb.com/name/nm0958586/"
   }],
   "actors": [{
@@ -4511,7 +4511,7 @@
   "link": "https://play.max.com/movie/0ac4d16b-ba02-4d56-ad31-f5e46e3711d6",
   "director": [{
     "name": "David S. Ward",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjA4MjA1ODI2M15BMl5BanBnXkFtZTcwMzc2ODgwMw@@._V1_.jpg",
+    "image": "./directors/DavidSWard.jpg",
     "imdb": "https://www.imdb.com/name/nm0912050/"
   }],
   "actors": [{
@@ -4569,12 +4569,12 @@
       {
         "name": "Ethan Coen",
         "IMDB": "https://www.imdb.com/name/nm0001054/",
-        "image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+        "image": "./public/directors/EthanCoen.webp"
       },
       {
         "name": "Joel Coen",
         "IMDB": "https://www.imdb.com/name/nm0001053/",
-        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+        "image": "./directors/JoelCoen.jpg"
       }
     ],
     "actors": [
@@ -4614,7 +4614,7 @@
       {
         "name": "Alejandro González Iñárritu",
         "IMDB": "https://www.imdb.com/name/nm0327944/",
-        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/13/14/Alejandro-G-Inarritu-DGAs.jpg"
+        "image": "./directors/AlejandroGonzálezIñárritu.avif"
       }
     ],
     "actors": [

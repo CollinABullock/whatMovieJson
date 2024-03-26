@@ -808,7 +808,7 @@
 		"director": [
 			{
 				"name": "Clint Eastwood",
-				"image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+				"image": "./public/directors/ClintEastwood.png",
 				"imdb": "https://www.imdb.com/name/nm0000142/"
 			}
 		],
@@ -846,7 +846,7 @@
 		"director": [
 			{
 				"name": "David Fincher",
-				"image": "https://www.premiumbeat.com/blog/wp-content/uploads/2022/11/featuredimage.jpg",
+				"image": "./directors/DavidFincher.webp",
 				"imdb": "https://www.imdb.com/name/nm0000399/"
 			}
 		],
@@ -884,7 +884,7 @@
 		"director": [
 			{
 				"name": "David Fincher",
-				"image": "https://www.premiumbeat.com/blog/wp-content/uploads/2022/11/featuredimage.jpg",
+				"image": "./directors/DavidFincher.webp",
 				"imdb": "https://www.imdb.com/name/nm0000399/"
 			}
 		],
@@ -1143,7 +1143,7 @@
 		"director": [
 			{
 				"name": "Ben Wheatley",
-				"image": "https://miro.medium.com/v2/resize:fit:1200/1*3LHqGuCQXorll7fYrzDJPw.jpeg",
+				"image": "./directors/BenWheatley.jpg",
 				"imdb": "https://www.imdb.com/name/nm1296554/?ref_=tt_ov_dr"
 			}
 		],
@@ -2344,12 +2344,12 @@
   "genre": ["western", "action"],
   "director": [{
     "name": "Clint Eastwood",
-  "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+  "image": "./public/directors/ClintEastwood.png",
   "imdb": "https://www.imdb.com/name/nm0000142/"
   }],
   "actors": [{
     "name": "Clint Eastwood",
-  "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+  "image": "./public/directors/ClintEastwood.png",
   "imdb": "https://www.imdb.com/name/nm0000142/"
   }, {
     "name": "Verna Bloom",
@@ -2375,12 +2375,12 @@
   "genre": ["drama", "thriller"],
   "director": [{
     "name": "Clint Eastwood",
-  "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+  "image": "./public/directors/ClintEastwood.png",
   "imdb": "https://www.imdb.com/name/nm0000142/"
   }],
   "actors": [{
     "name": "Clint Eastwood",
-  "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+  "image": "./public/directors/ClintEastwood.png",
   "imdb": "https://www.imdb.com/name/nm0000142/"
   }, {
     "name": "Jessica Walter",
@@ -2891,7 +2891,7 @@
 		"director": [
 			{
 				"name": "Alfonso Cuarón",
-				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEPp10vDSnxNHdr87jtOCpuRVWbhHQfhY3WmcTiz3U_EABIYK",
+				"image": "./directors/AlfonsoCuaron.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0190859/"
 			}
 		],
@@ -3305,7 +3305,7 @@
 		"director": [
 			{
 				"name": "Andrew Dominik",
-				"image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/8/8/7/1385887_andrewdominik_663615.jpg",
+				"image": "./directors/AndrewDominik.jpg",
 				"imdb": "https://www.imdb.com/name/nm0235712/"
 			}
 		],
@@ -3382,7 +3382,7 @@
 		"director": [
 			{
 				"name": "Brian Levant",
-				"image": "https://static.wikia.nocookie.net/scoobydoo/images/3/33/Brian_Levant.png/revision/latest?cb=20130120182346",
+				"image": "./directors/BrianLevant.webp",
 				"imdb": "https://www.imdb.com/name/nm0505152/?ref_=tt_ov_dr"
 			}
 		],
@@ -4579,7 +4579,7 @@
 		"director": [
 			{
 				"name": "Bong Joon Ho",
-				"image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-01/240112-bong-joon-ho-mn-1020-75b530.jpg",
+				"image": "./public/directors/BongJoonHo.webp",
 				"imdb": "https://www.imdb.com/name/nm0094435/"
 			}
 		],
@@ -4618,7 +4618,7 @@
 		"director": [
 			{
 				"name": "Bong Joon Ho",
-				"image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-01/240112-bong-joon-ho-mn-1020-75b530.jpg",
+				"image": "./public/directors/BongJoonHo.webp",
 				"imdb": "https://www.imdb.com/name/nm0094435/"
 			}
 		],
@@ -4693,14 +4693,14 @@
 		"director": [
 			{
 				"name": "Clint Eastwood",
-				"image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+				"image": "./public/directors/ClintEastwood.png",
 				"imdb": "https://www.imdb.com/name/nm0000142/"
 			}
 		],
 		"actors": [
 			{
 				"name": "Clint Eastwood",
-				"image": "https://hips.hearstapps.com/esquire/assets/16/31/1470229441-screen-shot-2016-08-03-at-85600-am.png",
+				"image": "./public/directors/ClintEastwood.png",
 				"imdb": "https://www.imdb.com/name/nm0000142/"
 			},
 			{
@@ -5433,12 +5433,12 @@
 			{
 				"name": "Ethan Coen",
 				"IMDB": "https://www.imdb.com/name/nm0001054/",
-				"image": "https://variety.com/wp-content/uploads/2023/04/ethan-coen.jpg?w=1000"
+				"image": "./public/directors/EthanCoen.webp"
 			},
 			{
 				"name": "Joel Coen",
 				"IMDB": "https://www.imdb.com/name/nm0001053/",
-				"image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+				"image": "./directors/JoelCoen.jpg"
 			}
 		],
 		"actors": [
@@ -5511,7 +5511,7 @@
 		"genre": ["comedy", "romance"],
 		"director": [{
 			"name": "Judd Apatow",
-			"image": "https://decider.com/wp-content/uploads/2015/08/judd-apatow-go-wrong1.png",
+			"image": "./directors/JuddApatow.webp",
 			"imdb": "https://www.imdb.com/name/nm0031976/"
 		}],
 		"actors": [{
@@ -5576,7 +5576,7 @@
 		"genre": ["comedy", "drama", "romance"],
 		"director": [{
 			"name": "Judd Apatow",
-			"image": "https://decider.com/wp-content/uploads/2015/08/judd-apatow-go-wrong1.png",
+			"image": "./directors/JuddApatow.webp",
 			"imdb": "https://www.imdb.com/name/nm0031976/"
 		}],
 		"actors": [{

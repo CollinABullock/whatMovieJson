@@ -11,7 +11,7 @@
   "link": "https://tv.apple.com/us/movie/knocked-up/umc.cmc.36hi9617brg8k13a621zfxnkr?action=play",
   "director": [{
   "name": "Judd Apatow",
-  "image": "https://www.indiewire.com/wp-content/uploads/2020/09/AP_20026203886163.jpg?w=600&h=337&crop=1",
+  "image": "./directors/JuddApatow.webp",
   "imdb": "https://www.imdb.com/name/nm0031976/"
   }],
   "actors": [{
@@ -39,7 +39,7 @@
     "genre": ["drama", "mystery", "science-fiction", "history"],
     "director": [{
       "name": "Christopher Nolan",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+      "image": "./directors/ChristopherNolan.jpg",
       "imdb": "https://www.imdb.com/name/nm0634240/"
     }],
     "actors": [{
@@ -79,7 +79,7 @@
   "genre": ["drama", "comedy", "action"],
   "director": [{
     "name": "David Fincher",
-      "image": "https://www.premiumbeat.com/blog/wp-content/uploads/2022/11/featuredimage.jpg",
+      "image": "./directors/DavidFincher.webp",
       "imdb": "https://www.imdb.com/name/nm0000399/"
   }],
   "actors": [{
@@ -114,7 +114,7 @@
       {
         "name": "Joel Coen",
         "IMDB": "https://www.imdb.com/name/nm0001053/",
-        "image": "https://www.indiewire.com/wp-content/uploads/2022/01/Joel-Coen.jpg"
+        "image": "./directors/JoelCoen.jpg"
       }
     ],
     "actors": [
@@ -551,7 +551,7 @@
   "link": "https://tv.apple.com/us/movie/gravity/umc.cmc.6drvg8zg02248k7sipdbwicgh?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
   "director": [{
   "name": "Alfonso Cuarón",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEPp10vDSnxNHdr87jtOCpuRVWbhHQfhY3WmcTiz3U_EABIYK",
+  "image": "./directors/AlfonsoCuaron.jpeg",
   "imdb": "https://www.imdb.com/name/nm0190859/"
   }],
   "actors": [{
@@ -675,7 +675,7 @@
     "director": [
       {
         "name": "Barry Sonnenfeld",
-        "image": "https://i0.wp.com/filmtalk.org/wp-content/uploads/2022/10/l1180919-barry-sonnenfeld-750-c1.jpg?fit=750%2C527&ssl=1",
+        "image": "./directors/BarrySonnenfeld.png",
         "imdb": "https://www.imdb.com/name/nm0001756/"
       }
     ],
