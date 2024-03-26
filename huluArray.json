@@ -468,7 +468,7 @@
   "genre": ["crime", "drama"],
   "director": [{
     "name": "Martin Scorcese",
-    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
+    "image": "./directors/MartinScorcese.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000217/"
   }],
   "actors": [{
@@ -1271,7 +1271,7 @@
 "director": [
   {
     "name": "Leonard Nimoy",
-    "image": "https://static01.nyt.com/images/2015/02/28/arts/28nimoy_video_hp/28nimoy_video_hp-superJumbo.jpg",
+    "image": "./directors/LeonardNimoy.jpg",
     "imdb": "https://www.imdb.com/name/nm0000559/"
   }
 ],
@@ -1286,7 +1286,7 @@
   "imdb": "https://www.imdb.com/name/nm0001420/"
 }, {
   "name": "Leonard Nimoy",
-  "image": "https://static01.nyt.com/images/2015/02/28/arts/28nimoy_video_hp/28nimoy_video_hp-superJumbo.jpg",
+  "image": "./directors/LeonardNimoy.jpg",
   "imdb": "https://www.imdb.com/name/nm0000559/"
 },
   {
@@ -3823,7 +3823,7 @@
   "director": [
     {
       "name": "Martin Scorcese",
-        "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
+        "image": "./directors/MartinScorcese.jpeg",
         "imdb": "https://www.imdb.com/name/nm0000217/"
     }
   ],

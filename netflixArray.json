@@ -769,7 +769,7 @@
 		"director": [
 			{
 				"name": "Martin Scorcese",
-				"image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
+				"image": "./directors/MartinScorcese.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000217/"
 			}
 		],
@@ -1176,7 +1176,7 @@
 		"director": [
 			{
 				"name": "Luc Besson",
-				"image": "https://deadline.com/wp-content/uploads/2023/12/Luc-Besson.jpg",
+				"image": "./directors/LucBesson.webp",
 				"imdb": "https://www.imdb.com/name/nm0000108/"
 			}
 		],
@@ -3037,7 +3037,7 @@
 		"director": [
 			{
 				"name": "Martin Scorcese",
-				"image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
+				"image": "./directors/MartinScorcese.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000217/"
 			}
 		],
@@ -5411,7 +5411,7 @@
 		"link": "https://www.netflix.com/title/80221016",
 		"director": [{
 			"name": "Martin Scorcese",
-				"image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
+				"image": "./directors/MartinScorcese.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000217/"
 		}],
 		"actors": [{

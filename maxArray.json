@@ -211,7 +211,7 @@
   "genre": ["action", "comedy", "crime"],
   "director": [{
     "name": "Luc Besson",
-				"image": "https://deadline.com/wp-content/uploads/2023/12/Luc-Besson.jpg",
+				"image": "./directors/LucBesson.webp",
 				"imdb": "https://www.imdb.com/name/nm0000108/"
   }],
   "actors": [{
@@ -1041,7 +1041,7 @@
         "imdb": "https://www.imdb.com/name/nm0001420/"
       }, {
         "name": "Leonard Nimoy",
-        "image": "https://static01.nyt.com/images/2015/02/28/arts/28nimoy_video_hp/28nimoy_video_hp-superJumbo.jpg",
+        "image": "./directors/LeonardNimoy.jpg",
         "imdb": "https://www.imdb.com/name/nm0000559/"
       },
         {
@@ -1068,7 +1068,7 @@
       "link": "https://play.max.com/movie/5fa4fb60-6bfb-453e-a777-fbce372c5d01",
       "director": [{
         "name": "Martin Scorcese",
-        "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR1NJymJZn54PqU9sumBPD-jjHCZUugpfGsKqTYXfoQnuVnXu4isGUtC7ghUZwG2DWZq02eAdGG5bgNeUE",
+        "image": "./directors/MartinScorcese.jpeg",
         "imdb": "https://www.imdb.com/name/nm0000217/"
       }],
       "actors": [{
@@ -1815,7 +1815,7 @@
     "link": "https://play.max.com/video/watch/f2aefcde-cf58-4b85-98f5-04706d476d0e/98744d74-b061-4f57-8499-46c127c8e051",
     "director": [{
     "name": "Leonard Nimoy",
-    "image": "https://static01.nyt.com/images/2015/02/28/arts/28nimoy_video_hp/28nimoy_video_hp-superJumbo.jpg",
+    "image": "./directors/LeonardNimoy.jpg",
     "imdb": "https://www.imdb.com/name/nm0000559/"
     }],
     "actors": [{
@@ -1828,7 +1828,7 @@
       "imdb": "https://www.imdb.com/name/nm0001420/"
     }, {
       "name": "Leonard Nimoy",
-      "image": "https://static01.nyt.com/images/2015/02/28/arts/28nimoy_video_hp/28nimoy_video_hp-superJumbo.jpg",
+      "image": "./LeonardNimoy.jpg",
       "imdb": "https://www.imdb.com/name/nm0000559/"
     }]
     },
@@ -3027,7 +3027,7 @@
       "link": "https://play.max.com/video/watch/7f2db461-0630-4cff-8096-45e5fac59c4b/e9e22d91-126c-426d-ad1c-2bcfe9799800",
       "director": [{
         "name": "Mark Waters",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/09/mark_waters_-_h_2015.jpg?w=1024",
+        "image": "./directors/MarkWaters.webp",
         "imdb": "https://www.imdb.com/name/nm0914578/"
       }],
       "actors": [{

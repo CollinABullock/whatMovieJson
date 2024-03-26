@@ -309,7 +309,7 @@
   "genre": ["comedy", "teen"],
   "director": [{
     "name": "Mark Waters",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/09/mark_waters_-_h_2015.jpg?w=1024",
+    "image": "./directors/MarkWaters.webp",
     "imdb": "https://www.imdb.com/name/nm0915142/"
   }],
   "actors": [{
@@ -514,7 +514,7 @@
     "director": [
       {
         "name": "Martin Scorcese",
-        "IMDB": "https://www.imdb.com/name/nm0000217/",
+        "IMDB": "./directors/MartinScorcese.jpeg",
         "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTgxmrD95LLqwPfKlKpT48OKbm-qqBRf8pueMN6v6ZhMRnJ_mOQnCcmQuq8c9-4dffpAcbn-mj7uAMHbpo"
       }
     ],
