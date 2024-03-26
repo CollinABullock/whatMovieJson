@@ -808,7 +808,7 @@
 		"director": [
 			{
 				"name": "Clint Eastwood",
-				"image": "./public/directors/ClintEastwood.png",
+				"image": "./directors/ClintEastwood.png",
 				"imdb": "https://www.imdb.com/name/nm0000142/"
 			}
 		],
@@ -2344,12 +2344,12 @@
   "genre": ["western", "action"],
   "director": [{
     "name": "Clint Eastwood",
-  "image": "./public/directors/ClintEastwood.png",
+  "image": "./directors/ClintEastwood.png",
   "imdb": "https://www.imdb.com/name/nm0000142/"
   }],
   "actors": [{
     "name": "Clint Eastwood",
-  "image": "./public/directors/ClintEastwood.png",
+  "image": "./directors/ClintEastwood.png",
   "imdb": "https://www.imdb.com/name/nm0000142/"
   }, {
     "name": "Verna Bloom",
@@ -2375,12 +2375,12 @@
   "genre": ["drama", "thriller"],
   "director": [{
     "name": "Clint Eastwood",
-  "image": "./public/directors/ClintEastwood.png",
+  "image": "./directors/ClintEastwood.png",
   "imdb": "https://www.imdb.com/name/nm0000142/"
   }],
   "actors": [{
     "name": "Clint Eastwood",
-  "image": "./public/directors/ClintEastwood.png",
+  "image": "./directors/ClintEastwood.png",
   "imdb": "https://www.imdb.com/name/nm0000142/"
   }, {
     "name": "Jessica Walter",
@@ -4693,14 +4693,14 @@
 		"director": [
 			{
 				"name": "Clint Eastwood",
-				"image": "./public/directors/ClintEastwood.png",
+				"image": "./directors/ClintEastwood.png",
 				"imdb": "https://www.imdb.com/name/nm0000142/"
 			}
 		],
 		"actors": [
 			{
 				"name": "Clint Eastwood",
-				"image": "./public/directors/ClintEastwood.png",
+				"image": "./directors/ClintEastwood.png",
 				"imdb": "https://www.imdb.com/name/nm0000142/"
 			},
 			{

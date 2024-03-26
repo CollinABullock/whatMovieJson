@@ -959,12 +959,12 @@
   "genre": ["western", "drama"],
   "director": [{
     "name": "Clint Eastwood",
-    "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+    "image": "./directors/ClintEastwood.png",
     "imdb": "https://www.imdb.com/name/nm0000142/"
   }],
   "actors": [{
     "name": "Clint Eastwood",
-    "image": "https://americanhatmakers.com/cdn/shop/articles/clint-eastwood-cowboy-fistful-dollars.webp?v=1681948384",
+    "image": "./directors/ClintEastwood.png",
     "imdb": "https://www.imdb.com/name/nm0000142/"
   }, {
     "name": "Gene Hackman",

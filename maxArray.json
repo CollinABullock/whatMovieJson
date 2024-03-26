@@ -4171,7 +4171,7 @@
   "genre": ["drama"],
   "director": [{
     "name": "Clint Eastwood",
-      "image": "./public/directors/ClintEastwood.png",
+      "image": "./directors/ClintEastwood.png",
       "imdb": "https://www.imdb.com/name/nm0000142/"
   }],
   "actors": [{
