@@ -876,7 +876,7 @@
       "genre": ["comedy", "drama", "romance"],
       "director": [{
         "name": "Nicholas Stoller",
-        "image": "https://www.indiewire.com/wp-content/uploads/2012/04/2012_the_five_year_engagement_nicholas-stoller-feature.jpg?w=600&h=337&crop=1",
+        "image": "./directors/NicholasStoller.webp",
         "imdb": "https://www.imdb.com/name/nm0831556/"
       }],
       "actors": [{
@@ -1496,13 +1496,13 @@
       "year": 2003,
       "runtime": 201,
       "mpaa": "PG-13",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/ad704585-6774-4d37-8c61-1bd41154173f/893d52c9771f2390e0166a1eba386ccbf68cd488.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/TheReturnOfTheKing.avif",
       "description": "Frodo and Sam march toward Mount Doom to destroy the Ring while Gandalf, Aragorn and their allies prepare for a final confrontation at the Black Gate.",
 	"genre": ["fantasy", "action", "drama"],
     "link": "https://play.max.com/movie/ad704585-6774-4d37-8c61-1bd41154173f",
     "director": [{
       "name": "Peter Jackson",
-    "image": "https://deadline.com/wp-content/uploads/2023/02/peter-jackson-Philippa-boyens-fran-walsh.jpg?w=1024",
+    "image": "./directors/PeterJackson.webp",
     "imdb": "https://www.imdb.com/name/nm0001392/"
     }],
     "actors": [{
@@ -2013,13 +2013,13 @@
       "year": 2007,
       "runtime": 116,
       "mpaa": "PG-13",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/93472ca1-5b9a-4ca0-afd5-95ca5ce028b9/2775a71eed8f49631eb86bf84b3ac8f1f84fbcfc.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "poster": "./posters/max/TheBourneUltimatum.avif",
       "description": "The third installment in the Bourne series finds Matt Damon as the rogue CIA agent who is still in search of his true identity.",
 	"genre": ["action", "spy", "sequel"],
     "link": "https://play.max.com/video/watch/e7eb7136-f3e2-4b70-873a-8cec7e68e9f6/51adaae2-0839-42cd-b4bb-46afd61c36d5",
     "director": [{
     "name": "Paul Greengrass",
-    "image": "https://variety.com/wp-content/uploads/2018/09/paul-greengrass-22_july_3665.jpg?crop=0px%2C0px%2C1000px%2C563px&resize=1000%2C563",
+    "image": "./directors/PaulGreengrass.webp",
     "imdb": "https://www.imdb.com/name/nm0339030/"
     }],
     "actors": [{
@@ -2516,7 +2516,7 @@
   "link": "https://play.max.com/video/watch/be42b023-2dbe-4a70-94e4-518fee70355b/e2dbdf29-0444-4321-a02b-aeca5e1a0041",
   "director": [{
     "name": "Mike Judge",
-    "image": "https://cdn.britannica.com/07/234507-050-5C9E25C1/Mike-Judge-2018-animator.jpg",
+    "image": "./directors/MikeJudge.webp",
     "imdb": "https://www.imdb.com/name/nm0431918/"
   }],
   "actors": [{
@@ -2961,7 +2961,7 @@
       "link": "https://play.max.com/video/watch/a300dab3-e6ac-4c4b-8250-b4b30a886069/d6c5af05-0136-42b1-820e-ef681dd56135",
       "director": [{
         "name": "Michael Curtiz",
-        "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/L3A3TSUEMLYW2CT3ZDPR5HFLGY.jpg",
+        "image": "./directors/MichaelCurtiz.jpg",
         "imdb": "https://www.imdb.com/name/nm0002031/"
       }],
       "actors": [{
@@ -2988,18 +2988,18 @@
       "year": 1941,
       "runtime": 119,
       "mpaa": "PG",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/c22bc8a9-d92d-4a6c-9571-407cdf3244a6/966a71b5d167f35bb98a0f3ea5dbb9e43f65eabb.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "poster": "./posters/max/CitizenKane.avif",
       "description": "Citizen Kane is a landmark American film directed by Orson Welles. It tells the story of the rise and fall of newspaper magnate Charles Foster Kane, as seen through the eyes of those who knew him. Through innovative narrative techniques and stunning cinematography, the film explores themes of power, ambition, and the human condition.",
       "genre": ["drama", "mystery", "classic"],
       "link": "https://play.max.com/video/watch/423a4e9d-141e-44c3-9f8c-8bd34b182f08/6c01d5eb-7b1c-4204-8918-62600058833f",
       "director": [{
         "name": "Orson Welles",
-        "image": "https://images.csmonitor.com/csm/2019/03/0408-LRAINER%20ORSONWELLES.jpg?alias=standard_900x600",
+        "image": "./directors/OrsonWelles.jpg",
         "imdb": "https://www.imdb.com/name/nm0000080/"
       }],
       "actors": [{
           "name": "Orson Welles",
-          "image": "https://images.csmonitor.com/csm/2019/03/0408-LRAINER%20ORSONWELLES.jpg?alias=standard_900x600",
+          "image": "./directors/OrsonWelles.jpg",
           "imdb": "https://www.imdb.com/name/nm0000080/"
         },
         {
@@ -3175,13 +3175,13 @@
       "year": 2008,
       "runtime": 110,
       "mpaa": "PG-13",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/04a33afd-0f4b-4e7b-8526-5c6da81e71a9/f4942e9cf925ade16eb85c6c2510f890fae93298.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500",
+      "poster": "./posters/max/GetSmart.avif",
       "description": "A newly promoted field agent, partnered with veteran Agent 99, blends inexperience, enthusiasm and ineptitude as he battles against KAOS.",
 	"genre": ["comedy", "spy"],
     "link": "https://play.max.com/video/watch/a852dd5a-8d1e-4874-b4ff-cea6ae404840/1d42bc96-9da5-445e-8f15-53bac6b95c9c",
     "director": [{
     "name": "Peter Segal",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Peter_Segal_WonderCon2008.jpg/1200px-Peter_Segal_WonderCon2008.jpg",
+    "image": "./directors/PeterSegal.jpg",
     "imdb": "https://www.imdb.com/name/nm0781842/"
     }],
     "actors": [{
@@ -3325,7 +3325,7 @@
   "link": "https://play.max.com/video/watch/6827b8a7-1199-4d6f-92f8-da1aed028874/5fafb837-07e3-4047-8f09-cccb14557a93",
   "director": [{
     "name": "Noah Baumbach",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLe374BJWRV1p48CQ_6-3lKN_QoBFIODzXmxeSmvdsZ0JDPnQR",
+    "image": "./directors/NoahBaumbauch.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000876/"
   }],
   "actors": [{
@@ -3477,13 +3477,13 @@
   "year": 1987,
   "runtime": 102,
   "mpaa": "R",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/aca325cd-8b68-470f-abf9-86e15097fc70/a3b2ab28e6e5dc4d21cb41326b784f3d2b385305.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/RoboCop.avif",
   "description": "Alex Murphy is a Detroit police officer who is brutally murdered and subsequently revived by the Omni Consumer Products (OCP) corporation as a cyborg law enforcement officer known as Robocop. As Robocop, Murphy must navigate corruption within the police force and take on powerful criminals to uphold justice in the city.",
   "genre": ["action", "science-fiction", "crime", "comedy"],
   "link": "https://play.max.com/video/watch/668caad6-5d65-477f-a0db-f971c9e88ca7/9ffe1a87-9f46-4afb-a118-7dd2f0afbaa7",
   "director": [{
     "name": "Paul Verhoeven",
-    "image": "https://deadline.com/wp-content/uploads/2016/11/elle-e1638963982120.jpg?w=1024",
+    "image": "./directors/PaulVerhoeven.webp",
     "imdb": "https://www.imdb.com/name/nm0000682/"
   }],
   "actors": [{
@@ -3885,7 +3885,7 @@
   "link": "https://play.max.com/movie/e8042796-7a15-4cb7-b784-d237e81626fb",
   "director": [{
     "name": "M. Night Shyamalan",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTczMTA5OTMxMl5BMl5BanBnXkFtZTcwMDA4NDg1Mw@@._V1_.jpg",
+    "image": "./public/directors/MNightShymalan.jpg",
     "imdb": "https://www.imdb.com/name/nm0796117/"
   }],
   "actors": [{
@@ -3911,7 +3911,7 @@
   "link": "https://play.max.com/video/watch/9360450d-aa36-4d01-bd3f-348b9dca4ab3/4db49c20-6544-4d3a-aff6-daab0333fdd0",
   "director": [{
     "name": "Nancy Meyers",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-7XOSTxO9HmtnZfGP7VaqFLTnJXAXJC4d8SS5rZ_OzJAAz6-",
+    "image": "./directors/NancyMyers.jpeg",
     "imdb": "https://www.imdb.com/name/nm0583600/"
   }],
   "actors": [{
@@ -4077,13 +4077,13 @@
   "title": "The Lord of the Rings: The Fellowship of the Ring",
   "runtime": 178,
   "mpaa": "PG-13",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/fb9f961f-6302-4776-91d7-f1b7a69fb61d/8ae9819ac2745bda10913cf6c517e8870d710959.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/TheFellowshipOfTheRing.avif",
   "description": "In 'The Lord of the Rings: The Fellowship of the Ring', Frodo Baggins, a young hobbit, inherits a powerful ring from his uncle, Bilbo. Realizing the ring's malevolent influence, Frodo embarks on a perilous journey to destroy it in the fires of Mount Doom. Along with a diverse fellowship comprising humans, elves, dwarves, and wizards, Frodo faces numerous trials and battles against dark forces determined to reclaim the ring.",
   "genre": ["action", "fantasy"],
   "link": "https://play.max.com/video/watch/44154a70-ac47-4ac7-a2d4-01a57609dec2/8cc106b7-5d78-4bf7-b6b9-67ca69f65dbd",
   "director": [{
     "name": "Peter Jackson",
-    "image": "https://deadline.com/wp-content/uploads/2023/02/peter-jackson-Philippa-boyens-fran-walsh.jpg?w=1024",
+    "image": "./directors/PeterJackson.webp",
     "imdb": "https://www.imdb.com/name/nm0001392/"
   }],
   "actors": [{
@@ -4107,13 +4107,13 @@
   "year": 2002,
   "runtime": 179,
   "mpaa": "PG-13",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1b73bd19-1229-4e5f-986a-ae38ac0f5476/d9e80f2d407361c6c36c8265ffad7d050e5b5293.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/TheTwoTowers.avif",
   "description": "In 'The Lord of the Rings: The Two Towers', the fellowship is scattered after the events of the first film, with Frodo and Sam continuing their journey to Mount Doom while Aragorn, Legolas, and Gimli aid in the defense of Rohan against Saruman's forces. Meanwhile, Merry and Pippin encounter the Ents and play a crucial role in the battle against Isengard.",
   "genre": ["action", "fantasy"],
   "link": "https://play.max.com/video/watch/586a17ef-d09d-49d6-806c-22f8329979ca/27fcd1bb-b34e-406f-89f7-dd9f324bbb4b",
   "director": [{
     "name": "Peter Jackson",
-    "image": "https://deadline.com/wp-content/uploads/2023/02/peter-jackson-Philippa-boyens-fran-walsh.jpg?w=1024",
+    "image": "./directors/PeterJackson.webp",
     "imdb": "https://www.imdb.com/name/nm0001392/"
   }],
   "actors": [{
@@ -4143,7 +4143,7 @@
   "link": "https://play.max.com/video/watch/05ca6f71-a1bb-4985-b4f5-8d36e718af08/40f1e5d1-02eb-43b9-bacd-bf271eadbe22",
   "director": [{
     "name": "Mel Brooks",
-    "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/01/1140-mel-brooks-2016.jpg",
+    "image": "./directors/MelBrooks.jpg",
     "imdb": "https://www.imdb.com/name/nm0000316/?ref_=tt_ov_dr"
   }],
   "actors": [{
@@ -4204,12 +4204,12 @@
   "link": "https://play.max.com/video/watch/aa2e17f8-0fa0-4c73-95bf-f07b23771cef/0272f601-dbdb-49f7-8006-7a7e9bf45e1b",
   "director": [{
     "name": "Mel Brooks",
-    "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/01/1140-mel-brooks-2016.jpg",
+    "image": "./directors/MelBrooks.jpg",
     "imdb": "https://www.imdb.com/name/nm0000316/?ref_=tt_ov_dr"
   }],
   "actors": [{
     "name": "Mel Brooks",
-    "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/01/1140-mel-brooks-2016.jpg",
+    "image": "./directors/MelBrooks.jpg",
     "imdb": "https://www.imdb.com/name/nm0000316/?ref_=tt_ov_dr"
   }, {
     "name": "John Candy",

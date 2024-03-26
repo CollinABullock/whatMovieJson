@@ -750,7 +750,7 @@
   "director": [{
     "name": "Paul Verhoeven",
     "imdb": "https://www.imdb.com/name/nm0000682/",
-    "image": "https://assets.mubicdn.net/images/notebook/post_images/22113/images-w1400.jpg?1474378595"
+    "image": "./directors/PaulVerhoeven.webp"
   }],
   "actors": [{
     "name": "Elizabeth Berkley",
@@ -766,7 +766,7 @@
     "image": "https://imageio.forbes.com/specials-images/dam/imageserve/915965390/960x0.jpg?height=474&width=711&fit=bounds"
   }],
   "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/showgirls",
-  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/ab2590c4-8776-4f95-ab75-5a5d7057c017.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+  "poster": "./posters/criterion/ShowGirls.avif"
 },
 
 {

@@ -1986,7 +1986,7 @@
   "link": "https://www.peacocktv.com/watch-online/movies/split/6c53db9d-49fa-317b-b99d-dbb3f9c75628",
   "director": [{
     "name": "M. Night Shyamalan",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTczMTA5OTMxMl5BMl5BanBnXkFtZTcwMDA4NDg1Mw@@._V1_.jpg",
+    "image": "./public/directors/MNightShymalan.jpg",
     "imdb": "https://www.imdb.com/name/nm0796117/"
   }],
   "actors": [{
