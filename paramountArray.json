@@ -490,7 +490,7 @@
   "genre": ["crime", "drama"],
   "director": [{
     "name": "Sergio Leone",
-    "image": "https://www.sensesofcinema.com/wp-content/uploads/2002/10/Sergio-Leone.png",
+    "image": "./directors/SergioLeone.jpg",
     "imdb": "https://www.imdb.com/name/nm0001466/"
   }],
   "actors": [{
@@ -507,7 +507,7 @@
     "imdb": "https://www.imdb.com/name/nm0001525/"
   }],
   "link": "https://www.paramountplus.com/movies/video/oH8R37CjFPJ3dBHKoJpQfiOnVCUWi9O_/",
-  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2024/01/05/2297403971891/OUTA_SAlone_16_9_1920x1080_NB_2553452_1920x1080.jpg"
+  "poster": "./posters/paramount/OnceUponATimeInAmerica.jpg"
 }
 ,
 
@@ -739,7 +739,7 @@
     "imdb": "https://www.imdb.com/name/nm0000473/"
   }, {
     "name": "Sofia Coppola",
-    "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+    "image": "./directors/SofiaCoppola.webp",
     "imdb": "https://www.imdb.com/name/nm0001068/"
   }],
   "link": "https://www.paramountplus.com/movies/video/2RRHQpTdqXuU8Mw_UwLA4Xx6jZ3_WCF_/",

@@ -115,7 +115,7 @@
   "genre": ["drama", "romance", "comedy"],
   "director": [{
     "name": "Sofia Coppola",
-    "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+    "image": "./directors/SofiaCoppola.webp",
     "imdb": "https://www.imdb.com/name/nm0001068/"
   }],
   "actors": [{
@@ -136,7 +136,7 @@
     "imdb": "https://www.imdb.com/name/nm0267506/"
   }],
   "link": "https://www.peacocktv.com/signin?return=%2Fwatch%2Fasset%2Fmovies%2Fcomedy%2Flost-in-translation%2Fecd04cbd-26a5-3e60-a55a-575dbfb25d4b%3Fcid%3D2201affiliateevgnpkpdaff4393%26irclickid%3DQ0i3hJVeKxyPWTXz6QW5KVf2UkHyC3zmIzP7Ug0%26irgwc%3D1%26utm_campaign%3D2201affiliateevgn%26utm_content%3D896948%26utm_medium%3Dpd_aff_acq_psdlnk%26utm_source%3Dpk_vrs_imra%26utm_term%3DJustWatch%2520GmbH",
-  "poster": "https://ntvb.tmsimg.com/assets/p32966_v_h8_aq.jpg?w=1280&h=720"
+  "poster": "./posters/peacock/LostInTranslation.jpg"
 }
 ,
 
@@ -2049,7 +2049,7 @@
     {
       "name": "Quentin Tarantino",
       "IMDB": "https://www.imdb.com/name/nm0000233/",
-      "image": "https://ew.com/thmb/1QyqVH-SvgCVbeqe6HxuRZuaGSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quentin-tarantino-2000-5b8c940736184451a0a4675a753ebd8c.jpg"
+      "image": "./directors/QuentinTarantino.jpeg"
     }
   ],
   "actors": [
@@ -2074,7 +2074,7 @@
       "image": "https://i.ebayimg.com/images/g/6~IAAOSw2MRkk5NN/s-l1200.jpg"
     }
   ],
-  "poster": "https://s2.dmcdn.net/v/RYrX31Tn22t-efSrS/x1080",
+  "poster": "./posters/apple/KillBill1.jpeg",
   "link": "https://www.peacocktv.com/watch-online/movies/kill-bill-vol.-1/179ccb8d-fdef-3c21-9718-e74c7e1c469a"
 },
 {
@@ -2089,7 +2089,7 @@
     {
       "name": "Quentin Tarantino",
       "IMDB": "https://www.imdb.com/name/nm0000233/",
-      "image": "https://ew.com/thmb/1QyqVH-SvgCVbeqe6HxuRZuaGSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quentin-tarantino-2000-5b8c940736184451a0a4675a753ebd8c.jpg"
+      "image": "./directors/QuentinTarantino.jpeg"
     }
   ],
   "actors": [
@@ -2114,7 +2114,7 @@
       "image": "https://i.ebayimg.com/images/g/6~IAAOSw2MRkk5NN/s-l1200.jpg"
     }
   ],
-  "poster": "https://prod1.agileticketing.net/images/user/ft_11874/kill%20bill%202.jpg",
+  "poster": "./posters/apple/KillBill2.jpeg",
   "link": "https://www.peacocktv.com/watch-online/movies/kill-bill-vol.-2/86c28b85-0513-3d82-b030-fe69cc7e2b89"
 },
 {

@@ -357,13 +357,13 @@
   "year": 1966,
   "runtime": 161,
   "mpaa": "R",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/442730a0-10b1-4ded-a3d5-ca359c0cc155/91c0b59c0fb6aaa9f2c76f4dd8f2c20e13c20f88.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+  "poster": "./posters/max/TheGoodTheBadAndTheUgly.avif",
   "description": "Three gunslingers, Blondie, Tuco, and Angel Eyes, embark on a quest to find a buried treasure during the American Civil War. As they navigate through the brutal landscape of the Wild West, they encounter betrayal, deception, and epic gunfights. 'The Good, the Bad, and the Ugly' is renowned for its iconic characters, gripping storytelling, and unforgettable soundtrack, making it a timeless masterpiece of cinema.",
   "genre": ["western", "foreign", "classic", "action"],
   "link": "https://www.max.com/movies/good-the-bad-and-the-ugly/442730a0-10b1-4ded-a3d5-ca359c0cc155",
   "director": [{
     "name": "Sergio Leone",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjNlZmVjMjYtYjdjOC00ZjgwLTkxOWYtMDgyZmY5NjcyMGZjXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg",
+    "image": "./directors/SergioLeone.jpg",
     "imdb": "https://www.imdb.com/name/nm0001466/"
   }],
   "actors": [
@@ -395,7 +395,7 @@
   "genre": ["western", "foreign", "classic", "action"],
   "director": [{
     "name": "Sergio Leone",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjNlZmVjMjYtYjdjOC00ZjgwLTkxOWYtMDgyZmY5NjcyMGZjXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg",
+    "image": "./directors/SergioLeone.jpg",
     "imdb": "https://www.imdb.com/name/nm0001466/"
   }],
   "actors": [
@@ -413,7 +413,7 @@
     "imdb": "https://www.imdb.com/name/nm0901003/"
   }],
   "link": "https://play.max.com/video/watch/99dc1363-6d3c-422d-873f-64917b70f4f1/0853dc45-ae2b-4c2d-9607-9f372e62656b",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8aa9ca06-f4f6-4fcb-9a12-44cf738c2fc1/07d1a1f5bb778c7aab744ddec7f04c061f1bbbfc.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500"
+  "poster": "./posters/max/AFistfullOfDollars.avif"
 }
 ,
 
@@ -958,13 +958,13 @@
       "year": 2013,
       "runtime": 126,
       "mpaa": "R",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b88f46fe-2bb3-43e9-bf7f-36b133af1990/089a9dec0908d7a2fe6dc831118907983e32fc7d.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/Her.avif",
       "description": "In 'Her', a science fiction romantic drama film, tells the story of Theodore Twombly, a lonely writer who develops an emotional connection with an artificially intelligent operating system named Samantha. As Theodore's relationship with Samantha deepens, he grapples with questions of identity, intimacy, and the nature of love in a technologically advanced society. 'Her' is a poignant exploration of human relationships and the ways in which technology intersects with our emotional lives.",
       "genre": ["romance", "drama", "science-fiction"],
       "link": "https://www.max.com/movies/her/b88f46fe-2bb3-43e9-bf7f-36b133af1990",
       "director": [{
         "name": "Spike Jonze",
-        "image": "https://variety.com/wp-content/uploads/2019/07/spike-jonze.jpg?w=1000",
+        "image": "./directors/SpikeJonze.webp",
         "imdb": "https://www.imdb.com/name/nm0005069/"
       }],
       "actors": [
@@ -1092,13 +1092,13 @@
       "year": 2023,
       "runtime": 113,
       "mpaa": "R",
-      "poster": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F02%2Fsofia-coppola-a24-priscilla-max-streaming-release-info-1.jpg?cbr=1&q=90",
-      "description": "Sofia Coppola's riveting film about the explosive love affair between Priscilla Beaulieu (Cailee Spaeny) and Elvis Presley (Jacob Elordi).",
+      "poster": "./posters/max/Priscilla.avif",
+      "description": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock 'n' roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness and a vulnerable best friend.",
 	"genre": ["drama", "romance", "biopic"],
     "link": "https://play.max.com/movie/ba04ae75-08d6-42ca-81ad-d29580f62d93?tab=generic-movie-page-rail-content-details-tab",
     "director": [{
       "name": "Sofia Coppola",
-      "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+      "image": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock 'n' roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness and a vulnerable best friend.",
       "imdb": "https://www.imdb.com/name/nm0001068/"
     }],
     "actors": [{
@@ -1208,13 +1208,13 @@
       "year": 2012,
       "runtime": 144,
       "mpaa": "PG-13",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4337043a-5d27-49ab-a7c9-1c52dee7014a/44c5b4a1507b55e6e6661971c951d9d2f2a19835.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/Skyfall.avif",
       "description": "When a threat from M's past puts MI6 at great risk, it's up to 007 to uncover the villain's identity.",
 	"genre": ["action", "spy", "sequel"],
     "link": "https://play.max.com/movie/4337043a-5d27-49ab-a7c9-1c52dee7014a",
     "director": [{
     "name": "Sam Mendes",
-    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSBaIF_vKnAeuLx98UcW2Wyt7odaf2BSm81ZrfEb2RFVtf8q_NLXEgZ2SwLrbuZPFIxuqtlyl_brSNpNVk",
+    "image": "./directors/SamMendes.jpeg",
     "imdb": "https://www.imdb.com/name/nm0005222/"
     }],
     "actors": [{
@@ -2074,13 +2074,13 @@
       "year": 1994,
       "runtime": 144,
       "mpaa": "PG-13",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/ce6d5c66-f385-42f8-9df1-2aa7b38b4d46/151bc27a4a526beb29dcb3ae891b1aa3f3601e24.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/ClearAndPresentDanger.avif",
       "description": "CIA agent Jack Ryan (Harrison Ford) takes on a Colombian drug cartel in this slam-bang thriller based on the best-seller by Tom Clancy.",
 	"genre": ["action", "spy", "sequel"],
     "link": "https://play.max.com/video/watch/eb44e673-ca3e-4495-92a1-dd1acef98a27/3585978a-33e6-4b6e-afe3-bc5bb989041a",
     "director": [{
     "name": "Phillip Noyce",
-    "image": "https://i.ytimg.com/vi/cYRWAzkvjt8/sddefault.jpg",
+    "image": "./directors/PhilipNoyce.jpg",
     "imdb": "https://www.imdb.com/name/nm0637518/"
     }],
     "actors": [{
@@ -2232,13 +2232,13 @@
     "year": 1992,
     "runtime": 117,
     "mpaa": "R",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d4ac3da2-7fcf-4666-abc4-aff12a23ee54/93a5793c6b46bb9b69afdfdf55100e046d3c45ec.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "poster": "./posters/max/PatriotGames.avif",
     "description": "When former CIA analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets him and his family for revenge.",
     "genre": ["action", "spy"],
     "link": "https://play.max.com/video/watch/d573a5bc-7a6a-4810-b0df-4f86ef549fc6/d3fa766c-c196-4056-bfe9-d4676c812d7e",
     "director": [{
       "name": "Phillip Noyce",
-    "image": "https://i.ytimg.com/vi/cYRWAzkvjt8/sddefault.jpg",
+    "image": "./directors/PhilipNoyce.jpg",
     "imdb": "https://www.imdb.com/name/nm0637518/"
     }],
     "actors": [{
@@ -3145,13 +3145,13 @@
       "year": 2010,
       "runtime": 88,
       "mpaa": "PG-13",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/45f4ef12-5ac0-484b-abf9-ac7a0040bad3/4723895d29f24f19843cb5134003584ac05c3371.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "poster": "./posters/max/DateNight.avif",
       "description": "A suburbanite couple's wild night out injects some much-needed spark -- and some serious danger -- into their marriage.",
 	"genre": ["comedy", "action"],
     "link": "https://play.max.com/video/watch/dd7e9419-a3ab-4359-aa5f-138905eedce4/a241f170-f66b-4c70-ac64-c4819982571b",
     "director": [{
     "name": "Shawn Levy",
-    "image": "https://variety.com/wp-content/uploads/2022/11/Shawn-Levy.jpg?w=1000",
+    "image": "./directors/ShawnLevy.webp",
     "imdb": "https://www.imdb.com/name/nm0506613/"
     }],
     "actors": [{
@@ -3447,13 +3447,13 @@
   "year": 1994,
   "runtime": 154,
   "mpaa": "R",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/04d2059a-0056-4693-93cd-5fd1b7b02d4e/394696225b571c335b42a7a9329992b5f33ba8fb.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/PulpFiction.avif",
   "description": "Pulp Fiction is a 1994 crime film directed by Quentin Tarantino. The film intertwines multiple storylines involving two hitmen, a gangster and his wife, a boxer, and a pair of petty criminals. Through a series of nonlinear narratives, Pulp Fiction explores themes of crime, redemption, and the absurdities of human behavior.",
   "genre": ["crime", "drama", "film-noir", "comedy", "indie"],
   "link": "https://play.max.com/video/watch/ffab6998-2e83-488f-9723-d0f59dcdb1be/04378e40-38c5-475b-8aa4-4e7eca539412",
   "director": [{
     "name": "Quentin Tarantino",
-    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTfp1z_B7M3pWBZ__wU1PSwBAhIZRd6MyxYbc_25PDvGs6MlzsTLejJDtdOh772ILYJch3Fn-hOq8woi-o",
+    "image": "./directors/QuentinTarantino.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000233/"
   }],
   "actors": [{
@@ -3507,13 +3507,13 @@
   "year": 1996,
   "runtime": 108,
   "mpaa": "R",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4f841ded-3391-4e0d-b1cb-9996ac7491cb/d5cd85f7b061d7b42ac2844409d54d40e2eeb4ca.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/FromDuskTilDawn.avif",
   "description": "Two criminal brothers, Seth and Richard Gecko, are on the run to Mexico after a series of heists. They seek refuge at a strip club, only to discover that it's populated by vampires. The brothers must join forces with the survivors to fend off the bloodthirsty creatures until dawn.",
   "genre": ["action", "horror", "crime"],
   "link": "https://play.max.com/video/watch/faffcb8f-e137-4910-b91f-0ca658acc965/4ee0e181-3bfd-40d1-b787-d4ef8490cdb1",
   "director": [{
     "name": "Robert Rodriguez",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/332357d/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2F13%2F0c4a3c7f45259b80d91f68ff6f35%2Fla-et-we-can-be-heroes-netflix-29.JPG",
+    "image": "./directors/RobertRodriguez.jpeg",
     "imdb": "https://www.imdb.com/name/nm0001675/"
   }],
   "actors": [{
@@ -3522,7 +3522,7 @@
     "imdb": "https://www.imdb.com/name/nm0000123/"
   }, {
     "name": "Quentin Tarantino",
-    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTfp1z_B7M3pWBZ__wU1PSwBAhIZRd6MyxYbc_25PDvGs6MlzsTLejJDtdOh772ILYJch3Fn-hOq8woi-o",
+    "image": "./directors/QuentinTarantino.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000233/"
   }, {
     "name": "Harvey Keitel",
@@ -3632,7 +3632,7 @@
   "director": [
     {
       "name": "Robert Rodriguez",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/332357d/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2F13%2F0c4a3c7f45259b80d91f68ff6f35%2Fla-et-we-can-be-heroes-netflix-29.JPG",
+      "image": "/directors/RobertRodriguez.jpeg",
       "IMDB": "https://www.imdb.com/name/nm0732577/"
     },
     {
@@ -3659,7 +3659,7 @@
     }
   ],
   "link": "https://play.max.com/movie/b91de4f0-cbe8-47ed-bf38-cad3cfdc4ed8?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1011lyks3LJs",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b91de4f0-cbe8-47ed-bf38-cad3cfdc4ed8/69083cd042a50db7ae57f33971bb2e86448063b6.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+  "poster": "./posters/max/Machete.avif"
 }
 ,
 
@@ -4383,7 +4383,7 @@
   "genre": ["crime", "drama"],
   "director": [{
     "name": "Sofia Coppola",
-    "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+    "image": "./directors/SofiaCoppola.webp",
     "imdb": "https://www.imdb.com/name/nm0001068/"
   }],
   "actors": [{
@@ -4400,7 +4400,7 @@
     "imdb": "https://www.imdb.com/name/nm0914612/"
   }],
   "link": "https://play.max.com/video/watch/f9caf6b5-3219-44e8-a39d-58e1ae96ae78/5b37ef77-2eca-42f4-973d-5ebe4afc9f32",
-  "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/02/MixCollage-03-Feb-2024-05-59-PM-3892.jpg"
+  "poster": "./posters/max/TheBlingRing.avif"
 }
 ,
 

@@ -760,7 +760,7 @@
     "year": 2013,
     "runtime": 134,
     "mpaa": "R",
-    "poster": "./posters/Prime/CaptainPhillips.jpeg",
+    "poster": "./posters/prime/CaptainPhillips.jpeg",
     "description": "Captain Phillips is a gripping thriller based on the true story of the 2009 Maersk Alabama hijacking by Somali pirates. The film follows Captain Richard Phillips and his crew as they sail through the dangerous waters off the coast of Somalia. When their ship is hijacked by armed pirates led by Abduwali Muse, Phillips must use all his wits and courage to try to protect his crew and navigate through the escalating crisis. As tensions mount and the situation becomes increasingly perilous, Phillips finds himself in a high-stakes battle for survival against the ruthless pirates.",
     "genre": ["drama", "thriller"],
     "link": "https://www.amazon.com/gp/video/detail/B00HQLFFPQ/ref=atv_dp_amz_c_TS5124c5_1_8?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
@@ -910,7 +910,7 @@
   "item": 6543,
   "title": "Reservoir Dogs",
   "year": 1992,
-  "description": "A crime thriller film directed by Quentin Tarantino, which follows the aftermath of a botched diamond heist as the criminals begin to suspect that one of them is a police informant.",
+  "description": "Six criminals with pseudonyms, and each strangers to one another, are hired to carry out a robbery. The heist is ambushed by police and the gang are forced to shoot their way out. At their warehouse rendezvous, the survivors, realising that they were set up, try to find the traitor in their midst.",
   "runtime": 99,
   "mpaa": "R",
   "genre": ["crime", "thriller", "indie"],
@@ -918,7 +918,7 @@
     {
       "name": "Quentin Tarantino",
       "IMDB": "https://www.imdb.com/name/nm0000233/",
-      "image": "https://ew.com/thmb/1QyqVH-SvgCVbeqe6HxuRZuaGSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quentin-tarantino-2000-5b8c940736184451a0a4675a753ebd8c.jpg"
+      "image": "./directors/QuentinTarantino.jpeg"
     }
   ],
   "actors": [
@@ -943,7 +943,7 @@
       "image": "https://i.guim.co.uk/img/media/f1d8db3bb8503882e0014d02efa56b6ae1662bad/0_187_5616_3370/master/5616.jpg?width=1200&quality=85&auto=format&fit=max&s=bc846cd56c6e33a4ad9ed935d0ba4124"
     }
   ],
-  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/9080829a-12a6-4cb0-8a7a-6ab92f649a81.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280",
+  "poster": "./posters/prime/ReservoirDogs.jpeg",
   "link": "https://www.amazon.com/gp/video/detail/0RIH6X6YIK495ISA6221JA6MQZ/ref=atv_dl_rdr?tag=justus1ktp-20"
 }
 ,
@@ -2245,7 +2245,7 @@
     "year": 2020,
     "runtime": 99,
     "mpaa": "PG-13",
-    "poster": "./posters/Prime/MySpy.jpeg",
+    "poster": "./posters/prime/MySpy.jpeg",
     "description": "In 'My Spy', a hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl named Sophie after he's sent undercover to surveil her family. As he reluctantly teaches her the art of espionage, he finds himself falling for her charms, leading to hilarious and heartwarming moments.",
     "genre": ["action", "comedy", "family"],
     "link": "https://www.amazon.com/My-Spy-Dave-Bautista/dp/B08DK7KZQ8",

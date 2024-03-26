@@ -912,18 +912,19 @@
 		"year": 2015,
 		"runtime": 187,
 		"mpaa": "R",
-		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcNVzPf_NZS6e-XlVzNRfKoLq0V910UqsXarGDB7flXBZVyP8LORguKjrM5AUXHI0JLT1EUH0YSMzucMdovYv9LZNPT5TbwLkl7W.jpg?r=74a",
+		"poster": "./posters/netflix/TheHatefulEight.jpg",
 		"description": "In post-Civil War Wyoming, bounty hunters seek refuge from a blizzard in a remote stagecoach stopover. As the storm overtakes the mountainside lodge, a plot of deception and betrayal unfolds as the eight strangers realize they may not all make it out alive. Quentin Tarantino's eighth film is a gripping and violent tale of suspicion and tension.",
 		"genre": [
 			"crime",
 			"drama",
-			"mystery"
+			"mystery",
+			"history"
 		],
 		"link": "https://www.netflix.com/title/80064515",
 		"director": [
 			{
 				"name": "Quentin Tarantino",
-				"image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTfp1z_B7M3pWBZ__wU1PSwBAhIZRd6MyxYbc_25PDvGs6MlzsTLejJDtdOh772ILYJch3Fn-hOq8woi-o",
+				"image": "./directors/QuentinTarantino.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000233/"
 			}
 		],
@@ -1209,12 +1210,11 @@
 			"sequel"
 		],
 		"mpaa": "R",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABSevQRNdhAYxJc0cIiJIRvDVl52yCvdjv8Lp_SawSjxOKdTt4k6PDlmjSP_CN3pJ5L1Ha3_kLLzV9Nf862FhUCWX3X8wxwAqt2WV.jpg?r=78e",
-		"link": "https://www.netflix.com/title/437266",
+		"poster": "./posters/netflix/Desperado.jpg",
 		"director": [
 			{
 				"name": "Robert Rodriguez",
-				"image": "https://ca-times.brightspotcdn.com/dims4/default/332357d/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2F13%2F0c4a3c7f45259b80d91f68ff6f35%2Fla-et-we-can-be-heroes-netflix-29.JPG",
+				"image": "/directors/RobertRodriguez.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0001675/"
 			}
 		],
@@ -2920,7 +2920,7 @@
 		"year": 1997,
 		"runtime": 154,
 		"mpaa": "R",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeDM2ocWL45aTorVxoUWClZWNi8Zd8E4f_YT4WseCcBoRu_oR49cseR9cD7BbPGHPQb5vBHw8uve0Ru_yzYB72Bosjfvy0Drt59_.jpg?r=3a7",
+		"poster": "./posters/netflix/JackieBrown.jpg",
 		"description": "A flight attendant is pressured into helping the FBI nab an arms dealer. But she'll need to play both sides to secure funds — and her future.",
 		"genre": [
 			"drama",
@@ -2930,7 +2930,7 @@
 		"director": [
 			{
 				"name": "Quentin Tarantino",
-				"image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTfp1z_B7M3pWBZ__wU1PSwBAhIZRd6MyxYbc_25PDvGs6MlzsTLejJDtdOh772ILYJch3Fn-hOq8woi-o",
+				"image": "./directors/QuentinTarantino.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000233/"
 			}
 		],
@@ -4315,7 +4315,7 @@
 		"year": 2023,
 		"runtime": 97,
 		"mpaa": "",
-		"poster": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABU39xy8YDz-5UTQh83ny8NLYGp26II1urpPO-umkDi5p4TU5o1qAXXXCPF6LvXvnShqVf0dd7RNFrx2O2PCdGRmrvFHm08xo3ya62BD3bNpOz8a0lOKOHMGKZr_9FMWnuN8B.jpg?r=bb5",
+		"poster": "./posters/netflix/SpyKidsArmageddon.jpg",
 		"description": "When a game developer unleashes a powerful computer virus, the children of two secret agents must work together to save their parents — and the world.",
 		"genre": [
 			"kids",
@@ -4325,7 +4325,7 @@
 		"director": [
 			{
 				"name": "Robert Rodriguez",
-				"image": "https://ca-times.brightspotcdn.com/dims4/default/332357d/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2F13%2F0c4a3c7f45259b80d91f68ff6f35%2Fla-et-we-can-be-heroes-netflix-29.JPG",
+				"image": "/directors/RobertRodriguez.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0001675/"
 			}
 		],
@@ -4348,7 +4348,7 @@
 		"year": 2005,
 		"runtime": 93,
 		"mpaa": "PG",
-		"poster": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXYEsOKu3jyCxKcEMtOwuvmTXeuRp5WdWRhC9XGuz-v7CckaBx_8vfZCOMwA-81mjfLEviC4k8vVWorSes47v6nV1kdAEfx3bNxD.jpg?r=56c",
+		"poster": "./posters/netflix/TheAdventuresOfSharkboyAndLavagirl.jpg",
 		"description": "A 10-year-old dreamer's imaginary friends — mighty Sharkboy and fire-producing Lavagirl — come to life to seek his help battling a nefarious baddie.",
 		"genre": [
 			"kids",
@@ -4358,7 +4358,7 @@
 		"director": [
 			{
 				"name": "Robert Rodriguez",
-				"image": "https://ca-times.brightspotcdn.com/dims4/default/332357d/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2F13%2F0c4a3c7f45259b80d91f68ff6f35%2Fla-et-we-can-be-heroes-netflix-29.JPG",
+				"image": "/directors/RobertRodriguez.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0001675/"
 			}
 		],
@@ -5549,10 +5549,10 @@
   "runtime": 93,
   "mpaa": "R",
   "description": "The unexpected arrival of a wounded Union soldier at a girls' school in Virginia during the American Civil War leads to jealousy and betrayal.",
-  "genre": ["drama", "thriller"],
+  "genre": ["drama", "thriller", "history"],
   "director": [{
     "name": "Sofia Coppola",
-    "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+    "image": "./directors/SofiaCoppola.webp",
     "imdb": "https://www.imdb.com/name/nm0001068/"
   }],
   "actors": [{
@@ -5569,7 +5569,7 @@
 				"imdb": "https://www.imdb.com/name/nm0000379/"
   }],
   "link": "https://www.netflix.com/title/80164400",
-  "poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcIDE4vcfBqxXGmyhHX1rzGyF1iV4J0Im9coEXWY_HclzchbJJHpb3sjpaKg8lfUugJ58WOd0APr_AetypcbgeG-rIrr5XJWOgv9.jpg?r=69e"
+  "poster": "./posters/netflix/TheBeguiled.jpg"
 }
 ,
 

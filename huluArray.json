@@ -2657,7 +2657,7 @@
   "item": 6790,
   "title": "50 First Dates",
   "year": 2004,
-  "description": "A romantic comedy about a man who falls in love with a woman with short-term memory loss and has to win her over again every day.",
+  "description": "Playboy vet Henry sets his heart on romancing Lucy, but she has short-term memory loss; she can't remember anything that happened the day before. So every morning, Henry has to woo her again. Her friends and family are very protective, and Henry must convince them that he's in it for love.",
   "runtime": 99,
   "mpaa": "PG-13",
   "genre": ["comedy", "romance"],
@@ -2987,13 +2987,13 @@
 "year": 2019,
 "runtime": 161,
 "mpaa": "R",
-"poster": "https://img2.hulu.com/user/v3/artwork/53ad86e8-d796-4a5f-b6ac-b3339482c22c?base_image_bucket_name=image_manager&base_image=ab3057ce-54f6-4572-88b6-1ea29edcf2ea&size=1200x630&format=jpeg",
-"description": "In 1969 Los Angeles, aging television actor Rick Dalton and his stunt double Cliff Booth navigate the changing film industry and encounter the Manson Family.",
+"poster": "./posters/hulu/OnceUponATimeInHollywood.jpeg",
+"description": "Actor Rick Dalton gained fame and fortune by starring in a 1950s television Western, but is now struggling to find meaningful work in a Hollywood that he doesn't recognize anymore. He spends most of his time drinking and palling around with Cliff Booth, his easygoing best friend and longtime stunt double. Rick also happens to live next door to Roman Polanski and Sharon Tate -- the filmmaker and budding actress whose futures will forever be altered by members of the Manson Family..",
 "genre": ["comedy", "drama", "history"],
 "link": "https://www.hulu.com/movie/53ad86e8-d796-4a5f-b6ac-b3339482c22c",
 "director": [{
   "name": "Quentin Tarantino",
-  "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTfp1z_B7M3pWBZ__wU1PSwBAhIZRd6MyxYbc_25PDvGs6MlzsTLejJDtdOh772ILYJch3Fn-hOq8woi-o",
+  "image": "./directors/QuentinTarantino.jpeg",
   "imdb": "https://www.imdb.com/name/nm0000233/"
 }],
 "actors": [{

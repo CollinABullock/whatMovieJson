@@ -183,7 +183,7 @@
   "year": 2020,
   "director": [{
     "name": "Sofia Coppola",
-    "image": "https://www.indiewire.com/wp-content/uploads/2020/12/sofia-coppola-godafther.png",
+    "image": "./directors/SofiaCoppola.webp",
     "imdb": "https://www.imdb.com/name/nm0001068/"
   }],
   "actors": [{
@@ -200,7 +200,7 @@
     "imdb": "https://www.imdb.com/name/nm0005541/"
   }],
   "link": "https://tv.apple.com/us/movie/on-the-rocks/umc.cmc.1mydlea6wicrm013138speg6m?at=1000l3V2&ct=justwatch_tvplus&itscg=30200&itsct=justwatch_tv",
-  "poster": "https://i.ytimg.com/vi/w4p0vjj_C8s/maxresdefault.jpg"
+  "poster": "./posters/apple/OnTheRocks.jpeg"
 }
 ,
 
@@ -710,7 +710,7 @@
     "director": [
       {
         "name": "Spike Jonze",
-        "image": "https://variety.com/wp-content/uploads/2019/07/spike-jonze.jpg?w=1000",
+        "image": "./directors/SpikeJonze.webp",
         "imdb": "https://www.imdb.com/name/nm0005069/"
       }
     ],
@@ -733,7 +733,7 @@
     ],
     "link": "https://tv.apple.com/us/movie/beastie-boys-story/umc.cmc.6d0mrskjsusw2jd2d228p88c2?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
     "year": 2020,
-    "poster": "https://is1-ssl.mzstatic.com/image/thumb/jRVuOiECbTmzx3HEVkbreA/738x416.webp"
+    "poster": "./posters/apple/TheBeastieBoysStory.jpeg"
   },
   
   {
@@ -879,7 +879,7 @@
       {
         "name": "Quentin Tarantino",
         "IMDB": "https://www.imdb.com/name/nm0000233/",
-        "image": "https://ew.com/thmb/1QyqVH-SvgCVbeqe6HxuRZuaGSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quentin-tarantino-2000-5b8c940736184451a0a4675a753ebd8c.jpg"
+        "image": "./directors/QuentinTarantino.jpeg"
       }
     ],
     "actors": [
@@ -904,7 +904,7 @@
         "image": "https://i.ebayimg.com/images/g/6~IAAOSw2MRkk5NN/s-l1200.jpg"
       }
     ],
-    "poster": "https://s2.dmcdn.net/v/RYrX31Tn22t-efSrS/x1080",
+    "poster": "./posters/apple/KillBill1.jpeg",
     "link": "https://tv.apple.com/us/movie/kill-bill-volume-1/umc.cmc.4wuzuc41xoivfyy271n49lcaq"
   },
   {
@@ -919,7 +919,7 @@
       {
         "name": "Quentin Tarantino",
         "IMDB": "https://www.imdb.com/name/nm0000233/",
-        "image": "https://ew.com/thmb/1QyqVH-SvgCVbeqe6HxuRZuaGSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quentin-tarantino-2000-5b8c940736184451a0a4675a753ebd8c.jpg"
+        "image": "./directors/QuentinTarantino.jpeg"
       }
     ],
     "actors": [
@@ -944,7 +944,7 @@
         "image": "https://i.ebayimg.com/images/g/6~IAAOSw2MRkk5NN/s-l1200.jpg"
       }
     ],
-    "poster": "https://prod1.agileticketing.net/images/user/ft_11874/kill%20bill%202.jpg",
+    "poster": "./posters/apple/KillBill2.jpeg",
     "link": "https://tv.apple.com/us/movie/kill-bill-volume-2/umc.cmc.659e0ayjnp4136jil08gl0xex"
   }
   
