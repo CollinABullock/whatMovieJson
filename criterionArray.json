@@ -1325,7 +1325,7 @@
     "director": [
       {
         "name": "Stanley Kubrick",
-        "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+        "image": "./directors/StanleyKubrick.webp",
         "imdb": "https://www.imdb.com/name/nm0000040/"
       }
     ],
@@ -1346,7 +1346,7 @@
         "image": "https://m.media-amazon.com/images/M/MV5BMjQyZDg0NGMtMjk0MS00OTkyLTk0MzctZTAwM2Y0NTlmMjYyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg"
       }
     ],
-    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/e92c6806-e5a7-4a68-9cd4-0850fe12ded2.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280",
+    "poster": "./posters/criterion/FearAndDesire.avif",
     "link": "https://www.criterionchannel.com/fear-and-desire"
   }
   ,

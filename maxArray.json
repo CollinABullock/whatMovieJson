@@ -598,7 +598,7 @@
   "director": [
     {
       "name": "Stanley Kubrick",
-      "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+      "image": "./directors/StanleyKubrick.webp",
       "imdb": "https://www.imdb.com/name/nm0000040/"
     }
   ],
@@ -614,7 +614,7 @@
       "image": "https://baltimorepostexaminer.com/wp-content/uploads/Gary-Lockwood-Star-Trek-Screen-Shot-2016-07-29-at-9.19.08-PM-e1492628223912.png"
     }
   ],
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/a0c647f6-2a32-4a5d-8659-d4db83a35e3b/50c582f72eb363180bf8f1c4341efb8138d5cea5.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/2001ASpaceOdyssey.avif",
   "link": "https://play.max.com/video/watch/d084b82b-49c7-4edb-9cfa-f57721fce19b/6daaa79f-faeb-48e8-bf84-e80ca196b92c"
 }
 ,
@@ -1284,7 +1284,7 @@
       "director": [
         {
           "name": "Stanley Kubrick",
-          "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+          "image": "./directors/StanleyKubrick.webp",
           "imdb": "https://www.imdb.com/name/nm0000040/"
         }
       ],
@@ -1305,7 +1305,7 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/MichaelBatesAClockworkOrange.png"
         }
       ],
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/52251185-23d4-4942-8d37-aa8dad2d8d32/a9b6e5ce31202667766800b455a1db8bade9235e.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "poster": "./posters/max/AClockworkOrange.avif",
       "link": "https://play.max.com/movie/52251185-23d4-4942-8d37-aa8dad2d8d32?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1101lyjYgagv"
     }
 ,    
@@ -1316,13 +1316,13 @@
       "year": 1987,
       "runtime": 117,
       "mpaa": "R",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/01dfcf23-7a1c-4e3f-872c-541f1bbca6b6/406cbb8631a51b397252dcd3bce3c446e5dcdb5c.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/FullMetalJacket.avif",
       "description": "Stanley Kubrick's haunting vision of the Vietnam War moves from the dehumanizing brutality of basic training to the nightmarish hell of battle.",
 	"genre": ["drama", "war"],
     "link": "https://play.max.com/movie/01dfcf23-7a1c-4e3f-872c-541f1bbca6b6",
     "director": [{
     "name": "Stanley Kubrick",
-    "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+    "image": "./directors/StanleyKubrick.webp",
     "imdb": "https://www.imdb.com/name/nm0000040/"
     }],
     "actors": [{
@@ -1376,13 +1376,13 @@
       "runtime": 95,
       "year": 1964,
       "mpaa": "PG",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4a98ed1a-0512-4409-a451-fc58efb3ccd6/837360c64b1f374a8046a6d0086e411e6bace4ad.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/DrStrangelove.avif",
       "description": "An insane American general orders a bombing attack on the Soviet Union.",
 	"genre": ["comedy", "war", "classic"],
     "link": "https://play.max.com/movie/4a98ed1a-0512-4409-a451-fc58efb3ccd6",
     "director": [{
       "name": "Stanley Kubrick",
-      "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+      "image": "./directors/StanleyKubrick.webp",
       "imdb": "https://www.imdb.com/name/nm0000040/"
     }],
     "actors": [{

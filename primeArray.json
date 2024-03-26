@@ -843,7 +843,7 @@
     "director": [
       {
         "name": "Stanley Kubrick",
-        "image": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&quality=85&auto=format&fit=max&s=99d1e160e00d09b674c9a481c6a885b8",
+        "image": "./directors/StanleyKubrick.webp",
         "imdb": "https://www.imdb.com/name/nm0000040/"
       }
     ],
@@ -864,7 +864,7 @@
         "image": "https://m.media-amazon.com/images/M/MV5BZmIzZWM4ODUtYmRiMC00NzU5LWE1MWItNDg2OGIwMzhkMTljXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg"
       }
     ],
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/a248080fe62724c148330068a4d2e125303c1721e0701b10704dfe58a68cc153._UR1920,1080_.jpg",
+    "poster": "./posters/prime/TheKilling.jpeg",
     "link": "https://www.amazon.com/gp/video/detail/0JOV0JB79DKBPXPF4UCLKYKR47/ref=atv_dl_rdr?tag=justus1ktp-20"
   }
 ,  
