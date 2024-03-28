@@ -3789,13 +3789,13 @@
   "year": 2009,
   "runtime": 108,
   "mpaa": "R",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/a345d34a-1c89-499b-b280-c763b79b5b7a/f963c995eb445ce7ce5774bb12535e32e587d636.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/TheInformant.avif",
   "description": "Based on a true story, Mark Whitacre, a rising star at agribusiness giant Archer Daniels Midland (ADM), becomes a whistleblower for the FBI. However, as the investigation unfolds, it's revealed that Whitacre's motives may not be as noble as they initially seemed.",
   "genre": ["biopic", "comedy", "crime"],
   "link": "https://play.max.com/video/watch/5601c6d9-c41a-4fa5-934d-bfcd7d925967/5eede50c-996f-4ef9-81b0-09f320aae652",
   "director": [{
     "name": "Steven Soderbergh",
-    "image": "https://media.gq.com/photos/6086e2a2a300ae172cbcc456/16:9/w_2560%2Cc_limit/GettyImages-1314456484.jpeg",
+    "image": "./directors/StevenSoderbergh.webp",
     "imdb": "https://www.imdb.com/name/nm0001752/"
   }],
   "actors": [{

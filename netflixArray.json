@@ -2706,7 +2706,7 @@
 		"year": 2000,
 		"runtime": 131,
 		"mpaa": "R",
-		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABVTqrmN0F5HJ_Ie0x5gm5H4CM_TglpgPzQpcvgVZN3-YQEf-U1nOVce3qZbqZ2MVbtROHn94CNQt-fba1VWRyu9bja90rbqi2RA.jpg?r=bca",
+		"poster": "./posters/netflix/ErinBrockovich.jpg",
 		"description": "Based on a true story, Erin Brockovich is a legal assistant who uncovers a massive environmental scandal involving contaminated water. Despite lacking formal legal training, she takes on a powerful corporation and fights for justice for the affected community.",
 		"genre": [
 			"biopic",
@@ -2716,7 +2716,7 @@
 		"director": [
 			{
 				"name": "Steven Soderbergh",
-				"image": "https://media.gq.com/photos/6086e2a2a300ae172cbcc456/16:9/w_2560%2Cc_limit/GettyImages-1314456484.jpeg",
+				"image": "./directors/StevenSoderbergh.webp",
 				"imdb": "https://www.imdb.com/name/nm0001752/"
 			}
 		],
