@@ -1093,7 +1093,7 @@
 		"title": "Ready Player One",
 		"mpaa": "PG-13",
 		"year": 2018,
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYvrba6Z7rACiS5YwCgXPpkSRwFpOyrD8Eqazld4fiJBtSP2qwTMV1YdwZ5rNQNX0-wW6JZHQn9f6KvPMTxw-kyuTpXmzqUN__uk2G3Xkgq5CBNsZ3j3piye6DMkzm09immx7vMMoEUQgvCBQlpqDQ4F5l1ooPUL12U.jpg?r=9fe",
+		"poster": "./posters/netflix/ReadyPlayerOne.jpg",
 		"runtime": 140,
 		"description": "In a world on the brink of collapse, a talented gamer takes the lead in a series of challenges to win ownership of a massive virtual reality universe.",
 		"genre": [
@@ -1121,7 +1121,7 @@
 		"director": [
 			{
 				"name": "Steven Spielberg",
-				"image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg",
+				"image": "./directors/StevenSpielberg.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000229/"
 			}
 		]
@@ -1790,7 +1790,7 @@
 		"year": 1993,
 		"runtime": 126,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcVUa1bV4GFKwUFBxthBZjyMOJPkkg9RB9_uNOJBN7kG7zZX2JQ2kJrRr38EzvtP61bz-kxIbxbIjNBJPVdlENeMJkc2tKBAidw.jpg?r=9a8",
+		"poster": "./posters/netflix/JurassicPark.jpg",
 		"description": "Science, sabotage and prehistoric DNA collide when cloned dinosaurs escape their enclosures at a top-secret theme park and begin preying on the guests.",
 		"genre": [
 			"action",
@@ -1800,7 +1800,7 @@
 		"director": [
 			{
 				"name": "Steven Spielberg",
-				"image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg",
+				"image": "./directors/StevenSpielberg.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000229/"
 			}
 		],
@@ -5619,7 +5619,7 @@
 		"director": [
 			{
 				"name": "Steven Spielberg",
-				"image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg",
+				"image": "./directors/StevenSpielberg.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000229/"
 			}
 		],
@@ -5645,7 +5645,7 @@
 				"image": "https://cdn.theplaylist.net/wp-content/uploads/2016/05/15183100/vincevaughn.jpg"
 			}
 		],
-		"poster": "https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS85BAwIqbXgoCya0m2ar4CuRsQH4hqIilE14_ufMm35hSFy5c7NJpnZQzfhumGI2dJtqxeYJWUJ2tPR2bs4t1fejAsn.jpg?r=48f",
+		"poster": "./posters/netflix/TheLostWorld.jpg",
 		"link": "https://www.netflix.com/watch/60003016?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C%2CVideo%3A60003016%2CdetailsPagePlayButton"
 	}
 	

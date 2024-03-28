@@ -3906,7 +3906,7 @@
     {
       "name": "Steven Spielberg",
       "IMDB": "https://www.imdb.com/name/nm0000229/",
-      "image": "https://media.vanityfair.com/photos/6048f2a19c91611f734cc169/master/w_2560%2Cc_limit/GettyImages-622342830.jpg"
+      "image": "./directors/StevenSpielberg.jpg"
     }
   ],
   "actors": [
@@ -3931,7 +3931,7 @@
       "image": "https://2.bp.blogspot.com/-vSGuo0P04Sg/U2E3vAvLLOI/AAAAAAAAH4I/Ls3Z7L4tstc/s1600/super-mario-bros---1.jpg"
     }
   ],
-  "poster": "https://img1.hulu.com/user/v3/artwork/1fa317c3-2caf-4088-8e1c-443f426da3c4?base_image_bucket_name=image_manager&base_image=7302f168-db10-4c7c-be6e-d5efce78c186&size=1200x630&format=jpeg",
+  "poster": "./posters/hulu/Hook.jpeg",
   "link": "https://www.hulu.com/movie/hook-1fa317c3-2caf-4088-8e1c-443f426da3c4"
 }
 

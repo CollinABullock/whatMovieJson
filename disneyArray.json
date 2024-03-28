@@ -323,7 +323,7 @@
     "genre": ["adventure", "kids", "fantasy"],
     "director": [
       
-        {"name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"}
+        {"name": "Steven Spielberg", "image": "./directors/StevenSpielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"}
       
     ],
     "actors": [
@@ -349,7 +349,7 @@
       }
     ],
     "year": 2016,
-    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D1EE0CE7E63D6DE16B178761E626EEB1A13FEA55B15B6FE235927A71BB047A67/scale?width=1200&aspectRatio=1.78&format=webp",
+    "poster": "./posters/disney/TheBFG.webp",
     "link": "https://www.disneyplus.com/movies/the-bfg/pvXae9wPk8HT"
   },
   {
@@ -388,7 +388,7 @@
         "image": "https://www.telegraph.co.uk/content/dam/films/2021/07/30/TELEMMGLPICT000266136857_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg"
       }
     ],
-    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AC041259451A39F251FEC5422ACD641EE0ADA443C14A18217E7980F77800A27F/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
+    "poster": "./posters/disney/RaidersOfTheLostArk.webp",
     "link": "https://www.disneyplus.com/movies/indiana-jones-and-the-raiders-of-the-lost-ark/1iKh3IKEFc2N?irclickid=0nKTlEV%3A2xyPUo31tz1dqVtJUkHySdXBLVdn3U0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0f01000c-44aa-464a-8900-06c565ede959&dclid=CI7c7e6X6oQDFeWKAAAdIQcI7g"
   },
   {
@@ -401,7 +401,7 @@
     "genre": ["action", "adventure", "sequel"],
     "director": [
       {
-        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+        "name": "Steven Spielberg", "image": "./directors/StevenSpielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
       
       }
     ],
@@ -427,7 +427,7 @@
         "image": "https://focus.independent.ie/thumbor/xJIL3MQDzmtiGGK19OKnz2cOHE8=/0x95:1536x942/960x640/prod-mh-ireland/115a9c9c-c141-11ed-ac3f-0210609a3fe2.jpg"
       }
     ],
-    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/56072969AF21676AFB3ADEBE9A5E3174F2E055E552B7BB6C19F991C2D036A27A/scale?width=1200&aspectRatio=1.78&format=webp",
+    "poster": "./posters/disney/TheLastCrusade.webp",
     "link": "https://www.disneyplus.com/movies/indiana-jones-and-the-last-crusade/5zqAAQzi5YlH?irclickid=0nKTlEV%3A2xyPUo31tz1dqVtJUkHygp0ZLVdn3U0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0801003e-99de-4ae9-a300-253965ef144b&dclid=CM-8sPu07IQDFb7yGAIdLDwBOw"
   },
   {
@@ -440,7 +440,7 @@
     "genre": ["action", "adventure", "sequel"],
     "director": [
       {
-        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+        "name": "Steven Spielberg", "image": "./directors/StevenSpielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
       
       }
     ],
@@ -466,7 +466,7 @@
         "image": "https://images.indianexpress.com/2023/06/amrish-puri.jpg"
       }
     ],
-    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2B99DE6A6D381F806D50B8421804473A8B7468A0EE4E112CA9A47A66D0FF56DC/scale?width=1200&aspectRatio=1.78&format=webp",
+    "poster": "./posters/disney/TheTempleOfDoom.webp",
     "link": "https://www.disneyplus.com/movies/indiana-jones-and-the-temple-of-doom/3WPnpSTfwhgU?irclickid=0nKTlEV%3A2xyPUo31tz1dqVtJUkHyguw1LVdn3U0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0c010033-95c3-4b2d-ac00-082065ef1580&dclid=CISnxo627IQDFb7yGAIdLDwBOw"
   },
   {
@@ -479,7 +479,7 @@
     "genre": ["action", "adventure", "sequel"],
     "director": [
       {
-        "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+        "name": "Steven Spielberg", "image": "./directors/StevenSpielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
       
       }
     ],
@@ -505,7 +505,7 @@
         "image": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000012715076.jpg?quality=75&strip=all"
       }
     ],
-    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/646176707CA1E62BD1B7909FD8B4B67ADFB5F4CE37D70C00515BB6698DB83387/scale?width=1200&aspectRatio=1.78&format=webp",
+    "poster": "./posters/disney/TheKingdomOfTheCrystalSkull.webp",
     "link": "https://www.disneyplus.com/movies/indiana-jones-and-the-kingdom-of-the-crystal-skull/57O7IUX2CLrN?irclickid=0nKTlEV%3A2xyPUo31tz1dqVtJUkHygr05LVdn3U0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0f01004d-69df-484c-a200-06d965ef164d&dclid=CIvkyfC27IQDFSeFpgQdhogG1Q"
   }
   ,
@@ -1397,9 +1397,9 @@
     "description": "A musical drama film about the forbidden romance between Tony, a former member of the Jets, and Maria, the sister of the leader of the rival gang, the Sharks, set in 1950s New York City.",
     "runtime": 156,
     "mpaa": "PG-13",
-    "genre": ["musical", "drama", "romance"],
+    "genre": ["musical", "drama", "romance", "remake"],
     "director": [
-      {"name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"}
+      {"name": "Steven Spielberg", "image": "./directors/StevenSpielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"}
     ],
     "actors": [
       {
@@ -1423,7 +1423,7 @@
         "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRM4BD-rJCeOtAqftJAaGsDt36t3uZeZcDgzlfVaa7Fd08hBBYCfZn5fF9eU7W6P36ubA-WW-oIe9Erl74"
       }
     ],
-    "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CDC7B3A32792FF7EEB9D7043E7F1A632314B2EF18EB47C157E1C9BDE08B6C2CD/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
+    "poster": "./posters/disney/WestSideStory.webp",
     "link": "https://www.disneyplus.com/movies/west-side-story/2VCrDr9yQ2FQ?irclickid=0nKTlEV%3A2xyPUo31tz1dqVtJUkHyg-SxLVdn3U0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0b01002a-b746-4e74-b600-21b365ef31f1&dclid=CIHu0Z7R7IQDFfru9QIdajcDTA"
   }
   

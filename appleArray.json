@@ -200,7 +200,7 @@
     "imdb": "https://www.imdb.com/name/nm0005541/"
   }],
   "link": "https://tv.apple.com/us/movie/on-the-rocks/umc.cmc.1mydlea6wicrm013138speg6m?at=1000l3V2&ct=justwatch_tvplus&itscg=30200&itsct=justwatch_tv",
-  "poster": "./posters/apple/OnTheRocks.jpeg"
+  "poster": "./posters/apple/OnTheRocks.jpg"
 }
 ,
 
@@ -474,7 +474,7 @@
   "genre": ["drama", "war"],
   "director": [
     {
-      "name": "Steven Spielberg", "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2021/05/steven-spielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
+      "name": "Steven Spielberg", "image": "./directors/StevenSpielberg.jpg", "imdb": "https://www.imdb.com/name/nm0000229/"
     }
   ],
   "actors": [

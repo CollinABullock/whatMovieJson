@@ -1690,13 +1690,13 @@
       "year": 1992,
       "runtime": 127,
       "mpaa": "PG-13",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/7ebb10fa-4552-405c-a5d2-3cc5b21193c7/faf0619843c6df71cd1c7323dcd5d2535e7bfc91.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/BatmanReturns.avif",
       "description": "The sequel to Batman pits the caped crusader against his most fiendish opponents yet: the evil Penguin and the sinuous and mysterious Catwoman.",
 	"genre": ["action", "comic-book", "sequel"],
     "link": "https://play.max.com/video/watch/d00bbbc3-85b2-431c-9f9f-8f6269d1642b/ffb6310a-71fe-4015-9ffa-eed56f10eaca",
     "director": [{
     "name": "Tim Burton",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/221023160418-tim-burton-file-1023.jpg?c=original",
+    "image": "./directors/TimBurton.jpg",
     "imdb": "https://www.imdb.com/name/nm0000318/"
     }],
     "actors": [
