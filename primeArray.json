@@ -57,12 +57,12 @@
   "genre": ["documentary", "biopic"],
   "director": [{
     "name": "Steve James",
-    "image": "https://www.dga.org/-/media/Images/Landscape-Images/Visual-History/VH176-Steve-James/Steve-James-Main.ashx?as=1&h=630&mh=630&mw=1200&w=630&hash=5913C92C9CB2C992A3E7E76D626C76BF93AA3478?t=8",
+    "image": "./directors/SteveJames.jpg",
     "imdb": "https://www.imdb.com/name/nm0417024/"
   }],
   "actors": [],
   "link": "https://www.amazon.com/gp/video/detail/0JKQMR509KBC1XNDGN9H1HY4QQ/ref=atv_dl_rdr?tag=justus1ktp-20",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/3833943d040cde7308824102ac31d216acbf49ec82cc010ae4e14b2265882247.jpg"
+  "poster": "./posters/prime/LifeItself.jpeg"
 }
 ,
 

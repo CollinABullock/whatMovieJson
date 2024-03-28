@@ -158,13 +158,13 @@
       "year": 1994,
       "runtime": 170,
       "mpaa": "PG-13",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8de6f0f3-38a2-48f8-88ad-7b2805d72782/ff861b8f78294036b0448fdd21cd52b192777d6a.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "poster": "./posters/max/HoopDreams.avif",
       "description": "Follow the journey of two inner-city Chicago boys with dreams of becoming professional basketball players. Over the span of five years, the film documents their struggles with family, education, race, and the competitive world of basketball.",
       "genre": ["documentary", "sports", "classic"],
       "link": "https://play.max.com/movie/8de6f0f3-38a2-48f8-88ad-7b2805d72782",
       "director": [{
         "name": "Steve James",
-        "image": "https://www.dga.org/-/media/Images/Landscape-Images/Visual-History/VH176-Steve-James/Steve-James-Main.ashx?as=1&h=630&mh=630&mw=1200&w=630&hash=5913C92C9CB2C992A3E7E76D626C76BF93AA3478?t=8",
+        "image": "./directors/SteveJames.jpg",
         "imdb": "https://www.imdb.com/name/nm0417024/"
       }],
       "actors": []
