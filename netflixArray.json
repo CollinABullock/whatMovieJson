@@ -565,7 +565,7 @@
 		}],
 		"actors": [{
 			"name": "Woody Allen",
-      "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+      "image": "./directors/WoodyAllen.webp",
       "imdb": "https://www.imdb.com/name/nm0000095/"
 		}, {
 			"name": "Sharon Stone",

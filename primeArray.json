@@ -3557,12 +3557,12 @@
   "genre": ["comedy", "romance", "classic"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Diane Keaton",
@@ -3574,7 +3574,7 @@
     "imdb": "https://www.imdb.com/name/nm0731620/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/0RMP320ENXLF9CVLRB8RJG2GEM/ref=atv_dl_rdr?tag=justus1ktp-20",
-  "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Annie-Hall-1977.jpg"
+  "poster": "./posters/prime/AnnieHall.jpg"
 }
 ,
 
@@ -3588,7 +3588,7 @@
   "genre": ["comedy", "drama", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -3609,7 +3609,7 @@
     "imdb": "https://www.imdb.com/name/nm0004851/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/0M294YV3S0MQZUG789S9C2HP7G/ref=atv_dl_rdr?tag=justus1ktp-20",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/6efe50a5f1a8cd5c293ebc82a68c474bdac5754da83894fee991a12d5faaec6c.jpg"
+  "poster": "./posters/prime/VickyChristinaBarcelona.jpg"
 }
 ,
 
@@ -3623,7 +3623,7 @@
   "genre": ["comedy", "fantasy", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -3640,7 +3640,7 @@
     "imdb": "https://www.imdb.com/name/nm0000732/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/0PM854YHIV8VMFLFJPXYXU6V1O/ref=atv_dl_rdr?tag=justus1ktp-20",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/7b8729d58ce63f59a1cebd9b406575d8ff1451986903cef3ba3b5e05799df466.jpg"
+  "poster": "./posters/prime/ThePurpleRoseOfCairo.jpg"
 },
 
   {
@@ -3683,12 +3683,12 @@
   "genre": ["comedy"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Gene Wilder",
@@ -3704,7 +3704,7 @@
     "imdb": "https://www.imdb.com/name/nm0488916/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/B0C4Z7BG9N/ref=atv_dp_atf_prime_sd_mv_play_t1ADAAAAAA0wr0?tag=justus1ktp-20&autoplay=1&t=0",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/861c4010e16465079e0cbd51862fe9ee3ecfd4ae05188a29f0420c94e68a4221.jpg"
+  "poster": "./posters/prime/EverythingYouAlwaysWantedToKnowAboutSex.jpg"
 }
 ,
 
@@ -3718,7 +3718,7 @@
   "genre": ["drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -3752,12 +3752,12 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Mia Farrow",
@@ -3773,7 +3773,7 @@
     "imdb": "https://www.imdb.com/name/nm0056212/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/0FO7FRWPOKRYSMD1FKUH04LCVR/ref=atv_dl_rdr?tag=justus1ktp-20",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/39519535e2e543d19d5cca9e3ad194cd41d48a7cde22c5285e54157185cfd09f.jpg"
+  "poster": "./posters/prime/BroadwayDannyRose.jpg"
 }
 ,
 
@@ -3788,7 +3788,7 @@
   "genre": ["comedy", "drama", "romance", "history"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -3809,7 +3809,7 @@
     "imdb": "https://www.imdb.com/name/nm0515116/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/B08B4X9LNX/ref=atv_dp_atf_prime_sd_mv_play_t1ADAAAAAA0wr0?tag=justus1ktp-20&autoplay=1&t=0",
-  "poster": "https://i.ytimg.com/vi/4NRQPTE2Y-c/maxresdefault.jpg"
+  "poster": "./posters/prime/CafeSociety.jpg"
 }
 ,
 

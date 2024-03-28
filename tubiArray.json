@@ -292,12 +292,12 @@
   "genre": ["comedy", "romance", "classic"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Diane Keaton",
@@ -323,7 +323,7 @@
   "genre": ["comedy", "drama", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -358,7 +358,7 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -375,7 +375,7 @@
     "imdb": "https://www.imdb.com/name/nm0001293/"
   }],
   "link": "https://tubitv.com/movies/301238",
-  "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9764_v_h9_aa.jpg"
+  "poster": "./posters/tubi/RadioDays.jpg"
 },
 
 {    
@@ -388,12 +388,12 @@
   "genre": ["comedy", "drama", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Diane Keaton",
@@ -422,7 +422,7 @@
   "genre": ["comedy", "fantasy", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -452,7 +452,7 @@
   "genre": ["comedy", "musical", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -479,7 +479,7 @@
   }
   ],
   "link": "https://tubitv.com/movies/100014056/everyone-says-i-love-you?start=true&tracking=google-feed&utm_source=google-feed",
-  "poster": "https://i.ytimg.com/vi/vAEI3arNVBc/maxresdefault.jpg"
+  "poster": "./posters/tubi/EveryoneSaysILoveYou.jpg"
 }
 ,
 
@@ -493,12 +493,12 @@
   "genre": ["comedy", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Mira Sorvino",
@@ -527,12 +527,12 @@
   "genre": ["comedy"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Gene Wilder",
@@ -562,12 +562,12 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Mia Farrow",
@@ -597,7 +597,7 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -636,7 +636,7 @@
   "genre": ["comedy", "drama", "music"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -671,8 +671,7 @@
   "genre": ["drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000095/"
+    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg./directors/WoodyAllen.webpghttps://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Gena Rowlands",
@@ -705,12 +704,12 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Judy Davis",
@@ -924,7 +923,7 @@
   "genre": ["comedy", "crime"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{

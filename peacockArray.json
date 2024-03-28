@@ -631,11 +631,11 @@
   "title": "Celebrity",
   "runtime": 113,
   "mpaa": "R",
-  "description": "The fortunes of a husband and wife differ drastically after they divorce.",
+  "description": "The career and personal life of writer Lee (Kenneth Branagh) are at a standstill, so he divorces his bashful wife, Robin (Judy Davis), and dives into a new job as an entertainment journalist. His assignments take him to the swankiest corners of Manhattan, but as he jumps from one lavish party to another and engages in numerous empty romances, he starts to doubt the worth of his work. Meanwhile, top TV producer Tony (Joe Mantegna) falls for Robin and introduces her to the world of celebrity.",
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -660,7 +660,7 @@
         "imdb": "https://www.imdb.com/name/nm0000138/"
   }],
   "link": "https://www.peacocktv.com/watch-online/movies/celebrity/09054ec4-8d23-371a-99c9-51c982c82cb5",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/1b8f4cee291250e5d1c67828a2a471483677c0e9240bd384211443f5fec76f9d.jpg"
+  "poster": "./posters/peacock/Celebrity.jpg"
 }
 ,
 
@@ -674,7 +674,7 @@
   "genre": ["comedy", "drama", "music"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -695,7 +695,7 @@
     "imdb": "https://www.imdb.com/name/nm0001446/"
   }],
   "link": "https://www.peacocktv.com/watch-online/movies/sweet-and-lowdown/4e847b03-11b1-3901-8c52-c63a8984f532",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/7089016f68033cfce6433b7dd33381cf8d7dea5717db9dd61e19095a82f1edfe.jpg"
+  "poster": "./posters/peacock/SweetAndLowdown.jpg"
 }
 ,
 
@@ -709,7 +709,7 @@
   "genre": ["comedy", "crime"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -730,7 +730,7 @@
     "imdb": "https://www.imdb.com/name/nm0001590/"
   }],
   "link": "https://www.peacocktv.com/watch-online/movies/bullets-over-broadway/4cb66fd0-14ed-3ae5-a7e8-15732721f286",
-  "poster": "https://imageservice.disco.peacocktv.com/uuid/964e20df-0c49-3f2c-91ac-e1852148308a/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=5fdf2e2c-273e-3caa-bc42-3abb3f9cf4f4"
+  "poster": "./posters/peacock/BulletsOverBroadway.jpeg"
 }
 ,
 
@@ -1254,13 +1254,13 @@
     "year": 2019,
     "runtime": 92,
     "mpaa": "PG-13",
-    "poster": "https://imageservice.disco.peacocktv.com/uuid/183e6270-2bd0-34ea-97d8-4f9ae44c3181/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=3b9aedb2-61d4-3974-b30a-319e3b88bfab",
+    "poster": "./posters/peacock/ARainyDayInNewYork.jpg",
     "description": "Two young people, Gatsby and Ashleigh, spend a weekend in New York City where their romantic and career aspirations clash with the realities of adulthood.",
     "genre": ["comedy", "romance"],
     "link": "https://www.peacocktv.com/watch-online/movies/comedy/a-rainy-day-in-new-york/090f687d-477d-3256-9e44-e4ce378bc01d",
     "director": [{
       "name": "Woody Allen",
-      "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+      "image": "./directors/WoodyAllen.webpg",
       "imdb": "https://www.imdb.com/name/nm0000095/"
     }],
     "actors": [{
@@ -1370,12 +1370,12 @@
   "genre": ["comedy", "crime"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Tracey Ullman",
@@ -1391,7 +1391,7 @@
     "imdb": "https://www.imdb.com/name/nm0005212/"
   }],
   "link": "https://www.peacocktv.com/watch-online/movies/small-time-crooks/bc9c9ed2-aaf7-3d22-ab2a-e308eb6e5b01",
-  "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Small-Time-Crooks.jpg?w=1024"
+  "poster": "./posters/peacock/SmallTimeCrooks.jpg"
 },
 
 {    
@@ -1404,12 +1404,12 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Judy Davis",
@@ -1425,7 +1425,7 @@
     "imdb": "https://www.imdb.com/name/nm0000345/"
   }],
   "link": "https://www.peacocktv.com/watch-online/movies/deconstructing-harry/8750872d-c3c7-37d3-9cd6-d587641e2df6",
-  "poster": "https://media.zenfs.com/en/comingsoon_net_477/3e8af906fd6cd364e9ea02efb9600a60"
+  "poster": "./posters/peacock/DeconstructingHarry.jpeg"
 }
 ,
 
@@ -1439,7 +1439,7 @@
   "genre": ["comedy", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webpg",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -1460,7 +1460,7 @@
     "imdb": "https://www.imdb.com/name/nm0000719/"
   }],
   "link": "https://www.peacocktv.com/watch-online/movies/mighty-aphrodite/5774d5e0-7993-3215-afa8-784cba9ae769",
-  "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Evolve-Featured-Images-46.jpg"
+  "poster": "./posters/peacock/MightyAphrodite.webp"
 },
 
 
@@ -1477,7 +1477,7 @@
     "genre": ["drama", "romance", "thriller"],
     "director": [{
       "name": "Woody Allen",
-      "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+      "image": "./directors/WoodyAllen.webpg",
       "imdb": "https://www.imdb.com/name/nm0000095/"
     }],
     "actors": [{
@@ -1494,7 +1494,7 @@
       "imdb": "https://www.imdb.com/name/nm0001553/"
     }],
     "link": "https://www.peacocktv.com/watch-online/movies/match-point/ba3b615a-a1b3-38c5-a974-844019065c5b",
-    "poster": "https://imageservice.disco.peacocktv.com/uuid/51026fdd-dd1a-3a56-bdd5-21ec973de676/LAND_16_9?language=eng&territory=US&proposition=NBCUOTT&version=a6e1cc16-7caf-3d1e-a2c7-5590bce538ef"
+    "poster": "./posters/peacock/MatchPoint.webp"
   },
 
 
