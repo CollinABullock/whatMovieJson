@@ -231,7 +231,7 @@
     "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
   }],
   "link": "https://www.disneyplus.com/movies/star-wars-the-force-awakens-episode-vii/1LEKJPDPeMr7",
-  "poster": "https://www.disneyplus.com/movies/star-wars-the-force-awakens-episode-vii/1LEKJPDPeMr7"
+  "poster": "./posters/disney/TheForceAwakens.webp"
 }
 ,
 
@@ -1423,7 +1423,7 @@
         "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRM4BD-rJCeOtAqftJAaGsDt36t3uZeZcDgzlfVaa7Fd08hBBYCfZn5fF9eU7W6P36ubA-WW-oIe9Erl74"
       }
     ],
-    "poster": "./posters/disney/WestSideStory.webp",
+    "poster": "./posters/disney/WestSideStory.png",
     "link": "https://www.disneyplus.com/movies/west-side-story/2VCrDr9yQ2FQ?irclickid=0nKTlEV%3A2xyPUo31tz1dqVtJUkHyg-SxLVdn3U0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0b01002a-b746-4e74-b600-21b365ef31f1&dclid=CIHu0Z7R7IQDFfru9QIdajcDTA"
   }
   
