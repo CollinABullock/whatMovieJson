@@ -635,7 +635,7 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -674,7 +674,7 @@
   "genre": ["comedy", "drama", "music"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -709,7 +709,7 @@
   "genre": ["comedy", "crime"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -1260,7 +1260,7 @@
     "link": "https://www.peacocktv.com/watch-online/movies/comedy/a-rainy-day-in-new-york/090f687d-477d-3256-9e44-e4ce378bc01d",
     "director": [{
       "name": "Woody Allen",
-      "image": "./directors/WoodyAllen.webpg",
+      "image": "./directors/WoodyAllen.webp",
       "imdb": "https://www.imdb.com/name/nm0000095/"
     }],
     "actors": [{
@@ -1370,12 +1370,12 @@
   "genre": ["comedy", "crime"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Tracey Ullman",
@@ -1404,12 +1404,12 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Judy Davis",
@@ -1439,7 +1439,7 @@
   "genre": ["comedy", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -1477,7 +1477,7 @@
     "genre": ["drama", "romance", "thriller"],
     "director": [{
       "name": "Woody Allen",
-      "image": "./directors/WoodyAllen.webpg",
+      "image": "./directors/WoodyAllen.webp",
       "imdb": "https://www.imdb.com/name/nm0000095/"
     }],
     "actors": [{

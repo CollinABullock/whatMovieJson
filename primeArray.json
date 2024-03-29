@@ -3557,12 +3557,12 @@
   "genre": ["comedy", "romance", "classic"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Diane Keaton",
@@ -3588,7 +3588,7 @@
   "genre": ["comedy", "drama", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -3623,7 +3623,7 @@
   "genre": ["comedy", "fantasy", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -3683,12 +3683,12 @@
   "genre": ["comedy"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Gene Wilder",
@@ -3718,7 +3718,7 @@
   "genre": ["drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -3752,12 +3752,12 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Mia Farrow",
@@ -3788,7 +3788,7 @@
   "genre": ["comedy", "drama", "romance", "history"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{

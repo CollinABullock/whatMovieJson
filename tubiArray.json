@@ -292,12 +292,12 @@
   "genre": ["comedy", "romance", "classic"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Diane Keaton",
@@ -323,7 +323,7 @@
   "genre": ["comedy", "drama", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -358,7 +358,7 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -388,12 +388,12 @@
   "genre": ["comedy", "drama", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Diane Keaton",
@@ -452,12 +452,12 @@
   "genre": ["comedy", "musical", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Goldie Hawn",
@@ -493,12 +493,12 @@
   "genre": ["comedy", "romance"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Mira Sorvino",
@@ -527,12 +527,12 @@
   "genre": ["comedy"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Gene Wilder",
@@ -562,12 +562,12 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Mia Farrow",
@@ -597,7 +597,7 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -636,7 +636,7 @@
   "genre": ["comedy", "drama", "music"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
@@ -671,7 +671,7 @@
   "genre": ["drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "https://deadline.com/wp-content/uploads/2023/09/woody-allen-soon-yi-previn.jpg./directors/WoodyAllen.webpghttps://www.imdb.com/name/nm0000095/"
+    "image": "./directors/WoodyAllen.webp"
   }],
   "actors": [{
     "name": "Gena Rowlands",
@@ -704,12 +704,12 @@
   "genre": ["comedy", "drama"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }, {
     "name": "Judy Davis",
@@ -923,7 +923,7 @@
   "genre": ["comedy", "crime"],
   "director": [{
     "name": "Woody Allen",
-    "image": "./directors/WoodyAllen.webpg",
+    "image": "./directors/WoodyAllen.webp",
     "imdb": "https://www.imdb.com/name/nm0000095/"
   }],
   "actors": [{
