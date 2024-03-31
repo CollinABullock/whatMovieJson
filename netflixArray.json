@@ -3072,7 +3072,7 @@
 		"year": 2013,
 		"runtime": 142,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABUGkWwY8YxbqtC6mb-6btarGCUjNdpocKX-yx1YR5wwCAHGd5ooBwbClMk5xG4OTgcSFdmw1tMR599eTSdpp5LEfB7cAMdPgnqu1.jpg?r=628",
+		"poster": "./posters/netflix/ManOfSteel.jpg",
 		"description": "Drifter Clark Kent must keep his powers hidden from the world, but when an evil general plans to destroy Earth, the Man of Steel springs into action.",
 		"genre": [
 			"science-fiction",
@@ -3083,7 +3083,7 @@
 		"director": [
 			{
 				"name": "Zack Synder",
-				"image": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQRkG0o6H2e9srDoKgYVGPoqGMQGX2DpEahimbzps-XdXK2Qc_sby0nJiRw3V0bePHNFOGKK3PdNwy1Z825FXZwDjmxVEuYKYQlsRdnmEnmK0XIzCGQ-PHCNrD8wJVCvhOqggGXSKLFhPBK7DxoiMtrO9.jpg?r=4ca",
+				"image": "./directors/ZackSnyder.jpg",
 				"imdb": "https://www.imdb.com/name/nm0811583/"
 			}
 		],
@@ -5299,7 +5299,7 @@
 		"year": 2017,
 		"runtime": 120,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXsT7WZjeq1-rfhEPq7dor5TRIVW1S0Otmdkpfms3nW8O88rSEBbeJ2idUKbol3cZKScHftOaHNLUKo3pObiSoA46L1mDaLlbrdd.jpg?r=469",
+		"poster": "./posters/netflix/JusticeLeague.jpg",
 		"description": "Batman and Wonder Woman gather a new team of superheroes — and try to resurrect Superman — in hopes of defeating a foe unlike any they've faced before.",
 		"genre": [
 			"action",
@@ -5310,7 +5310,7 @@
 		"director": [
 			{
 				"name": "Zack Snyder",
-				"image": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQRkG0o6H2e9srDoKgYVGPoqGMQGX2DpEahimbzps-XdXK2Qc_sby0nJiRw3V0bePHNFOGKK3PdNwy1Z825FXZwDjmxVEuYKYQlsRdnmEnmK0XIzCGQ-PHCNrD8wJVCvhOqggGXSKLFhPBK7DxoiMtrO9.jpg?r=4ca",
+				"image": "./directors/ZackSnyder.jpg",
 				"imdb": "https://www.imdb.com/name/nm0811583/"
 			}
 		],
