@@ -210,10 +210,10 @@
   "poster": "./posters/max/Room.avif",
   "description": "In 'Room', a gripping drama film directed by Lenny Abrahamson, follows the harrowing story of Joy Newsome and her five-year-old son, Jack, who are held captive in a small shed by a man known as Old Nick. As Joy and Jack struggle to survive in their confined space, they form a powerful bond that sustains them through unimaginable circumstances. 'Room' is a poignant exploration of resilience, love, and the indomitable human spirit.",
   "genre": ["drama"],
-  "link": "./directors/LennyAbrahamson.jpg",
+  "link": "https://play.max.com/video/watch/29d0595e-98f5-4681-b0d3-edf84a787f68/735e03e1-6a5b-4759-88d2-de51d0d76ad6",
   "director": [{
     "name": "Lenny Abrahamson",
-    "image": "./directors/AkiraKurosawa.png",
+    "image": "./directors/LennyAbrahamson.jpg",
     "imdb": "https://www.imdb.com/name/nm0009707/"
   }],
   "actors": [
