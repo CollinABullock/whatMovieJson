@@ -202,6 +202,131 @@
 ,  
 
 {
+  "item": 332,
+  "title": "Room",
+  "year": 2015,
+  "runtime": 118,
+  "mpaa": "R",
+  "poster": "./posters/max/Room.avif",
+  "description": "In 'Room', a gripping drama film directed by Lenny Abrahamson, follows the harrowing story of Joy Newsome and her five-year-old son, Jack, who are held captive in a small shed by a man known as Old Nick. As Joy and Jack struggle to survive in their confined space, they form a powerful bond that sustains them through unimaginable circumstances. 'Room' is a poignant exploration of resilience, love, and the indomitable human spirit.",
+  "genre": ["drama"],
+  "link": "./directors/LennyAbrahamson.jpg",
+  "director": [{
+    "name": "Lenny Abrahamson",
+    "image": "./directors/AkiraKurosawa.png",
+    "imdb": "https://www.imdb.com/name/nm0009707/"
+  }],
+  "actors": [
+    {
+      "name": "Brie Larson",
+      "image": "https://people.com/thmb/2MILsdf35weyJcQtQAWYwrY0PfA=/400x262/filters:no_upscale():max_bytes(150000):strip_icc():focal(750x224:752x226)/sag-awards-2024-brie-larson-tout-022424-5d61b688c3834c0f9745692d3f083697.jpg",
+      "imdb": "https://www.imdb.com/name/nm0488953/"
+    },
+    {
+      "name": "Jacob Tremblay",
+      "image": "https://people.com/thmb/BR5BXJ6fRyC1Npb0EPJgZAanTL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(979x225:981x227)/jacob-tremblay-the-little-mermaid-051223-5066f6b5f3d242deb6474a11c34605df.jpg",
+      "imdb": "https://www.imdb.com/name/nm5016878/"
+    },
+    {
+      "name": "Sean Bridgers",
+      "image": "https://trainwreckdsociety.files.wordpress.com/2017/08/seanbridgersjugface.png",
+      "imdb": "https://www.imdb.com/name/nm0108818/"
+    },
+    {
+      "name": "Joan Allen",
+      "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1600/fl_lossy,q_auto/v1623139458/210503-stern-joan-allen-tease_onhudn",
+      "imdb": "https://www.imdb.com/name/nm0000260/"
+    },
+    {
+      "name": "William H. Macy",
+      "image": "https://variety.com/wp-content/uploads/2022/10/William-H-Macy_headshot93-e1666278479375.jpg?w=1000&h=563&crop=1",
+      "imdb": "https://www.imdb.com/name/nm0000513/"
+    }
+  ]
+  }
+  ,
+  
+  {
+  "item": 333,
+  "title": "Godzilla vs. Kong",
+  "year": 2022,
+  "runtime": 113,
+  "mpaa": "PG-13",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/f1c6ef16-40b2-4ef5-89ed-547decd9e620/5dea83be6452c285c4bcf58f0f1c951146040f2b.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+  "description": "In 'Godzilla vs. Kong', a thrilling action-packed film directed by Adam Wingard, follows the epic clash between two iconic titans, Godzilla and Kong, as they battle for supremacy. As humanity looks on in awe and terror, the fate of the world hangs in the balance.",
+  "genre": ["action", "science-fiction", "disaster"],
+  "link": "https://www.max.com/movies/godzilla-vs-kong/f1c6ef16-40b2-4ef5-89ed-547decd9e620",
+  "director": [{
+    "name": "Adam Wingard",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/20/14/adam-wingard-blair-witch.jpg?width=1200",
+    "imdb": "https://www.imdb.com/name/nm0933250/"
+  }],
+  "actors": [
+    {
+      "name": "Alexander Skarsgård",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/04/4179_PP_D001_00695_RC-h-2022.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0002907/"
+    },
+    {
+      "name": "Millie Bobby Brown",
+      "image": "https://assets.teenvogue.com/photos/5e4d5a38badfd6000806d228/16:9/w_2560%2Cc_limit/GettyImages-1200682231.jpg",
+      "imdb": "https://www.imdb.com/name/nm5611121/"
+    },
+    {
+      "name": "Rebecca Hall",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2021/08/Rebecca-Hall-attends-22The-Night-House22-Getty-H-2021.jpg?w=1296",
+      "imdb": "https://www.imdb.com/name/nm0356017/"
+    },
+    {
+      "name": "Brian Tyree Henry",
+      "image": "https://a.scpr.org/213247_cee6b174751105acd8ffdf64a08ccf62_original.jpg",
+      "imdb": "https://www.imdb.com/name/nm3078932/"
+    }
+  ]
+  }
+  ,
+  
+  {
+  "item": 334,
+  "title": "Smallfoot",
+  "year": 2018,
+  "runtime": 96,
+  "mpaa": "PG",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/7933961a-b64e-4c42-8d5b-ddec6d51f03a/fbe3e3ec4ab70782598133b57ddbcaabe544face.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+  "description": "In 'Smallfoot', an animated adventure-comedy film directed by Karey Kirkpatrick, follows the story of a yeti named Migo who encounters a human, known as a 'smallfoot', despite the yeti community's belief that humans are mythical creatures. Determined to prove the existence of smallfoots, Migo embarks on a journey to the human world, where he discovers a whole new perspective on life. 'Smallfoot' is a heartwarming tale about friendship, courage, and the importance of questioning assumptions.",
+  "genre": ["animation", "comedy", "adventure", "kids"],
+  "link": "https://www.max.com/movies/smallfoot/7933961a-b64e-4c42-8d5b-ddec6d51f03a",
+  "director": [{
+    "name": "Karey Kirkpatrick",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAwOTYwMTU4M15BMl5BanBnXkFtZTcwMTc0MjA2Mg@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0456292/"
+  }],
+  "actors": [
+    {
+      "name": "Channing Tatum",
+      "image": "https://images.wsj.net/im-721591?width=1280&size=1.33333333",
+      "imdb": "https://www.imdb.com/name/nm1475594/"
+    },
+    {
+      "name": "James Corden",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/240125134441-01-james-corden-2023-file.jpg?c=16x9&q=h_833,w_1480,c_fill",
+      "imdb": "https://www.imdb.com/name/nm0179479/"
+    },
+    {
+      "name": "Zendaya",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/zendaya-attends-the-dune-part-two-premiere-at-lincoln-news-photo-1708942668.jpg?crop=1xw:0.44055xh;center,top",
+      "imdb": "https://www.imdb.com/name/nm3918035/"
+    },
+    {
+      "name": "Common",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/common_photo_by_maarten_de_boer_getty_images_entertainment_getty_461469844.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "imdb": "https://www.imdb.com/name/nm0179599/"
+    }
+  ]
+  }
+  ,
+
+{
   "item": 3456,
   "year": 2013,
   "title": "The Family",

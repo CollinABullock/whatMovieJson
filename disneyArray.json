@@ -206,7 +206,7 @@
   "genre": ["action", "adventure", "fantasy", "science-fiction", "sequel"],
   "director": [{
     "name": "J.J. Abrams",
-      "image": "https://cdn.britannica.com/23/129823-050-4B487943/TV-JJ-movie-Abrams.jpg?w=400&h=300&c=crop",
+      "image": "./directors/JJAbrams.webp",
       "imdb": "https://www.imdb.com/name/nm0009190/"
   }],
   "actors": [{
@@ -285,11 +285,11 @@
   "title": "Star Wars: Episode IX - The Rise of Skywalker",
   "runtime": 142,
   "mpaa": "PG-13",
-  "description": "Star Wars: Episode IX - The Rise of Skywalker is a science fiction film directed by J.J. Abrams. In the final chapter of the Skywalker saga, the Resistance faces the First Order once more as Rey, Finn, and Poe Dameron continue their fight against the dark forces threatening the galaxy. As Rey's journey to discover her true identity unfolds, she must confront the return of Emperor Palpatine and the truth about her connection to the Force. With old friends and new allies by their side, the heroes of the Resistance embark on a perilous mission to stop the rise of evil and restore hope to the galaxy.",
+  "description": "In the final chapter of the Skywalker saga, the Resistance faces the First Order once more as Rey, Finn, and Poe Dameron continue their fight against the dark forces threatening the galaxy. As Rey's journey to discover her true identity unfolds, she must confront the return of Emperor Palpatine and the truth about her connection to the Force. With old friends and new allies by their side, the heroes of the Resistance embark on a perilous mission to stop the rise of evil and restore hope to the galaxy.",
   "genre": ["action", "adventure", "fantasy", "science-fiction", "sequel"],
   "director": [{
     "name": "J.J. Abrams",
-    "image": "https://cdn.britannica.com/23/129823-050-4B487943/TV-JJ-movie-Abrams.jpg?w=400&h=300&c=crop",
+    "image": "./directors/JJAbrams.webp",
     "imdb": "https://www.imdb.com/name/nm0009190/"
   }],
   "actors": [{
@@ -310,7 +310,7 @@
     "imdb": "https://www.imdb.com/name/nm1209966/"
   }],
   "link": "https://www.disneyplus.com/movies/star-wars-the-rise-of-skywalker-episode-ix/5e8JThYwCYgw",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C35BCF661F71931176F9E7E5B495BCAACF2D88D6823C284D61871D87E5FAE79/scale?width=1200&aspectRatio=1.78&format=webp"
+  "poster": "./posters/disney/TheRiseOfSkywalker.webp"
 }
 ,
 
