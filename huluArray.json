@@ -169,7 +169,7 @@
     "genre": ["action", "drama", "history", "war"],
     "director": [{
       "name": "Christopher Nolan",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+      "image": "./directors/ChristopherNolan.jpg",
       "imdb": "https://www.imdb.com/name/nm0634240/"
     }],
     "actors": [{
@@ -197,7 +197,7 @@
       }
     ],
     "link": "https://www.hulu.com/movie/ea2ce48b-b1a0-4efc-a484-a7ec1415cf5e",
-    "poster": "https://img2.hulu.com/user/v3/artwork/ea2ce48b-b1a0-4efc-a484-a7ec1415cf5e?base_image_bucket_name=image_manager&base_image=bbd3bc19-5201-4ca1-a242-ecbffdbff52d&region=US&format=jpeg&size=952x536"
+    "poster": "./posters/hulu/Dunkirk.jpeg"
   }
 ,  
 
@@ -1223,7 +1223,7 @@
 "year": 2010,
 "runtime": 148,
 "mpaa": "PG-13",
-"poster": "https://img3.hulu.com/user/v3/artwork/5519f425-9b21-48fb-8e67-aef24c76604a?base_image_bucket_name=image_manager&base_image=a67e9004-08b8-4612-9fda-8e828d3986bf&size=600x338&format=jpeg",
+"poster": "./posters/hulu/Inception.jpeg",
 "description": "The film follows Dom Cobb, a skilled thief who specializes in stealing secrets from deep within the subconscious during the dream state. Cobb is tasked with a seemingly impossible mission: to implant an idea into the mind of a corporate heir through the process of 'inception'. As Cobb and his team navigate through layers of dreams within dreams, they face numerous obstacles and must confront their own inner demons.",
 "genre": ["action", "adventure", "science-fiction"],
 "link": "https://www.hulu.com/movie/inception-5519f425-9b21-48fb-8e67-aef24c76604a",

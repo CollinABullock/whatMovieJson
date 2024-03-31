@@ -5,7 +5,7 @@
     "year": 2023,
     "runtime": 180,
     "mpaa": "R",
-    "poster": "https://www.peacocktv.com/dam/growth/assets/Campaign/P1/oppenheimer/oppenheimer-social.jpg",
+    "poster": "./posters/peacock/Oppenheimer.webp",
     "description": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history.",
 "genre": ["biopic", "drama"],
   "link": "https://www.peacocktv.com/stream-movies/oppenheimer",
@@ -40,7 +40,7 @@
     "title": "Memento",
     "runtime": 113,
     "mpaa": "R",
-    "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "description": "Leonard (Guy Pearce) is tracking down the man who raped and murdered his wife. The difficulty, however, of locating his wife's killer is compounded by the fact that he suffers from a rare, untreatable form of memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
     "genre": ["mystery", "thriller"],
     "director": [{
       "name": "Christopher Nolan",
@@ -64,7 +64,7 @@
       }
     ],
     "link": "https://www.peacocktv.com/watch-online/movies/memento/c375a0e4-f17e-330b-bf4f-0dcd16dfe670",
-    "poster": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/08/Memento.jpg?resize=1200,630"
+    "poster": "./posters/peacock/Memento.webp"
   }
 ,  
 

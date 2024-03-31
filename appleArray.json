@@ -35,7 +35,7 @@
     "title": "The Prestige",
     "runtime": 130,
     "mpaa": "PG-13",
-    "description": "Obsession, jealousy, and rivalry push two 19th-century magicians to engage in a deadly battle of illusions.",
+    "description": "Period thriller set in Edwardian London where two rival magicians, partners until the tragic death of an assistant during a show, feud bitterly after one of them performs the ultimate magic trick - teleportation. His rival tries desperately to uncover the secret of his routine, experimenting with dangerous new science as his quest takes him to the brink of insanity and jeopardises the lives of everyone around the pair.",
     "genre": ["drama", "mystery", "science-fiction", "history"],
     "director": [{
       "name": "Christopher Nolan",
@@ -64,7 +64,7 @@
       }
     ],
     "link": "https://tv.apple.com/us/movie/the-prestige/umc.cmc.xafhh76eamlmtgprndbgiq71",
-    "poster": "https://ntvb.tmsimg.com/assets/p161581_v_h8_ay.jpg?w=960&h=540"
+    "poster": "./posters/apple/ThePrestige.jpg"
   }
 ,  
 
@@ -499,7 +499,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BZTgyNTdiNmQtYTAzMS00MjU5LTk1ZjktNWE5NzY1MWMyNjlkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg"
     }
   ],
-  "poster": "https://is1-ssl.mzstatic.com/image/thumb/TJbQObzfTQKoZzBCDXjImg/738x416.webp",
+  "poster": "./posters/apple/SavingPrivateRyan.jpg",
   "link": "https://tv.apple.com/us/movie/saving-private-ryan/umc.cmc.42f75umn5z16fkpofphe4re85?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000"
 },
 
@@ -733,7 +733,7 @@
     ],
     "link": "https://tv.apple.com/us/movie/beastie-boys-story/umc.cmc.6d0mrskjsusw2jd2d228p88c2?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
     "year": 2020,
-    "poster": "./posters/apple/TheBeastieBoysStory.jpeg"
+    "poster": "./posters/apple/TheBeastieBoysStory.jpg"
   },
   
   {
@@ -944,7 +944,7 @@
         "image": "https://i.ebayimg.com/images/g/6~IAAOSw2MRkk5NN/s-l1200.jpg"
       }
     ],
-    "poster": "./posters/apple/KillBill2.jpeg",
+    "poster": "./posters/apple/KillBill2.jpg",
     "link": "https://tv.apple.com/us/movie/kill-bill-volume-2/umc.cmc.659e0ayjnp4136jil08gl0xex"
   }
   

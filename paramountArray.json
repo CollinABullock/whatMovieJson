@@ -85,7 +85,7 @@
   "genre": ["adventure", "drama", "science-fiction"],
   "director": [{
     "name": "Christopher Nolan",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+    "image": "./directors/ChristopherNolan.jpg",
     "imdb": "https://www.imdb.com/name/nm0634240/"
   }],
   "actors": [{
@@ -1558,7 +1558,7 @@
     "genre": ["crime", "drama", "mystery", "thriller", "remake"],
     "director": [{
       "name": "Christopher Nolan",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-attends-the-oppenheimer-premiere-at-news-photo-1704643272.jpg",
+      "image": "./directors/ChristopherNolan.jpg",
       "imdb": "https://www.imdb.com/name/nm0634240/"
     }],
     "actors": [{
@@ -1575,7 +1575,7 @@
       "imdb": "https://www.imdb.com/name/nm0005476/"
     }],
     "link": "https://www.paramountplus.com/movies/video/90LpNoNLF2uMshp_OXeGAo6PaBQpNdOX/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHU3xU1LVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CNvPoLyChIUDFYWEpgQdjP0Mwg",
-    "poster": "https://streamcoimg-a.akamaihd.net/000/406/9276/4069276-Banner-L2-7e651a4da296207aa62455d109722960.jpg"
+    "poster": "./posters/paramount/Insomnia.jpg"
   }
 ,  
 
