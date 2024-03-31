@@ -47,7 +47,7 @@
         }
       ],
       "link": "https://play.max.com/video/watch/c5818973-717d-4c92-83a7-7c66ff1906ab/da330ec6-ee89-4cae-87bc-70f3dee30a57",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/df036988-3af6-4683-b9c9-391246e2b6ba/e4a9d7d7c55dc8abc3e7ea9ed774f057d39ae2af.jpg?submitted=1684672994412&host=wbd-images.prod-vod.h264.io&partner=beamcom"
+      "poster": "./posters/max/Rashomon.avif"
     }
 ,   
 
@@ -81,7 +81,7 @@
     }
   ],
   "link": "https://play.max.com/movie/68053a97-60b3-40f2-af88-15b6a15a3f88?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1100lyobQIAT",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/68053a97-60b3-40f2-af88-15b6a15a3f88/c98eb29ea1864c2b33cd0449fc3de2a023557b83.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+  "poster": "./posters/max/ThroneOfBlood.avif"
 },
 
 {
@@ -113,7 +113,7 @@
     }
   ],
   "link": "https://www.max.com/movies/yojimbo/d1cf648d-3cf1-4a97-b497-648c02735403",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d1cf648d-3cf1-4a97-b497-648c02735403/d97ddebc5291474d01cf2744e47e5a5b251cb57d.jpg?submitted=1684671870279&host=wbd-images.prod-vod.h264.io&partner=beamcom"
+  "poster": "./posters/max/Yojimbo.avif"
 }
 ,
 
@@ -147,7 +147,7 @@
     }
   ],
   "link": "https://www.max.com/movies/hidden-fortress/e3114b6e-71b0-42b8-89fa-949c20acd4a8",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e3114b6e-71b0-42b8-89fa-949c20acd4a8/202bacacbdcc3c1d00382950bf46581136f3da00.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+  "poster": "./posters/max/TheHiddenFortress.avif"
 }
 ,
 
@@ -2064,7 +2064,7 @@
     "imdb": "https://www.imdb.com/name/nm0434849/"
   }],
   "link": "https://play.max.com/video/watch/6f304871-7904-4428-aa4e-9c537aa0bc66/259df4f3-518e-4f01-b14a-c6a42f69af8c",
-  "poster": "./posters/highAndLow.avif"
+  "poster": "./posters/max/HighAndLow.avif"
 }
 ,
 
@@ -2159,7 +2159,7 @@
     "imdb": "https://www.imdb.com/name/nm0793927/"
   }],
   "link": "https://play.max.com/movie/c00ace36-3a1d-43ad-a7f9-206cbc3abcab",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/c00ace36-3a1d-43ad-a7f9-206cbc3abcab/04aa091c3fe1ebd2067957f6baf6870724d21e60.jpg?submitted=1684670018475&host=wbd-images.prod-vod.h264.io&partner=beamcom"
+  "poster": "./posters/max/SevenSamurai.avif"
 }
 ,
    
