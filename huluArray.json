@@ -976,7 +976,7 @@
 "year": 2017,
 "runtime": 164,
 "mpaa": "R",
-"poster": "https://img2.hulu.com/user/v3/artwork/fe644b0a-289d-4693-a7f6-64705315b07a?base_image_bucket_name=image_manager&base_image=c080f045-ae74-4cf8-a954-d918eabd821a&size=600x338&format=jpeg",
+"poster": "./posters/hulu/BladeRunner2049.jpeg",
 "description": "Directed by Denis Villeneuve, 'Blade Runner 2049' is a science fiction neo-noir film and a sequel to the 1982 cult classic 'Blade Runner'. Set thirty years after the events of the first film, the story follows K, a new blade runner who uncovers a long-buried secret that has the potential to plunge what's left of society into chaos. As K embarks on his journey to unravel the mystery, he crosses paths with Rick Deckard, a former blade runner, leading them both to confront their own identities and the nature of humanity itself.",
 "genre": ["science-fiction", "drama", "mystery", "sequel", "film-noir"],
 "link": "https://www.hulu.com/movie/blade-runner-2049-fe644b0a-289d-4693-a7f6-64705315b07a",
@@ -1000,7 +1000,7 @@
   },
   {
     "name": "Ana de Armas",
-    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKB1h7dIm2oMW3TxlhFrmUDWqc5UvaRoCXhlzn9EsBXxusvmOd",
+    "image": "./actors/AnaDeArmas.jpeg",
     "imdb": "https://www.imdb.com/name/nm1869101/"
   },
   {
@@ -2436,7 +2436,7 @@
 "year": 2022,
 "runtime": 115,
 "mpaa": "R",
-"poster": "https://img2.hulu.com/user/v3/artwork/2c4ae82e-2c1b-41d5-a651-82189d1c8b2c?base_image_bucket_name=image_manager&base_image=ea120849-e5a2-496c-a636-ef00832825d9&size=600x338&format=jpeg",
+"poster": "./posters/hulu/DeepWater.jpeg",
 "description": "In 'Deep Water', a married couple's relationship takes a dark turn when they begin playing mind games with each other. As jealousy and suspicion escalate, they find themselves caught in a deadly game of cat and mouse that threatens to destroy everything they hold dear.",
 "genre": ["drama", "mystery", "thriller", "romance"],
 "link": "https://www.hulu.com/movie/deep-water-2c4ae82e-2c1b-41d5-a651-82189d1c8b2c",
@@ -2458,7 +2458,7 @@
   },
   {
     "name": "Ana de Armas",
-    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKB1h7dIm2oMW3TxlhFrmUDWqc5UvaRoCXhlzn9EsBXxusvmOd",
+    "image": "./actors/AnaDeArmas.jpeg",
     "imdb": "https://www.imdb.com/name/nm1869101/"
   },
   {

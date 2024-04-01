@@ -1673,7 +1673,7 @@
     "year": 2019,
     "runtime": 91,
     "mpaa": "R",
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/c82d0b5435e714b410f1b8047a238792a3ce51f278de901280ba15ccba87d546.png",
+    "poster": "./posters/prime/KillChain.png",
     "description": "In the movie Kill Chain, a hotel room shootout between two assassins draws a third into the action. Soon, the gunman's employer and his wife also become involved.",
     "genre": ["action", "thriller"],
     "link": "https://www.amazon.com/gp/video/detail/B098BQW128/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
@@ -1688,7 +1688,7 @@
       "imdb": "https://www.imdb.com/name/nm0000115/"
     }, {
       "name": "Anabelle Acosta",
-      "image": "https://variety.com/wp-content/uploads/2017/10/anabelle-acosta.jpg",
+      "image": "./actors/AnabelleAcosta.webp",
       "imdb": "https://www.imdb.com/name/nm3729684/"
     }, {
       "name": "Ryan Kwanten",
@@ -2485,7 +2485,7 @@
     "year": 1992,
     "runtime": 100,
     "mpaa": "R",
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/4e4ed4e0e8241a612f7e91d47b22df4933acaa672bb5944e35c63359635ee656.png",
+    "poster": "./posters/prime/GlengarryGlenRoss.jpg",
     "description": "In 'Glengarry Glen Ross', a group of desperate real estate agents resort to unethical and cutthroat tactics to survive in a highly competitive sales environment. When their office is robbed and the leads stolen, tensions escalate as the agents vie for survival and success. Loyalties are tested, and the men must confront their own morality as they navigate the ruthless world of sales and deception.",
     "genre": ["crime", "drama"],
     "link": "https://www.amazon.com/gp/video/detail/0P0TGDPE6TESFCCNYC21WGW4AB/ref=atv_dp_cnc_3_10",
@@ -2504,7 +2504,7 @@
     "imdb": "https://www.imdb.com/name/nm0000493/"
     }, {
       "name": "Alec Baldwin",
-      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSuYBOiGP2ZAxJotmeQcYxn3DjFBL0zoMmurQS0QLxYVn9zGwvQoFUMQVjt4cgb-se_wUvvZhQdkblI2aA",
+      "image": "./actors/AlecBaldwin.jpeg",
       "imdb": "https://www.imdb.com/name/nm0000285/"
     }, {
       "name": "Ed Harris",

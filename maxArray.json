@@ -1105,7 +1105,7 @@
         },
         {
           "name": "Amy Adams",
-          "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2023718/rs_1200x1200-230818082417-1200.enchanted-premiere-amy-adams-thumbnail-tb-081823.jpg?fit=around%7C660:372&output-quality=90&crop=660:372;center,top",
+          "image": "./actors/AmyAdams.avif",
           "imdb": "https://www.imdb.com/name/nm0010736/"
         }
       ]
@@ -1591,7 +1591,7 @@
       "year": 1990,
       "runtime": 136,
       "mpaa": "PG",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/9652f2da-ba93-4b4c-988a-de935d58974d/8f9ea734179548184c76be6e50865b34a77b47fe.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/TheHuntForRedOctober.avif",
       "description": "A Russian submarine commander's scheme to defect puts him in the crosshairs between enemy forces in this Cold War thriller.",
 	"genre": ["action", "thriller"],
     "link": "https://play.max.com/movie/9652f2da-ba93-4b4c-988a-de935d58974d",
@@ -1602,7 +1602,7 @@
     }],
     "actors": [{
       "name": "Alec Baldwin",
-      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSuYBOiGP2ZAxJotmeQcYxn3DjFBL0zoMmurQS0QLxYVn9zGwvQoFUMQVjt4cgb-se_wUvvZhQdkblI2aA",
+      "image": "./actors/AlecBaldwin.jpeg",
       "imdb": "https://www.imdb.com/name/nm0000285/"
     }, {
       "name": "Sean Connery",

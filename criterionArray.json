@@ -24,7 +24,7 @@
       "imdb": "https://www.imdb.com/name/nm0000450/"
     }, {
       "name": "Amy Adams",
-      "image": "https://cdn.britannica.com/67/137467-050-326A44D6/Amy-Adams-2007.jpg?w=400&h=300&c=crop",
+      "image": "./actors/AmyAdams.avif",
       "imdb": "https://www.imdb.com/name/nm0010736/"
     }]
   },

@@ -659,7 +659,7 @@
   }],
   "actors": [{
       "name": "Albert Brooks",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/231109115427-01-albert-brooks-file-1979.jpg?c=original",
+      "image": "./actors/AlbertBrooks.jpg",
       "imdb": "https://www.imdb.com/name/nm0000985/"
     },
     {
@@ -680,7 +680,7 @@
     }
   ],
   "link": "https://www.disneyplus.com/movies/finding-nemo/5Gpj2XqF7BV2",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/69EFCE0C4DED1AD62380A123563ABF74905BF248FAAA05AC2A6E8E9626866299/scale?width=1200&aspectRatio=1.78&format=webp"
+  "poster": "./posters/disney/FindingNemo.webp"
 },
 
 {
@@ -702,7 +702,7 @@
   }],
   "actors": [{
     "name": "Albert Brooks",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/231109115427-01-albert-brooks-file-1979.jpg?c=original",
+    "image": "./actors/AlbertBrooks.jpg",
     "imdb": "https://www.imdb.com/name/nm0000985/"
   },
   {
@@ -723,7 +723,7 @@
     
   ],
   "link": "https://www.disneyplus.com/movies/finding-dory/2L6w30vnqebX",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/353A504C8DEC7A1D4065EDA1F7F8ABED4D3CE2E7E2508782AAB33B5A6E5AB8BE/scale?width=1200&aspectRatio=1.78&format=webp"
+  "poster": "./posters/disney/FindingDory.webp"
 }
 ,
 
