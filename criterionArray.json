@@ -5,13 +5,13 @@
     "year": 2012,
     "runtime": 138,
     "mpaa": "R",
-    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/164e3b6d-bc7f-4828-8e99-a8b87db59964.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640",
+    "poster": "./posters/criterion/TheMaster.avif",
     "description": "A Navy veteran arrives home from war unsettled and uncertain of his future – until he is tantalized by the Cause and its charismatic leader.",
     "genre": ["drama"],
     "link": "https://www.criterionchannel.com/videos/the-master",
     "director": [{
       "name": "Paul Thomas Anderson",
-			"image": "https://www.indiewire.com/wp-content/uploads/2020/07/AP_18036792087466.jpg",
+			"image": "./directors/PaulThomasAnderson.webp",
 			"imdb": "https://www.imdb.com/name/nm0000759/"
     }],
     "actors": [{

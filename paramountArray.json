@@ -849,13 +849,13 @@
     "year": 2007,
     "runtime": 158,
     "mpaa": "R",
-    "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/movie_asset/57/95/34/twbb_us_2007_sa_16x9_1920x1080.jpg",
+    "poster": "./posters/paramount/ThereWillBeBlood.jpg",
     "description": "Silver miner Daniel Plainview leads a hardscrabble life with his son, H.W. When he hears about oil oozing from the ground near the Western town of Little Boston, Daniel takes his son on a mission to find their fortune. Daniel makes his lucky strike and becomes a self-made tycoon but, as his fortune grows, he deviates into moral bankruptcy.",
     "genre": ["drama"],
     "link": "https://www.paramountplus.com/movies/video/4d8PJlAU9RPkOM0j4e6Qb_BNFRobgkvL/",
     "director": [{
       "name": "Paul Thomas Anderson",
-			"image": "https://www.indiewire.com/wp-content/uploads/2020/07/AP_18036792087466.jpg",
+			"image": "./directors/PaulThomasAnderson.webp",
 			"imdb": "https://www.imdb.com/name/nm0000759/"
     }],
     "actors": [{

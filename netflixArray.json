@@ -208,13 +208,13 @@
 		"year": 2017,
 		"runtime": 130,
 		"mpaa": "R",
-		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTYcSq5Yu8GJUeWBnIioqYv0L6on8QJwybGp1BINcsSx7v1uwsIk_d7f8DhPTX4RpmS51lxq-_SgpGJ3B5FukrE3_ogHMiEhgseU.jpg?r=787",
+		"poster": "./posters/netflix/PhantomThread.jpg",
 		"description": "Renowned dressmaker Reynolds Woodcock and his sister Cyril are at the center of British fashion in 1950s London -- dressing royalty, movie stars, heiresses and socialites in the distinctive style of The House of Woodcock. Women come and go through Woodcock's life, providing the confirmed bachelor with inspiration and companionship, until he comes across a young, strong-willed woman, Alma, who soon becomes a fixture in his life as his muse and lover.",
 		"genre": ["drama", "romance"],
 		"link": "https://www.netflix.com/title/80195447",
 		"director": [{
 			"name": "Paul Thomas Anderson",
-			"image": "https://www.indiewire.com/wp-content/uploads/2020/07/AP_18036792087466.jpg",
+			"image": "./directors/PaulThomasAnderson.webp",
 			"imdb": "https://www.imdb.com/name/nm0000759/"
 		}],
 		"actors": [{
