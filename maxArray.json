@@ -3052,13 +3052,13 @@
       "year": 1981,
       "runtime": 110,
       "mpaa": "PG",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e881a6d1-c134-4710-970f-0f17f60efe3a/4223fd8610c977b8993a336e4de2cfd88dc81a48.jpg?submitted=1684674091610&host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/MyDinnerWithAndre.jpg",
       "description": "In 'My Dinner with Andre,' two old friends, Wallace Shawn and Andre Gregory, meet for dinner at a restaurant in New York City. Over the course of the meal, they engage in a deep and philosophical conversation about life, art, and the nature of reality.",
-      "genre": ["drama", "classic"],
+      "genre": ["drama", "classic", "indie"],
       "link": "https://play.max.com/video/watch/82fb945c-65a7-4b11-a3f3-3de1db4f7587/709d70b9-f85a-407c-93f3-ba2a2229677a",
       "director": [{
         "name": "Louis Malle",
-        "image": "https://upload.wikimedia.org/wikipedia/en/1/10/Malle2.jpg",
+        "image": "./directors/LouisMalle.jpg",
         "imdb": "https://www.imdb.com/name/nm0001507/"
       }],
       "actors": [{
@@ -3068,8 +3068,8 @@
         },
         {
           "name": "Andre Gregory",
-          "image": "https://example.com/andre_gregory.jpg",
-          "imdb": "https://www.imdb.com/name/nm0339863/"
+          "image": "./actors/AndreGregory.jpg",
+          "imdb": ""
         }
       ]
     },
