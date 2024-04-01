@@ -2020,7 +2020,7 @@
 "year": 1993,
 "runtime": 114,
 "mpaa": "R",
-"poster": "https://img3.hulu.com/user/v3/artwork/a69c932d-881a-40b8-b154-dd913923feee?base_image_bucket_name=image_manager&base_image=e98470ce-8f6c-4abf-917d-117940527d1a&size=600x338&format=jpeg",
+"poster": "./posters/hulu/Alien3.jpeg",
 "description": "'Alien³' follows Ellen Ripley as she crash-lands on Fiorina 161, a desolate prison planet inhabited by male inmates with no knowledge of the alien creature she encountered in previous films. As Ripley discovers the presence of the deadly xenomorph aboard the facility, she must rally the prisoners to confront the terrifying threat, even as personal and political tensions threaten to tear them apart.",
 "genre": ["action", "horror", "science-fiction", "sequel"],
 "link": "https://www.hulu.com/movie/alien-3-a69c932d-881a-40b8-b154-dd913923feee",

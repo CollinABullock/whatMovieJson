@@ -1303,13 +1303,13 @@
       "year": 2010,
       "runtime": 107,
       "mpaa": "R",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/cc485a30-b9ee-463c-93f7-af3717ae9f0d/3b95f9c4fdf21968a375ddbe3e99b3b07b8ca141.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/Predators.avif",
       "description": "Eight violent strangers awaken in a mysterious jungle as prey to a deadly alien race in this gripping chapter in the Predator series.",
 	"genre": ["action", "science-fiction", "sequel"],
     "link": "https://play.max.com/movie/cc485a30-b9ee-463c-93f7-af3717ae9f0d",
     "director": [{
     "name": "Nimród Antal",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTg4NDAzNjAyNV5BMl5BanBnXkFtZTcwODUyNzUzMw@@._V1_.jpg",
+    "image": "./directors/NimrodAntal.jpg",
     "imdb": "https://www.imdb.com/name/nm0030735/"
     }],
     "actors": [{
@@ -3662,8 +3662,8 @@
   "year": 1995,
   "runtime": 127,
   "mpaa": "R",
-  "poster": "https://i0.wp.com/vaguevisages.com/wp-content/uploads/2024/02/Seven-Cast-Netflix-Every-Actor-Character.jpeg?resize=890%2C501&ssl=1",
-  "description": "Seven is a 1995 neo-noir crime thriller film directed by David Fincher. The story revolves around two detectives, Somerset and Mills, who investigate a series of gruesome murders inspired by the seven deadly sins. As they delve deeper into the case, they find themselves entangled in a game of cat and mouse with a sadistic and methodical serial killer.",
+  "poster": "./posters/max/Seven.avif",
+  "description": "When retiring police Detective William Somerset (Morgan Freeman) tackles a final case with the aid of newly transferred David Mills (Brad Pitt), they discover a number of elaborate and grizzly murders. They soon realize they are dealing with a serial killer (Kevin Spacey) who is targeting people he thinks represent one of the seven deadly sins. Somerset also befriends Mills' wife, Tracy (Gwyneth Paltrow), who is pregnant and afraid to raise her child in the crime-riddled city.",
   "genre": ["crime", "drama", "mystery", "film-noir"],
   "link": "https://play.max.com/video/watch/3f06ef4e-9319-4ea4-8773-62e04b89a479/848a8082-03e1-48a7-bb53-a17f87935029",
   "director": [{
@@ -4660,13 +4660,13 @@
   "year": 2008,
   "runtime": 91,
   "mpaa": "R",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/09c22a60-e42a-4131-b6eb-59841e38a02d/a3ddfe52b93fcc6edcdcc5f7202f0d253d1b909c.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/SemiPro.avif",
   "description": "Jackie Moon, the owner-coach-player of the American Basketball Association's Flint Tropics, dreams of leading his team to glory and securing a spot in the NBA. Facing financial struggles and low attendance, Jackie concocts various gimmicks to boost interest in the team, including wrestling bears and offering outlandish promotions. As the Tropics make a final push for success, Jackie must confront his own limitations and priorities.",
   "genre": ["comedy", "sports"],
   "link": "https://play.max.com/movie/09c22a60-e42a-4131-b6eb-59841e38a02d",
   "director": [{
     "name": "Kent Alterman",
-    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-175956-453266238.jpg?w=1581&h=1054&crop=1",
+    "image": "./directors/KentAlterman.webp",
     "imdb": "https://www.imdb.com/name/nm0022780/"
   }],
   "actors": [{

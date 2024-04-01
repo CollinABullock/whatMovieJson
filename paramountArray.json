@@ -5,7 +5,7 @@
     "year": 2007,
     "runtime": 157,
     "mpaa": "R",
-    "poster": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/movie_asset/92/68/23/zod_salone_16_9_1920x1080_nb_0.jpg",
+    "poster": "./posters/paramount/Zodiac.jpg",
     "description": "A San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.",
     "genre": ["crime", "drama", "mystery"],
     "link": "https://www.paramountplus.com/movies/video/wjQ4RChi6BHHu4MVTncppVuCwu44uq2Q/",
