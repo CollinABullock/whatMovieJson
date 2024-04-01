@@ -1857,7 +1857,7 @@
 "year": 2021,
 "runtime": 152,
 "mpaa": "R",
-"poster": "https://img.hulu.com/user/v3/artwork/5387fb0a-a16e-4118-a244-31056c6d396c?base_image_bucket_name=image_manager&base_image=7ff345e9-c6f1-48fb-8002-7a99614941de&size=600x338&format=jpeg",
+"poster": "./posters/hulu/TheLastDuel.jpeg",
 "description": "Set in 14th-century France, the movie is based on the true story of the last sanctioned duel in France, fought between Jean de Carrouges and Jacques Le Gris. The duel is fought over allegations of rape made by Carrouges' wife, Marguerite, against Le Gris. As tensions escalate and loyalties are tested, the truth becomes increasingly difficult to discern.",
 "genre": ["drama", "history"],
 "link": "https://www.hulu.com/movie/the-last-duel-5387fb0a-a16e-4118-a244-31056c6d396c",
@@ -1876,7 +1876,7 @@
   },
   {
     "name": "Adam Driver",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
+    "image": "./actors/AdamDriver.jpeg",
     "imdb": "https://www.imdb.com/name/nm3485845/"
   },
   {

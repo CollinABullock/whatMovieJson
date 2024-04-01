@@ -215,7 +215,7 @@
     "imdb": "https://www.imdb.com/name/nm5397459/"
   }, 	{
     "name": "Adam Driver",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
+    "image": "./actors/AdamDriver.jpeg",
     "imdb": "https://www.imdb.com/name/nm3485845/"
   },{
     "name": "John Boyega",
@@ -254,7 +254,7 @@
     "imdb": "https://www.imdb.com/name/nm5397459/"
   }, 	{
     "name": "Adam Driver",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
+    "image": "./actors/AdamDriver.jpeg",
     "imdb": "https://www.imdb.com/name/nm3485845/"
   },{
     "name": "John Boyega",
@@ -275,7 +275,7 @@
     "imdb": "https://www.imdb.com/name/nm0000402/"
   }],
   "link": "https://www.disneyplus.com/movies/star-wars-the-last-jedi-episode-viii/1nCWFK1pmAI0",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1A17D0D449D5A9E24FD41D3A849B47FF902363B58410EBF2EC49349D62C7AEBF/scale?width=1200&aspectRatio=1.78&format=webp"
+  "poster": "./posters/disney/TheLastJedi.webp"
 }
 ,
 
@@ -298,7 +298,7 @@
     "imdb": "https://www.imdb.com/name/nm5397459/"
   }, 	{
     "name": "Adam Driver",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
+    "image": "./actors/AdamDriver.jpeg",
     "imdb": "https://www.imdb.com/name/nm3485845/"
   },{
     "name": "John Boyega",

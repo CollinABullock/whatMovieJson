@@ -4086,7 +4086,7 @@
         "imdb": "https://www.imdb.com/name/nm3078932/"
       }, {
         "name": "Adam Driver",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220804161330-adam-driver-burberry-look-of-the-week.jpg?q=w_2000,c_fill",
+        "image": "./actors/AdamDriver.jpeg",
         "imdb": "https://www.imdb.com/name/nm3485845/"
       }, {
         "name": "Al Pacino",
@@ -4097,7 +4097,7 @@
         "image": "https://people.com/thmb/F6zZ7jcdQlpwxG-mwyPWJ0faXoE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(734x168:736x170)/jared-leto-zane-lowe-podcast-091423-tout-f358591e23834b6ebe8843d083e83d5d.jpg",
         "imdb": "https://www.imdb.com/name/nm0001467/"
       }],
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/8ace009c094032df16b4ac8d4bcd761e9e8fc51abe0e0566bb156970c10b102d.jpg",
+    "poster": "./posters/prime/HouseOfGucci.jpg",
     "link": "https://www.amazon.com/gp/video/detail/0HUQH9VXP151C7YTTHRESDO1K9/ref=atv_dl_rdr?tag=justus1ktp-20"
   },
 

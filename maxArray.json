@@ -3444,7 +3444,7 @@
   "year": 2014,
   "runtime": 97,
   "mpaa": "R",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/fb8fbbd5-988d-428a-b00b-9b3eaaa2f3eb/e56ac7ef3bb72e300186175dd7490666276c10e2.jpg?submitted=1684676210089&host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/WhileWereYoung.avif",
   "description": "While We're Young follows a middle-aged couple, Josh and Cornelia, whose lives are disrupted when they befriend a much younger, free-spirited couple, Jamie and Darby. As they immerse themselves in the younger couple's world, Josh and Cornelia experience a mixture of excitement, envy, and self-reflection.",
   "genre": ["comedy", "drama"],
   "link": "https://play.max.com/video/watch/6827b8a7-1199-4d6f-92f8-da1aed028874/5fafb837-07e3-4047-8f09-cccb14557a93",
@@ -3463,7 +3463,7 @@
     "imdb": "https://www.imdb.com/name/nm0915208/"
   }, {
     "name": "Adam Driver",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
+    "image": "./actors/AdamDriver.jpeg",
     "imdb": "https://www.imdb.com/name/nm3485845/"
   }, {
     "name": "Amanda Seyfried",

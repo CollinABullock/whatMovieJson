@@ -1105,7 +1105,7 @@
     "item": 1234,
     "title": "Inside Llewyn Davis",
     "year": 2013,
-    "description": "A folk singer navigates the Greenwich Village folk scene of 1961.",
+    "description": "In 1961 New York City, folk singer Llewyn Davis (Oscar Isaac) is at a crossroads. Guitar in hand, he struggles against seemingly insurmountable obstacles to make a name for himself in the music world, but so far, success remains elusive. Relying on the kindness of both friends and strangers, Llewyn embarks on an odyssey that takes him from the streets of Greenwich Village to a Chicago club, where awaits a music mogul who could give him the big break that he desperately needs.",
     "runtime": 104,
     "mpaa": "R",
     "genre": ["drama", "music", "history", "comedy"],
@@ -1138,10 +1138,10 @@
         "image": "https://www.ultimatemovierankings.com/wp-content/uploads/2016/06/goodman-22222.jpg"
       },
       {      "name": "Adam Driver",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHXwIoFRZIuw12sbWKGf6w0IEQ5wdnZzopg&usqp=CAU",
+      "image": "./actors/AdamDriver.jpeg",
       "imdb": "https://www.imdb.com/name/nm3485845/"}
     ],
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/fedd8fd1a84fd3a4eea849583cccb46973f58cff235e3094b0b32d5b973e7140.jpg",
+    "poster": "./posters/paramount/InsideLlewynDavis.jpg",
     "link": "https://www.paramountplus.com/movies/video/Pj3cmn_kRPxf0lJqmtudM5vIV4tXX1yR/"
   },
   {
