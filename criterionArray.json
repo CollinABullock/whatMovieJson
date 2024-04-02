@@ -1114,7 +1114,7 @@
   "actors": [{
     "name": "Ben Affleck",
     "imdb": "https://www.imdb.com/name/nm0000255/",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/10ea0b4/2147483647/strip/true/crop/6316x4210+0+1/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fd8%2Ff1ec7c954d10ab8f645895faa29b%2Fla-photos-1staff-885832-ca-ben-affleck-portrait-tender-bar-jlc-1213-12331.JPG"
+    "image": "./actors/BenAffleck.jpeg"
   }, {
     "name": "Jennifer Lopez",
     "imdb": "https://www.imdb.com/name/nm0000182/",
@@ -1125,7 +1125,7 @@
     "image": "https://deadline.com/wp-content/uploads/2022/04/Justin-Bartha-National-Treasure.jpg?w=1000"
   }],
   "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/gigli",
-  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/cac60a32-b24f-4732-9d51-9919d892cfc9.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+  "poster": "./posters/criterion/Gigli.avif"
 },
 
 {

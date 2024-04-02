@@ -1182,7 +1182,7 @@
     "id": 1028,
     "title": "Sniper: Special Ops",
     "year": 2010,
-    "description": "A Special Ops military Force, led by Sergeant Vic Mosby (Tim Abell) with an expert sniper Sergeant Jake Chandler (Steven Seagal) as \"Over Watch\" during a special mission are sent to a remote Afghan village to extract an American Congressman being held by the Taliban.",
+    "description": "A Special Ops military Force, led by Sergeant Vic Mosby (Tim Abell) with an expert sniper Sergeant Jake Chandler (Steven Seagal) as Over Watch during a special mission are sent to a remote Afghan village to extract an American Congressman being held by the Taliban.",
     "runtime": 86,
     "genre": ["action", "drama", "war"],
     "mpaa": "R",
@@ -1206,12 +1206,12 @@
       },
       {
         "name": "Tim Abell",
-        "image": "https://m.media-amazon.com/images/M/MV5BMWY3ZDc0ZmEtMmQ2Mi00Y2JhLWI4ZjctMDQ0NTk4OTg0MDU4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+        "image": "./actors/TimAbell.jpg",
         "IMDB": "https://www.imdb.com/name/nm0007922/"
       }
     ],
     "link": "https://tubitv.com/movies/468786/sniper-special-ops",
-    "poster": "https://canvas-bridge.tubitv.com/JN_oHebmfbEdQ9k5vJ7JArw14gg=/448x252/smart/img.adrise.tv/42f639a3-ebf3-404b-a0f3-a5c7f700a146.jpg"
+    "poster": "./posters/tubi/SniperSpecialOps.jpg"
   }
   ,
 

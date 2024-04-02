@@ -935,7 +935,7 @@
 "year": 2000,
 "runtime": 183,
 "mpaa": "PG-13",
-"poster": "https://img2.hulu.com/user/v3/artwork/2d2d93bd-0358-409e-b0d9-82b3678d9903?base_image_bucket_name=image_manager&base_image=0bcb3525-5b83-4687-847d-6b54a4b3b3c4&size=600x338&format=jpeg",
+"poster": "./posters/hulu/PearlHarbor.jpeg",
 "description": "Directed by Michael Bay, 'Pearl Harbor' is an epic war drama that depicts the events leading up to and during the Japanese attack on Pearl Harbor on December 7, 1941. The film follows the intertwined lives of two best friends, Rafe McCawley and Danny Walker, as they navigate their personal and professional relationships amidst the chaos of war.",
 "genre": ["action", "drama", "romance", "war"],
 "link": "https://www.hulu.com/movie/pearl-harbor-2d2d93bd-0358-409e-b0d9-82b3678d9903",
@@ -949,7 +949,7 @@
 "actors": [
   {
     "name": "Ben Affleck",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/10ea0b4/2147483647/strip/true/crop/6316x4210+0+1/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fd8%2Ff1ec7c954d10ab8f645895faa29b%2Fla-photos-1staff-885832-ca-ben-affleck-portrait-tender-bar-jlc-1213-12331.JPG",
+    "image": "./actors/BenAffleck.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000255/"
   },
   {
@@ -1886,7 +1886,7 @@
   },
   {
     "name": "Ben Affleck",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/10ea0b4/2147483647/strip/true/crop/6316x4210+0+1/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fd8%2Ff1ec7c954d10ab8f645895faa29b%2Fla-photos-1staff-885832-ca-ben-affleck-portrait-tender-bar-jlc-1213-12331.JPG",
+    "image": "./actors/BenAffleck.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000255/"
   }
 ]
@@ -2453,7 +2453,7 @@
 "actors": [
   {
     "name": "Ben Affleck",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/10ea0b4/2147483647/strip/true/crop/6316x4210+0+1/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fd8%2Ff1ec7c954d10ab8f645895faa29b%2Fla-photos-1staff-885832-ca-ben-affleck-portrait-tender-bar-jlc-1213-12331.JPG",
+    "image": "./actors/BenAffleck.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000255/"
   },
   {

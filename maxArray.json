@@ -2229,7 +2229,7 @@
   "year": 2002,
   "runtime": 124,
   "mpaa": "PG-13",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/72df4be2-ebfa-44bc-abe2-5b519729fcdb/854c2372f62e96c064455a1fff74ad6b003dde83.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/TheSumOfAllFears.avif",
   "description": "CIA analyst Jack Ryan must stop the plans of a Neo-Nazi faction that threatens to trigger a catastrophic conflict between the United States and Russia.",
   "genre": ["action", "drama", "spy"],
   "link": "https://play.max.com/video/watch/60bf127a-590a-4342-927a-f2235ff392f7/83527fb0-325c-4632-9177-97955a8e6c28",
@@ -2240,7 +2240,7 @@
   }],
   "actors": [{
     "name": "Ben Affleck",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/10ea0b4/2147483647/strip/true/crop/6316x4210+0+1/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fd8%2Ff1ec7c954d10ab8f645895faa29b%2Fla-photos-1staff-885832-ca-ben-affleck-portrait-tender-bar-jlc-1213-12331.JPG",
+    "image": "./actors/BenAffleck.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000255/"
   }, {
     "name": "Morgan Freeman",

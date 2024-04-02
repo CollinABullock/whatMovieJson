@@ -3489,7 +3489,7 @@
 		"year": 2022,
 		"runtime": 159,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABbW2t0Pn2A4mKJhQJ9ocHD7iUY1RaPNf-myGKBnCPyT7RvojKrrk_tLJ_nBU2iFRFwOWjJ4hDNv939kqS1o-PHAUTpV7XpmzyYg.jpg?r=383",
+		"poster": "./posters/netflix/Elvis.jpg",
 		"description": "Elvis Presley finds fame and fortune as the King of Rock and Roll while struggling to escape the control of his controversial manager.",
 		"genre": [
 			"drama",
@@ -3507,7 +3507,7 @@
 		"actors": [
 			{
 				"name": "Austin Butler",
-				"image": "https://media.glamour.com/photos/65d0e42c2edbfa4a616b6a90/master/w_2560%2Cc_limit/1469454324",
+				"image": "./actors/AustinButler.webp",
 				"imdb": "https://www.imdb.com/name/nm2581521/"
 			},
 			{
@@ -5317,7 +5317,7 @@
 		"actors": [
 			{
 				"name": "Ben Affleck",
-				"image": "https://ca-times.brightspotcdn.com/dims4/default/10ea0b4/2147483647/strip/true/crop/6316x4210+0+1/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fd8%2Ff1ec7c954d10ab8f645895faa29b%2Fla-photos-1staff-885832-ca-ben-affleck-portrait-tender-bar-jlc-1213-12331.JPG",
+				"image": "./actors/BenAffleck.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000255/"
 			},
 			{
