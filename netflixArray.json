@@ -4691,7 +4691,7 @@
 		"year": 2018,
 		"runtime": 116,
 		"mpaa": "R",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABZ71hhnO2oq30CVqO15-nDg_DaK33GW3U3EyLxfjy1kwFx-Z7J6h-oSbEAvAEa_UiprfrCEqUyPOJR38znwj3HmYuNzUogRqypml.jpg?r=afd",
+		"poster": "./posters/netflix/TheMule.jpg",
 		"description": "In dire financial straits and estranged from his family, an ornery 90-year-old horticulturalist becomes a delivery driver for a Mexican drug cartel.",
 		"genre": [
 			"drama",
@@ -4713,7 +4713,7 @@
 			},
 			{
 				"name": "Bradley Cooper",
-				"image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTWMU-hTEfE9uijYMdXLmGszgxLyiWtA_lBOaTUq82IDM__vhe-JaCEK8Cx_OKdoXKZ8YCGL8Mf2PR6-7Q",
+				"image": "./actors/BradleyCooper.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0177896/bio/"
 			},
 			{
@@ -4729,7 +4729,7 @@
 		"year": 2023,
 		"runtime": 132,
 		"mpaa": "R",
-		"poster": "https://ntvb.tmsimg.com/assets/p24625532_v_h10_ab.jpg?w=960&h=540",
+		"poster": "./posters/netflix/Maestro.jpg",
 		"description": "This fearless love story chronicles the complicated lifelong relationship between music legend Leonard Bernstein and Felicia Montealegre Cohn Bernstein.",
 		"genre": [
 			"drama",
@@ -4740,14 +4740,14 @@
 		"director": [
 			{
 				"name": "Bradley Cooper",
-				"image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTWMU-hTEfE9uijYMdXLmGszgxLyiWtA_lBOaTUq82IDM__vhe-JaCEK8Cx_OKdoXKZ8YCGL8Mf2PR6-7Q",
+				"image": "./actors/BradleyCooper.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0177896/bio/"
 			}
 		],
 		"actors": [
 			{
 				"name": "Bradley Cooper",
-				"image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTWMU-hTEfE9uijYMdXLmGszgxLyiWtA_lBOaTUq82IDM__vhe-JaCEK8Cx_OKdoXKZ8YCGL8Mf2PR6-7Q",
+				"image": "./actors/BradleyCooper.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0177896/bio/"
 			},
 			{
@@ -4769,7 +4769,7 @@
 		"title": "Silver Linings Playbook",
 		"runtime": 122,
 		"mpaa": "R",
-		"description": "Silver Linings Playbook is a heartfelt romantic comedy-drama directed by David O. Russell. The film follows Pat Solatano, a man with bipolar disorder who moves back in with his parents after spending time in a mental institution. As Pat tries to rebuild his life and win back his estranged wife, he forms an unlikely bond with Tiffany, a young widow with her own struggles. Through their turbulent journey, they discover unexpected silver linings amidst life's challenges.",
+		"description": "After losing his job and wife, and spending time in a mental institution, Pat Solatano (Bradley Cooper) winds up living with his parents (Robert De Niro, Jacki Weaver). He wants to rebuild his life and reunite with his wife, but his parents would be happy if he just shared their obsession with the Philadelphia Eagles. Things get complicated when Pat meets Tiffany (Jennifer Lawrence), who offers to help him reconnect with his wife, if he will do something very important for her in exchange.",
 		"genre": ["comedy", "drama", "romance"],
 		"director": [{
 			"name": "David O. Russell",
@@ -4778,7 +4778,7 @@
 		}],
 		"actors": [{
 			"name": "Bradley Cooper",
-			"image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTWMU-hTEfE9uijYMdXLmGszgxLyiWtA_lBOaTUq82IDM__vhe-JaCEK8Cx_OKdoXKZ8YCGL8Mf2PR6-7Q",
+			"image": "./actors/BradleyCooper.jpeg",
 			"imdb": "https://www.imdb.com/name/nm0177896/bio/"
 		}, {
 			"name": "Jennifer Lawrence",
@@ -4794,7 +4794,7 @@
 			"imdb": "https://www.imdb.com/name/nm0915865/"
 		}],
 		"link": "https://www.netflix.com/title/70244164",
-		"poster": "https://i0.wp.com/the-art-of-autism.com/wp-content/uploads/2020/05/Silver-Linings-Playbook-poster.jpg?fit=770%2C481&ssl=1"
+		"poster": "./posters/netflix/SilverLiningsPlaybook.webp"
 	},
 
 	{

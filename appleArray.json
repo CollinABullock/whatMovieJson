@@ -439,16 +439,16 @@
   "year": 2019,
   "runtime": 136,
   "mpaa": "R",
-  "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
+  "description": "Seasoned musician Jackson Maine discovers -- and falls in love with -- struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jackson coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jackson fights an ongoing battle with his own internal demons.",
   "genre": ["drama", "music", "romance"],
   "director": [{
     "name": "Bradley Cooper",
-    "image": "https://variety.com/wp-content/uploads/2023/08/GettyImages-1485941159-e1692627089616.jpg?w=1000&h=563&crop=1",
+    "image": "./actors/BradleyCooper.jpeg",
     "imdb": "https://www.imdb.com/name/nm0177896/"
   }],
   "actors": [{
     "name": "Bradley Cooper",
-    "image": "https://variety.com/wp-content/uploads/2023/08/GettyImages-1485941159-e1692627089616.jpg?w=1000&h=563&crop=1",
+    "image": "./actors/BradleyCooper.jpeg",
     "imdb": "https://www.imdb.com/name/nm0177896/"
   }, {
     "name": "Lady Gaga",
@@ -460,7 +460,7 @@
     "imdb": "https://www.imdb.com/name/nm0000385/"
   }],
   "link": "https://tv.apple.com/us/movie/a-star-is-born/umc.cmc.3pz1dmbs07y7553nlrs7js3by?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
-  "poster": "https://is1-ssl.mzstatic.com/image/thumb/Nn9KRnGX9yuHZ11094O65A/738x416.webp"
+  "poster": "./posters/apple/AStarIsBorn.webp"
 }
 ,
 

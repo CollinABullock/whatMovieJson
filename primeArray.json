@@ -2144,7 +2144,7 @@
       "imdb": "https://www.imdb.com/name/nm10644079/"
     }, {
       "name": "Bradley Cooper",
-    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTWMU-hTEfE9uijYMdXLmGszgxLyiWtA_lBOaTUq82IDM__vhe-JaCEK8Cx_OKdoXKZ8YCGL8Mf2PR6-7Q",
+    "image": "./actors/BradleyCooper.jpeg",
     "imdb": "https://www.imdb.com/name/nm0177896/bio/"
     }]
   },
