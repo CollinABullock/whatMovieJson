@@ -95,7 +95,7 @@
     },
     {
       "name": "Anne Hathaway",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzhiN2Y0ZTktOWU2NC00Y2M0LWFiODEtMTQ2NTFiZGVlZmI3XkEyXkFqcGdeQW1pYnJ5YW50._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "image": "./actors/AnneHathaway.jpg",
       "imdb": "https://www.imdb.com/name/nm0004266/"
     },
     {
@@ -105,7 +105,7 @@
     }
   ],
   "link": "https://www.paramountplus.com/movies/video/pogPZ4svoLUp1fNjrr4osk0HOjN3r2b9/",
-  "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2021/07/09/1919558723588/INST_SAlone_16_9_1920x1080_1887272_1920x1080.jpg"
+  "poster": "./posters/paramount/Interstellar.jpg"
 }
 ,  
 

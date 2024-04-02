@@ -2013,7 +2013,7 @@
         "imdb": "https://www.imdb.com/name/nm0362766/"
     }, {
       "name": "Anne Hathaway",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzhiN2Y0ZTktOWU2NC00Y2M0LWFiODEtMTQ2NTFiZGVlZmI3XkEyXkFqcGdeQW1pYnJ5YW50._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "image": "./actors/AnneHathaway.jpg",
       "imdb": "https://www.imdb.com/name/nm0004266/"
     }]
     },
@@ -3315,7 +3315,7 @@
       "imdb": "https://www.imdb.com/name/nm0136797/"
     }, {
       "name": "Anne Hathaway",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzhiN2Y0ZTktOWU2NC00Y2M0LWFiODEtMTQ2NTFiZGVlZmI3XkEyXkFqcGdeQW1pYnJ5YW50._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "image": "./actors/AnneHathaway.jpg",
       "imdb": "https://www.imdb.com/name/nm0004266/"
     }, {
       "name": "Dwayne 'The Rock' Johnson",
@@ -4030,7 +4030,7 @@
   "year": 2015,
   "runtime": 121,
   "mpaa": "PG-13",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/bb7410fe-ee13-4a70-83fd-5d6b43effbbc/f2f8045ee19579524a877395df3a8ecf3e671603.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/TheIntern.avif",
   "description": "In 'The Intern', Ben Whittaker, a 70-year-old widower, becomes a senior intern at an online fashion retailer founded and run by Jules Ostin. Despite the generation gap, Ben's wisdom and experience prove invaluable as he forms an unlikely bond with Jules and helps her navigate the challenges of running a successful business while juggling her personal life.",
   "genre": ["comedy", "drama"],
   "link": "https://play.max.com/video/watch/9360450d-aa36-4d01-bd3f-348b9dca4ab3/4db49c20-6544-4d3a-aff6-daab0333fdd0",
@@ -4045,7 +4045,7 @@
     "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
   }, {
     "name": "Anne Hathaway",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzhiN2Y0ZTktOWU2NC00Y2M0LWFiODEtMTQ2NTFiZGVlZmI3XkEyXkFqcGdeQW1pYnJ5YW50._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "image": "./actors/AnneHathaway.jpg",
     "imdb": "https://www.imdb.com/name/nm0004266/"
   }, {
     "name": "Rene Russo",

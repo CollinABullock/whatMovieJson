@@ -612,7 +612,7 @@
       },
       {
         "name": "Anne Hathaway",
-        "image": "https://m.media-amazon.com/images/M/MV5BNzhiN2Y0ZTktOWU2NC00Y2M0LWFiODEtMTQ2NTFiZGVlZmI3XkEyXkFqcGdeQW1pYnJ5YW50._V1_QL75_UX500_CR0,0,500,281_.jpg",
+        "image": "./actors/AnneHathaway.jpg",
         "imdb": "https://www.imdb.com/name/nm0004266/"
       },
       {
@@ -1342,7 +1342,7 @@
     "year": 2019,
     "runtime": 94,
     "mpaa": "PG-13",
-    "poster": "./posters/prime/TheHustle.jpeg",
+    "poster": "./posters/prime/TheHustle.jpg",
     "description": "Josephine Chesterfield is a glamorous, seductive British woman who has a penchant for defrauding gullible men out of their money. Into her well-ordered world comes Penny Rust, a cunning and fun-loving Australian woman who lives to swindle unsuspecting marks. Despite their different methods, the two grifters soon join forces for the ultimate score.",
     "genre": ["comedy", "crime"],
     "link": "https://www.amazon.com/gp/video/detail/B0BRHM8JSN/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
@@ -1353,7 +1353,7 @@
     }],
     "actors": [{
       "name": "Anne Hathaway",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzhiN2Y0ZTktOWU2NC00Y2M0LWFiODEtMTQ2NTFiZGVlZmI3XkEyXkFqcGdeQW1pYnJ5YW50._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "image": "./actors/AnneHathaway.jpg",
       "imdb": "https://www.imdb.com/name/nm0004266/"
     }, {
       "name": "Rebel Wilson",
