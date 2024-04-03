@@ -2019,13 +2019,13 @@
     },
 
     {    
-      "item": "124",
+      "item": 124,
       "title": "The Matrix:  Revolutions",
       "year": 2003,
       "runtime": 130,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/7f34ec0d-34d9-42bb-96ac-251a42009f2d/114ce4095bf5a985aa0900a330c9b142610bc7da.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
-      "description": "Neo, Morpheus and Trinity prepare for a final battle against vicious machines set to invade Zion.",
+      "description": "In a dystopia overrun by robots, Neo (Keanu Reeves), mankind's greatest hope, is trapped in a limbo world. Meanwhile, the majority of the planet's population remains in a state of suspended virtual reality. The few humans who are cognizant of the grim realities of the world desperately try to hold off their mechanical enemies long enough for Neo to escape and save the day, but things turn disastrous when all-powerful computer program Agent Smith (Hugo Weaving) arrives in the flesh..",
 	"genre": ["science-fiction", "action", "sequel"],
     "link": "https://play.max.com/video/watch/21e986dc-8870-40bb-805c-6f27e1bf2012/1b44e803-22a8-4b87-8217-37eef8c4c772",
     "director": [{
@@ -2075,13 +2075,13 @@
     },
 
     {    
-      "item": "126",
-      "title": "The Matrix:  Reloaded",
+      "item": 126,
+      "title": "The Matrix: Reloaded",
       "year": 2003,
       "runtime": 139,
       "mpaa": "R",
       "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/15f1f852-5a97-4e78-b509-e045dbc1ba37/b288ab4da6359edb8086425a2be4cd9fa69dd467.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
-      "description": "Freedom fighters use extraordinary skills and weaponry to revolt against machines.",
+      "description": "Freedom fighters Neo (Keanu Reeves), Trinity (Carrie-Anne Moss) and Morpheus (Laurence Fishburne) continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation. In their quest to save the human race from extinction, they gain greater insight into the construct of The Matrix and Neo's pivotal role in the fate of mankind.",
 	"genre": ["science-fiction", "action", "sequel"],
     "link": "https://play.max.com/video/watch/5fe5efc5-2694-4f2b-a2b9-7e9f2091d187/b1adae34-5f5e-41a6-b2f1-bbf51635d453",
     "director": [{
