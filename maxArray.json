@@ -349,11 +349,11 @@
     "imdb": "https://www.imdb.com/name/nm0000201/"
   }, {
     "name": "Dianna Agron",
-    "image": "https://www.thelist.com/img/gallery/what-dianna-agron-has-been-up-to-since-the-end-of-glee/l-intro-1640897173.jpg",
+    "image": "./actors/DiannaArgon.jpg",
     "imdb": "https://www.imdb.com/name/nm1872698/"
   }],
   "link": "https://play.max.com/video/watch/02004a55-abc4-47ce-90cc-6b71b91ca700/63bfdcfe-3262-4fc2-983c-ca94cd793586",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/5b13c166-5c0d-4f92-9893-6ee4f7a1c72c/520549bd616440f267e8836c1ab726f3a3f015c3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+  "poster": "./posters/max/TheFamily.avif"
 }
 ,
 
@@ -3974,7 +3974,7 @@
   "year": 2014,
   "runtime": 108,
   "mpaa": "R",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/837c49a2-a8de-4621-b9f3-7eb412986ead/6f7ab12fabcfb58eb487c0f8d3a9479e0a22b38c.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/ExMachina.avif",
   "description": "Caleb Smith, a young programmer, wins a competition to spend a week at the secluded estate of Nathan Bateman, the CEO of the company he works for. Upon arrival, Caleb discovers that he has been selected to participate in an experiment involving Ava, a highly advanced artificial intelligence.",
   "genre": ["drama", "science-fiction"],
   "link": "https://play.max.com/video/watch/d1e24a98-0c6d-40c7-b7df-294c3ddbd88e/8f802386-0438-4beb-a25c-40653662267a",
@@ -3985,7 +3985,7 @@
   }],
   "actors": [{
     "name": "Domhnall Gleeson",
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/8/86/Domhnall_Gleeson.jpg/revision/latest?cb=20210602024640",
+    "image": "./actors/DomhnallGleeson.webp",
     "imdb": "https://www.imdb.com/name/nm1727304/"
   }, {
     "name": "Alicia Vikander",
@@ -4755,7 +4755,7 @@
       },
       {
         "name": "Domhnall Gleeson",
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/8/86/Domhnall_Gleeson.jpg/revision/latest?cb=20210602024640",
+    "image": "./actors/DomhnallGleeson.webp",
     "imdb": "https://www.imdb.com/name/nm1727304/"
       },
       {
@@ -4764,7 +4764,7 @@
         "image": "https://static01.nyt.com/images/2023/05/07/multimedia/07POULTER-01-cfhm/07POULTER-01-cfhm-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
       }
     ],
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/175d821c-276e-4b5f-9cfd-b2f89db35631/03b64c78713ad7d77680459e258570ae8193415b.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "poster": "./posters/max/TheRevenant.avif",
     "link": "https://play.max.com/video/watch/9d52421f-5bc8-47e6-9089-fa35d953224c/5f1fd256-7449-47fe-b0f2-fa7394376a9b"
   }
   

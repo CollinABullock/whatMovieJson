@@ -74,7 +74,7 @@
     "year": 1988,
     "runtime": 140,
     "mpaa": "PG-13",
-    "poster": "https://img1.hulu.com/user/v3/artwork/733df76b-d280-4f96-b13e-3b0c0c345dee?base_image_bucket_name=image_manager&base_image=7e99857b-7032-47d3-af9d-12c65e57da44&region=US&format=jpeg&size=952x536",
+    "poster": "./posters/hulu/TheAbyss.jpeg",
     "description": "Ed Harris and Mary Elizabeth Mastrantonio are formerly married petroleum engineers who still have some issues to work out. They are drafted to assist a gung-ho Navy SEAL (Michael Biehn) with a top-secret recovery operation: a nuclear sub has been ambushed and sunk, under mysterious circumstances, in some of the deepest waters on Earth.",
     "genre": ["action", "adventure", "drama", "science-fiction"],
     "link": "https://www.hulu.com/movie/733df76b-d280-4f96-b13e-3b0c0c345dee",
@@ -85,7 +85,7 @@
     }],
     "actors": [{
       "name": "Ed Harris",
-      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/the-truman-show-harris.jpg",
+      "image": "./actors/EdHarris.avif",
       "imdb": "https://www.imdb.com/name/nm0000438/"
     }, {
       "name": "Mary Elizabeth Mastrantonio",
@@ -1632,7 +1632,7 @@
 "year": 2011,
 "runtime": 109,
 "mpaa": "PG-13",
-"poster": "https://img3.hulu.com/user/v3/artwork/15359af5-87f0-40c7-a7a2-454434ed9b4a?base_image_bucket_name=image_manager&base_image=8f99a8c9-ecf8-4046-941d-e0f191685ee1&size=600x338&format=jpeg",
+"poster": "./posters/hulu/IAmNumberFour.jpeg",
 "description": "John Smith is an an alien refugee hiding on Earth from a hostile alien race known as the Mogadorians. As John discovers his extraordinary powers, he must evade capture and protect himself and those he cares about from the deadly threats that pursue him. With the help of his guardian, Henri, and newfound allies, John embarks on a journey of self-discovery and courage as he fights to survive and fulfill his destiny.",
 "genre": ["action", "science-fiction", "thriller"],
 "link": "https://www.hulu.com/movie/i-am-number-four-15359af5-87f0-40c7-a7a2-454434ed9b4a",
@@ -1656,7 +1656,7 @@
   },
   {
     "name": "Dianna Agron",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTE5MmViYjItZjMxMy00ZjVhLThiMWYtZmQzZWQ4Y2FiYjllXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "image": "./actors/DiannaArgon.jpg",
     "imdb": "https://www.imdb.com/name/nm1982597/"
   },
   {
