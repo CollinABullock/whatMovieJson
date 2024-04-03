@@ -985,7 +985,7 @@
   {
     "title": "The Aviator",
     "year": 2004,
-    "description": "A biopic depicting the early years of legendary director and aviator Howard Hughes' career, from the late 1920s to the mid-1940s.",
+    "description": "Billionaire and aviation tycoon Howard Hughes (Leonardo DiCaprio) is a successful public figure: a director of big-budget Hollywood films such as Hell's Angels, a passionate lover of Hollywood leading ladies Katharine Hepburn (Cate Blanchett) and Ava Gardner (Kate Beckinsale), and an aviation pioneer who helps build TWA into a major airline. But in private, Hughes remains tormented, suffering from paralyzing phobias and depression. The higher he rises, the farther has to fall.",
     "runtime": 170,
     "mpaa": "PG-13",
     "genre": ["biopic", "drama"],
@@ -1004,7 +1004,7 @@
       },
       {
         "name": "Cate Blanchett",
-        "image": "https://www.ansa.it/webimages/news_base/2015/5/17/77694ac058574b420f373717098561e1.jpg",
+        "image": "./actors/CateBlanchett.jpg",
         "imdb": "https://www.imdb.com/name/nm0000949/"
       },
       {
@@ -1018,7 +1018,7 @@
         "image": "https://variety.com/wp-content/uploads/2019/09/shutterstock_editorial_9992266o.jpeg"
       }
     ],
-    "poster": "https://i.ytimg.com/vi/dkwypzOQf8o/maxresdefault.jpg",
+    "poster": "./posters/paramount/TheAviator.jpg",
     "link": "https://www.paramountplus.com/movies/video/IEps_B0T65NIh7lSP7T80FgA9mc2Vi8Q/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHyQt3dLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CKnYytDQ6IQDFbZHCQkdUckJOA"
   },
 
@@ -1602,7 +1602,7 @@
       {
         "name": "Cate Blanchett",
         "IMDB": "https://www.imdb.com/name/nm0000949/",
-        "image": "https://media.gq.com/photos/565c791fd85c87f60f7ac114/master/pass/cate-blanchett-gq-1215-04.jpg"
+        "image": "./actors/CateBlanchett.jpg"
       },
       {
         "name": "Shia LaBeouf",

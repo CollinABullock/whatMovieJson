@@ -2010,7 +2010,7 @@
   "year": 2008,
   "runtime": 166,
   "mpaa": "PG-13",
-  "poster": "https://media.zenfs.com/en/comingsoon_net_477/bc09488de374711fded1843c82b92913",
+  "poster": "./posters/peacock/TheCuriousCaseOfBenjaminButton.webp",
   "description": "Born under unusual circumstances, Benjamin Button (Brad Pitt) springs into being as an elderly man in a New Orleans nursing home and ages in reverse. Twelve years after his birth, he meets Daisy, a child who flickers in and out of his life as she grows up to be a dancer (Cate Blanchett). Though he has all sorts of unusual adventures over the course of his life, it is his relationship with Daisy, and the hope that they will come together at the right time, that drives Benjamin forward.",
   "genre": ["drama", "fantasy", "romance"],
   "link": "https://www.peacocktv.com/watch-online/movies/drama/the-curious-case-of-benjamin-button/28478094-6b7a-3190-992c-b53ea632f9a7",
@@ -2025,7 +2025,7 @@
     "imdb": "https://www.imdb.com/name/nm0000093/"
   }, {
     "name": "Cate Blanchett",
-    "image": "https://pagesix.com/wp-content/uploads/sites/3/2015/05/cate_blanchett_110688951.jpg?quality=75&strip=all&w=1200",
+    "image": "./actors/CateBlanchett.jpg",
     "imdb": "https://www.imdb.com/name/nm0000949/"
   }, {
     "name": "Tilda Swinton",

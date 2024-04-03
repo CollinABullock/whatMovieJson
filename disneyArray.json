@@ -473,7 +473,7 @@
     "item": 2345,
     "year": 2008,
     "title": "Indiana Jones and the Kingdom of the Crystal Skull",
-    "description": "An action-adventure film directed by Steven Spielberg, where Indiana Jones embarks on a quest to find the legendary Crystal Skulls while encountering old foes and new allies.",
+    "description": "It's the height of the Cold War, and famous archaeologist Indiana Jones (Harrison Ford), returning from his latest adventure, finds out his job at Marshall College is in jeopardy. He meets Mutt (Shia La Beouf), a young man who wants Indy to help him find the legendary Crystal Skull of Akator, and the pair set out for Peru. However, deadly agent Irina Spalko (Cate Blanchett) is searching for the powerful artifact, too, because the Soviets believe it can help them conquer the world.",
     "runtime": 122,
     "mpaa": "PG-13",
     "genre": ["action", "adventure", "sequel"],
@@ -492,7 +492,7 @@
       {
         "name": "Cate Blanchett",
         "IMDB": "https://www.imdb.com/name/nm0000949/",
-        "image": "https://media.gq.com/photos/565c791fd85c87f60f7ac114/master/pass/cate-blanchett-gq-1215-04.jpg"
+        "image": "./actors/CateBlanchett.jpg"
       },
       {
         "name": "Shia LaBeouf",

@@ -411,7 +411,7 @@
   },
 
   {
-    "item": "2198",
+    "item": 2198,
     "title": "I'm Not There",
     "year": 2007,
     "runtime": 135,
@@ -429,7 +429,7 @@
       "imdb": "https://www.imdb.com/name/nm0000288/"
       }, {
         "name": "Cate Blanchett",
-        "image": "https://assets.vogue.com/photos/58914467fb0604bf1f5c1edc/master/pass/cate-blanchett-5-things-you-didnt-know.jpg",
+        "image": "./actors/CateBlanchett.jpg",
         "imdb": "https://www.imdb.com/name/nm0000949/"
       }, {
         "name": "Heath Ledger",
@@ -441,7 +441,7 @@
         "imdb": "https://www.imdb.com/name/nm0000152/"
       }],
     "link": "https://www.criterionchannel.com/living-the-part/season:1/videos/i-m-not-there",
-    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/60ad2052-dfdb-4734-aa58-e3a468ca018a.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+    "poster": "./posters/criterion/ImNotThere.avif"
   },
 
   {
@@ -1152,10 +1152,10 @@
   }, {
     "name": "Bruce Greenwood",
     "imdb": "https://www.imdb.com/name/nm0339304/",
-    "image": "https://static.wikia.nocookie.net/memoryalpha/images/1/1f/Bruce_Greenwood.jpg/revision/latest?cb=20180209025241&path-prefix=en"
+    "image": "./actors/BruceGreenwood.jpg"
   }],
   "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/swept-away-1",
-  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/1ca1a091-d4cf-4986-ae80-5abcc8ae9b53.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+  "poster": "./posters/criterion/SweptAway.avif"
 },
 
 {

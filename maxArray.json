@@ -1117,7 +1117,7 @@
       "year": 2017,
       "runtime": 92,
       "mpaa": "R",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/bca9efc3-418f-4778-94c4-f28159f40ed6/d1ba6e48162d7ec5f94e10fd2c32cbd880d77dd6.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+      "poster": "./posters/max/AGhostStory.avif",
       "description": "In 'A Ghost Story', a supernatural drama film, explores the concept of time, memory, and grief through the lens of a ghost who remains in the house he once shared with his partner after his death. As the ghost observes the passage of time and the lives of those who come after him, the film contemplates the meaning of existence and the enduring power of love. 'A Ghost Story' is a haunting meditation on the human experience and the mysteries of the afterlife.",
       "genre": ["drama", "fantasy", "indie"],
       "link": "https://www.max.com/movies/ghost-story/bca9efc3-418f-4778-94c4-f28159f40ed6",
@@ -1129,7 +1129,7 @@
       "actors": [
         {
           "name": "Casey Affleck",
-          "image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/7/4/5/1250745_Casey-Affleck.jpg",
+          "image": "./actors/CaseyAffleck.jpg",
           "imdb": "https://www.imdb.com/name/nm0000729/"
         },
         {
