@@ -1646,7 +1646,7 @@
     "year": 1993,
     "runtime": 88,
     "mpaa": "R",
-    "poster": "https://imageservice.disco.peacocktv.com/uuid/edee143d-d906-398f-add6-4cb2390c996f/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=998d40d1-a7c8-38e0-aae4-528d24dda94a&output-format=webp",
+    "poster": "./posters/peacock/FearOfABlackHat.jpeg",
     "description": "A mockumentary that satirizes the world of hip hop, following the rise and fall of the rap group NWH (Niggaz With Hats) as they navigate the music industry.",
     "genre": ["comedy", "music"],
     "link": "https://www.peacocktv.com/watch-online/movies/comedy/fear-of-a-black-hat/935d471c-829b-3835-978c-cec7a033179d",
