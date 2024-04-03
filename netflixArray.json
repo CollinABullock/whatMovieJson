@@ -1466,7 +1466,7 @@
 		"year": 2022,
 		"runtime": 123,
 		"mpaa": "R",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABSWevXq-2HZjLz10nifg7t5eH4RqaVlnnDaCELyXFmw0oLvntZBXngdglBl5Iz7iuz43_W6lI0_96zmgIHIUMLMK8oUq5zfO9vyUFmFiXMVjKeSV17SbCayGl0M06QAsU0Wx.jpg?r=a98",
+		"poster": "./posters/netflix/Extraction2.jpg",
 		"description": "Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster.",
 		"genre": [
 			"action",
@@ -1483,7 +1483,7 @@
 		"actors": [
 			{
 				"name": "Chris Hemsworth",
-				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRo-ENpCC-i10TwG6emtus3b4Ug8N9_GHUuw&usqp=CAU",
+				"image": "./actors/ChrisHemsworth.jpeg",
 				"imdb": "https://www.imdb.com/name/nm1165110/"
 			},
 			{
@@ -1499,7 +1499,7 @@
 		"year": 2020,
 		"runtime": 118,
 		"mpaa": "R",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeAGTIHwDqrikWfk98_xqZhnPzJoiufhjavBREs2mXPqX950ulbC7n9-_KOU_8PFJVT7Eb4wQdLeR6WnB6s3pO6BzrngTPrA9VRsSlIT0q2_Q6ouFyxn-AwEGdInqb2_jt26Gw.jpg?r=362",
+		"poster": "./posters/netflix/Extraction.jpg",
 		"description": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
 		"genre": [
 			"action"
@@ -1515,7 +1515,7 @@
 		"actors": [
 			{
 				"name": "Chris Hemsworth",
-				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRo-ENpCC-i10TwG6emtus3b4Ug8N9_GHUuw&usqp=CAU",
+				"image": "./actors/ChrisHemsworth.jpeg",
 				"imdb": "https://www.imdb.com/name/nm1165110/"
 			},
 			{
@@ -2744,7 +2744,7 @@
 		"year": 2015,
 		"runtime": 132,
 		"mpaa": "R",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABc18kOzBzoRQjWNuoE98J1wuEn7ctE2G8JhzszvTLV7gvhPr-Y8p1njiAiUtIRBFCnNaVyUo86MWYJFsuKy9ZHC71xXfnxMtheI.jpg?r=7a8",
+		"poster": "./posters/netflix/Blackhat.jpg",
 		"description": "In exchange for his freedom, an imprisoned hacker agrees to help government agents track down the terrorist behind an explosion at a nuclear power plant.",
 		"genre": [
 			"action",
@@ -2761,7 +2761,7 @@
 		"actors": [
 			{
 				"name": "Chris Hemsworth",
-				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRo-ENpCC-i10TwG6emtus3b4Ug8N9_GHUuw&usqp=CAU",
+				"image": "./actors/ChrisHemsworth.jpeg",
 				"imdb": "https://www.imdb.com/name/nm1165110/"
 			},
 			{

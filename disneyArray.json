@@ -1094,7 +1094,7 @@
     },
     {
       "name": "Chris Hemsworth",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3oczN4WLfz3743hic3BRbmVFwHmCfD5rXjUKjpHBJaaplPpmu",
+      "image": "./actors/ChrisHemsworth.jpeg",
       "imdb": "https://www.imdb.com/name/nm1165110/"
     },
     {
@@ -1104,7 +1104,7 @@
     }
   ],
   "link": "https://www.disneyplus.com/movies/marvel-studios-avengers-infinity-war/1WEuZ7H6y39v",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CF4FCEC8AC548DEEE92D1CCF93E5CF529327EEB67C7BA374F9C9832F33D75219/scale?width=400&aspectRatio=1.78&format=jpeg"
+  "poster": "./posters/disney/AvengersInfinityWar.webp"
 },
 
 {
@@ -1137,7 +1137,7 @@
     },
     {
       "name": "Chris Hemsworth",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3oczN4WLfz3743hic3BRbmVFwHmCfD5rXjUKjpHBJaaplPpmu",
+      "image": "./actors/ChrisHemsworth.jpeg",
       "imdb": "https://www.imdb.com/name/nm1165110/"
     },
     {
@@ -1147,7 +1147,7 @@
     }
   ],
   "link": "https://www.disneyplus.com/movies/marvel-studios-avengers-endgame/aRbVJUb2h2Rf",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DB176BD1488D7E4822256EF1778C124FC17388FC1E7F0F6D89B38AFF5FB001F6/scale?width=400&aspectRatio=1.78&format=jpeg"
+  "poster": "./posters/disney/AvengersEndgame.webp"
 }
 ,
 
@@ -1281,13 +1281,13 @@
   "genre": ["action", "adventure", "fantasy", "comic-book"],
   "director": [{
     "name": "Kenneth Branagh",
-    "image": "https://variety.com/wp-content/uploads/2021/10/Kenneth_Branagh-Variety-Cover-Story-16x9-2.jpg?w=1920&h=1080&crop=1",
+    "image": "./directors/KennethBranagh.webp",
     "imdb": "https://www.imdb.com/name/nm0000110/"
   }],
   "actors": [
     {
       "name": "Chris Hemsworth",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3oczN4WLfz3743hic3BRbmVFwHmCfD5rXjUKjpHBJaaplPpmu",
+      "image": "./actors/ChrisHemsworth.jpeg",
       "imdb": "https://www.imdb.com/name/nm1165110/"
     },
     {
@@ -1307,7 +1307,7 @@
     }
   ],
   "link": "https://www.disneyplus.com/movies/thor/1p4vdKzTuhzr",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/800B9617037560508DDF60257EBCB835A802CABCDA969EF808F41C4C83F8698E/scale?width=400&aspectRatio=1.78&format=jpeg"
+  "poster": "./posters/disney/Thor.webp"
 },
 
 {
@@ -1381,12 +1381,12 @@
     },
     {
       "name": "Chris Hemsworth",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3oczN4WLfz3743hic3BRbmVFwHmCfD5rXjUKjpHBJaaplPpmu",
+      "image": "./actors/ChrisHemsworth.jpeg",
       "imdb": "https://www.imdb.com/name/nm1165110/"
     }
   ],
   "link": "https://www.disneyplus.com/movies/marvel-studios-the-avengers/2h6PcHFDbsPy",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B6981BDF339764E6C56626C9DE0820CEF297EAF069F62F244E0F50061219F069/scale?width=400&aspectRatio=1.78&format=jpeg"
+  "poster": "./posters/disney/TheAvengers.webp"
 }
 ,
 

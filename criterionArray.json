@@ -425,7 +425,7 @@
     }],
     "actors": [{
       "name": "Christian Bale",
-      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTxmCA9jJ2MrULWgxOwNuZ9Bki9s0G1wKMoVZRquX1t2K6cZfcH7Bm_ueGnkj1GndH_RfDQGlcQrpn4ZYI",
+      "image": "./actors/ChristianBale.jpeg",
       "imdb": "https://www.imdb.com/name/nm0000288/"
       }, {
         "name": "Cate Blanchett",

@@ -1886,7 +1886,7 @@
   "year": 2000,
   "runtime": 102,
   "mpaa": "R",
-  "poster": "https://imageservice.disco.peacocktv.com/uuid/2c0e6b65-b51d-30ed-b2c4-a883246e0e50/KEY_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=2d70f7f1-a127-33f6-8eb1-e0c1db905ac8",
+  "poster": "./posters/peacock/AmericanPsycho.jpeg",
   "description": "In New York City in 1987, a handsome, young urban professional, Patrick Bateman (Christian Bale), lives a second life as a gruesome serial killer by night. The cast is filled by the detective (Willem Dafoe), the fiance (Reese Witherspoon), the mistress (Samantha Mathis), the coworker (Jared Leto), and the secretary (Chloë Sevigny). This is a biting, wry comedy examining the elements that make a man a monster.",
   "genre": ["horror", "comedy"],
   "link": "https://www.peacocktv.com/watch-online/movies/american-psycho/d8b06bcf-3b40-39a2-8947-17331c0f3ed0",
@@ -1897,7 +1897,7 @@
   }],
   "actors": [{
     "name": "Christian Bale",
-    "image": "https://variety.com/wp-content/uploads/2022/10/GettyImages-1425962190-e1664987389989.jpg?w=1000&h=563&crop=1",
+    "image": "./actors/ChristianBale.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000288/"
   }, {
     "name": "Willem Dafoe",
