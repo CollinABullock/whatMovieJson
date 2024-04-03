@@ -3095,7 +3095,7 @@
 			},
 			{
 				"name": "Amy Adams",
-				"image": "whatMovie/whatMovie/public/actors/AmyAdams.avif",
+				"image": "./actors/AmyAdams.avif",
 				"imdb": "https://www.imdb.com/name/nm0010736/"
 			},
 			{
@@ -4426,7 +4426,7 @@
 		"year": 2010,
 		"runtime": 102,
 		"mpaa": "R",
-		"poster": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABQaBA300xVTzOfTkfBbgQRq0yk7HIDuX9UuLiAteZrmPQOdUKvsQrg_dTjPIlgEWpWO35-vCloSBX95S6QHWLrjw95JrZVnDHy6v.jpg?r=365",
+		"poster": "./posters/netflix/TheWolfman.jpg",
 		"description": "On a visit to his home village in England, a man gets bitten by a werewolf, and a moonlight transformation leaves him with a vicious hunger for flesh.",
 		"genre": [
 			"horror"
@@ -4452,7 +4452,7 @@
 			},
 			{
 				"name": "Emily Blunt",
-				"image": "https://variety.com/wp-content/uploads/2023/09/GettyImages-1540936189.jpg?w=1024",
+				"image": "./actors/EmilyBlunt.webp",
 				"imdb": "https://www.imdb.com/name/nm1289434/"
 			}
 		]
@@ -5182,7 +5182,7 @@
 		"year": 2012,
 		"runtime": 118,
 		"mpaa": "R",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABT7Xp3w6S1CPkDQqXzRKOhYxSillm1Vy5Sob3ovCERKZcAM3Lh8mNkuGa14HciyIxVtYazj2WZk0KXwtxPm9tTICOaILnjBvN9eo.jpg?r=c8d",
+		"poster": "./posters/netflix/Looper.jpg",
 		"description": "In 2044, a hired gun gets rich killing people who are sent back from another time. But what will he do when his new target is his future self?",
 		"genre": [
 			"science-fiction",
@@ -5209,7 +5209,7 @@
 			},
 			{
 				"name": "Emily Blunt",
-				"image": "https://variety.com/wp-content/uploads/2023/09/GettyImages-1540936189.jpg?w=1024",
+				"image": "./actors/EmilyBlunt.webp",
 				"imdb": "https://www.imdb.com/name/nm1289434/"
 			}
 		]

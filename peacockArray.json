@@ -24,7 +24,7 @@
     "imdb": "https://www.imdb.com/name/nm0000375/"
   }, {
     "name": "Emily Blunt",
-    "image": "https://variety.com/wp-content/uploads/2023/09/GettyImages-1540936189.jpg?w=1024",
+    "image": "./actors/EmilyBlunt.webp",
     "imdb": "https://www.imdb.com/name/nm1289434/"
   }, {
     "name": "Florence Pugh",
