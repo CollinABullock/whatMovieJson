@@ -2210,7 +2210,7 @@
     }],
     "actors": [{
       "name": "Harrison Ford",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg",
+      "image": "./actors/HarrisonFord.jpg",
       "imdb": "https://www.imdb.com/name/nm0000148/"
     }, {
       "name": "Willem Dafoe",
@@ -2368,7 +2368,7 @@
     }],
     "actors": [{
       "name": "Harrison Ford",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg",
+      "image": "./actors/HarrisonFord.jpg",
       "imdb": "https://www.imdb.com/name/nm0000148/"
     }, {
       "name": "Anne Archer",

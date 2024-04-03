@@ -1026,7 +1026,7 @@
       "imdb": "https://www.imdb.com/name/nm0716227/"
     }, {
       "name": "Glynis Davies",
-      "image": "https://static.wikia.nocookie.net/stargate/images/2/29/Glynis_Davies.jpg/revision/latest/scale-to-width-down/1200?cb=20150527040334",
+      "image": "./actors/GlynisDavies.jpg",
       "imdb": "https://www.imdb.com/name/nm0204036/"
     }]
 }  

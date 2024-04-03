@@ -2425,7 +2425,7 @@
     "year": 1985,
     "runtime": 112,
     "mpaa": "R",
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/bb5d56e895c407f31bbcf103205d130a01f9ade2435c8bb4904ee563aa39419f.jpg",
+    "poster": "./posters/prime/Witness.jpg",
     "description": "In 'Witness', a young Amish boy witnesses a brutal murder while visiting Philadelphia. Detective John Book is assigned to investigate the case and protect the boy, Samuel, and his mother, Rachel, from the killers. As John delves deeper into the investigation, he discovers corruption within the police force and must rely on the Amish community's support to unravel the truth and bring the perpetrators to justice.",
     "genre": ["crime", "drama", "romance"],
     "link": "https://www.amazon.com/gp/video/detail/B07GSF9XR5/ref=atv_dp_amz_c_TS5124c5_1_4?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
@@ -2436,7 +2436,7 @@
     }],
     "actors": [{
       "name": "Harrison Ford",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg",
+      "image": "./actors/HarrisonFord.jpg",
       "imdb": "https://www.imdb.com/name/nm0000148/"
     }, {
       "name": "Kelly McGillis",

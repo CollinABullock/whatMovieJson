@@ -1329,7 +1329,7 @@
       {
         "name": "Harrison Ford",
         "IMDB": "https://www.imdb.com/name/nm0000148/",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+        "image": "./actors/HarrisonFord.jpg"
       },
       {
         "name": "Karen Allen",
@@ -1487,7 +1487,7 @@
       {
         "name": "Harrison Ford",
         "IMDB": "https://www.imdb.com/name/nm0000148/",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+        "image": "./actors/HarrisonFord.jpg"
       },
       {
         "name": "Sean Connery",
@@ -1526,7 +1526,7 @@
       {
         "name": "Harrison Ford",
         "IMDB": "https://www.imdb.com/name/nm0000148/",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+        "image": "./actors/HarrisonFord.jpg"
       },
       {
         "name": "Kate Capshaw",
@@ -1597,7 +1597,7 @@
       {
         "name": "Harrison Ford",
         "IMDB": "https://www.imdb.com/name/nm0000148/",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+        "image": "./actors/HarrisonFord.jpg"
       },
       {
         "name": "Cate Blanchett",

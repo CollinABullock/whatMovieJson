@@ -111,7 +111,7 @@
   }, {
     "name": "Harrison Ford",
     "IMDB": "https://www.imdb.com/name/nm0000148/",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+    "image": "./actors/HarrisonFord.jpg"
   }, {
     "name": "Carrie Fisher",
     "image": "https://people.com/thmb/5o19f9MgsxY-0lRVK4hybjMmoQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/carrie-fisher-tout-dbb34f64cf1a40208ac3c18e44a8856b.jpg",
@@ -122,7 +122,7 @@
     "imdb": "https://www.imdb.com/name/nm0000027/"
   }],
   "link": "https://www.disneyplus.com/movies/star-wars-a-new-hope-episode-iv/12fVeZxD2fWJ",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/81A736C2B6CC7B7B4A3F2E2381E36542715DFC550F765F49BC0770898DE5F32B/scale?width=1200&aspectRatio=1.78&format=webp"
+  "poster": "./posters/disney/ANewHope.webp"
 }
 ,
 
@@ -146,7 +146,7 @@
   }, {
     "name": "Harrison Ford",
     "IMDB": "https://www.imdb.com/name/nm0000148/",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+    "image": "./actors/HarrisonFord.jpg"
   }, {
     "name": "Carrie Fisher",
     "image": "https://people.com/thmb/5o19f9MgsxY-0lRVK4hybjMmoQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/carrie-fisher-tout-dbb34f64cf1a40208ac3c18e44a8856b.jpg",
@@ -157,7 +157,7 @@
     "imdb": "https://www.imdb.com/name/nm0001850/"
   }],
   "link": "https://www.disneyplus.com/movies/star-wars-the-empire-strikes-back-episode-v/iqtDTZAewwYl",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B92552B7CE9B7BB39BB3BDC551F35DB98C04740118F5B30975134814DF7A4E62/scale?width=1200&aspectRatio=1.78&format=webp"
+  "poster": "./posters/disney/TheEmpireStrikesBack.webp"
 }
 ,
 
@@ -181,7 +181,7 @@
   }, {
     "name": "Harrison Ford",
     "IMDB": "https://www.imdb.com/name/nm0000148/",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+    "image": "./actors/HarrisonFord.jpg"
   }, {
     "name": "Carrie Fisher",
     "image": "https://people.com/thmb/5o19f9MgsxY-0lRVK4hybjMmoQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/carrie-fisher-tout-dbb34f64cf1a40208ac3c18e44a8856b.jpg",
@@ -192,7 +192,7 @@
     "imdb": "https://www.imdb.com/name/nm0001850/"
   }],
   "link": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/773B031A52B5727F7C218E42149B45095C21A8BA56601EB1F51FC46485304210/scale?width=1200&aspectRatio=1.78&format=webp",
-  "poster": "https://www.disneyplus.com/movies/star-wars-return-of-the-jedi-episode-vi/6QGKo5mjDBS8"
+  "poster": "./posters/disney/ReturnOfTheJedi.webp"
 }
 ,
 
@@ -228,7 +228,7 @@
   }, {
     "name": "Harrison Ford",
     "IMDB": "https://www.imdb.com/name/nm0000148/",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+    "image": "./actors/HarrisonFord.jpg"
   }],
   "link": "https://www.disneyplus.com/movies/star-wars-the-force-awakens-episode-vii/1LEKJPDPeMr7",
   "poster": "./posters/disney/TheForceAwakens.webp"
@@ -370,7 +370,7 @@
       {
         "name": "Harrison Ford",
         "IMDB": "https://www.imdb.com/name/nm0000148/",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+        "image": "./actors/HarrisonFord.jpg"
       },
       {
         "name": "Karen Allen",
@@ -409,7 +409,7 @@
       {
         "name": "Harrison Ford",
         "IMDB": "https://www.imdb.com/name/nm0000148/",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+        "image": "./actors/HarrisonFord.jpg"
       },
       {
         "name": "Sean Connery",
@@ -448,7 +448,7 @@
       {
         "name": "Harrison Ford",
         "IMDB": "https://www.imdb.com/name/nm0000148/",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+        "image": "./actors/HarrisonFord.jpg"
       },
       {
         "name": "Kate Capshaw",
@@ -487,7 +487,7 @@
       {
         "name": "Harrison Ford",
         "IMDB": "https://www.imdb.com/name/nm0000148/",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Harrison-Ford-Shrinking-Arrivals-GettyImages-1459853135-H-2023.jpg?w=1296"
+        "image": "./actors/HarrisonFord.jpg"
       },
       {
         "name": "Cate Blanchett",
@@ -978,12 +978,12 @@
     },
     {
       "name": "Halle Berry",
-      "image": "https://media.self.com/photos/65bd08bae2c43eeab7ccf6ac/4:3/w_2560%2Cc_limit/GettyImages-1659524601.jpg",
+      "image": "./actors/HalleBerry.webp",
       "imdb": "https://www.imdb.com/name/nm0000552/"
     }
   ],
   "link": "https://www.disneyplus.com/movies/x2/5VwEJ3Asxv5a",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/114C0DCAC4739C5998EE776167631ECE702DFB8F7830A8BFCC75D6650D75D49D/scale?width=400&aspectRatio=1.78&format=jpeg"
+  "poster": "./posters/disney/X2.webp"
 },
 
 {

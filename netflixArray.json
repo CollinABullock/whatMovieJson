@@ -5026,7 +5026,7 @@
 		"year": 2019,
 		"runtime": 103,
 		"mpaa": "PG",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABRNrB61KUA_km-1bjuaXhm0mTiBTFWDs2AVFkbsh1hsuM3ZbIKxa_gfffodPnLK90zn_8oZtHbeexcME3IadyZT-hg-_6xreHh9WMouyWS-PieSW8FguPOm_E7ZGxiDbhnJQ.jpg?r=284",
+		"poster": "./posters/netflix/TallGirl.jpg",
 		"description": "After years of slouching through life, 6-foot-1 teen Jodi resolves to conquer her insecurities and gets caught up in a high school love triangle.",
 		"genre": [
 			"drama",
@@ -5049,7 +5049,7 @@
 			},
 			{
 				"name": "Griffin Gluck",
-				"image": "https://teenplicity.com/wp-content/uploads/2016/09/MV5BMTU1NzQ5NTI5MF5BMl5BanBnXkFtZTgwNTU0NDIyNzE@._V1_SY1000_SX1500_AL_-1050x700.jpg",
+				"image": "./actors/GriffinGluck.webp",
 				"imdb": "https://www.imdb.com/name/nm3838034/"
 			},
 			{
