@@ -573,11 +573,11 @@
 			"imdb": "https://www.imdb.com/name/nm0000234/"
 		}, {
 			"name": "Gene Hackman",
-			"image": "https://images05.military.com/sites/default/files/styles/full/public/media/people/2013/10/genehackmanfrenchconnection.jpg",
+			"image": "./actors/GeneHackman.jpg",
 			"imdb": "https://www.imdb.com/name/nm0000432/"
 		}],
 		"link": "https://www.netflix.com/watch/17236549?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C%2CVideo%3A17236549%2CdetailsPagePlayButton",
-		"poster": "https://art-s.nflximg.net/9df0f/809f3e5564047a3532b102ec28d03440b5b9df0f.jpg"
+		"poster": "./posters/netflix/Antz.jpg"
 	}
 ,	
 
@@ -2887,7 +2887,7 @@
 		"runtime": 90,
 		"mpaa": "PG-13",
 		"year": 2013,
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABZg18wquH4ivi2STVibYaqLpp28cQw6Ea6oSE8OdfOKCn5bPu12UzyL8RXpgcBR1hnt-xz56j-iAYY-_Z49Vud81A96lAeqNdO2B.jpg?r=256",
+		"poster": "./posters/netflix/Gravity.jpg",
 		"description": "When debris destroys their shuttle, a medical engineer and a seasoned astronaut find themselves floating through space with no connection to Earth.",
 		"genre": [
 			"drama",
@@ -2910,7 +2910,7 @@
 			},
 			{
 				"name": "George Clooney",
-				"image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRYIaq1IibD0byPwoCA61TVzHOu11u8JjcIclfwijR0EvFA59KLCk0RM1DDpeeRnFaTZEO1mVmnMzzFKjg",
+				"image": "./actors/GeorgeClooney.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000123/"
 			}
 		]
@@ -4458,12 +4458,12 @@
 		]
 	},
 	{
-		"item": "86",
+		"item": 86,
 		"title": "The Midnight Sky",
 		"year": 2021,
 		"runtime": 118,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABa7YQtktPDn9qCI3xVHYRJ6jMoT3ikke0tgMASkKDxGdx63wq0tj-yswiV3RFF3PBq3831o-DulNf-9FjEwb3O9lDF94mSvez8r1V0mmKzDUE7kPOuBZxdCIAi1IPe7rW1di.jpg?r=19b",
+		"poster": "./posters/netflix/TheMidnightSky.jpg",
 		"description": "In the aftermath of a global catastrophe, a lone scientist in the Arctic races to contact a crew of astronauts with a warning not to return to Earth.",
 		"genre": [
 			"science-fiction",
@@ -4473,14 +4473,14 @@
 		"director": [
 			{
 				"name": "George Clooney",
-				"image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRYIaq1IibD0byPwoCA61TVzHOu11u8JjcIclfwijR0EvFA59KLCk0RM1DDpeeRnFaTZEO1mVmnMzzFKjg",
+				"image": "./actors/GeorgeClooney.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000123/"
 			}
 		],
 		"actors": [
 			{
 				"name": "George Clooney",
-				"image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRYIaq1IibD0byPwoCA61TVzHOu11u8JjcIclfwijR0EvFA59KLCk0RM1DDpeeRnFaTZEO1mVmnMzzFKjg",
+				"image": "./actors/GeorgeClooney.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000123/"
 			},
 			{

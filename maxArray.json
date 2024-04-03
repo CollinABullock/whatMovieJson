@@ -3643,7 +3643,7 @@
   }],
   "actors": [{
     "name": "George Clooney",
-    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRYIaq1IibD0byPwoCA61TVzHOu11u8JjcIclfwijR0EvFA59KLCk0RM1DDpeeRnFaTZEO1mVmnMzzFKjg",
+    "image": "./actors/GeorgeClooney.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000123/"
   }, {
     "name": "Quentin Tarantino",

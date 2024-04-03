@@ -634,12 +634,12 @@
     },
     {
       "name": "Gene Hackman",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzD0XuBuZbBhkB21vPJNHWYClit9Q3Z5lZD6YoxbksdwQDrFZ",
+      "image": "./actors/GeneHackman.jpg",
       "imdb": "https://www.imdb.com/name/nm0000432/"
     }
   ],
   "link": "https://www.paramountplus.com/movies/video/OoA3q_y82ktCQ2HQqqtkjxof1LuUVxtX/",
-  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2020/07/02/1759439939993/TFRM_SAlone_16_9_1920x1080_2167476_1920x1080.jpg"
+  "poster": "./posters/paramount/TheFirm.jpg"
 }
 ,
 

@@ -545,7 +545,7 @@
     "runtime": 90,
     "mpaa": "PG-13",
     "year": 2013,
-    "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/de/60/aa/de60aa7f-0c16-311e-af45-aedbf5f088b9/pr_source.lsr/738x416.webp",
+    "poster": "./posters/netflix/Gravity.jpg",
     "description": "When debris destroys their shuttle, a medical engineer and a seasoned astronaut find themselves floating through space with no connection to Earth.",
 "genre": ["drama", "thriller", "science-fiction"],
   "link": "https://tv.apple.com/us/movie/gravity/umc.cmc.6drvg8zg02248k7sipdbwicgh?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
@@ -560,7 +560,7 @@
     "imdb": "https://www.imdb.com/name/nm0000113/?ref_=tt_cl_t_1"
   }, {
     "name": "George Clooney",
-    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRYIaq1IibD0byPwoCA61TVzHOu11u8JjcIclfwijR0EvFA59KLCk0RM1DDpeeRnFaTZEO1mVmnMzzFKjg",
+    "image": "./actors/GeorgeClooney.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000123/"
   }]
   },
@@ -629,13 +629,13 @@
       },
       {
         "name": "Gene Hackman",
-        "image": "https://www.military.com/sites/default/files/styles/full/public/media/people/2013/10/genehackmanfrenchconnection.jpg",
+        "image": "./actors/GeneHackman.jpg",
         "imdb": "https://www.imdb.com/name/nm0000432/"
       }
     ],
     "link": "https://tv.apple.com/us/movie/wyatt-earp/umc.cmc.2e8hj3rjhnjtz8c1dagh8hoyb?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
     "year": 1994,
-    "poster": "https://is1-ssl.mzstatic.com/image/thumb/csQMURxzrw_OCooGxFQ_jA/738x416.webp"
+    "poster": "./posters/apple/WyattEarp.webp"
   },
 
   {

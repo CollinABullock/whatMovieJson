@@ -1455,8 +1455,8 @@
     "image": "https://media.vanityfair.com/photos/5d54140702bf930008778d6b/master/w_2560%2Cc_limit/TheCrown_302_00054_Rv2.jpg",
     "imdb": "https://www.imdb.com/name/nm0000307/"
   }, {
-    "name": "F. Murray Abraham",
-    "image": "https://cdn.cloverhealth.com/filer_public/4e/af/4eaf80df-4f50-42c6-96f8-8b0d5eca064a/how-f-murray-abraham-stays-healthy.png",
+    "name": "F Murray Abraham",
+    "image": "./actors/FMurrayAbraham.jpg",
     "imdb": "https://www.imdb.com/name/nm0000719/"
   }],
   "link": "https://www.peacocktv.com/watch-online/movies/mighty-aphrodite/5774d5e0-7993-3215-afa8-784cba9ae769",

@@ -967,7 +967,7 @@
     "imdb": "https://www.imdb.com/name/nm0000142/"
   }, {
     "name": "Gene Hackman",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2020/06/27/db5267aa-e6e4-4e7f-bda9-bb859198f939/thumbnail/640x361/c0707340992c709d00ab770d5fde1043/guy-fieri-gene-hackman-food-network-620.jpg?v=20ef31957aa1eda7a0d36f36b8c0b1fc",
+    "image": "./actors/GeneHackman.jpg",
     "imdb": "https://www.imdb.com/name/nm0000432/"
   }, {
     "name": "Morgan Freeman",
@@ -979,7 +979,7 @@
     "imdb": "https://www.imdb.com/name/nm0001321/"
   }],
   "link": "https://tubitv.com/movies/680865",
-  "poster": "https://canvas-bridge02.tubitv.com/2uHGK0U-v1gNjwBHgSs5GaByj-k=/448x252/smart/img.adrise.tv/66280c2c-29db-49a2-b73b-0e9b215e3bfd.jpg"
+  "poster": "./posters/tubi/Unforgiven.jpg"
 },
 
 
