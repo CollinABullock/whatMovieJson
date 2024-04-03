@@ -3849,7 +3849,7 @@
 		"year": 2014,
 		"runtime": 93,
 		"mpaa": "R",
-		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABRNAvl0t10ynkBAt8HirOCFWl8Zab_Ku0gaieS8SrQCsY0CrkgbTRKRWpn6B-am5ru4hQ3mDy4BHat9vr6o8uW5F5yW8zsp61V7w.jpg?r=25b",
+		"poster": "./posters/netflix/TheBabadook.jpg",
 		"description": "Sam's frequent tantrums turn sinister when a creepy children's book mysteriously appears in his room and he asks his mother, Do you want to die?",
 		"genre": [
 			"horror",
@@ -3866,7 +3866,7 @@
 		"actors": [
 			{
 				"name": "Essie Davis",
-				"image": "https://media.npr.org/assets/img/2014/03/31/phryne2_custom-7475e3b06658722935c36e5813f20f815d7d8801.jpg",
+				"image": "./actors/EssieDavis.jpg",
 				"imdb": "https://www.imdb.com/name/nm0204583/?ref_=tt_ov_st"
 			},
 			{

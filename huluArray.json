@@ -1085,10 +1085,10 @@
     {
       "name": "Fairuza Balk",
       "IMDB": "https://www.imdb.com/name/nm0000103/",
-      "image": "https://i.ytimg.com/vi/AVAs7Ki8CNY/maxresdefault.jpg"
+      "image": "./actors/FairuzaBalk.jpg"
     }
   ],
-  "poster": "https://img.hulu.com/user/v3/artwork/c157194a-2878-4332-b724-bb3ee1df431a?base_image_bucket_name=image_manager&base_image=883a190f-adb7-4f38-abda-6ad0508b1791&size=1200x630&format=jpeg",
+  "poster": "./posters/hulu/TheWaterboy.jpeg",
   "link": "https://www.hulu.com/movie/the-waterboy-c157194a-2878-4332-b724-bb3ee1df431a"
 },
 
