@@ -463,7 +463,7 @@
         "imdb": "https://www.imdb.com/name/nm0942482/"
       }, {
         "name": "David Bowie",
-        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-223608-19700101_zaf_u99_042.jpg?w=1581&h=1054&crop=1",
+        "image": "./actors/DavidBowie.webp",
         "imdb": "https://www.imdb.com/name/nm0000309/"
       }, {
         "name": "Dennis Hopper",
@@ -475,7 +475,7 @@
         "imdb": "https://www.imdb.com/name/nm0000198/"
       }],
     "link": "https://www.criterionchannel.com/living-the-part/season:1/videos/i-m-not-there",
-    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/248743ce-72a6-4dd9-93ca-dbe96184f6ef.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+    "poster": "./posters/criterion/Basquiat.avif"
   },
 
   {

@@ -106,7 +106,7 @@
     "item": 5678,
     "title": "The Tragedy of Macbeth",
     "year": 2020,
-    "description": "A 2021 black-and-white psychological thriller film directed by Joel Coen. It is an adaptation of William Shakespeare's play 'Macbeth', starring Denzel Washington and Frances McDormand.",
+    "description": "In Joel Coen's adapatation of Shakespeare's classic play, a Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland. His ambitious wife will do anything to support him in his plans of seizing power.",
     "runtime": 105,
     "mpaa": "R",
     "genre": ["drama", "thriller"],
@@ -121,7 +121,7 @@
       {
         "name": "Denzel Washington",
         "IMDB": "https://www.imdb.com/name/nm0000243/",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220208103709-denzel-washington-file-2021.jpg?q=h_1302,w_2000,x_0,y_0"
+        "image": "./actors/DenzelWashington.jpg"
       },
       {
         "name": "Frances McDormand",
@@ -139,7 +139,7 @@
         "image": "https://m.media-amazon.com/images/M/MV5BNjAzNzJlNGYtZWQyZC00YzI4LWI4NTAtODY4ZDY4NTUzOGM2XkEyXkFqcGdeQXNuZXNodQ@@._V1_.jpg"
       }
     ],
-    "poster": "https://www.apple.com/tv-pr/shows-and-films/t/the-tragedy-of-macbeth/images/show-home-graphic-header/key-art-02/4x1/Apple_TV_The_Tragedy_of_Macbeth_key_art_graphic_header_4_1_show_home.jpg.og.jpg?1668042584759",
+    "poster": "./posters/apple/TheTragedyOfMacbeth.jpg",
     "link": "https://tv.apple.com/us/movie/the-tragedy-of-macbeth/umc.cmc.4wpfk1xmi22h3zyv4a10lj1tw?mttn3pid=Google%20AdWords&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=OUS2019929_1-662863191297-c&mttnsubkw=127330287530__FBgrPPb2_&mttnsubplmnt=_adext_"
   },
 

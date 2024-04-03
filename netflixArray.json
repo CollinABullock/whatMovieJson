@@ -1034,11 +1034,11 @@
 		"runtime": 119,
 		"mpaa": "R",
 		"description": "Robert McCall vows to stop an Italian crime syndicate from brutalizing and extorting the residents of a small coastal town that has won his heart.",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXigXUjgvpYUaCNtoSXvdJ3MSjIQMsiHrJByYBdUvmVpW-s6Rc4lKY7VzVabpqAnXrG16_Scp9swRqGC_EO4cOV45udZ2H0sx1Q.jpg?r=653",
+		"poster": "./posters/netflix/TheEqualizer3.jpg",
 		"actors": [
 			{
 				"name": "Denzel Washington",
-				"image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Fdenzel-washington-the-equalizer-3-currently-in-the-works-confirmed-001.jpg?cbr=1&q=90",
+				"image": "./actors/DenzelWashington.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000243/"
 			},
 			{
@@ -2854,7 +2854,7 @@
 		"year": 2001,
 		"runtime": 122,
 		"mpaa": "R",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcc80J3zsl4KkTcmA8-DoEn9ShaehP1Gdc_UMe1-WsZHL27CiyxZnBDt7Nuj4y_t3gUxwkebU-MoVdOG6RoIUvmXruhlla4UgIx4.jpg?r=108",
+		"poster": "./posters/netflix/TrainingDay.jpg",
 		"description": "A rookie cop with one day to prove himself to a veteran LAPD narcotics officer receives a crash course in his mentor's questionable brand of justice.",
 		"genre": [
 			"drama",
@@ -2871,7 +2871,7 @@
 		"actors": [
 			{
 				"name": "Denzel Washington",
-				"image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Fdenzel-washington-the-equalizer-3-currently-in-the-works-confirmed-001.jpg?cbr=1&q=90",
+				"image": "./actors/DenzelWashington.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000243/"
 			},
 			{

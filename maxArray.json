@@ -912,7 +912,7 @@
   "year": 2009,
   "runtime": 88,
   "mpaa": "PG",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/6cc965e7-5290-4838-ba5a-8062140e86c2/3b6c2d8499a3f59805191d197adb3490e9c44e0d.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+  "poster": "./posters/max/TheSqueakquel.avif",
   "description": "In 'Alvin and the Chipmunks: The Squeakquel', a family comedy film directed by Betty Thomas, follows the mischievous adventures of Alvin, Simon, and Theodore as they navigate the challenges of school life while also pursuing their dreams of becoming rock stars. When the Chipmunks face competition from a rival female singing group known as The Chipettes, they must learn the true meaning of friendship and teamwork. 'Alvin and the Chipmunks: The Squeakquel' is a fun-filled sequel that delights audiences with its catchy music and lovable characters.",
   "genre": ["animation", "comedy", "kids"],
   "link": "https://www.max.com/movies/alvin-and-the-chipmunks-the-squeakquel/6cc965e7-5290-4838-ba5a-8062140e86c2",
@@ -929,7 +929,7 @@
     },
     {
       "name": "David Cross",
-      "image": "https://cdn.nycitynewsservice.com/blogs.dir/9/files/2021/11/David-Cross-1152x759.jpg",
+      "image": "./actors/DavidCross.jpg",
       "imdb": "https://www.imdb.com/name/nm0189141/"
     },
     {

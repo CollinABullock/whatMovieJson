@@ -1017,7 +1017,7 @@
 "year": 2018,
 "runtime": 121,
 "mpaa": "R",
-"poster": "https://img1.hulu.com/user/v3/artwork/6012fa47-01c6-4341-b884-16d5eed8593a?base_image_bucket_name=image_manager&base_image=643cf1b1-4fcb-4918-b6d9-191c8c9b5947&size=600x338&format=jpeg",
+"poster": "./posters/hulu/TheEqualizer2.jpeg",
 "description": "Robert McCall, a retired CIA operative turned vigilante, seeks justice for those who have been wronged. When his friend and former colleague is murdered, McCall sets out to find the perpetrators and deliver his own brand of justice. As he delves deeper into the case, McCall uncovers a web of corruption that threatens those closest to him, leading to a dangerous confrontation with powerful enemies.",
 "genre": ["action", "crime", "thriller", "sequel"],
 "link": "https://www.hulu.com/movie/the-equalizer-2-6012fa47-01c6-4341-b884-16d5eed8593a",
@@ -1030,7 +1030,7 @@
 ],
 "actors": [
   {
-    "name": "Denzel Washington", "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Fdenzel-washington-the-equalizer-3-currently-in-the-works-confirmed-001.jpg?cbr=1&q=90", "imdb": "https://www.imdb.com/name/nm0000243/"
+    "name": "Denzel Washington", "image": "./actors/DenzelWashington.jpg", "imdb": "https://www.imdb.com/name/nm0000243/"
   },
   {
     "name": "Pedro Pascal",
@@ -2881,10 +2881,10 @@
     {
       "name": "David Cross",
       "IMDB": "https://www.imdb.com/name/nm0189145/",
-      "image": "https://cdn.nycitynewsservice.com/blogs.dir/9/files/2021/11/David-Cross-1152x759.jpg"
+      "image": "./actors/DavidCross.jpg"
     }
   ],
-  "poster": "https://img2.hulu.com/user/v3/artwork/b0f65263-6dee-4843-87c9-98db398731e9?base_image_bucket_name=image_manager&base_image=4886f64a-862e-4e97-9c34-dd48f4916868&size=600x338&format=jpeg",
+  "poster": "./posters/hulu/YearOne.jpeg",
   "link": "https://www.hulu.com/movie/year-one-b0f65263-6dee-4843-87c9-98db398731e9"
 }
 ,
