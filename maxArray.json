@@ -1344,7 +1344,7 @@
     }],
     "actors": [{
       "name": "Daniel Craig",
-      "image": "https://64.media.tumblr.com/03d669f25cedc9d22cd392d52e75fe66/tumblr_inline_nxaqxfs4Y21sgm97w_500.jpg",
+      "image": "./actors/DanielCraig.jpg",
       "imdb": "https://www.imdb.com/name/nm0185819/?ref_=tt_cl_t_1"
     }, {
       "name": "Javier Bardem",

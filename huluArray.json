@@ -6,7 +6,7 @@
     "year": 2023,
     "runtime": 141,
     "mpaa": "R",
-    "poster": "https://img1.hulu.com/user/v3/artwork/72867b3c-0c4e-4107-aff7-a1f876c7242f?base_image_bucket_name=image_manager&base_image=16cf2cf7-ab40-4d68-8059-54999a996b11&size=1200x630&format=jpeg",
+    "poster": "./posters/hulu/PoorThings.webp",
     "description": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
 "genre": ["comedy", "drama", "science-fiction", "fantasy"],
   "link": "https://www.hulu.com/movie/72867b3c-0c4e-4107-aff7-a1f876c7242f",
@@ -29,7 +29,7 @@
     "imdb": "https://www.imdb.com/name/nm0000353/"
   }, {
     "name": "Christopher Abbott",
-    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSY7jcsMLvXrm55FAxL81f7TBVRjCfFV3g7GelQ--ox2j8Zx7VCEs1ILUYx7tqFjL2XjRiQQa3ObOxs5_4",
+    "image": "./actors/ChristopherAbbott.jpeg",
     "imdb": "https://www.imdb.com/name/nm3571592/"
   }]
   },
@@ -2474,7 +2474,7 @@
 "year": 2017,
 "runtime": 93,
 "mpaa": "R",
-"poster": "https://img2.hulu.com/user/v3/artwork/db4cc6bf-c373-4e60-a6ce-79daffc67aca?base_image_bucket_name=image_manager&base_image=5782dc2d-4fb8-4835-a6fe-28bae0126106&size=600x338&format=jpeg",
+"poster": "./posters/hulu/SweetVirginia.webp",
 "description": "In 'Sweet Virginia', a former rodeo star who now manages a motel in a small Alaskan town finds himself drawn into a web of violence and deceit when a mysterious stranger arrives. As tensions escalate, secrets are revealed and loyalties are tested in this gritty thriller.",
 "genre": ["crime", "drama", "thriller"],
 "link": "https://www.hulu.com/movie/sweet-virginia-db4cc6bf-c373-4e60-a6ce-79daffc67aca",
@@ -2493,7 +2493,7 @@
   },
   {
     "name": "Christopher Abbott",
-    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSY7jcsMLvXrm55FAxL81f7TBVRjCfFV3g7GelQ--ox2j8Zx7VCEs1ILUYx7tqFjL2XjRiQQa3ObOxs5_4",
+    "image": "./actors/ChristopherAbbott.jpeg",
     "imdb": "https://www.imdb.com/name/nm3571592/"
   },
   {

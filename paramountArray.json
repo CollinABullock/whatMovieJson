@@ -1683,7 +1683,7 @@
       {
         "name": "Daniel Craig",
         "IMDB": "https://www.imdb.com/name/nm0185819/",
-        "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/A37B/production/_121215814_craigepa.jpg"
+        "image": "./actors/DanielCraig.jpg"
       },
       {
         "name": "Nick Frost",

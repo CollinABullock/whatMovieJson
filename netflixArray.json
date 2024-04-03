@@ -2635,7 +2635,7 @@
 		"year": 2022,
 		"runtime": 142,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeOrhdb7Hx-4aOrI6LLOpeGdwn1sfzqJvMwV3CwAE9ixj1cXniTONYYrRspBQ520vn2TKNQtgKD6sTWPTt0AKIIjCLGYBLCRqDbq2jF59TtdFMeTH3s311TfeLuCId6DK_u63w.jpg?r=a9b",
+		"poster": "./posters/netflix/GlassOnion.jpg",
 		"description": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
 		"genre": [
 			"comedy",
@@ -2652,7 +2652,7 @@
 		"actors": [
 			{
 				"name": "Daniel Craig",
-				"image": "https://64.media.tumblr.com/03d669f25cedc9d22cd392d52e75fe66/tumblr_inline_nxaqxfs4Y21sgm97w_500.jpg",
+				"image": "./actors/DanielCraig.jpg",
 				"imdb": "https://www.imdb.com/name/nm0185819/?ref_=tt_cl_t_1"
 			},
 			{
