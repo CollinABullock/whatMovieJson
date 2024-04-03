@@ -1187,7 +1187,7 @@
       "year": 2002,
       "runtime": 167,
       "mpaa": "R",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/5fa4fb60-6bfb-453e-a777-fbce372c5d01/47f77e0f13775ec326c75fbcfc00ba19570de738.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "poster": "./posters/max/GangsOfNewYork.avif",
       "description": "In 1863, during the Civil War draft riots, an Irish immigrant seeks vengeance against the powerful gang leader who killed his father years earlier. As tensions between native-born Americans and immigrants boil over, the streets of New York City become a battleground for power, revenge, and survival.",
       "genre": ["crime", "drama"],
       "link": "https://play.max.com/movie/5fa4fb60-6bfb-453e-a777-fbce372c5d01",
@@ -1202,7 +1202,7 @@
       "imdb": "https://www.imdb.com/name/nm0000138/"
       }, {
         "name": "Daniel Day-Lewis",
-        "image": "https://variety.com/wp-content/uploads/2017/06/daniel-day-lewis.jpg?w=1000",
+        "image": "./actors/DanielDayLewis.webp",
         "imdb": "https://www.imdb.com/name/nm0000358/"
       }, {
         "name": "Cameron Diaz",

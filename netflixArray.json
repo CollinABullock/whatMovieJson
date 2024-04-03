@@ -219,7 +219,7 @@
 		}],
 		"actors": [{
 			"name": "Daniel Day-Lewis",
-			"image": "https://variety.com/wp-content/uploads/2017/06/daniel-day-lewis.jpg?w=1000",
+			"image": "./actors/DanielDayLewis.webp",
 			"imdb": "https://www.imdb.com/name/nm0000358/"
 		}, {
 			"name": "Lesley Manville",
