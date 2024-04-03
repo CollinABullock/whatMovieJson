@@ -511,7 +511,7 @@
     "year": 2012,
     "runtime": 86,
     "mpaa": "Not Rated",
-    "poster": "https://imageservice.disco.peacocktv.com/uuid/a4d07587-1ff6-356a-a649-eb77ce6c8852/TITLE_ART_3_4/640/480?language=eng&territory=US&proposition=NBCUOTT&version=bee035b1-aa10-3f6e-89f9-a90bfd38a433&output-format=webp",
+    "poster": "./posters/peacock/ADogwalkersChristmasTale.jpeg",
     "description": "When Luce Lockhart, a dogwalker, falls in love with a businessman, she finds herself in the middle of a dog show competition and must win over his skeptical daughter while trying to hide her true identity.",
     "genre": ["romance", "comedy", "christmas"],
     "link": "https://www.peacocktv.com/watch-online/movies/comedy-drama/a-dogwalkers-christmas-tale/643e046e-a063-3787-99b0-519a183b5f97",
@@ -1007,7 +1007,7 @@
   "year": 2015,
   "runtime": 55,
   "mpaa": "Not Rated",
-  "poster": "https://imageservice.disco.peacocktv.com/uuid/1d2c14dd-78bb-3671-9cda-67e3a6b82664/TITLE_ART_3_4/640/480?language=eng&territory=US&version=03d5af09-79fc-33ba-8292-dc676e9828cf&output-format=webp",
+  "poster": "./posters/peacock/AChildsChristmasInWales.jpeg",
   "description": "Based on the classic story by Dylan Thomas, this film recalls a Christmas from the viewpoint of a young boy in Wales.",
   "genre": ["drama", "family", "christmas"],
   "link": "https://www.peacocktv.com/watch-online/movies/a-childs-christmas-in-wales/8510b396-f5bf-3ce7-b0c6-a74dcd16d8f8",
@@ -1391,7 +1391,7 @@
     "imdb": "https://www.imdb.com/name/nm0005212/"
   }],
   "link": "https://www.peacocktv.com/watch-online/movies/small-time-crooks/bc9c9ed2-aaf7-3d22-ab2a-e308eb6e5b01",
-  "poster": "./posters/peacock/SmallTimeCrooks.jpg"
+  "poster": "./posters/peacock/SmallTimeCrooks.webp"
 },
 
 {    
@@ -1506,7 +1506,7 @@
     "year": 2017,
     "runtime": 106,
     "mpaa": "Not Rated",
-    "poster": "https://imageservice.disco.peacocktv.com/uuid/40979f75-e826-33ad-a848-a77fc9c1b096/TITLE_ART_3_4/640/480?language=eng&territory=US&version=2e5883f9-e3b7-374c-8642-da0e25bcb5e2&output-format=webp",
+    "poster": "./posters/peacock/BasmatiBlues.jpeg",
     "description": "A young scientist is sent to India to sell genetically modified rice to rural farmers. However, as she learns more about the impact of her work on the local community and environment, she begins to question her company's motives.",
     "genre": ["comedy", "romance", "musical"],
     "link": "https://www.peacocktv.com/watch-online/movies/comedy/basmati-blues/9de5a0e5-ff0f-3b62-b956-f6942c50eb8a",
@@ -1535,7 +1535,7 @@
     "year": 2014,
     "runtime": 97,
     "mpaa": "R",
-    "poster": "https://imageservice.disco.peacocktv.com/uuid/af27c713-e302-3b9d-8f33-c436580e532f/TITLE_ART_3_4/640/480?language=eng&territory=US&version=33d83eab-76db-324b-b69c-cf1da0d2cdc0&output-format=webp",
+    "poster": "./posters/peacock/BehavingBadly.jpeg",
     "description": "Teenager Rick Stevens becomes infatuated with his friend's mother while dealing with various misadventures, including drug dealers, mobsters, and strippers.",
     "genre": ["comedy", "crime"],
     "link": "https://www.peacocktv.com/watch-online/movies/romance/behaving-badly/7bc09cca-d1f9-313a-a69a-430683d0eb8e",
@@ -1759,7 +1759,7 @@
   "runtime": 98,
   "year": 1974,
   "mpaa": "R",
-  "poster": "https://imageservice.disco.peacocktv.com/uuid/9690ee2a-cdeb-31be-81f0-a24fe15a594c/TITLE_ART_3_4/640/480?language=eng&territory=US&version=f34c3f7c-6097-3bd0-a1a0-632fd64785bb&output-format=webp",
+  "poster": "./posters/peacock/BlackChristmas.jpeg",
   "description": "During the Christmas break, a group of sorority sisters begin receiving threatening phone calls from a mysterious stranger. As their housemates start to disappear, they realize that they are being targeted by a deranged killer.",
   "genre": ["horror", "christmas", "classic"],
   "link": "https://www.peacocktv.com/watch-online/movies/horror/black-christmas/324ebbad-8030-3dd3-9e0e-b04c49ee80c2",
