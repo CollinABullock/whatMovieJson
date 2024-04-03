@@ -3400,7 +3400,7 @@
     "year": 1999,
     "runtime": 124,
     "mpaa": "PG-13",
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/c9b2b3067dc4913f5c26f3a8aae9ba2b28aa2d28f5197f802e087ceda3d11f2a.jpg",
+    "poster": "./posters/prime/NottingHill.jpg",
     "description": "In 'Notting Hill', the life of a London bookstore owner named William Thacker takes an unexpected turn when he meets Anna Scott, a famous American actress. Despite their vastly different worlds, William and Anna develop a romantic connection. As they navigate the challenges of fame, media scrutiny, and personal insecurities, they must confront the realities of their relationship and decide if love can truly conquer all.",
     "genre": ["comedy", "romance"],
     "link": "https://www.amazon.com/gp/video/detail/B00D5DQJKE/ref=atv_dp_amz_c_TS5124c5_1_15?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
@@ -3415,7 +3415,7 @@
       "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
     }, {
       "name": "Hugh Grant",
-      "image": "https://westernnews.media.clients.ellingtoncms.com/img/photos/2023/11/30/hugh-grant-brutally-honest-opinion-love-actually-ftr_t715.png?529764a1de2bdd0f74a9fb4f856b01a9d617b3e9",
+      "image": "./actors/HughGrant.png",
       "imdb": "https://www.imdb.com/name/nm0000424/"
     }, {
       "name": "Rhys Ifans",

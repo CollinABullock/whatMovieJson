@@ -1383,7 +1383,7 @@
     "imdb": "https://www.imdb.com/name/nm0001808/"
   }, {
     "name": "Hugh Grant",
-    "image": "https://www.looper.com/img/gallery/the-untold-truth-of-hugh-grant/intro-1638896717.jpg",
+    "image": "./actors/HughGrant.png",
     "imdb": "https://www.imdb.com/name/nm0000424/"
   }, {
     "name": "Elaine May",
@@ -1452,7 +1452,7 @@
     "imdb": "https://www.imdb.com/name/nm0000227/"
   }, {
     "name": "Helena Bonham Carter",
-    "image": "https://media.vanityfair.com/photos/5d54140702bf930008778d6b/master/w_2560%2Cc_limit/TheCrown_302_00054_Rv2.jpg",
+    "image": "./actors/HelenaBonhamCarter.webp",
     "imdb": "https://www.imdb.com/name/nm0000307/"
   }, {
     "name": "F Murray Abraham",

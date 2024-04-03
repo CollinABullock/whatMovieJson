@@ -94,7 +94,7 @@
     },
     {
       "name": "Helena Bonham Carter",
-      "image": "https://people.com/thmb/NKAx3CdtbWK9Uxknql0jF5czz3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(705x347:707x349)/helena-bonham-carter-031524-51a052e35e3647c0927f07f8f9918eb5.jpg",
+      "image": "./actors/HelenaBonhamCarter.webp",
       "imdb": "https://www.imdb.com/name/nm0000307/"
     }
   ],
