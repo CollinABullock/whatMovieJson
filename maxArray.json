@@ -3080,7 +3080,7 @@
       "year": 1942,
       "runtime": 102,
       "mpaa": "PG",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/83b99ff6-56a0-4696-aa68-fdd6d3f31efa/35952cf24ca0f154dbf26ece034c598e5363a551.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "poster": "./posters/max/Casablanca.avif",
       "description": "Set during World War II, 'Casablanca' follows the story of Rick Blaine, a cynical American expatriate who runs a nightclub in Casablanca, Morocco. His world is turned upside down when his former lover, Ilsa Lund, walks into his club with her husband, a resistance leader, seeking safe passage out of the country.",
       "genre": ["drama", "romance", "war", "classic"],
       "link": "https://play.max.com/video/watch/a300dab3-e6ac-4c4b-8250-b4b30a886069/d6c5af05-0136-42b1-820e-ef681dd56135",
@@ -3091,7 +3091,7 @@
       }],
       "actors": [{
           "name": "Humphrey Bogart",
-          "image": "https://images.squarespace-cdn.com/content/v1/57c92580c534a5c7c898f469/1591693527642-A8GSA37T0DB8QR7A8FKF/HumphreyBogart.jpg",
+          "image": "./actors/HumphreyBogart.jpg",
           "imdb": "https://www.imdb.com/name/nm0000007/"
         },
         {
