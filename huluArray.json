@@ -2601,7 +2601,7 @@
     {
       "name": "Joey Lauren Adams",
       "IMDB": "https://www.imdb.com/name/nm0000725/",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/83c12c30-b222-11ec-bfff-350f576f9b4b"
+      "image": "./actors/JoeyLaurenAdams.jpg"
     },
     {
       "name": "Jon Stewart",
@@ -2609,7 +2609,7 @@
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/2022-04-25T041529Z_1528083622_RC2ZTT9GZ9X6_RTRMADP_3_PEOPLE-JON-STEWART-1024x683.jpg"
     }
   ],
-  "poster": "https://img.hulu.com/user/v3/artwork/4e1faaf4-b520-49a5-95e5-8103b9b27217?base_image_bucket_name=image_manager&base_image=0160860a-ef1f-4d75-a6f4-8928324bd8c5&size=600x338&format=jpeg",
+  "poster": "./posters/hulu/BigDaddy.jpeg",
   "link": "https://www.hulu.com/movie/big-daddy-4e1faaf4-b520-49a5-95e5-8103b9b27217"
 }
 ,

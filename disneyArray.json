@@ -219,7 +219,7 @@
     "imdb": "https://www.imdb.com/name/nm3485845/"
   },{
     "name": "John Boyega",
-    "image": "https://media.vanityfair.com/photos/630674e2caa275dbf0be6455/master/pass/john-boyega-site-image.jpg",
+    "image": "./actors/JohnBoyega.webp",
     "imdb": "https://www.imdb.com/name/nm3915784/"
   }, {
     "name": "Oscar Isaac",
@@ -258,7 +258,7 @@
     "imdb": "https://www.imdb.com/name/nm3485845/"
   },{
     "name": "John Boyega",
-    "image": "https://media.vanityfair.com/photos/630674e2caa275dbf0be6455/master/pass/john-boyega-site-image.jpg",
+    "image": "./actors/JohnBoyega.webp",
     "imdb": "https://www.imdb.com/name/nm3915784/"
   }, {
     "name": "Oscar Isaac",
@@ -302,7 +302,7 @@
     "imdb": "https://www.imdb.com/name/nm3485845/"
   },{
     "name": "John Boyega",
-    "image": "https://media.vanityfair.com/photos/630674e2caa275dbf0be6455/master/pass/john-boyega-site-image.jpg",
+    "image": "./actors/JohnBoyega.webp",
     "imdb": "https://www.imdb.com/name/nm3915784/"
   }, {
     "name": "Oscar Isaac",
