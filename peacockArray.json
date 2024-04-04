@@ -1676,7 +1676,7 @@
   "year": 2004,
   "runtime": 108,
   "mpaa": "R",
-  "poster": "https://imageservice.disco.peacocktv.com/uuid/2e26dbea-b75c-3722-8afc-949113bf7d7e/KEY_ART_16_9?language=eng&territory=US&version=bb44fae9-2ed1-3a61-a22f-8149eabc1219",
+  "poster": "./posters/peacock/EternalSunshineOfTheSpotlessMind.jpeg",
   "description": "After a painful breakup, Joel Barish decides to undergo a procedure to erase memories of his ex-girlfriend Clementine Kruczynski. As the process unfolds, Joel reconsiders his decision and fights to hold onto the memories of their tumultuous relationship.",
   "genre": ["drama", "romance", "science-fiction"],
   "link": "https://www.peacocktv.com/watch-online/movies/drama/eternal-sunshine-of-the-spotless-mind/788c8e18-2d35-355e-b9c5-f25133c76ae1",
@@ -1687,7 +1687,7 @@
   }],
   "actors": [{
       "name": "Jim Carrey",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8f8vfM285BNBppHh9aILItafPdiSyk4eJwF25L0MdPzY-HZ6K",
+      "image": "./actors/JimCarrey.webp",
       "imdb": "https://www.imdb.com/name/nm0000120/"
     }, {
       "name": "Kate Winslet",

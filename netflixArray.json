@@ -5,7 +5,7 @@
 		"year": 1994,
 		"runtime": 107,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa5nYFw0e7NZ27XKo7YK9PfcX1iODfc8ms78qboF4lB3ecs2qwIfUDUIob_whKip4wW-NsKzMoyG_RPW0nscu2l0V3KM9cXgGc8.jpg?r=3f6",
+		"poster": "./posters/netflix/DumbAndDumber.jpg",
 		"description": "Imbecilic best friends Lloyd Christmas (Jim Carrey) and Harry Dunne (Jeff Daniels) stumble across a suitcase full of money left behind in Harry's car by Mary Swanson (Lauren Holly), who was on her way to the airport. The pair decide to go to Aspen, Colo., to return the money, unaware that it is connected to a kidnapping. As Harry and Lloyd -- who has fallen in love with Mary -- are pursued across the country by hired killers and police, they find both their friendship and their brains tested.",
 		"genre": ["comedy"],
 		"link": "https://www.netflix.com/title/464246",
@@ -20,7 +20,7 @@
 		}],
 		"actors": [{
 			"name": "Jim Carrey",
-				"image": "https://cdn.britannica.com/84/200584-050-7EC3F3F6/Jim-Carrey-2012.jpg?w=400&h=300&c=crop",
+				"image": "./actors/JimCarrey.webp",
 				"imdb": "https://www.imdb.com/name/nm0000120/"
 		}, {
 			"name": "Jeff Daniels",
@@ -4295,7 +4295,7 @@
 		"actors": [
 			{
 				"name": "Jim Carrey",
-				"image": "https://cdn.britannica.com/84/200584-050-7EC3F3F6/Jim-Carrey-2012.jpg?w=400&h=300&c=crop",
+				"image": "./actors/JimCarrey.webp",
 				"imdb": "https://www.imdb.com/name/nm0000120/"
 			},
 			{

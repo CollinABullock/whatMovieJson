@@ -3288,7 +3288,7 @@
     {
       "name": "Jim Carrey",
       "IMDB": "https://www.imdb.com/name/nm0000120/",
-      "image": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1389828159.jpg?w=681&h=383&crop=1"
+      "image": "./actors/JimCarrey.webp"
     },
     {
       "name": "Renée Zellweger",
@@ -3306,7 +3306,7 @@
       "image": "https://i.guim.co.uk/img/media/21daf2b77d2198e32c91edb21c26890bd366dac0/0_5_2356_1413/master/2356.jpg?width=1200&quality=85&auto=format&fit=max&s=733d7abdcaef7cdcdf1c1d9528451fd2"
     }
   ],
-  "poster": "https://img2.hulu.com/user/v3/artwork/4fdd5fc4-eb4f-43cd-8a4f-149b4117c94e?base_image_bucket_name=image_manager&base_image=12ace4e0-8885-463e-ba73-cf64bd4c7ba9&size=600x338&format=jpeg",
+  "poster": "./posters/hulu/MeMyselfAndIrene.jpeg",
   "link": "https://www.hulu.com/movie/me-myself-irene-4fdd5fc4-eb4f-43cd-8a4f-149b4117c94e"
 }
 ,
