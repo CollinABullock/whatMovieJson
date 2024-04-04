@@ -4278,7 +4278,7 @@
 		"year": 2003,
 		"runtime": 101,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABajHwxSZCxTttRjrojc-RUSQ9sqXDkSDX1GYwsJ_nAVXzAMRkeavPgafOA9qQLPY5K2LfOBDe5i9JjLJ02USf8PtFDuk-HlzIvgX.jpg?r=75e",
+		"poster": "./posters/netflix/BruceAlmighty.jpg",
 		"description": "After a TV news reporter rants at God, he's given divine powers for a week to see if he can do a better job at running things.",
 		"genre": [
 			"comedy",
@@ -4300,7 +4300,7 @@
 			},
 			{
 				"name": "Jennifer Aniston",
-				"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOTCAqfxqASbhsw71EKhsDH41xDZHsq1kFC0QZD7hjMC__-uD3",
+				"image": "./actors/JenniferAniston.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000098/"
 			},
 			{
