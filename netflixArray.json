@@ -2096,7 +2096,7 @@
 		"year": 2002,
 		"runtime": 109,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABQ_oVgCiaXkABSAjkDrwiddYBOinRQ3Q6XdRAOFOsiYWfDxR2zgjRGuEXkL6nDGCI_7uqq7i6pwQd1IVcrz0K95JV-V799m06ko.jpg?r=176",
+		"poster": "./posters/netflix/SchoolOfRock.jpg",
 		"description": "Posing as a schoolteacher, a down-on-his-luck guitarist secretly turns his class into a rock band — and shows them the liberating power of rock 'n' roll.",
 		"genre": [
 			"comedy",
@@ -2113,7 +2113,7 @@
 		"actors": [
 			{
 				"name": "Jack Black",
-				"image": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Jack-Black.jpg",
+				"image": "./actors/JackBlack.webp",
 				"imdb": "https://www.imdb.com/name/nm0085312/?ref_=tt_ov_st"
 			},
 			{
@@ -4415,7 +4415,7 @@
 			},
 			{
 				"name": "Jack Black",
-				"image": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Jack-Black.jpg",
+				"image": "./actors/JackBlack.webp",
 				"imdb": "https://www.imdb.com/name/nm0085312/?ref_=tt_ov_st"
 			}
 		]

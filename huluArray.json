@@ -546,7 +546,7 @@
     "imdb": "https://www.imdb.com/name/nm0000226/"
   }, {
     "name": "Jack Black",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Jack-Black.jpg",
+    "image": "./actors/JackBlack.webp",
     "imdb": "https://www.imdb.com/name/nm0085312/?ref_=tt_ov_st"
   }, {
     "name": "Robert De Niro",
@@ -554,7 +554,7 @@
   "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
   }],
   "link": "https://www.hulu.com/watch/dae07e75-4db5-4734-a246-3d1610bfa999",
-  "poster": "https://img.hulu.com/user/v3/artwork/dae07e75-4db5-4734-a246-3d1610bfa999?base_image_bucket_name=image_manager&base_image=edcf4aab-fbe5-4051-b29f-b5fb01f49c8c&region=US&format=jpeg&size=952x536"
+  "poster": "./posters/hulu/SharkTale.jpeg"
 }
 ,
 
@@ -2865,7 +2865,7 @@
   "actors": [
     {
       "name": "Jack Black",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Jack-Black.jpg",
+      "image": "./actors/JackBlack.webp",
       "imdb": "https://www.imdb.com/name/nm0085312/?ref_=tt_ov_st"
     },
     {
@@ -3019,7 +3019,7 @@
 "year": 2008,
 "runtime": 107,
 "mpaa": "R",
-"poster": "https://img.hulu.com/user/v3/artwork/73ed908e-b3b0-4033-8937-1d91b1a12e94?base_image_bucket_name=image_manager&base_image=65f06108-f098-4a67-8496-cc60e644ef2f&size=600x338&format=jpeg",
+"poster": "./posters/hulu/TropicThunder.jpeg",
 "description": "A group of self-absorbed actors shooting a big-budget war movie are forced to become the soldiers they are portraying when they are caught behind enemy lines.",
 "genre": ["action", "comedy", "war"],
 "link": "https://www.hulu.com/movie/tropic-thunder-73ed908e-b3b0-4033-8937-1d91b1a12e94",
@@ -3034,7 +3034,7 @@
       "imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
 }, {
   "name": "Jack Black",
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Jack-Black.jpg",
+  "image": "./actors/JackBlack.webp",
   "imdb": "https://www.imdb.com/name/nm0085312/?ref_=tt_ov_st"
 }, {
   "name": "Robert Downey Jr.",
