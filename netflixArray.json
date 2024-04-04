@@ -2273,7 +2273,7 @@
 		"year": 2000,
 		"runtime": 107,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABfWNcA8VCMRTAhgVwUJ3O3_g8lpeCZafXh7mxsaOrzubrycs5hTWFQ-sNdEMiwDstHffJb0_GtXsz-piN4wKpnzW5RxwpWYy-GU.jpg?r=0a2",
+		"poster": "./posters/netflix/MeetTheParents.jpg",
 		"description": "Greg Focker is ready to marry his girlfriend, but before he pops the question, he must win over her formidable father, a humorless former CIA agent.",
 		"genre": [
 			"comedy",
@@ -2290,7 +2290,7 @@
 		"actors": [
 			{
 				"name": "Ben Stiller",
-				"image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
+				"image": "./actors/BenStiller.webp",
 				"imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
 			},
 			{
@@ -2325,7 +2325,7 @@
         "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/09/1140-adam-sandler-basketball.jpg"
 		}, {
 			"name": "Ben Stiller",
-			"image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
+			"image": "./actors/BenStiller.webp",
 			"imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
 		}, {
 			"name": "Dustin Hoffman",
@@ -2337,7 +2337,7 @@
 			"imdb": "https://www.imdb.com/name/nm0000668/"
 		}],
 		"link": "https://www.netflix.com/title/80174434",
-		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQC4bThrXxkaWenB9ApCS2g4YjFguMxFUTgHmrYOJzA_fSZT_ihTkGGLY1jfV54u1D4vcrSyAIwpirK3Hh11rmKT-twkWZouhwK5PAz9oDbZsbguj-9CjAqc_hwlPLnGNWa8KQ.jpg?r=4e4"
+		"poster": "./posters/netflix/TheMeyerowitzStories.jpg"
 	}
 ,	
 
@@ -4202,7 +4202,7 @@
 		"year": 2004,
 		"runtime": 115,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXMbmDtqvAaFcH1PbD1Z6lKt7IMGvwEstmHYKz4DMGLYEJ-ciu7WiZOQu7KW9deLbskAYE4ums8xUz6FcwenL1qptE4yur08396X.jpg?r=c95",
+		"poster": "./posters/netflix/MeetTheFockers.jpg",
 		"description": "Parents and personalities clash when newly engaged Greg and Pam attempt to bring their families together in this sequel to the hit comedy.",
 		"genre": [
 			"comedy",
@@ -4220,7 +4220,7 @@
 		"actors": [
 			{
 				"name": "Ben Stiller",
-				"image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
+				"image": "./actors/BenStiller.webp",
 				"imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
 			},
 			{
@@ -4241,7 +4241,7 @@
 		"year": 2010,
 		"runtime": 97,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABbvGH_Gr_0vLZJiY6B0MekZWuPdFZcYmssbGi1nls2rmKsP5WOiP7VlBOETrakNO3TaZTg1eaY2BhwDfmv866ZPOMGZMQnSuBBu9.jpg?r=77d",
+		"poster": "./posters/netflix/LittleFockers.jpg",
 		"description": "Greg Focker has a pair of rambunctious kids, and the tension with his father-in-law rises to the surface once again.",
 		"genre": [
 			"comedy"
@@ -4257,7 +4257,7 @@
 		"actors": [
 			{
 				"name": "Ben Stiller",
-				"image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
+				"image": "./actors/BenStiller.webp",
 				"imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
 			},
 			{

@@ -1771,7 +1771,7 @@
     "link": "https://www.amazon.com/gp/video/detail/B0B648BCGK/ref=atv_dp_amz_c_TS5124c5_1_6?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
     "director": [{
       "name": "Ben Stiller",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
+      "image": "./actors/BenStiller.webp",
       "imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
     }],
     "actors": [{

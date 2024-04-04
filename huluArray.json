@@ -2756,7 +2756,7 @@
     {
       "name": "Ben Stiller",
       "IMDB": "https://www.imdb.com/name/nm0001774/",
-      "image": "https://ew.com/thmb/4gDC7i5IjAxF2-q-gOTqZ4pdrmA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ben-Stiller-cbb613cdfaa94ff1bd3fb30a71ba20d9.jpg"
+      "image": "./actors/BenStiller.webp"
     },
     {
       "name": "Christine Taylor",
@@ -2769,7 +2769,7 @@
       "image": "https://i.insider.com/5d255f4821a8610b2836a572?width=1136&format=jpeg"
     }
   ],
-  "poster": "https://img2.hulu.com/user/v3/artwork/c264e6da-138c-4ebb-970c-785ad110d03c?base_image_bucket_name=image_manager&base_image=819d1894-d2d2-44b4-9793-c1e331e413ba&size=600x338&format=jpeg",
+  "poster": "./posters/hulu/DodgeballATrueUnderdogStory.jpeg",
   "link": "https://www.hulu.com/movie/dodgeball-a-true-underdog-story-c264e6da-138c-4ebb-970c-785ad110d03c"
 }
 ,
@@ -3025,12 +3025,12 @@
 "link": "https://www.hulu.com/movie/tropic-thunder-73ed908e-b3b0-4033-8937-1d91b1a12e94",
 "director": [{
   "name": "Ben Stiller",
-  "image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
+  "image": "./actors/BenStiller.webp",
   "imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
 }],
 "actors": [{
   "name": "Ben Stiller",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
+      "image": "./actors/BenStiller.webp",
       "imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
 }, {
   "name": "Jack Black",

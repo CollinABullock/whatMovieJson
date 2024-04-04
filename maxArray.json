@@ -3455,7 +3455,7 @@
   }],
   "actors": [{
     "name": "Ben Stiller",
-    "image": "https://www.indiewire.com/wp-content/uploads/2022/08/Ben-Stiller.jpg",
+    "image": "./actors/BenStiller.webp",
     "imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
   }, {
     "name": "Naomi Watts",
