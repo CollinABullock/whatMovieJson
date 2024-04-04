@@ -4539,7 +4539,7 @@
 		"year": 2013,
 		"runtime": 109,
 		"mpaa": "R",
-		"poster": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeV8rSo9qh5urC-Oy0_nlHLgh6z_28itrWctTqOEewf1CwHgko7DmE-nl2-K5El6SH5LzloyFdFudlYShkwXV2D0ukazUmTlxAla.jpg?r=fdb",
+		"poster": "./posters/netflix/Elysium.jpg",
 		"description": "In 2154, as the rich thrive in a space station while the poor struggle back on Earth, a dying laborer fights to save himself and restore balance.",
 		"genre": [
 			"science-fiction",
@@ -4561,7 +4561,7 @@
 			},
 			{
 				"name": "Jodie Foster",
-				"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFuuUCovlInNAl5qBnyTwx4J_xhJPetaauv0kXEIVQmOLWZNbxLNfurehN_DyfsmYBOGiVfg",
+				"image": "./actors/JodieFoster.jpeg",
 				"imdb": "https://www.imdb.com/name/nm0000149/"
 			},
 			{
