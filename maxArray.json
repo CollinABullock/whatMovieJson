@@ -1095,7 +1095,7 @@
       "actors": [
         {
           "name": "Joaquin Phoenix",
-          "image": "https://variety.com/wp-content/uploads/2018/03/shutterstock_editorial_9886170h.jpg?w=1000",
+          "image": "./actors/JoaquinPhoenix.webp",
           "imdb": "https://www.imdb.com/name/nm0001618/?ref_=tt_ov_st"
         },
         {
@@ -4474,7 +4474,7 @@
   "year": 2005,
   "runtime": 136,
   "mpaa": "PG-13",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/47aeb4cc-f16c-49f1-88b3-5631b89d8c67/6b77aad0fca5a60b01c28b5e98adc73ac7973b42.jpg?submitted=1684657857083&host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/WalkTheLine.avif",
   "description": "In 'Walk the Line', the biographical drama chronicles the life of legendary musician Johnny Cash, from his early days in Arkansas to his rise to fame in the music industry. The film explores Cash's tumultuous relationships, struggles with addiction, and his enduring love story with June Carter. With powerful performances and iconic music, 'Walk the Line' offers an intimate glimpse into the life of a music icon.",
   "genre": ["biopic", "drama", "musical", "romance"],
   "link": "https://play.max.com/movie/47aeb4cc-f16c-49f1-88b3-5631b89d8c67",
@@ -4485,7 +4485,7 @@
   }],
   "actors": [{
     "name": "Joaquin Phoenix",
-    "image": "https://variety.com/wp-content/uploads/2018/03/shutterstock_editorial_9886170h.jpg?w=1000",
+    "image": "./actors/JoaquinPhoenix.webp",
     "imdb": "https://www.imdb.com/name/nm0001618/?ref_=tt_ov_st"
   }, {
     "name": "Reese Witherspoon",

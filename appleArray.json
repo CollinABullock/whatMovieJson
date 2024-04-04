@@ -149,7 +149,7 @@
     "year": 2023,
     "runtime": 158,
     "mpaa": "R",
-    "poster": "https://www.apple.com/tv-pr/shows-and-films/n/napoleon/images/show-home-graphic-header/key-art-02/4x1/Apple_TV_Napoleon_key_art_graphic_header_4_1_show_home.jpg.og.jpg?1708706810578",
+    "poster": "./posters/apple/Napoleon.jpg",
     "description": "A look at the military commander's origins and his swift, ruthless climb to emperor, viewed through the prism of his addictive and often volatile relationship with his wife and one true love, Josephine.",
 "genre": ["history", "drama", "action", "war"],
   "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?mttn3pid=Google%20AdWords&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=OUS20191071_1-691756660928-c&mttnsubkw=148377018142__UdSzvOtH_&mttnsubplmnt=_adext_",
@@ -160,7 +160,7 @@
   }],
   "actors": [{
     "name": "Joaquin Phoenix",
-    "image": "https://variety.com/wp-content/uploads/2018/03/shutterstock_editorial_9886170h.jpg?w=1000",
+    "image": "./actors/JoaquinPhoenix.webp",
     "imdb": "https://www.imdb.com/name/nm0001618/?ref_=tt_ov_st"
   }, {
     "name": "Vanessa Kirby",

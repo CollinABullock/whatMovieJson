@@ -2777,7 +2777,7 @@
 		"year": 2019,
 		"runtime": 121,
 		"mpaa": "R",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABTYcZRD-94Zapbubx0PZiwLkQnlWn3pRfr2NABcEo0uAuo_E9Jfo8TtSrkoiPrCMf_oTkrs5JPBAZCRxabq0O0_Tj2aCsr9VmFc.jpg?r=e68",
+		"poster": "./posters/netflix/Joker.jpg",
 		"description": "In 1981 Gotham City, a struggling, mentally ill comic battles to be seen. His life takes a dark, gut-wrenching turn after he lashes back at attackers.",
 		"genre": [
 			"drama",
@@ -2795,7 +2795,7 @@
 		"actors": [
 			{
 				"name": "Joaquin Phoenix",
-				"image": "https://variety.com/wp-content/uploads/2018/03/shutterstock_editorial_9886170h.jpg?w=1000",
+				"image": "./actors/JoaquinPhoenix.webp",
 				"imdb": "https://www.imdb.com/name/nm0001618/?ref_=tt_ov_st"
 			},
 			{

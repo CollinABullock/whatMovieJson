@@ -802,7 +802,7 @@
       "imdb": "https://www.imdb.com/name/nm0000128/"
     }, {
       "name": "Joaquin Phoenix",
-      "image": "https://static01.nyt.com/images/2017/09/06/t-magazine/joaquin-phoenix-slide-EUHZ-copy/joaquin-phoenix-slide-EUHZ-copy-superJumbo-v2.jpg",
+      "image": "./actors/JoaquinPhoenix.webp",
       "imdb": "https://www.imdb.com/name/nm0001618/"
     }, {
       "name": "Connie Nielsen",
@@ -813,7 +813,7 @@
       "image": "https://drunkard.com/wp-content/uploads/2023/12/64-oliver-reed-hdr.jpg",
       "imdb": "https://www.imdb.com/name/nm0001657/"
     }],
-  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/07/16/1922594883708/GLAD_SAlone_16_9_1920x1080_1278014_1920x1080.jpg",
+  "poster": "./posters/paramount/Gladiator.jpg",
   "link": "https://www.paramountplus.com/movies/video/UAhaBnkT1Lm68ZAFQx1CgMeXalb4vxwz/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHyni3JRSAe3k0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CLb20-yl7YQDFS3qGAIdYw0IiQ"
 },
 

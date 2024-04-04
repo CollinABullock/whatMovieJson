@@ -16,7 +16,7 @@
     }],
     "actors": [{
       "name": "Joaquin Phoenix",
-      "image": "https://static01.nyt.com/images/2017/09/06/t-magazine/joaquin-phoenix-slide-EUHZ-copy/joaquin-phoenix-slide-EUHZ-copy-superJumbo-v2.jpg",
+      "image": "./actors/JoaquinPhoenix.webp",
       "imdb": "https://www.imdb.com/name/nm0001618/"
     }, {
       "name": "Philip Seymour Hoffman",
