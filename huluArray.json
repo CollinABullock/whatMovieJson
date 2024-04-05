@@ -464,7 +464,7 @@
   "title": "Goodfellas",
   "runtime": 146,
   "mpaa": "R",
-  "description": "Goodfellas is a gripping crime drama directed by Martin Scorsese, based on the true story of Henry Hill, a former mobster turned informant. Set in the 1950s and 1960s, the film follows Hill's rise through the ranks of the Italian-American Mafia in New York City. It delves deep into the inner workings of organized crime, exploring themes of loyalty, betrayal, and the allure of power. With its iconic performances, razor-sharp dialogue, and masterful direction, Goodfellas is widely regarded as one of the greatest films ever made.",
+  "description": "A young man grows up in the mob and works very hard to advance himself through the ranks. He enjoys his life of money and luxury, but is oblivious to the horror that he causes. A drug addiction and a few mistakes ultimately unravel his climb to the top. Based on the book Wiseguy by Nicholas Pileggi.",
   "genre": ["crime", "drama"],
   "director": [{
     "name": "Martin Scorcese",
@@ -489,7 +489,7 @@
     "imdb": "https://www.imdb.com/name/nm0000966/"
   }],
   "link": "https://www.hulu.com/movie/01d5fb21-5896-420b-9346-9667bfc235d4",
-  "poster": "https://img3.hulu.com/user/v3/artwork/01d5fb21-5896-420b-9346-9667bfc235d4?base_image_bucket_name=image_manager&base_image=2fa118b3-da7a-4f3d-a159-b8b1c57d9d0b&size=1200x630&format=jpeg"
+  "poster": "./posters/hulu/Goodfellas.jpeg"
 }
 ,
 
@@ -3816,7 +3816,7 @@
   "item": 99002,
   "title": "The King of Comedy",
   "year": 1983,
-  "description": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late-night talk-show host who craves his own privacy.",
+  "description": "Rupert Pupkin (Robert De Niro) is a failure in life but a celebrity in his own mind, hosting an imaginary talk show in his mother's basement. When he meets actual talk show host Jerry Langford (Jerry Lewis), he's convinced it will provide his big break, but Langford isn't interested in the would-be comedian. Undaunted, Pupkin effectively stalks Langford -- and when that doesn't work, he kidnaps him, offering his release in exchange for a guest spot on Langford's show.",
   "runtime": 109,
   "mpaa": "PG",
   "genre": ["comedy", "crime", "drama"],
@@ -3844,7 +3844,7 @@
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2021/10/GettyImages-1181748555-H-2021.jpg"
     }
   ],
-  "poster": "https://img.hulu.com/user/v3/artwork/625e1e3f-2b9a-44ca-ba65-cb027d2f9345?base_image_bucket_name=image_manager&base_image=01aec6d9-3d6c-4268-8ded-a43fd73fde6b&region=US&format=jpeg&size=952x536",
+  "poster": "./posters/hulu/TheKingOfComedy.jpeg",
   "link": "https://www.hulu.com/movie/the-king-of-comedy-625e1e3f-2b9a-44ca-ba65-cb027d2f9345"
 },
 

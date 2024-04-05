@@ -759,7 +759,7 @@
 		"year": 1974,
 		"runtime": 112,
 		"mpaa": "PG",
-		"poster": "https://cdn.posteritati.com/posters/000/000/061/484/alice-doesnt-live-here-anymore-md-web.jpg",
+		"poster": "./posters/netflix/AliceDoesntLiveHereAnymore.jpg",
 		"description": "After the sudden death of her husband, Alice Hyatt decides to pursue her childhood dream of becoming a singer while embarking on a journey with her young son. Along the way, she encounters various challenges and forms unexpected connections as she searches for a new place to call home.",
 		"genre": [
 			"drama",
@@ -3034,8 +3034,8 @@
 		"year": 2019,
 		"runtime": 210,
 		"mpaa": "R",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcC0ciRFU88M-2UHTuCys-nlCoqzA-8gkOjXKZ07P9Af9AFFirq9Smsp_1Mpvsf1LQSP9mbk_M2YwKabjawBfGvskV36wOZ_s45Oi9yAznIF7j7GCOGHGw1BZ5onJwAsds6aRw.jpg?r=51e",
-		"description": "Hit man Frank Sheeran looks back at the secrets he kept as a loyal member of the Bufalino crime family in this acclaimed film from Martin Scorsese",
+		"poster": "./posters/netflix/TheIrishman.jpg",
+		"description": "In the 1950s, truck driver Frank Sheeran gets involved with Russell Bufalino and his Pennsylvania crime family. As Sheeran climbs the ranks to become a top hit man, he also goes to work for Jimmy Hoffa -- a powerful Teamster tied to organized crime.",
 		"genre": [
 			"drama",
 			"crime"
@@ -5413,7 +5413,7 @@
 		"year": 2019,
 		"runtime": 142,
 		"mpaa": "R",
-		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABXX2ncNQ_ZsZkoUFZB0l01_DRy-s9vn8V7tVnHVyTpnQoYa1FbS1BQ3kJJudRtJiIxE_K_SjqM9v9QCa8mvcQu0tQQqlrBGJDqRE5-2JeZ7ngDJ4x69LEbMsZsGBEzFMdpeeSA.jpg?r=96a",
+		"poster": "./posters/netflix/RollingThunderRevue.jpg",
 		"description": "An in-depth look at Bob Dylan's 1975 Rolling Thunder Revue tour, featuring never-before-seen footage and interviews with those who were part of the legendary tour.",
 		"genre": ["documentary", "music"],
 		"link": "https://www.netflix.com/title/80221016",

@@ -1383,7 +1383,7 @@
         "imdb": "https://www.imdb.com/name/nm0000582/"
       }
     ],
-    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/d38b9275-3394-4514-8856-7f1663abf085.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280",
+    "poster": "./posters/criterion/RagingBull.avif",
     "link": "https://www.criterionchannel.com/raging-bull"
   }
   
