@@ -104,7 +104,7 @@
     "year": 1991,
     "runtime": 119,
     "mpaa": "R",
-    "poster": "https://img1.hulu.com/user/v3/artwork/d4cddf96-fc7c-4a1a-ab19-f70f51e66252?base_image_bucket_name=image_manager&base_image=cc4c17a5-6258-4750-948c-8c0959b8575d&size=1200x630&format=jpeg",
+    "poster": "./posters/hulu/PrettyWoman.jpeg",
     "description": "While on a business trip in L.A., Edward (Richard Gere), who makes a living buying and breaking up companies, picks up a hooker, Vivian (Julia Roberts), on a lark. After Edward hires Vivian to stay with him for the weekend, the two get closer, only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
     "genre": ["romance", "comedy", "drama"],
     "link": "https://www.hulu.com/movie/d4cddf96-fc7c-4a1a-ab19-f70f51e66252",
@@ -119,7 +119,7 @@
       "imdb": "https://www.imdb.com/name/nm0000152/"
     }, {
       "name": "Julia Roberts",
-        "image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
+        "image": "./actors/JuliaRoberts.jpg",
         "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
     }, {
       "name": "Jason Alexander",
@@ -3923,7 +3923,7 @@
     {
       "name": "Julia Roberts",
       "IMDB": "https://www.imdb.com/name/nm0000210/",
-      "image": "https://parade.com/.image/t_share/MTkwNTgxMzYzMzY2NTY5MDg1/julia-roberts-net-worth-jpg.jpg"
+      "image": "./actors/JuliaRoberts.jpg"
     },
     {
       "name": "Bob Hoskins",

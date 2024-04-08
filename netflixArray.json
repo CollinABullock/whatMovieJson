@@ -2481,7 +2481,7 @@
 		"year": 1997,
 		"runtime": 104,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABROYI1dmbpPy_EtDF8v1p76OAzHmZmrVS4Tm0CbF64Iw8Iy523vZjc3oXzyW749k7vow1d7juEcLj2JKgebtNHHe64iCZwsDP8Tl.jpg?r=bdf",
+		"poster": "./posters/netflix/MyBestFriendsWedding.jpg",
 		"description": "Food critic Julianne does her sneaky best to sabotage her pal Michael's wedding to a wealthy college student after realizing she wants him for herself.",
 		"genre": [
 			"comedy",
@@ -2498,7 +2498,7 @@
 		"actors": [
 			{
 				"name": "Julia Roberts",
-				"image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
+				"image": "./actors/JuliaRoberts.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
 			},
 			{
@@ -2723,7 +2723,7 @@
 		"actors": [
 			{
 				"name": "Julia Roberts",
-				"image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
+				"image": "./actors/JuliaRoberts.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
 			},
 			{
@@ -5373,7 +5373,7 @@
 		"year": 2023,
 		"runtime": 142,
 		"mpaa": "R",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdC-WH_eB7KTzgrNFgwprrXnzWciuHUHhhJCfj29JDubNRn5C8JPoJtPauCok1bLBQpGem6w1Xk-HSzHCxer4xZ5A4rbgKP986AjQ-1j2pvFXbU2_hp_fnwjjggyxGzA0-s9.jpg?r=a50",
+		"poster": "./posters/netflix/LeaveTheWorldBehind.jpg",
 		"description": "A family vacation on Long Island is interrupted by two strangers bearing news of a blackout. As the threat grows, both families must decide how best to survive the potential crisis, all while grappling with their own place in this collapsing world.",
 		"genre": [
 			"drama",
@@ -5391,7 +5391,7 @@
 		"actors": [
 			{
 				"name": "Julia Roberts",
-				"image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
+				"image": "./actors/JuliaRoberts.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
 			},
 			{

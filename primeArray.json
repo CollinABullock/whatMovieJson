@@ -3411,7 +3411,7 @@
     }],
     "actors": [{
       "name": "Julia Roberts",
-      "image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
+      "image": "./actors/JuliaRoberts.jpg",
       "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
     }, {
       "name": "Hugh Grant",
@@ -3526,7 +3526,7 @@
     "year": 2010,
     "runtime": 140,
     "mpaa": "PG-13",
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/784cf5cfd9738977b4d36284e5e5cb2565e0a7401a5f7b3054438eb21619bdff.jpg",
+    "poster": "./posters/prime/EatPrayLove.jpg",
     "description": "'Eat Pray Love' follows the journey of Elizabeth Gilbert, a woman who embarks on a year-long trip around the world in search of self-discovery and fulfillment. After a painful divorce and a period of soul-searching, Elizabeth decides to leave her old life behind and explore new cultures, cuisines, and spiritual practices. From Italy to India to Bali, she learns valuable lessons about love, forgiveness, and the importance of finding balance in life.",
     "genre": ["drama", "romance"],
     "link": "https://www.amazon.com/gp/video/detail/B00BR9YSBA/ref=atv_dp_amz_c_TS5124c5_1_2?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
@@ -3537,7 +3537,7 @@
     }],
     "actors": [{
       "name": "Julia Roberts",
-      "image": "https://people.com/thmb/IhNIeEk1h5D2I6URYBtwRXb-S5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x165:705x167)/Julia-Roberts-on-the-tonight-show-tout-120623-7c30d086ccb44f09a9563abdb0427af6.jpg",
+      "image": "./actors/JuliaRoberts.jpg",
       "imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
     }, {
       "name": "Javier Bardem",
