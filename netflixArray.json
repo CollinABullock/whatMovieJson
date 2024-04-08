@@ -61,12 +61,12 @@
 		"actors": [
 			{
 				"name": "Adam Sandler",
-        "IMDB": "https://www.imdb.com/name/nm0001191/",
+        "IMDB": "./actors/AdamSandler.webp",
         "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/09/1140-adam-sandler-basketball.jpg"
 			},
 			{
 				"name": "Julia Fox",
-				"IMDB": "https://www.imdb.com/name/nm5659723/",
+				"IMDB": "./actors/JuliaFox.jpg",
 				"image": "https://people.com/thmb/Lt6PlQLBWbldx-XAlEnHdzxDGJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/julia-fox-2-02fd2f8fbe694d3ba43d159293dfae34.jpg"
 			},
 			{
