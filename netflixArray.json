@@ -2322,7 +2322,7 @@
 		"actors": [{
 			"name": "Adam Sandler",
         "IMDB": "https://www.imdb.com/name/nm0001191/",
-        "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/09/1140-adam-sandler-basketball.jpg"
+        "image": "./actors/AdamSandler.jpeg"
 		}, {
 			"name": "Ben Stiller",
 			"image": "./actors/BenStiller.webp",

@@ -1501,7 +1501,7 @@
     "item": 5678,
     "title": "Little Nicky",
     "year": 2000,
-    "description": "A comedy film about the devil's weakling son, Nicky, who embarks on a mission to save his father and prevent his evil brothers from taking over both the underworld and the earth.",
+    "description": "In a perfect world, he'd be happy to head-bang in his room all day to heavy metal music. But no, his mom is an angel, his old man is the devil, and like all good fathers, he insists that Nicky get involved in the family business. Nicky could think of 666 things he'd rather be doing than corrupting souls or spewing evil, but when his father's command over Hades is threatened by his bullying older brothers, it's up to unbalanced Nicky to restore the balance between Good and Evil on earth.",
     "runtime": 90,
     "mpaa": "PG-13",
     "genre": ["comedy", "fantasy", "horror"],
@@ -1515,7 +1515,7 @@
     "actors": [
       {
         "name": "Adam Sandler",
-        "IMDB": "https://www.imdb.com/name/nm0001191/",
+        "IMDB": "./actors/AdamSandler.jpeg",
         "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/09/1140-adam-sandler-basketball.jpg"
       },
       {
@@ -1534,7 +1534,7 @@
         "image": "https://www.toledoblade.com/image/2010/11/05/1140x_a10-7_cTC/Rhys-Ifans.jpg"
       }
     ],
-    "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26534_v_h10_aa.jpg",
+    "poster": "./posters/tubi/LittleNicky.webp",
     "link": "https://tubitv.com/movies/581905/little-nicky"
   }
   

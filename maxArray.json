@@ -3722,7 +3722,7 @@
   "year": 2007,
   "runtime": 115,
   "mpaa": "PG-13",
-  "poster": "https://m.media-amazon.com/images/M/MV5BOGYzZGRlZGQtYWJiNS00YTAzLWJlYzItNDI3N2IyMGQyMmE4XkEyXkFqcGdeQXVyMTIwMjY0NjQz._V1_.jpg",
+  "poster": "./posters/max/INowPronounceYouChuckAndLarry.avif",
   "description": "Two New York City firefighters pretend to be a gay couple in order to receive domestic partner benefits. However, their plan encounters numerous complications, including unexpected romantic entanglements and a government investigation.",
   "genre": ["comedy", "romance"],
   "link": "https://play.max.com/video/watch/f3f5d52e-49a4-406d-bdd0-262fb0fbb1b6/57fb574b-2b6c-49d2-a376-17b71aec80f4",
@@ -3733,7 +3733,7 @@
   }],
   "actors": [{
     "name": "Adam Sandler",
-    "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+    "image": "./actors/AdamSandler.jpeg",
     "imdb": "https://www.imdb.com/name/nm0001191/"
   }, {
     "name": "Kevin James",
@@ -4060,7 +4060,7 @@
   "year": 2006,
   "runtime": 107,
   "mpaa": "PG-13",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/dad979fb-c4c6-4cc5-9a03-7f85717d5d8f/0e3d0bf50115abec23234a0e0dc31d88acf6edc7.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/Click.avif",
   "description": "Michael Newman, a workaholic architect, acquires a remote control that allows him to manipulate reality. Initially using it to skip through mundane parts of his life, Michael soon realizes that the remote controls more than just his surroundings. As he struggles to balance his personal and professional life, he learns valuable lessons about the importance of cherishing every moment.",
   "genre": ["comedy", "drama", "fantasy"],
   "link": "https://play.max.com/video/watch/4a0c44b9-792c-4709-8857-d389e7088797/fad89e2d-92c7-4fb2-9f01-8d9c2cd40398",
@@ -4071,7 +4071,7 @@
   }],
   "actors": [{
     "name": "Adam Sandler",
-    "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+    "image": "./actors/AdamSandler.jpeg",
     "imdb": "https://www.imdb.com/name/nm0001191/"
   }, {
     "name": "Kate Beckinsale",

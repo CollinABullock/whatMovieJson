@@ -1069,7 +1069,7 @@
   "actors": [
     {
       "name": "Adam Sandler",
-      "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+      "image": "./actors/AdamSandler.jpeg",
       "imdb": "https://www.imdb.com/name/nm0001191/"
     },
     {
@@ -1110,7 +1110,7 @@
   "actors": [
     {
       "name": "Adam Sandler",
-      "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+      "image": "./actors/AdamSandler.jpeg",
       "imdb": "https://www.imdb.com/name/nm0001191/"
     },
     {
@@ -1129,7 +1129,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMTAxMjJiMjYtNzcyOS00MDc5LWEyNzYtMjZiYTU0ZWViOTZhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
     }
   ],
-  "poster": "https://img1.hulu.com/user/v3/artwork/0f6de803-ca80-4128-b39a-73b1e7304db1?base_image_bucket_name=image_manager&base_image=d41be201-a788-43f3-bf26-c419fd280698&size=600x338&format=jpeg",
+  "poster": "./posters/hulu/BillyMadison.jpeg",
   "link": "https://www.hulu.com/movie/billy-madison-0f6de803-ca80-4128-b39a-73b1e7304db1"
 }
 
@@ -2576,7 +2576,7 @@
   "item": 6789,
   "title": "Big Daddy",
   "year": 1999,
-  "description": "A comedy film about a lazy man who adopts a young boy to impress his girlfriend, but ends up forming a strong bond with the child.",
+  "description": "Thirty-two-year-old Sonny Koufax (Adam Sandler) has spent his whole life avoiding responsibility. But when his girlfriend dumps him for an older man, he's got to find a way to prove he's ready to grow up. In a desperate last-ditch effort, Sonny adopts 5-year-old Julian (Dylan Sprouse), (Cole Sprouse) to impress her. She's not impressed ... and he can't return the kid. Uh-oh for Sonny!",
   "runtime": 93,
   "mpaa": "PG-13",
   "genre": ["comedy", "kids"],
@@ -2590,7 +2590,7 @@
   "actors": [
     {
       "name": "Adam Sandler",
-      "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+      "image": "./actors/AdamSandler.jpeg",
       "imdb": "https://www.imdb.com/name/nm0001191/"
     },
     {
@@ -2671,7 +2671,7 @@
   "actors": [
     {
       "name": "Adam Sandler",
-      "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+      "image": "./actors/AdamSandler.jpeg",
       "imdb": "https://www.imdb.com/name/nm0001191/"
     },
     {
@@ -3647,7 +3647,7 @@
 "year": 2007,
 "runtime": 76,
 "mpaa": "PG-13",
-"poster": "https://img1.hulu.com/user/v3/artwork/dc4db4af-ab04-4be6-a0f6-d2c11bdc9491?base_image_bucket_name=image_manager&base_image=087e9e1d-9e72-46d0-a735-efd5cd0c1a60&region=US&format=jpeg&size=952x536",
+"poster": "./posters/hulu/EightCrazyNights.jpeg",
 "description": "Davey Stone, a 33-year-old party animal, is given one last chance to redeem himself when he's sentenced to community service as a youth basketball referee. Along the way, he learns the true meaning of the holiday season.",
 "genre": ["animation", "comedy", "musical"],
 "link": "https://www.hulu.com/movie/adam-sandlers-eight-crazy-nights-dc4db4af-ab04-4be6-a0f6-d2c11bdc9491",
@@ -3658,7 +3658,7 @@
 }],
 "actors": [{
   "name": "Adam Sandler",
-  "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+  "image": "./actors/AdamSandler.jpeg",
   "imdb": "https://www.imdb.com/name/nm0001191/"
 }, {
   "name": "Rob Schneider",

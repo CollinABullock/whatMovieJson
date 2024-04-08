@@ -1074,7 +1074,7 @@
     "year": 2010,
     "runtime": 102,
     "mpaa": "PG-13",
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/23317d315fe4b420308cccfc56226ce3164127a089a30b1e9122e1423290879a.jpg",
+    "poster": "./posters/prime/GrownUps.jpg",
     "description": "After their childhood basketball coach passes away, five childhood friends and former teammates reunite for a Fourth of July holiday weekend at a lake house. As they reminisce about the good old days and navigate the challenges of adulthood, they realize the importance of friendship and family.",
     "genre": ["comedy"],
     "link": "https://www.amazon.com/gp/video/detail/B00BR9VLBK/ref=atv_dp_amz_c_TS5124c5_1_12?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
@@ -1085,7 +1085,7 @@
     }],
     "actors": [{
       "name": "Adam Sandler",
-  "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+  "image": "./actors/AdamSandler.jpeg",
   "imdb": "https://www.imdb.com/name/nm0001191/"
     }, {
       "name": "Kevin James",
@@ -1104,18 +1104,18 @@
     "year": 2013,
     "runtime": 101,
     "mpaa": "PG-13",
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/8ace51bc542d914ab7a28253510e35fc602139eacaa35cd914b470955cd8bcbf.jpg",
+    "poster": "./posters/prime/GrownUps2.jpg",
     "description": "Three years after the events of the first film, Lenny Feder moves back to his hometown with his family. During the last day of school, he and his friends learn valuable life lessons as they face various comedic mishaps and encounters with eccentric locals.",
     "genre": ["comedy"],
     "link": "https://www.amazon.com/gp/video/detail/B0CLVTQ7W5/ref=atv_dp_amz_c_TS5124c5_1_3?jic=16%7CCgNhbGwSA2FsbA%3D%3D",
     "director": [{
       "name": "Dennis Dugan",
-  "image": "https://vz.cnwimg.com/wp-content/uploads/2014/01/GettyImages-102356833.jpg",
+  "image": "./directors/DennisDugan.webp",
   "imdb": "https://www.imdb.com/name/nm0241187/"
     }],
     "actors": [{
       "name": "Adam Sandler",
-  "image": "https://variety.com/wp-content/uploads/2022/09/GettyImages-1400536441.jpg?w=1000&h=563&crop=1",
+  "image": "./actors/AdamSandler.jpeg",
   "imdb": "https://www.imdb.com/name/nm0001191/"
     }, {
       "name": "Kevin James",
