@@ -2029,12 +2029,16 @@
 	"genre": ["science-fiction", "action", "sequel"],
     "link": "https://play.max.com/video/watch/21e986dc-8870-40bb-805c-6f27e1bf2012/1b44e803-22a8-4b87-8217-37eef8c4c772",
     "director": [{
-    "name": "The Wachowskis",
-    "image": "https://media.vanityfair.com/photos/56df71b6168b55d421ffdd4b/master/pass/wachowski-transgender.jpg",
+    "name": "Lilly Wachowski",
+    "image": "./directors/LillyWachowski.webp",
     "imdb": "https://www.imdb.com/name/nm0905154/"
+    }, {
+      "name": "Lana Wachowski",
+      "image": "./directors/LanaWachowski.webp",
+      "imdb": "https://www.imdb.com/name/nm0905154/"
     }],
     "actors": [{
-      "name": "Keanu Reeves", "image": "https://www.rollingstone.com/wp-content/uploads/2023/05/GettyImages-1493917424-2.jpg?w=1024", "imdb": "https://www.imdb.com/name/nm0000206/"
+      "name": "Keanu Reeves", "image": "public/actors/KeanuReeves.webp", "imdb": "https://www.imdb.com/name/nm0000206/"
     }, {
       "name": "Laurence Fishburne",
       "image": "https://atlantablackstar.com/wp-content/uploads/2022/10/GettyImages-1434655767-scaled.jpg",
@@ -2057,12 +2061,16 @@
 	"genre": ["science-fiction", "action"],
     "link": "https://play.max.com/video/watch/9fb854be-3d3c-44d8-a7c0-d3122b989be8/14bf56e5-916a-4c6f-911d-7a94596afc9f",
     "director": [{
-    "name": "The Wachowskis",
-    "image": "https://media.vanityfair.com/photos/56df71b6168b55d421ffdd4b/master/pass/wachowski-transgender.jpg",
+      "name": "Lilly Wachowski",
+    "image": "./directors/LillyWachowski.webp",
     "imdb": "https://www.imdb.com/name/nm0905154/"
+    }, {
+      "name": "Lana Wachowski",
+      "image": "./directors/LanaWachowski.webp",
+      "imdb": "https://www.imdb.com/name/nm0905154/"
     }],
     "actors": [{
-      "name": "Keanu Reeves", "image": "https://www.rollingstone.com/wp-content/uploads/2023/05/GettyImages-1493917424-2.jpg?w=1024", "imdb": "https://www.imdb.com/name/nm0000206/"
+      "name": "Keanu Reeves", "image": "public/actors/KeanuReeves.webp", "imdb": "https://www.imdb.com/name/nm0000206/"
     }, {
       "name": "Laurence Fishburne",
       "image": "https://atlantablackstar.com/wp-content/uploads/2022/10/GettyImages-1434655767-scaled.jpg",
@@ -2085,13 +2093,17 @@
 	"genre": ["science-fiction", "action", "sequel"],
     "link": "https://play.max.com/video/watch/5fe5efc5-2694-4f2b-a2b9-7e9f2091d187/b1adae34-5f5e-41a6-b2f1-bbf51635d453",
     "director": [{
-    "name": "The Wachowskis",
-    "image": "https://media.vanityfair.com/photos/56df71b6168b55d421ffdd4b/master/pass/wachowski-transgender.jpg",
-    "imdb": "https://www.imdb.com/name/nm0905154/"
-    }],
-    "actors": [{
-      "name": "Keanu Reeves", "image": "https://www.rollingstone.com/wp-content/uploads/2023/05/GettyImages-1493917424-2.jpg?w=1024", "imdb": "https://www.imdb.com/name/nm0000206/"
-    }, {
+      "name": "Lilly Wachowski",
+      "image": "./directors/LillyWachowski.webp",
+      "imdb": "https://www.imdb.com/name/nm0905154/"
+      }, {
+        "name": "Lana Wachowski",
+        "image": "./directors/LanaWachowski.webp",
+        "imdb": "https://www.imdb.com/name/nm0905154/"
+      }],
+      "actors": [{
+        "name": "Keanu Reeves", "image": "public/actors/KeanuReeves.webp", "imdb": "https://www.imdb.com/name/nm0000206/"
+      }, {
       "name": "Laurence Fishburne",
       "image": "https://atlantablackstar.com/wp-content/uploads/2022/10/GettyImages-1434655767-scaled.jpg",
       "imdb": "https://www.imdb.com/name/nm0000401/?ref_=tt_ov_st"
@@ -2138,7 +2150,7 @@
       "year": 2007,
       "runtime": 116,
       "mpaa": "PG-13",
-      "poster": "./posters/max/TheBourneUltimatum.avif",
+      "poster": "./posters/max/TheBourneUlimatum.avif",
       "description": "The third installment in the Bourne series finds Matt Damon as the rogue CIA agent who is still in search of his true identity.",
 	"genre": ["action", "spy", "sequel"],
     "link": "https://play.max.com/video/watch/e7eb7136-f3e2-4b70-873a-8cec7e68e9f6/51adaae2-0839-42cd-b4bb-46afd61c36d5",
@@ -2294,7 +2306,7 @@
     "year": 1996,
     "runtime": 107,
     "mpaa": "PG-13",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/05f0eeed-74f5-495f-8532-43d0c18443ca/afcaac4ced6c50d0cae87460c63ddcdc95d16628.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "poster": "./posters/max/ChainReaction.avif",
     "description": "A student machinist finds himself caught in a maze of secret government cover-ups, hi-tech espionage and murder after working on a groundbreaking scientific experiment.",
     "genre": ["action", "science-fiction"],
     "link": "https://play.max.com/video/watch/d018188e-a887-4175-8e92-7ffd9693692d/d2bc0a9c-cf82-46b1-974d-4d3da8f7f8ce",
@@ -2305,7 +2317,7 @@
     }],
     "actors": [{
       "name": "Keanu Reeves", 
-      "image": "https://www.rollingstone.com/wp-content/uploads/2023/05/GettyImages-1493917424-2.jpg?w=1024", 
+      "image": "./actors/KeanuReeves.webp", 
       "imdb": "https://www.imdb.com/name/nm0000206/"
     }, {
       "name": "Rachel Weisz",
@@ -4354,7 +4366,7 @@
   "year": 1989,
   "runtime": 90,
   "mpaa": "PG",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e63236ad-7e41-41f0-a0ef-a01798da280d/c23c78bcbf41d561dd73ef651b105d1a05a85ec3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/BillAndTedsExcellentAdventure.avif",
   "description": "Two dim-witted high school students visited by Rufus, a time-traveling messenger from the future. Rufus informs them that their band, Wyld Stallyns, holds the key to world peace, and they must ace their history presentation to ensure their future success. With the help of a time-traveling phone booth, Bill and Ted embark on a wild journey through history, meeting historical figures and learning valuable lessons along the way.",
   "genre": ["comedy", "science-fiction"],
   "link": "https://play.max.com/video/watch/4e8121c3-458d-49ed-beb4-4ec6ffd0d0cc/3fdebc32-4b0e-4c9d-aae0-2942daa991a1",
@@ -4365,7 +4377,7 @@
   }],
   "actors": [{
     "name": "Keanu Reeves",
-    "image": "https://deadline.com/wp-content/uploads/2023/03/Keanu-Reeves-constantine-wolverine.jpg?w=681&h=383&crop=1",
+    "image": "public/actors/KeanuReeves.webp",
     "imdb": "https://www.imdb.com/name/nm0000206/"
   }, {
     "name": "Alex Winter",

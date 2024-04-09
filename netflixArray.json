@@ -996,11 +996,11 @@
 			"drama"
 		],
 		"mpaa": "R",
-		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABd82SjUzYAkpfT3wMv9DPApULQDaJGDEwZSDRkGP3x4UUk_66soLbnz9JGctOeact-aS1owjJoWYh73XU3nkO9KbNYnRpF4y14bv.jpg?r=dc8",
+		"poster": "./posters/netflix/JohnWick.jpg",
 		"actors": [
 			{
 				"name": "Keanu Reeves",
-				"image": "https://www.rollingstone.com/wp-content/uploads/2023/05/GettyImages-1493917424-2.jpg?w=1024",
+				"image": "./actors/KeanuReeves.webp",
 				"imdb": "https://www.imdb.com/name/nm0000206/"
 			},
 			{
@@ -4890,7 +4890,7 @@
 		"actors": [
 			{
 				"name": "Keanu Reeves",
-				"image": "https://www.rollingstone.com/wp-content/uploads/2023/05/GettyImages-1493917424-2.jpg?w=1024",
+				"image": "./actors/KeanuReeves.webp",
 				"imdb": "https://www.imdb.com/name/nm0000206/"
 			},
 			{
@@ -4928,7 +4928,7 @@
 		"actors": [
 			{
 				"name": "Keanu Reeves",
-				"image": "https://www.rollingstone.com/wp-content/uploads/2023/05/GettyImages-1493917424-2.jpg?w=1024",
+				"image": "./actors/KeanuReeves.webp",
 				"imdb": "https://www.imdb.com/name/nm0000206/"
 			},
 			{

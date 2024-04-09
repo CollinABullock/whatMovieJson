@@ -3198,7 +3198,7 @@
   "actors": [
     {
       "name": "Keanu Reeves",
-      "IMDB": "https://www.imdb.com/name/nm0000206/",
+      "IMDB": "./actors/KeanuReeves.webp",
       "image": "https://deadline.com/wp-content/uploads/2023/03/Keanu-Reeves-john-wick-4.jpg"
     },
     {
@@ -3217,7 +3217,7 @@
       "image": "https://pbs.twimg.com/media/FSV5LRWWYAAk1Mb.jpg"
     }
   ],
-  "poster": "https://img4.hulu.com/user/v3/artwork/f841188b-3029-419e-83a4-240c2f5614da?base_image_bucket_name=image_manager&base_image=8b2ea4ed-b8b8-4dcc-9ff8-01e98b3f7c14&size=600x338&format=jpeg",
+  "poster": "./posters/hulu/Speed.jpeg",
   "link": "https://www.hulu.com/movie/speed-f841188b-3029-419e-83a4-240c2f5614da"
 }
 ,
