@@ -3836,7 +3836,7 @@
   "year": 1980,
   "runtime": 95,
   "mpaa": "R",
-  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/091df698-401e-42d9-9886-0b9d4c41b460/b13aac0317988b9ee96473445203e7ef8850cdb4.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "poster": "./posters/max/FridayThe13th.avif",
   "description": "A group of young camp counselors are stalked and terrorized by an unknown assailant at Camp Crystal Lake.",
   "genre": ["horror"],
   "link": "https://play.max.com/video/watch/67d5b4a3-e074-4eef-9bf9-4f613ff589f0/311d33a4-b409-453e-ae9c-88e18629d86d",
@@ -3855,7 +3855,7 @@
     "imdb": "https://www.imdb.com/name/nm0454475/"
   }, {
     "name": "Kevin Bacon",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/kevin-bacon-on-tuesday-september-5-2023-news-photo-1699564230.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+    "image": "./actors/KevinBacon.jpg",
     "imdb": "https://www.imdb.com/name/nm0000102/"
   }]
 },

@@ -797,7 +797,7 @@
 		"year": 2006,
 		"runtime": 138,
 		"mpaa": "R",
-		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVOeN7D5dBV71HAKqkK90_Gpzq1-gkNPCkCD4PtsLncNGr5_4IUVaHxlwcPI9QDKTuAddFto5t1NIc9Gz09zfMy-wzLiXXV410A-.jpg?r=f37",
+		"poster": "./posters/netflix/MysticRiver.jpg",
 		"description": "In this gripping drama, the lives of three childhood friends from a working-class neighborhood in Boston intersect after one of them suffers a tragic loss. As they grapple with the aftermath of the event, long-buried secrets resurface, testing their bonds and leading to unexpected consequences.",
 		"genre": [
 			"crime",
@@ -825,7 +825,7 @@
 			},
 			{
 				"name": "Kevin Bacon",
-				"image": "https://hips.hearstapps.com/hmg-prod/images/kevin-bacon-on-tuesday-september-5-2023-news-photo-1699564230.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+				"image": "./actors/KevinBacon.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000102/"
 			}
 		]

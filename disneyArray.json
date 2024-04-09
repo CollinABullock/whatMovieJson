@@ -636,12 +636,12 @@
       "imdb": "https://www.imdb.com/name/nm2225369/?ref_=tt_ov_st"
     }, {
       "name": "Kevin Bacon",
-      "image": "https://ew.com/thmb/2H_u7TD9rMEpQFTIn8O4JWYCmsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kevin-Bacon-role-call-072822-04-3d48edddb5cc46ae944a1b23078a9745.jpg",
+      "image": "./actors/KevinBacon.jpg",
       "imdb": "https://www.imdb.com/name/nm0000102/"
     }
     ],
   "link": "https://www.disneyplus.com/movies/x-men-first-class/15ELm1fiAfKq",
-  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D9D95729F40A8F7665E76DAADE354083D05CD8621BAF9FD3DB290E1970320B7C/scale?width=400&aspectRatio=1.78&format=jpeg"
+  "poster": "./posters/disney/XMenFirstClass.webp"
 },
 
 {
