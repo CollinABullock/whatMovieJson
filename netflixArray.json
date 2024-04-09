@@ -2558,7 +2558,7 @@
 		"year": 2021,
 		"runtime": 143,
 		"mpaa": "R",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeEb2lWd-JuI5rSKjLf1xnqb1fGSWq3d2--CBkT2hVDFRnqP3JaUYtQf_FE-q1m5frfTNm1lnqZ-4brfdgLb980oFIbclAS5aCyJ32woJB1HYECfH5cAVPAyx5hCjUtVidIt.jpg?r=116",
+		"poster": "./posters/netflix/DontLookUp.jpg",
 		"description": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
 		"genre": [
 			"comedy",
@@ -2576,7 +2576,7 @@
 		"actors": [
 			{
 				"name": "Leonardo DiCaprio",
-				"image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+				"image": "./actors/LeonardoDicaprio.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000138/"
 			},
 			{
@@ -2597,7 +2597,7 @@
 		"year": 2013,
 		"runtime": 142,
 		"mpaa": "PG-13",
-		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABebyn8XblSaVJZ3514SdfNUQmdk0qVtlqKvsVnUHpnOobgt1z3dg8Qx07RXoB3Y_SozdDfxE7HTTGXIGiqDGrxMMNlROUgNNM5AQ.jpg?r=586",
+		"poster": "./posters/netflix/TheGreatGatsby.jpg",
 		"description": "Fascinated by his mysterious and affluent neighbor, salesman Nick Carraway bears witness to Jay Gatsby's spiral into love and tragedy.",
 		"genre": [
 			"drama",
@@ -2614,7 +2614,7 @@
 		"actors": [
 			{
 				"name": "Leonardo DiCaprio",
-				"image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+				"image": "./actors/LeonardoDicaprio.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000138/"
 			},
 			{

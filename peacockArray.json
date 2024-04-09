@@ -656,7 +656,7 @@
     "imdb": "https://www.imdb.com/name/nm0000429/"
   }, {
     "name": "Leonardo DiCaprio",
-        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "image": "./actors/LeonardoDicaprio.jpg",
         "imdb": "https://www.imdb.com/name/nm0000138/"
   }],
   "link": "https://www.peacocktv.com/watch-online/movies/celebrity/09054ec4-8d23-371a-99c9-51c982c82cb5",

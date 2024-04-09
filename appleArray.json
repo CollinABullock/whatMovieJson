@@ -522,7 +522,7 @@
       {
         "name": "Leonardo DiCaprio",
         "IMDB": "https://www.imdb.com/name/nm0000138/",
-        "image": "https://variety.com/wp-content/uploads/2023/05/GettyImages-1492284655.jpg?w=1024"
+        "image": "./actors/LeonardoDicaprio.jpg"
       },
       {
         "name": "Lily Gladstone",

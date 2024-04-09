@@ -51,7 +51,7 @@
     "actors": [
       {
         "name": "Leonardo DiCaprio",
-        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "image": "./actors/LeonardoDicaprio.jpg",
         "imdb": "https://www.imdb.com/name/nm0000138/"
       },
       {
@@ -70,7 +70,7 @@
         "image": "https://variety.com/wp-content/uploads/2016/09/kathy-bates-walk-of-fame-honor.jpg"
       }
     ],
-    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/07/16/1922595395638/TITAN_US_1997_SA_16x9_1920x1080_2343239_1920x1080.jpg",
+    "poster": "./posters/paramount/Titanic.jpg",
     "link": "https://www.paramountplus.com/movies/video/GjggIcNk2C1sYQ_JG6j5LoKa7hxsQOzw/?searchReferral=publisher&source=search-feeds&cbsclick=wI7wZSwEPxyIUUqUip0cnwyTUkHylW2VLVdn3U0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CKXNtZPc7IQDFQrfGAIdp2wEJg"
   }
 ,  
@@ -920,7 +920,7 @@
     "actors": [
       {
         "name": "Leonardo DiCaprio",
-        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "image": "./actors/LeonardoDicaprio.jpg",
         "imdb": "https://www.imdb.com/name/nm0000138/"
       },
       {
@@ -960,7 +960,7 @@
     "actors": [
       {
         "name": "Leonardo DiCaprio",
-        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "image": "./actors/LeonardoDicaprio.jpg",
         "imdb": "https://www.imdb.com/name/nm0000138/"
       },
       {
@@ -999,7 +999,7 @@
     "actors": [
       {
         "name": "Leonardo DiCaprio",
-        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "image": "./actors/LeonardoDicaprio.jpg",
         "imdb": "https://www.imdb.com/name/nm0000138/"
       },
       {
@@ -1039,7 +1039,7 @@
     "actors": [
       {
         "name": "Leonardo DiCaprio",
-        "image": "https://phantom-marca.unidadeditorial.es/0e1996b37d1147008cea1fb6be3dc73a/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/14/16893608205539.jpg",
+        "image": "./actors/LeonardoDicaprio.jpg",
         "imdb": "https://www.imdb.com/name/nm0000138/"
       },
       {
