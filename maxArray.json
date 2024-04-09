@@ -2338,7 +2338,7 @@
     "year": 2014,
     "runtime": 105,
     "mpaa": "PG-13",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/61b36446-437e-437f-bfd1-326d4aafbe81/33de565d45e6557d1f013137e2c570d329da5c59.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "poster": "./posters/max/JackRyanShadowRecruit.avif",
     "description": "Jack Ryan, as a young covert CIA analyst, uncovers a Russian plot to crash the U.S. economy with a terrorist attack.",
     "genre": ["action", "spy"],
     "link": "https://play.max.com/video/watch/e367e54a-7210-4e96-8de9-4a038cfea180/868b636c-c1ef-45c3-96f3-1a596f5e571a",
@@ -2357,7 +2357,7 @@
       "imdb": "https://www.imdb.com/name/nm0461136/"
     }, {
       "name": "Kevin Costner",
-      "image": "https://s.yimg.com/ny/api/res/1.2/alS8XAtTN_5G0ovg19.2tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQwMQ--/https://media.zenfs.com/en/parade_250/2081f96d5668fbf2d8569c68f6096919",
+      "image": "public/actors/KevinCostner.jpeg",
       "imdb": "https://www.imdb.com/name/nm0000126/"
     }]
   },

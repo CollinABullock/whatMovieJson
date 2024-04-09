@@ -619,7 +619,7 @@
     "actors": [
       {
         "name": "Kevin Costner",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/kevin-costner-attends-the-pre-grammy-gala-grammy-salute-to-news-photo-1694791604.jpg",
+        "image": "public/actors/KevinCostner.jpeg",
         "imdb": "https://www.imdb.com/name/nm0000126/"
       },
       {
@@ -814,7 +814,7 @@
     }],
     "actors": [{
       "name": "Kevin Costner",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/kevin-costner-attends-the-pre-grammy-gala-grammy-salute-to-news-photo-1694791604.jpg",
+      "image": "public/actors/KevinCostner.jpeg",
       "imdb": "https://www.imdb.com/name/nm0000126/"
     }, {
       "name": "Jennifer Garner",
@@ -831,7 +831,7 @@
     }],
     "link": "https://tv.apple.com/us/movie/draft-day/umc.cmc.4qypd0hbgpuqczd4t18w6zl67?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
     "year": 2014,
-    "poster": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/da/b2/fb/dab2fb99-1797-1bb9-55df-408a88c888e8/pr_source.lsr/738x416.webp"
+    "poster": "./posters/apple/DraftDay.webp"
   },
 
   {

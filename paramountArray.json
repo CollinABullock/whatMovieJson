@@ -526,7 +526,7 @@
   }],
   "actors": [{
     "name": "Kevin Costner",
-    "image": "https://s.yimg.com/ny/api/res/1.2/alS8XAtTN_5G0ovg19.2tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQwMQ--/https://media.zenfs.com/en/parade_250/2081f96d5668fbf2d8569c68f6096919",
+    "image": "public/actors/KevinCostner.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000126/"
   }, {
     "name": "Sean Connery",
@@ -538,7 +538,7 @@
     "imdb": "https://www.imdb.com/name/nm0000134/"
   }],
   "link": "https://www.paramountplus.com/movies/video/0tnMAzwCVxRVBmd3DwW2T_dIgpjNa697/",
-  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/08/26/1938054211527/UTBL_SAlone_16_9_1920x1080_NB_2170024_1920x1080.jpg"
+  "poster": "./posters/prime/TheUntouchables.jpg"
 }
 ,
 

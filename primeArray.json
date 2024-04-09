@@ -3766,7 +3766,7 @@
   }],
   "actors": [{
     "name": "Kevin Costner",
-    "image": "https://s.yimg.com/ny/api/res/1.2/alS8XAtTN_5G0ovg19.2tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQwMQ--/https://media.zenfs.com/en/parade_250/2081f96d5668fbf2d8569c68f6096919",
+    "image": "./actors/KevinCostner.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000126/"
   }, {
     "name": "Sean Connery",
@@ -3778,7 +3778,7 @@
     "imdb": "https://www.imdb.com/name/nm0000134/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/0QX2XJLYIX8AKBOGIITPRHSG0E/ref=atv_dl_rdr?tag=justus1ktp-20",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/a3a748ff6156949e7d4eb2fdc29b1fa320a102805d0cfed8b2693efe93c108c8.jpg"
+  "poster": "./posters/prime/TheUntouchables.jpg"
 }
 ,
 
