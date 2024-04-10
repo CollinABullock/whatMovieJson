@@ -2498,7 +2498,7 @@
   },
   {
     "name": "Imogen Poots",
-    "image": "https://www.goldderby.com/wp-content/uploads/2022/06/Imogen-Poots-1.jpg",
+    "image": "./actors/ImogenPoots.webp",
     "imdb": "https://www.imdb.com/name/nm1782299/"
   }
 ]
@@ -2701,14 +2701,14 @@
 "year": 2017,
 "runtime": 106,
 "mpaa": "Not Rated",
-"poster": "https://img3.hulu.com/user/v3/artwork/025e53a2-4539-4784-a42a-8b295b134408?base_image_bucket_name=image_manager&base_image=cc819b38-f9ff-4466-b1fb-98558d97a20d&size=600x338&format=jpeg",
+"poster": "./posters/hulu/IKillGiants.jpeg",
 "description": "In 'I Kill Giants', a troubled young girl named Barbara Thorson escapes into a fantasy world where she believes she is a skilled giant killer. As she battles these imaginary foes, Barbara must confront the very real struggles in her life, including bullies at school and family troubles at home. With the help of her new friend Sophia, Barbara learns to face her fears and confront the challenges in her life.",
 "genre": ["drama", "fantasy"],
 "link": "https://www.hulu.com/movie/i-kill-giants-025e53a2-4539-4784-a42a-8b295b134408",
 "director": [
   {
     "name": "Anders Walter",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTcwOTA1YjEtZjhlZS00MTc4LTk2NTItMzY1ZDQ0ZjhhODRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "image": "./directors/AndersWalter.jpg",
     "imdb": "https://www.imdb.com/name/nm3441257/"
   }
 ],
@@ -2720,7 +2720,7 @@
   },
   {
     "name": "Imogen Poots",
-    "image": "https://www.goldderby.com/wp-content/uploads/2022/06/Imogen-Poots-1.jpg",
+    "image": "./actors/ImogenPoots.webp",
     "imdb": "https://www.imdb.com/name/nm1782299/"
   },
   {
