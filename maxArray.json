@@ -2400,7 +2400,7 @@
     "year": 1983,
     "runtime": 114,
     "mpaa": "PG",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0de12893-cb55-4700-a0c3-77330fed617d/636b35211fca68cc50281d369ffa3b7fa1efab60.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "poster": "./posters/max/Wargames.avif",
     "description": "A young computer whiz accidentally connects to a top-secret supercomputer and initiates a game of global thermonuclear war, believing it to be a harmless computer game. As the computer system attempts to start World War III, he must find a way to convince the system's creators to stop the impending disaster.",
     "genre": ["science-fiction", "thriller"],
     "link": "https://play.max.com/video/watch/e3ca7e9e-9f13-4202-a742-3b973702138b/2c2ad8c8-e863-488e-8ecd-6c94b9277eb7",
@@ -2411,7 +2411,7 @@
     }],
     "actors": [{
       "name": "Matthew Broderick",
-      "image": "https://m.media-amazon.com/images/M/MV5BZDg5NGM3YTMtYjNjZS00MmQyLTk1YjItN2Y5YTkwOThmOGU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "image": "./actors/MatthewBroderick.jpg",
       "imdb": "https://www.imdb.com/name/nm0000111/"
     }, {
       "name": "Ally Sheedy",
