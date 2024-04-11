@@ -324,7 +324,7 @@
   }],
   "actors": [{
     "name": "Marlon Brando",
-    "image": "https://images.squarespace-cdn.com/content/v1/57c92580c534a5c7c898f469/1597309465801-Z44WETO7XAYOOV2XBYF1/ReviewBrandoStreetcar.jpg",
+    "image": "./actors/MarlonBrando.jpg",
     "imdb": "https://www.imdb.com/name/nm0000008/"
   }, {
     "name": "Al Pacino",
@@ -341,7 +341,7 @@
   }
   ],
   "link": "https://www.paramountplus.com/movies/video/d1xdkOt5uh339gZVfKlF_o6Y65b_yAeD/",
-  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/03/28/2017199171638/GF1_StandAlone_16.9_1920x1080_R_1265516_1920x1080.jpg"
+  "poster": "./posters/paramount/TheGodfather.jpg"
 },
 
 
