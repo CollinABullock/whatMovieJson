@@ -2541,7 +2541,7 @@
 "year": 2018,
 "runtime": 90,
 "mpaa": "Not Rated",
-"poster": "https://img4.hulu.com/user/v3/artwork/bd0b22d2-7438-40a5-88a8-80d2fe44ffb6?base_image_bucket_name=image_manager&base_image=a3a2e1c1-13c1-4670-9983-2355eb68e74d&size=600x338&format=jpeg",
+"poster": "./posters/hulu/Terminal.jpeg",
 "description": "In 'Terminal', two hitmen, a dying teacher, a janitor, and a waitress all have their lives intertwine in a twisted tale of love, revenge, and redemption set in a mysterious and surreal city.",
 "genre": ["thriller", "drama", "crime"],
 "link": "https://www.hulu.com/movie/terminal-bd0b22d2-7438-40a5-88a8-80d2fe44ffb6",
@@ -2555,7 +2555,7 @@
 "actors": [
   {
     "name": "Margot Robbie",
-    "image": "https://media.npr.org/assets/img/2015/03/02/margotrobbie-eb727edf7b18cbe8b755d8372cf271d4f4d6e3a7-s1100-c50.jpg",
+    "image": "./actors/MargotRobbie.jpg",
     "imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st"
   },
   {
@@ -3005,7 +3005,7 @@
   "image": "https://m.media-amazon.com/images/M/MV5BMWRkMDE5MjUtN2MyYi00MzAyLWIwOWMtNWU0NzNkZDczOWUyXkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_QL75_UX500_CR0,0,500,281_.jpg"
 }, {
   "name": "Margot Robbie",
-  "image": "https://media.npr.org/assets/img/2015/03/02/margotrobbie-eb727edf7b18cbe8b755d8372cf271d4f4d6e3a7-s1100-c50.jpg",
+  "image": "./actors/MargotRobbie.jpg",
   "imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st"
 }, {
   "name": "Emile Hirsch",

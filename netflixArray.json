@@ -2018,7 +2018,7 @@
 		"year": 2021,
 		"runtime": 132,
 		"mpaa": "R",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABU63O7mS5nRBhNeTpNlMkF_P8fndo7eQ6r2tB4bZoGxOJ5ZjJcH4U6J5g_7KjdsO4oBdDW4YNJ8BmytpXppd8HSpqfvc4mYhog8.jpg?r=48a",
+		"poster": "./posters/netflix/TheSuicideSquad.jpg",
 		"description": "A dysfunctional squad of supervillains infiltrates a remote island on a mission to destroy a secret government experiment.",
 		"genre": [
 			"action",
@@ -2036,7 +2036,7 @@
 		"actors": [
 			{
 				"name": "Margot Robbie",
-				"image": "https://media.npr.org/assets/img/2015/03/02/margotrobbie-eb727edf7b18cbe8b755d8372cf271d4f4d6e3a7-s1100-c50.jpg",
+				"image": "./actors/MargotRobbie.jpg",
 				"imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st"
 			},
 			{
