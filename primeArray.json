@@ -2627,11 +2627,11 @@
       "imdb": "https://www.imdb.com/name/nm0000071/"
   }, {
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/0OFMHUTOA69RRO4C5GDWLUTKFH/ref=atv_dl_rdr?tag=justus1ktp-20",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/39f7bc9d2d8466532ff620e7b5fa04f1e820d731f6939d65d91c5acb0b22f710.jpg"
+  "poster": "./posters/prime/TheManWhoShotLibertyValance.jpg"
 }
 ,
 
@@ -2650,7 +2650,7 @@
   }],
   "actors": [{
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
     "name": "Claire Trevor",
@@ -2658,7 +2658,7 @@
     "imdb": "https://www.imdb.com/name/nm0001802/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/0PQGLAHH6XDJVS4KP1422RINL2/ref=atv_dl_rdr?tag=justus1ktp-20",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/de97f22db18b97988fb90a25864f780bca5e574d42b4440a4cb281714f697a7f.jpg"
+  "poster": "./posters/max/Stagecoach.avif"
 }
 ,
 
@@ -2704,7 +2704,7 @@
   }],
   "actors": [{
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
     "name": "Lucile Browne",
@@ -2716,7 +2716,7 @@
     "imdb": "https://www.imdb.com/name/nm0557054/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/0TN23Y3PX0ECRG642JDVLHJ6ZY/ref=atv_dl_rdr?tag=justus1ktp-20",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/49f6b6a1292b944d7df4deb1667a5044145ab5bc9b1ae3367cd44acb10ff3ef2.jpg"
+  "poster": "./posters/prime/TexasTerror.jpg"
 }
 ,
 
@@ -2735,7 +2735,7 @@
   }],
   "actors": [{
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
     "name": "Maureen O'Hara",
@@ -2747,7 +2747,7 @@
     "imdb": "https://www.imdb.com/name/nm0915593/"
   }],
   "link": "https://www.amazon.com/McLintock-John-Wayne/dp/B004WPJHD0",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/bacebc0e9a08d09c61cc317ff9500358c0207576dfe8e160f4d27b3f85b1fbd0._UR1920,1080_SX720_FMjpg_.jpg"
+  "poster": "./posters/prime/Mclintock.jpg"
 }
 ,
 
@@ -2796,7 +2796,7 @@
   }],
   "actors": [{
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
     "name": "Sophia Loren",
@@ -2808,7 +2808,7 @@
     "imdb": "https://www.imdb.com/name/nm0106831/"
   }],
   "link": "https://www.amazon.com/Legend-Lost-John-Wayne/dp/B07JDXGR8N",
-  "poster": "https://m.media-amazon.com/images/S/pv-target-images/4f4fb11559804a30a4bdfcab670adfac267a9dbd0c76b41da5af3a79e0357a40._SX1080_FMjpg_.jpg"
+  "poster": "./posters/prime/LegendOfTheLost.jpg"
 }
 ,
 

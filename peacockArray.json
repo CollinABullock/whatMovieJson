@@ -886,12 +886,12 @@
       "imdb": "https://www.imdb.com/name/nm0791982/"
     }, {
       "name": "John Wayne",
-      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+      "image": "./actors/JohnWayne.avif",
       "imdb": "https://www.imdb.com/name/nm0000078/"
     }],
     "actors": [{
       "name": "John Wayne",
-      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+      "image": "./actors/JohnWayne.avif",
       "imdb": "https://www.imdb.com/name/nm0000078/"
     }, {
       "name": "Richard Boone",
@@ -903,7 +903,7 @@
       "imdb": "https://www.imdb.com/name/nm0915593/"
     }],
     "link": "https://www.peacocktv.com/watch-online/movies/big-jake/349f6374-0111-31ec-bbe9-52de1e654bc4",
-    "poster": "https://imageservice.disco.peacocktv.com/uuid/e99a5a27-8a03-3341-aeb1-24f92e506889/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=8fddaae0-8717-3982-81e9-f59cf894914d"
+    "poster": "./posters/peacock/BigJake.jpeg"
   }
   ,
 

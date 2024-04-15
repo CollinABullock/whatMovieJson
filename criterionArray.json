@@ -841,7 +841,7 @@
   }],
   "actors": [{
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
     "name": "Claire Trevor",
@@ -849,7 +849,7 @@
     "imdb": "https://www.imdb.com/name/nm0001802/"
   }],
   "link": "https://www.criterionchannel.com/stagecoach",
-  "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/09bd2b95-fcae-4df3-b46b-b152df83bca8-874ef0c6.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280"
+  "poster": "./posters/criterion/Stagecoach.avif"
 }
 ,
 

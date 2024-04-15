@@ -839,7 +839,7 @@
     }],
     "actors": [{
       "name": "John Wayne",
-      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+      "image": "./actors/JohnWayne.avif",
       "imdb": "https://www.imdb.com/name/nm0000078/"
     }, {
       "name": "Claire Trevor",
@@ -847,7 +847,7 @@
       "imdb": "https://www.imdb.com/name/nm0001802/"
     }],
     "link": "https://tubitv.com/movies/499716/stagecoach",
-    "poster": "https://canvas-bridge.tubitv.com/SW2DQUBC4M7Ca3p1CjbrM7AiDX8=/1920x1080/smart/img.adrise.tv/95e930c8-78a0-4d5b-b432-aaed490ab301.jpg"
+    "poster": "./posters/max/Stagecoach.avif"
   }
   ,
 
@@ -866,11 +866,11 @@
     }],
     "actors": [{
       "name": "John Wayne",
-      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+      "image": "./actors/JohnWayne.avif",
       "imdb": "https://www.imdb.com/name/nm0000078/"
     }, {
       "name": "Montgomery Clift",
-      "image": "https://lh3.googleusercontent.com/proxy/r_immXHQWRj3xv6uLLY1geFSjd2iFXuoNKh_1dbogblBoWEv3ikdHbf5ygzkJ1UeW6Lw9EWBfCGlBNXAZMCukAXGNHPGKeisVyoLocAObqvbe3cQmW2ckyb4er5tWUkHKe8XoBdrWCH2czI8-SlJiWpNQQ",
+      "image": "./actors/MontgomeryClift.jpg",
       "imdb": "https://www.imdb.com/name/nm0001050/"
     }, {
       "name": "Joanne Dru",
@@ -878,7 +878,7 @@
       "imdb": "https://www.imdb.com/name/nm0239606/"
     }],
     "link": "https://tubitv.com/movies/514356/red-river-colorized",
-    "poster": "https://canvas-bridge02.tubitv.com/5w_n78PCsPXluqRho1Az0lz3Dug=/0x0:1920x1066/448x252/smart/img.adrise.tv/24165592-3237-403e-b908-9047404ab291.jpg"
+    "poster": "./posters/tubi/RedRiver.webp"
   }
 ,  
 
@@ -897,7 +897,7 @@
   }],
   "actors": [{
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
     "name": "Maureen O'Hara",
@@ -998,7 +998,7 @@
   }],
   "actors": [{
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
     "name": "Gail Russell",
@@ -1010,7 +1010,7 @@
     "imdb": "https://www.imdb.com/name/nm0001984/"
   }],
   "link": "https://tubitv.com/movies/229875/angel-and-the-badman",
-  "poster": "https://i.ytimg.com/vi/zfcy57guJuI/maxresdefault.jpg"
+  "poster": "./posters/tubi/AngelAndTheBadman.jpg"
 }
 ,
 
@@ -1029,7 +1029,7 @@
   }],
   "actors": [{
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
     "name": "Sophia Loren",
@@ -1041,7 +1041,7 @@
     "imdb": "https://www.imdb.com/name/nm0106831/"
   }],
   "link": "https://tubitv.com/movies/302700/legend-of-the-lost",
-  "poster": "https://canvas-bridge.tubitv.com/XimjcONguJoaYVG4trepCW9I5IM=/33x156:904x640/448x252/smart/img.adrise.tv/f1504ce8-70e4-4524-885c-17243fbfcdc2.jpg"
+  "poster": "./posters/prime/LegendOfTheLost.jpg"
 }
 ,
 

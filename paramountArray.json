@@ -119,7 +119,7 @@
   "genre": ["western", "classic"],
   "director": [{
     "name": "John Ford",
-    "image": "https://www.knowledge.ca/sites/default/files/Programs/John%20Ford%3A%20The%20Man%20Who%20Invented%20America/John%20Ford%20The%20Man%20Who%20Invented%20America.jpg",
+    "image": "./directors/JohnFord.jpg",
     "imdb": "https://www.imdb.com/name/nm0000406/"
   }],
   "actors": [{
@@ -128,11 +128,11 @@
       "imdb": "https://www.imdb.com/name/nm0000071/"
   }, {
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }],
   "link": "https://www.paramountplus.com/movies/video/YvRGJONHCSR9EiODT0f5NIgjoK_iQXmh/",
-  "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2020/04/29/1731506243603/LIBV_SAlone_16_9_1920x1080_1814641_1920x1080.jpg"
+  "poster": "./posters/prime/TheManWhoShotLibertyValance.jpg"
 }
 ,
 
@@ -151,7 +151,7 @@
   }],
   "actors": [{
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+   "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
     "name": "Glen Campbell",
@@ -163,7 +163,7 @@
     "imdb": "https://www.imdb.com/name/nm0201315/"
   }],
   "link": "https://www.paramountplus.com/movies/video/Fsqg6JjgtUG2DC938wgMs1c2GSDyZDGC/?searchReferral=publisher&source=search-feeds&cbsclick=VNoQc5QboxyPUmZSnhzHCxQlUkHUWlU3IzOv3k0&vndid=1206980&clickid=1206980&sharedid=&ftag=PPM-09-10aag1f&dclid=CODe2u-JhoUDFbvSTwIdD_8JOQ",
-  "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2021/10/13/1961557059974/TGRIT_SAlone_16_9_1920x1080_922525_1920x1080.jpg"
+  "poster": "./posters/paramount/TrueGrit.jpg"
 }
 ,
 
@@ -212,12 +212,12 @@
     "imdb": "https://www.imdb.com/name/nm0791982/"
   }, {
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }],
   "actors": [{
     "name": "John Wayne",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/john-wayne-the-searchers-best-30-seconds.jpg",
+    "image": "./actors/JohnWayne.avif",
     "imdb": "https://www.imdb.com/name/nm0000078/"
   }, {
     "name": "Richard Boone",
@@ -229,7 +229,7 @@
     "imdb": "https://www.imdb.com/name/nm0915593/"
   }],
   "link": "https://www.paramountplus.com/movies/video/kG6pDTuDGaCS0q3t4HMMXvhzKdz8o7uH/",
-  "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2023/01/17/2162153027840/BIGJ_SAlone_16_9_1920x1080_NB_1890413_1920x1080.jpg"
+  "poster": "./posters/peacock/BigJake.jpeg"
 }
 ,
 
