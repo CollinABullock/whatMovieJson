@@ -2120,7 +2120,7 @@
       "year": 1986,
       "runtime": 138,
       "mpaa": "R",
-      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/cc2c1671-ee46-4686-b81e-af59607182a2/980cc3b5d515a63961aeae384c2c2ef311b48365.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "poster": "./posters/max/Aliens.jpeg",
       "description": "After floating in space for 57 years, Lt. Ripley's (Sigourney Weaver) shuttle is found by a deep space salvage team. Upon arriving at LV-426, the marines find only one survivor, a nine year old girl named Newt (Carrie Henn). But even these battle-hardened marines with all the latest weaponry are no match for the hundreds of aliens that have invaded the colony.",
 	"genre": ["science-fiction", "action", "sequel"],
     "link": "https://play.max.com/video/watch/e1adbefc-54e4-4c3d-bf2c-525a4d397f19/5e2dabd8-0ba8-4962-a4c7-54dbd1c5cf8f",
@@ -2135,7 +2135,7 @@
       "imdb": "https://www.imdb.com/name/nm0000244/"
     }, {
       "name": "Michael Biehn",
-      "image": "https://media.wplm.pl/thumbs/931/OTYwL3VfMS9jY19kYzYwYy9wL3duYXMvcGhvdG8vMjAxNS0wMy82NDkvMzg4L3Nmc2RmLmpwZw==.jpg",
+      "image": "./actors/MichaelBiehn.jpg",
       "imdb": "https://www.imdb.com/name/nm0000299/"
     }, {
       "name": "Paul Reiser",

@@ -93,7 +93,7 @@
       "imdb": "https://www.imdb.com/name/nm0001512/"
     }, {
       "name": "Michael Biehn",
-      "image": "https://m.media-amazon.com/images/M/MV5BMzIxZTU5YjYtM2NmNy00M2JkLTg1NTEtMjk3MDEwYzcxNjZjXkEyXkFqcGdeQXVyMjQ3MzgyNzE@._V1_.jpg",
+      "image": "./actors/MichaelBiehn.jpg",
       "imdb": "https://www.imdb.com/name/nm0000290/"
     }]
   },
