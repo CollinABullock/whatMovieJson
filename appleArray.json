@@ -54,7 +54,7 @@
       },
       {
         "name": "Michael Caine",
-        "image": "https://c.files.bbci.co.uk/7D51/production/_87918023_michael_caine_youth_ap.jpg",
+        "image": "./actors/MichaelCaine.jpg",
         "imdb": "https://www.imdb.com/name/nm0000323/"
       },
       {
