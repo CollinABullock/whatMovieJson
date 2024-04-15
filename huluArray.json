@@ -1591,7 +1591,7 @@
 "year": 1998,
 "runtime": 139,
 "mpaa": "PG-13",
-"poster": "https://img4.hulu.com/user/v3/artwork/615329cc-b789-450a-b70d-6e155e4d8f87?base_image_bucket_name=image_manager&base_image=e397fec1-42f6-40c5-b2f4-2861840281b1&size=600x338&format=jpeg",
+"poster": "./posters/hulu/Godzilla.jpeg",
 "description": "'Godzilla' is a science fiction monster film directed by Roland Emmerich. The movie follows the story of a giant mutated lizard, Godzilla, which wreaks havoc on New York City. As the military and scientists race to stop the creature, they uncover a conspiracy involving nuclear testing and a secret government organization. With the city in chaos and millions of lives at stake, a group of unlikely heroes must come together to save humanity from destruction. 'Godzilla' is a thrilling and action-packed film that reinvents the iconic monster for a new generation.",
 "genre": ["action", "science-fiction", "thriller", "disaster"],
 "link": "https://www.hulu.com/movie/godzilla-615329cc-b789-450a-b70d-6e155e4d8f87",
@@ -1605,7 +1605,7 @@
 "actors": [
   {
     "name": "Matthew Broderick",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDg5NGM3YTMtYjNjZS00MmQyLTk1YjItN2Y5YTkwOThmOGU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "image": "./actors/MatthewBroderick.jpg",
     "imdb": "https://www.imdb.com/name/nm0000111/"
   },
   {
@@ -1871,7 +1871,7 @@
 "actors": [
   {
     "name": "Matt Damon",
-    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9LHOr-9heRREg1kcbUk3wpeADWC2F80UMqnx-F7mB1Oda9wWf",
+    "image": "./actors/MattDamon.jpeg",
     "imdb": "https://www.imdb.com/name/nm0000354/"
   },
   {
@@ -2541,7 +2541,7 @@
 "year": 2018,
 "runtime": 90,
 "mpaa": "Not Rated",
-"poster": "https://img4.hulu.com/user/v3/artwork/bd0b22d2-7438-40a5-88a8-80d2fe44ffb6?base_image_bucket_name=image_manager&base_image=a3a2e1c1-13c1-4670-9983-2355eb68e74d&size=600x338&format=jpeg",
+"poster": "./posters/hulu/Terminal.jpeg",
 "description": "In 'Terminal', two hitmen, a dying teacher, a janitor, and a waitress all have their lives intertwine in a twisted tale of love, revenge, and redemption set in a mysterious and surreal city.",
 "genre": ["thriller", "drama", "crime"],
 "link": "https://www.hulu.com/movie/terminal-bd0b22d2-7438-40a5-88a8-80d2fe44ffb6",
@@ -2555,7 +2555,7 @@
 "actors": [
   {
     "name": "Margot Robbie",
-    "image": "https://media.npr.org/assets/img/2015/03/02/margotrobbie-eb727edf7b18cbe8b755d8372cf271d4f4d6e3a7-s1100-c50.jpg",
+    "image": "./actors/MargotRobbie.jpg",
     "imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st"
   },
   {
@@ -3005,7 +3005,7 @@
   "image": "https://m.media-amazon.com/images/M/MV5BMWRkMDE5MjUtN2MyYi00MzAyLWIwOWMtNWU0NzNkZDczOWUyXkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_QL75_UX500_CR0,0,500,281_.jpg"
 }, {
   "name": "Margot Robbie",
-  "image": "https://media.npr.org/assets/img/2015/03/02/margotrobbie-eb727edf7b18cbe8b755d8372cf271d4f4d6e3a7-s1100-c50.jpg",
+  "image": "./actors/MargotRobbie.jpg",
   "imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st"
 }, {
   "name": "Emile Hirsch",

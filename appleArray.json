@@ -486,7 +486,7 @@
     {
       "name": "Matt Damon",
       "IMDB": "https://www.imdb.com/name/nm0000354/",
-      "image": "https://variety.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-12-at-9.20.16-AM.png"
+      "image": "./actors/MattDamon.jpeg"
     },
     {
       "name": "Tom Sizemore",
