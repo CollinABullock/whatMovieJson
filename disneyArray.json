@@ -525,7 +525,7 @@
   }],
   "actors": [{
     "name": "Liam Neeson",
-    "image": "https://images.english.elpais.com/resizer/xiJ-fiMJmWOpSCF9Y50rxzZjd2w=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/Y7EHVAV26ZGIRPGP2L45SFUDJI.jpg",
+    "image": "./actors/LiamNeeson.jpg",
     "imdb": "https://www.imdb.com/name/nm0000553/"
   }, {
     "name": "Ewan McGregor",

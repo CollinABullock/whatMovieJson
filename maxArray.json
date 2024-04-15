@@ -1858,7 +1858,7 @@
       "imdb": "https://www.imdb.com/name/nm0000288/"
     }, {
       "name": "Liam Neeson",
-      "image": "https://cdn01.justjared.com/wp-content/uploads/headlines/2008/05/liam-neeson-pees-in-his-pants.jpg",
+      "image": "./actors/LiamNeeson.jpg",
       "imdb": "https://www.imdb.com/name/nm0000553/?ref_=fn_al_nm_1"
     }, {
       "name": "Katie Holmes",
