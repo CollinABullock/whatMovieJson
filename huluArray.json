@@ -2364,7 +2364,7 @@
 "year": 2022,
 "runtime": 92,
 "mpaa": "R",
-"poster": "https://img.hulu.com/user/v3/artwork/542a32ed-7b3b-4aad-92e0-645e768a9073?base_image_bucket_name=image_manager&base_image=8fe434cc-eed4-47ff-9fbf-5858d2d9ef2a&size=600x338&format=jpeg",
+"poster": "./posters/hulu/Pig.jpeg",
 "description": "In 'Pig', a truffle hunter who lives alone in the Oregonian wilderness is forced to return to his past in Portland in search of his beloved foraging pig after she is kidnapped. As he navigates through the city's underbelly, he confronts his own history and discovers unexpected connections in the culinary world.",
 "genre": ["drama", "thriller"],
 "link": "https://www.hulu.com/movie/pig-542a32ed-7b3b-4aad-92e0-645e768a9073",
@@ -2378,7 +2378,7 @@
 "actors": [
   {
     "name": "Nicolas Cage",
-    "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+    "image": "./actors/NicolasCage.webp",
     "imdb": "https://www.imdb.com/name/nm0000115/"
   },
   {
@@ -3527,7 +3527,7 @@
   "actors": [
     {
       "name": "Nicolas Cage",
-      "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+      "image": "./actors/NicolasCage.webp",
       "imdb": "https://www.imdb.com/name/nm0000115/"
     },
     {
@@ -3546,7 +3546,7 @@
       "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_30/2513496/180729-ving-rhames-se-218p.jpg"
     }
   ],
-  "poster": "https://img.hulu.com/user/v3/artwork/a621b946-a117-482f-a792-d76aa1f75369?base_image_bucket_name=image_manager&base_image=49cb3347-afa6-4a1e-a165-c325cc1ad015&size=600x338&format=jpeg",
+  "poster": "./posters/hulu/ConAir.jpeg",
   "link": "https://www.hulu.com/movie/con-air-a621b946-a117-482f-a792-d76aa1f75369"
 }
 ,

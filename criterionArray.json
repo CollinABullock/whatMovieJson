@@ -1049,7 +1049,7 @@
     "actors": [{
       "name": "Nicolas Cage",
       "imdb": "https://www.imdb.com/name/nm0000115/",
-      "image": "https://deadline.com/wp-content/uploads/2023/11/nicolas-cage.jpg"
+      "image": "./actors/NicolasCage.webp"
     }, {
       "name": "Ellen Burstyn",
       "imdb": "https://www.imdb.com/name/nm0000995/",
@@ -1060,7 +1060,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMTgzNDY4NDkyN15BMl5BanBnXkFtZTcwOTUyNDEzOA@@._V1_.jpg"
     }],
     "link": "https://www.criterionchannel.com/and-the-razzie-goes-to/season:1/videos/the-wicker-man-1",
-    "poster": "https://vhx.imgix.net/criterionchannelchartersu/assets/e963c575-a750-4579-96ce-0cd34c76b31c.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+    "poster": "./posters/criterion/TheWickerMan.avif"
   }
 ,
 

@@ -1212,7 +1212,7 @@
     "actors": [
       {
         "name": "Nicolas Cage",
-        "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+        "image": "./actors/NicolasCage.webp",
         "imdb": "https://www.imdb.com/name/nm0000115/"
       },
       {
@@ -1231,7 +1231,7 @@
         "image": "https://www.looper.com/img/gallery/every-john-goodman-movie-ranked-worst-to-best/l-intro-1647342082.jpg"
       }
     ],
-    "poster": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2021/07/27/1926438467801/RA_SAlone_16_9_1920x1080_2556403_1920x1080.jpg",
+    "poster": "./posters/paramount/RaisingArizona.jpg",
     "link": "https://www.paramountplus.com/movies/video/yIgYzIkunrBmLtm97bB6Un1aec_RB5FG/"
   },
   {

@@ -180,7 +180,7 @@
     "year": 2010,
     "runtime": 117,
     "mpaa": "R",
-    "poster": "https://imageservice.disco.peacocktv.com/uuid/b8700949-f8da-37ff-bc59-5f70678e68ea/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=47ff2ddc-b9ff-39ca-afd8-19456cbee91d",
+    "poster": "./posters/peacock/Kickss.jpg",
     "description": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.",
     "genre": ["action", "comedy", "comic-book"],
     "link": "https://www.peacocktv.com/watch-online/movies/action-and-adventure/kick-ass/56c20b1c-2447-3777-a737-722f262d48f3",
@@ -199,7 +199,7 @@
       "imdb": "https://www.imdb.com/name/nm1631269/"
     }, {
       "name": "Nicolas Cage",
-      "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+      "image": "./actors/NicolasCage.webp",
       "imdb": "https://www.imdb.com/name/nm0000115/"
     }, {
       "name": "Christopher Mintz-Plasse",
@@ -281,7 +281,7 @@
     "runtime": 95,
     "mpaa": "PG-13",
     "year": 2011,
-    "poster": "https://inconsistentpacing.files.wordpress.com/2018/06/season-of-the-witch.jpg?w=656",
+    "poster": "./posters/peacock/SeasonOfTheWitch.jpg",
     "description": "A knight and his friend are tasked with transporting a suspected witch to a monastery, where monks will perform a ritual to rid her of her supposed powers.",
     "genre": ["action", "adventure", "fantasy"],
     "link": "https://www.peacocktv.com/watch-online/movies/season-of-the-witch/9671be41-ee42-3cda-915a-7000426940a5",
@@ -292,7 +292,7 @@
     }],
     "actors": [{
       "name": "Nicolas Cage",
-        "image": "https://variety.com/wp-content/uploads/2023/03/Nicolas-Cage-Variety-Award-092.jpg?w=1000&h=563&crop=1",
+        "image": "./actors/NicolasCage.webp",
         "imdb": "https://www.imdb.com/name/nm0000115/"
     }, {
       "name": "Ron Perlman",
