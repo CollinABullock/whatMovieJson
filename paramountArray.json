@@ -495,7 +495,7 @@
   }],
   "actors": [{
     "name": "Robert De Niro",
-    "image": "./public/actors/RobertDeNiro.jpg",
+    "image": "./actors/RobertDeNiro.jpg",
     "imdb": "https://www.imdb.com/name/nm0000134/"
   }, {
     "name": "James Woods",
@@ -534,7 +534,7 @@
     "image": "https://cdn.vox-cdn.com/thumbor/TWDaAKSwMBrgOKypdLAATDTkY1o=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22004071/GettyImages_830373568.jpg"
   }, {
     "name": "Robert De Niro",
-    "image": "./public/actors/RobertDeNiro.jpg",
+    "image": "./actors/RobertDeNiro.jpg",
     "imdb": "https://www.imdb.com/name/nm0000134/"
   }],
   "link": "https://www.paramountplus.com/movies/video/0tnMAzwCVxRVBmd3DwW2T_dIgpjNa697/",
@@ -664,7 +664,7 @@
     "imdb": "https://www.imdb.com/name/nm0000199/"
   }, {
     "name": "Robert De Niro",
-    "image": "./public/actors/RobertDeNiro.jpg",
+    "image": "./actors/RobertDeNiro.jpg",
     "imdb": "https://www.imdb.com/name/nm0000134/"
   }, {
     "name": "Robert Duvall",

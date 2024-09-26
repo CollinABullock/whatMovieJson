@@ -530,9 +530,9 @@
         "image": "https://hips.hearstapps.com/hmg-prod/images/actress-lily-gladstone-poses-during-a-photocall-for-the-news-photo-1684863396.jpg"
       },
       {
-        "name": "Robert DeNiro",
+        "name": "Robert De Niro",
         "IMDB": "https://www.imdb.com/name/nm0000134/",
-        "image": "./public/actors/RobertDeNiro.jpg"
+        "image": "./actors/RobertDeNiro.jpg"
       }
     ],
     "poster": "https://static1.squarespace.com/static/63bb3e8a824d7e2f7eedf0d3/64ac424fcaadf8324a193593/653ec38d3e3d58545b152f82/1698621694148/Killers%2Bof%2Bthe%2BFlower%2BMoon%2BHorizontal%2B.jpg?format=1500w",

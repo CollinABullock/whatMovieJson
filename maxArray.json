@@ -225,7 +225,7 @@
     "actors": [
       {
         "name": "Robert De Niro",
-        "image": "./public/actors/RobertDeNiro.jpg",
+        "image": "./actors/RobertDeNiro.jpg",
         "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
       },
       {
@@ -400,7 +400,7 @@
     "actors": [
       {
         "name": "Robert De Niro",
-        "image": "./public/actors/RobertDeNiro.jpg",
+        "image": "./actors/RobertDeNiro.jpg",
         "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
       },
       {
@@ -448,7 +448,7 @@
       },
       {
         "name": "Robert De Niro",
-        "image": "./public/actors/RobertDeNiro.jpg",
+        "image": "./actors/RobertDeNiro.jpg",
         "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
       }
     ],
@@ -2500,7 +2500,7 @@
     "director": [
       {
         "name": "Lilly Wachowski",
-        "image": "https://ew.com/thmb/XKP6hUBkzcnuJmw84_NJFo-P3EA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1159247758-7eae793ac33a432b909dfa5633eb5583.jpg",
+        "image": "./directors/LillyWachowski.jpg",
         "imdb": "https://www.imdb.com/name/nm0905154/"
       },
       {
@@ -5057,7 +5057,7 @@
     "actors": [
       {
         "name": "Robert DeNiro",
-        "image": "./public/actors/RobertDeNiro.jpg",
+        "image": "./actors/RobertDeNiro.jpg",
         "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
       },
       {

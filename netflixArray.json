@@ -1406,7 +1406,7 @@
 		"actors": [
 			{
 				"name": "Robert De Niro",
-				"image": "./public/actors/RobertDeNiro.jpg",
+				"image": "./actors/RobertDeNiro.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
 			},
 			{
@@ -2800,7 +2800,7 @@
 			},
 			{
 				"name": "Robert De Niro",
-				"image": "./public/actors/RobertDeNiro.jpg",
+				"image": "./actors/RobertDeNiro.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
 			},
 			{
@@ -3051,7 +3051,7 @@
 		"actors": [
 			{
 				"name": "Robert De Niro",
-				"image": "./public/actors/RobertDeNiro.jpg",
+				"image": "./actors/RobertDeNiro.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
 			},
 			{
@@ -4225,7 +4225,7 @@
 			},
 			{
 				"name": "Robert De Niro",
-				"image": "./public/actors/RobertDeNiro.jpg",
+				"image": "./actors/RobertDeNiro.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
 			},
 			{
@@ -4262,7 +4262,7 @@
 			},
 			{
 				"name": "Robert De Niro",
-				"image": "./public/actors/RobertDeNiro.jpg",
+				"image": "./actors/RobertDeNiro.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
 			},
 			{
@@ -4786,7 +4786,7 @@
 			"imdb": "https://www.imdb.com/name/nm2225369/?ref_=tt_ov_st"
 		}, {
 			"name": "Robert De Niro",
-				"image": "./public/actors/RobertDeNiro.jpg",
+				"image": "./actors/RobertDeNiro.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
 		}, {
 			"name": "Jacki Weaver",
@@ -4807,7 +4807,7 @@
 		"genre": ["drama", "thriller"],
 		"director": [{
 			"name": "Robert De Niro",
-				"image": "./public/actors/RobertDeNiro.jpg",
+				"image": "./actors/RobertDeNiro.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
 		}],
 		"actors": [{

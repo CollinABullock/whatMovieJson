@@ -1369,7 +1369,7 @@
     "actors": [
       {
         "name": "Robert De Niro",
-        "image": "./public/actors/RobertDeniro.jpg",
+        "image": "./actors/RobertDeNiro.jpg",
         "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
       },
       {

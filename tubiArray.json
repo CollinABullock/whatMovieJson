@@ -1701,7 +1701,7 @@
   }],
   "actors": [{
     "name": "Robert De Niro",
-    "image": "./public/actors/RobertDeNiro.jpg",
+    "image": "./actors/RobertDeNiro.jpg",
     "imdb": "https://www.imdb.com/name/nm0000134/"
   }, {
     "name": "Philip Seymour Hoffman",
