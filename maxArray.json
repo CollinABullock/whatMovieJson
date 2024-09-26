@@ -2512,7 +2512,7 @@
     "actors": [
       {
         "name": "Keanu Reeves",
-        "image": "public/actors/KeanuReeves.webp",
+        "image": "./public/actors/KeanuReeves.webp",
         "imdb": "https://www.imdb.com/name/nm0000206/"
       },
       {
@@ -2555,7 +2555,7 @@
     "actors": [
       {
         "name": "Keanu Reeves",
-        "image": "public/actors/KeanuReeves.webp",
+        "image": "./public/actors/KeanuReeves.webp",
         "imdb": "https://www.imdb.com/name/nm0000206/"
       },
       {
@@ -2599,7 +2599,7 @@
     "actors": [
       {
         "name": "Keanu Reeves",
-        "image": "public/actors/KeanuReeves.webp",
+        "image": "./public/actors/KeanuReeves.webp",
         "imdb": "https://www.imdb.com/name/nm0000206/"
       },
       {
@@ -2881,7 +2881,7 @@
     "actors": [
       {
         "name": "Keanu Reeves",
-        "image": "./actors/KeanuReeves.webp",
+        "image": "./public/actors/KeanuReeves.webp",
         "imdb": "https://www.imdb.com/name/nm0000206/"
       },
       {
@@ -5467,7 +5467,7 @@
     "actors": [
       {
         "name": "Keanu Reeves",
-        "image": "public/actors/KeanuReeves.webp",
+        "image": "./public/actors/KeanuReeves.webp",
         "imdb": "https://www.imdb.com/name/nm0000206/"
       },
       {
