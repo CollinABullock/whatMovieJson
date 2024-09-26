@@ -473,7 +473,7 @@
   }],
   "actors": [{
     "name": "Robert De Niro",
-    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "image": "./public/actors/RobertDeNiro.jpg",
     "imdb": "https://www.imdb.com/name/nm0000134/"
   }, {
     "name": "Ray Liotta",
@@ -3830,7 +3830,7 @@
   "actors": [
     {
       "name": "Robert De Niro",
-      "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+      "image": "./public/actors/RobertDeNiro.jpg",
       "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
     },
     {

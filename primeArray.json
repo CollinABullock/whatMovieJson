@@ -999,7 +999,7 @@
     "imdb": "https://www.imdb.com/name/nm0000132/"
     }, {
       "name": "Robert De Niro",
-      "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+      "image": "./public/actors/RobertDeNiro.jpg",
       "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
     }]
   },
@@ -3774,7 +3774,7 @@
     "image": "https://cdn.vox-cdn.com/thumbor/TWDaAKSwMBrgOKypdLAATDTkY1o=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22004071/GettyImages_830373568.jpg"
   }, {
     "name": "Robert De Niro",
-    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "image": "./public/actors/RobertDeNiro.jpg",
     "imdb": "https://www.imdb.com/name/nm0000134/"
   }],
   "link": "https://www.amazon.com/gp/video/detail/0QX2XJLYIX8AKBOGIITPRHSG0E/ref=atv_dl_rdr?tag=justus1ktp-20",
@@ -3797,7 +3797,7 @@
   }],
   "actors": [{
     "name": "Robert De Niro",
-    "image": "https://www.usatoday.com/gcdn/presto/2020/08/17/USAT/7a0449c7-ffa8-450d-b65f-77a920a61757-Robert_De_Niro.JPG",
+    "image": "./public/actors/RobertDeNiro.jpg",
     "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
   }, {
     "name": "Al Pacino",

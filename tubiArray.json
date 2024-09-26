@@ -16,7 +16,7 @@
     }],
     "actors": [{
       "name": "Robert De Niro",
-      "image": "https://people.com/thmb/5m8WUpuC38Opy51dL4fTaz_MaKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/gettyimages-1202357729-c8f22c1ef5db4bfa9ecc67df3bbb5738.jpg",
+      "image": "./public/actors/RobertDeNiro.jpg",
       "imdb": "https://www.imdb.com/name/nm0000134/"
     }, {
       "name": "Harvey Keitel",
@@ -1701,7 +1701,7 @@
   }],
   "actors": [{
     "name": "Robert De Niro",
-    "image": "https://people.com/thmb/5m8WUpuC38Opy51dL4fTaz_MaKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/gettyimages-1202357729-c8f22c1ef5db4bfa9ecc67df3bbb5738.jpg",
+    "image": "./public/actors/RobertDeNiro.jpg",
     "imdb": "https://www.imdb.com/name/nm0000134/"
   }, {
     "name": "Philip Seymour Hoffman",
