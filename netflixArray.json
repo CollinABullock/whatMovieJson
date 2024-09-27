@@ -4890,7 +4890,7 @@
 		"actors": [
 			{
 				"name": "Keanu Reeves",
-				"image": "./actors/KeanuReeves.webp",
+				"image": "./actors/KeanuReeves.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000206/"
 			},
 			{
@@ -4928,7 +4928,7 @@
 		"actors": [
 			{
 				"name": "Keanu Reeves",
-				"image": "./actors/KeanuReeves.webp",
+				"image": "./actors/KeanuReeves.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000206/"
 			},
 			{

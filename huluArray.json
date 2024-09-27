@@ -3197,9 +3197,9 @@
   ],
   "actors": [
     {
-      "name": "Keanu Reeves",
-      "IMDB": "./actors/KeanuReeves.webp",
-      "image": "https://deadline.com/wp-content/uploads/2023/03/Keanu-Reeves-john-wick-4.jpg"
+      "name": "Keanu Reeves", 
+      "IMDB": "https://deadline.com/wp-content/uploads/2023/03/Keanu-Reeves-john-wick-4.jpg",
+      "image": "./actors/KeanuReeves.jpg"
     },
     {
       "name": "Dennis Hopper",
