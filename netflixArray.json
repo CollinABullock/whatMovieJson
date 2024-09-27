@@ -1194,7 +1194,7 @@
 			},
 			{
 				"name": "Choi Min-sik",
-				"image": "https://nextshark.b-cdn.net/wp-content/uploads/2023/02/Choi-Min-sik-Interview.jpg?width=1536&auto_optimize=medium",
+				"image": "./actors/ChoiMinSik.jpg",
 				"imdb": "https://www.imdb.com/name/nm0158856/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_choi%2520min"
 			}
 		]
@@ -3933,7 +3933,7 @@
 		"actors": [
 			{
 				"name": "Choi Min-sik",
-				"image": "https://nextshark.b-cdn.net/wp-content/uploads/2023/02/Choi-Min-sik-Interview.jpg?width=1536&auto_optimize=medium",
+				"image": "./actors/ChoiMinSik.jpg",
 				"imdb": "https://www.imdb.com/name/nm0158856/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_choi%2520min"
 			},
 			{
