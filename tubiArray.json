@@ -971,7 +971,7 @@
     "imdb": "https://www.imdb.com/name/nm0000432/"
   }, {
     "name": "Morgan Freeman",
-    "image": "https://variety.com/wp-content/uploads/2023/01/MF-Headshot-credit-Nigel-Parry-CPi-e1673628944612.jpg",
+    "image": "./actors/MorganFreeman.jpg",
     "imdb": "https://www.imdb.com/name/nm0000151/"
   }, {
     "name": "Richard Harris",

@@ -1417,7 +1417,7 @@
       {
         "name": "Morgan Freeman",
         "IMDB": "https://www.imdb.com/name/nm0000151/",
-        "image": "https://images05.military.com/sites/default/files/styles/full/public/media/veteran-jobs/content-images/2013/09/morganfreeman.jpeg.jpg"
+        "image": "./actors/MorganFreeman.jpg"
       },
       {
         "name": "Anthony Hopkins",

@@ -1189,7 +1189,7 @@
 			},
 			{
 				"name": "Morgan Freeman",
-				"image": "https://mediaproxy.salon.com/width/1200/height/675/https://media2.salon.com/2014/06/morgan_freeman.jpg",
+				"image": "./actors/MorganFreeman.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000151/"
 			},
 			{
@@ -4305,7 +4305,7 @@
 			},
 			{
 				"name": "Morgan Freeman",
-				"image": "https://mediaproxy.salon.com/width/1200/height/675/https://media2.salon.com/2014/06/morgan_freeman.jpg",
+				"image": "./actors/MorganFreeman.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000151/"
 			}
 		]
