@@ -2505,7 +2505,7 @@
       },
       {
         "name": "Lana Wachowski",
-        "image": "./directors/LanaWachowski.webp",
+        "image": "./directors/LanaWachowski.jpg",
         "imdb": "https://www.imdb.com/name/nm0905154/"
       }
     ],
@@ -2592,7 +2592,7 @@
       },
       {
         "name": "Lana Wachowski",
-        "image": "./directors/LanaWachowski.webp",
+        "image": "./directors/LanaWachowski.jpg",
         "imdb": "https://www.imdb.com/name/nm0905154/"
       }
     ],
@@ -2874,7 +2874,7 @@
     "director": [
       {
         "name": "Andrew Davis",
-        "image": "./public/directors/AndrewDavis.jpg",
+        "image": "./directors/AndrewDavis.jpg",
         "imdb": "https://www.imdb.com/name/nm0204654/"
       }
     ],
