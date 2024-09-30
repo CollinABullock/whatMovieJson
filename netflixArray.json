@@ -4158,6 +4158,41 @@
 			}
 		]
 	},
+
+	{    
+  "item": 7321,
+  "year": 2019,
+  "title": "Marriage Story",
+  "runtime": 137,
+  "mpaa": "R",
+  "description": "A poignant exploration of love and divorce, following a couple navigating their relationship as they undergo a coast-to-coast divorce and custody battle, revealing the complexities of marriage and separation.",
+  "genre": ["drama", "romance"],
+  "director": [{
+    "name": "Noah Baumbach",
+    "image": "./directors/NoahBaumbach.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000842/"
+  }],
+  "actors": [{
+    "name": "Adam Driver",
+    "image": "./actors/AdamDriver.jpeg",
+    "imdb": "https://www.imdb.com/name/nm1659221/"
+  }, {
+    "name": "Scarlett Johansson",
+    "image": "./actors/ScarlettJohansson.avif",
+    "imdb": "https://www.imdb.com/name/nm0424060/"
+  }, {
+    "name": "Laura Dern",
+    "image": "./actors/LauraDern.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001110/"
+  }, {
+    "name": "Alan Alda",
+    "image": "./actors/AlanAlda.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000018/"
+  }],
+  "link": "https://www.netflix.com/title/80223779",
+  "poster": "./posters/netflix/MarriageStory.jpg"
+}
+,
 	{
 		"item": "79",
 		"title": "It's Complicated",
