@@ -2930,7 +2930,7 @@
 		"director": [
 			{
 				"name": "Todd Phillips",
-				"image": "https://m.media-amazon.com/images/M/MV5BNGY5MWRjM2MtNDkzNC00MDcwLWE2ZjYtOWNlZmM3MWIyNGZmXkEyXkFqcGdeQXVyMTAxMjM5NTA4._V1_.jpg",
+				"image": "./directors/ToddPhillips.jpg",
 				"imdb": "https://www.imdb.com/name/nm0680846/?ref_=tt_ov_dr"
 			}
 		],
