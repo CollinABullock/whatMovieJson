@@ -1671,6 +1671,42 @@
 		"poster": "./posters/netflix/MagicMike.jpg"
 	}
 ,	
+
+{
+  "item": 7634,
+  "year": 2015,
+  "title": "Magic Mike XXL",
+  "runtime": 115,
+  "mpaa": "R",
+  "description": "Three years after Mike Lane's retirement, he reunites with his former friends for one last road trip to a stripper convention in Myrtle Beach, embracing friendship and the joy of dance.",
+  "genre": ["comedy", "drama", "musical"],
+  "director": [{
+    "name": "Gregory Jacobs",
+    "image": "./directors/GregoryJacobs.jpg",
+    "imdb": "https://www.imdb.com/name/nm0418944/"
+  }],
+  "actors": [{
+    "name": "Channing Tatum",
+    "image": "./actors/ChanningTatum.jpg",
+    "imdb": "https://www.imdb.com/name/nm1471457/"
+  }, {
+    "name": "Matt Bomer",
+    "image": "./actors/MattBomer.jpg",
+    "imdb": "https://www.imdb.com/name/nm1614100/"
+  }, {
+    "name": "Joe Manganiello",
+    "image": "./actors/JoeManganiello.jpg",
+    "imdb": "https://www.imdb.com/name/nm1461554/"
+  }, {
+    "name": "Jada Pinkett Smith",
+    "image": "./actors/JadaPinkettSmith.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000605/"
+  }],
+  "link": "https://www.netflix.com/title/80031499",
+  "poster": "./posters/netflix/MagicMikeXXL.jpg"
+}
+,
+
 	{
 		"item": "18",
 		"title": "Black Adam",
