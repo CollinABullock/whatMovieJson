@@ -626,6 +626,41 @@
 }
 ,
 
+{
+  "item": 3847,
+  "year": 2013,
+  "title": "Side Effects",
+  "runtime": 106,
+  "mpaa": "R",
+  "description": "A woman's life unravels after she starts taking a new medication prescribed by her psychiatrist, leading to unforeseen consequences and a murder investigation.",
+  "genre": ["thriller", "drama"],
+  "director": [{
+    "name": "Steven Soderbergh",
+    "image": "./directors/StevenSoderbergh.webp",
+    "imdb": "https://www.imdb.com/name/nm0000600/"
+  }],
+  "actors": [{
+    "name": "Rooney Mara",
+    "image": "./actors/RooneyMara.jpg",
+    "imdb": "https://www.imdb.com/name/nm1911346/"
+  }, {
+    "name": "Channing Tatum",
+    "image": "./actors/ChanningTatum.jpg",
+    "imdb": "https://www.imdb.com/name/nm1471457/"
+  }, {
+    "name": "Jude Law",
+    "image": "./actors/JudeLaw.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000198/"
+  }, {
+    "name": "Catherine Zeta-Jones",
+    "image": "./actors/CatherineZetaJones.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000601/"
+  }],
+  "link": "https://tubitv.com/movies/100019848/side-effects",
+  "poster": "./posters/tubi/SideEffects.jpg"
+}
+,
+
 {    
   "item": 9876,
   "year": 1999,
