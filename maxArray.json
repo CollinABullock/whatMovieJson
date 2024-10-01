@@ -4950,6 +4950,42 @@
       }
     ]
   },
+
+  {
+    "item": 4732,
+    "year": 2010,
+    "title": "Wall Street: Money Never Sleeps",
+    "runtime": 133,
+    "mpaa": "PG-13",
+    "description": "In this sequel to the original *Wall Street*, a young trader teams up with Gordon Gekko, who has just been released from prison, to find revenge against a rival who is threatening their financial future.",
+    "genre": ["drama", "thriller", "sequel"],
+    "director": [{
+      "name": "Oliver Stone",
+      "image": "./directors/OliverStone.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000633/"
+    }],
+    "actors": [{
+      "name": "Michael Douglas",
+      "image": "./actors/MichaelDouglas.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000140/"
+    }, {
+      "name": "Shia LaBeouf",
+      "image": "./actors/ShiaLebouf.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001440/"
+    }, {
+      "name": "Carey Mulligan",
+      "image": "./actors/CareyMulligan.jpg",
+      "imdb": "https://www.imdb.com/name/nm1651950/"
+    }, {
+      "name": "Josh Brolin",
+      "image": "./actors/JoshBrolin.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000119/"
+    }],
+    "link": "https://play.max.com/movie/fb6d9cb0-a917-4054-807e-5caa93297455?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1011lzJzwBnv",
+    "poster": "./posters/max/WallStreetMoneyNeverSleeps.jpg"
+  }
+,  
+
   {
     "item": "179",
     "title": "The Informant!",

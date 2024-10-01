@@ -205,6 +205,77 @@
   },
 
   {
+    "item": 2947,
+    "year": 1992,
+    "title": "Basic Instinct",
+    "runtime": 128,
+    "mpaa": "R",
+    "description": "A police detective becomes entangled in a complex relationship with a seductive crime novelist while investigating a brutal murder, leading to a dangerous game of cat and mouse.",
+    "genre": ["thriller", "drama", "mystery", "erotic"],
+    "director": [{
+      "name": "Paul Verhoeven",
+      "image": "./directors/PaulVerhoeven.webp",
+      "imdb": "https://www.imdb.com/name/nm0000638/"
+    }],
+    "actors": [{
+      "name": "Sharon Stone",
+      "image": "./actors/SharonStone.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000232/"
+    }, {
+      "name": "Michael Douglas",
+      "image": "./actors/MichaelDouglas.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000140/"
+    }, {
+      "name": "George Dzundza",
+      "image": "./actors/GeorgeDzunda.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001140/"
+    }, {
+      "name": "Jeanne Tripplehorn",
+      "image": "./actors/JeanneTripplehorn.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000665/"
+    }],
+    "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18a9f730-b962-79af-a611-474fb1963e42?tag=justdeswmovie-20&token=ADE07EB7B9E7DB86DEEEF0D5D4FC5F0B5FB44D3F",
+    "poster": "./posters/prime/BasicInstinct.jpg"
+  }
+,  
+
+{
+  "item": 6471,
+  "year": 1987,
+  "title": "Fatal Attraction",
+  "runtime": 119,
+  "mpaa": "R",
+  "description": "A married man’s brief affair with a seductive woman turns into a nightmare when she becomes obsessed with him, threatening his family and life.",
+  "genre": ["thriller", "drama", "erotic"],
+  "director": [{
+    "name": "Adrian Lyne",
+    "image": "./directors/AdrianLyne.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000517/"
+  }],
+  "actors": [{
+    "name": "Michael Douglas",
+    "image": "./actors/MichaelDouglas.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000140/"
+  }, {
+    "name": "Glenn Close",
+    "image": "./actors/GlennClose.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000343/"
+  }, {
+    "name": "Anne Archer",
+    "image": "./actors/AnneArcher.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000274/"
+  }, {
+    "name": "Ellen Foley",
+    "image": "./actors/EllenFoley.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001234/"
+  }],
+  "link": "https://www.amazon.com/Fatal-Attraction-Michael-Douglas/dp/B000N4PINW",
+  "poster": "./posters/prime/FatalAttraction.jpg"
+}
+,
+
+
+  {
     "item": 414,
     "title": "Hired Gun",
     "runtime": 98,

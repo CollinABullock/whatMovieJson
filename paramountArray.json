@@ -712,6 +712,41 @@
 }
 ,
 
+{
+  "item": 8924,
+  "year": 1996,
+  "title": "The Ghost and the Darkness",
+  "runtime": 109,
+  "mpaa": "R",
+  "description": "Based on a true story, a British engineer and a hunter must confront a pair of man-eating lions that are terrorizing a bridge construction site in East Africa.",
+  "genre": ["adventure", "drama", "thriller"],
+  "director": [{
+    "name": "Stephen Hopkins",
+    "image": "./directors/StephenHopkins.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005048/"
+  }],
+  "actors": [{
+    "name": "Val Kilmer",
+    "image": "./actors/ValKilmer.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000607/"
+  }, {
+    "name": "Michael Douglas",
+    "image": "./actors/MichaelDouglas.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000140/"
+  }, {
+    "name": "John Kani",
+    "image": "./actors/JohnKani.jpg",
+    "imdb": "https://www.imdb.com/name/nm0431287/"
+  }, {
+    "name": "Tom Wilkinson",
+    "image": "./actors/TomWilkinson.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001850/"
+  }],
+  "link": "https://www.paramountplus.com/movies/ghost-and-the-darkness/AoUSEQjt1jXzKHqbUm_At0xWl3c6iWD0?searchReferral=desktop-web&source=google-organic&ftag=PPM-23-10bfh8c",
+  "poster": "./posters/paramount/TheGhostAndTheDarkness.jpg"
+}
+,
+
 {    
   "item": "13579",
   "title": "The Godfather Part III",

@@ -30,6 +30,115 @@
   },
 
   {
+    "item": 6584,
+    "year": 2015,
+    "title": "Ant-Man",
+    "runtime": 117,
+    "mpaa": "PG-13",
+    "description": "Con artist Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, protect the secret of the Ant-Man technology from a new generation of towering threats.",
+    "genre": ["action", "adventure", "comedy", "science-fiction", "comic-book"],
+    "director": [{
+      "name": "Peyton Reed",
+      "image": "./directors/PeytonReed.jpg",
+      "imdb": "https://www.imdb.com/name/nm0717616/"
+    }],
+    "actors": [{
+      "name": "Paul Rudd",
+      "image": "./actors/PaulRudd.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001618/"
+    }, {
+      "name": "Evangeline Lilly",
+      "image": "./actors/EvangelineLilly.jpg",
+      "imdb": "https://www.imdb.com/name/nm1413738/"
+    }, {
+      "name": "Michael Douglas",
+      "image": "./actors/MichaelDouglas.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000140/"
+    }, {
+      "name": "Corey Stoll",
+      "image": "./actors/CoreyStoll.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005515/"
+    }],
+    "link": "https://www.disneyplus.com/movies/ant-man/5c92KVf1zgUX",
+    "poster": "./posters/disney/AntMan.jpg"
+  }
+,  
+
+{
+  "item": 4392,
+  "year": 2018,
+  "title": "Ant-Man and the Wasp",
+  "runtime": 118,
+  "mpaa": "PG-13",
+  "description": "Scott Lang teams up with Hope van Dyne to uncover secrets from their past while battling a new villain, all while navigating the challenges of fatherhood.",
+  "genre": ["action", "adventure", "comedy", "science-fiction", "comic-book", "sequel"],
+  "director": [{
+    "name": "Peyton Reed",
+      "image": "./directors/PeytonReed.jpg",
+      "imdb": "https://www.imdb.com/name/nm0717616/"
+    }],
+    "actors": [{
+      "name": "Paul Rudd",
+      "image": "./actors/PaulRudd.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001618/"
+    }, {
+      "name": "Evangeline Lilly",
+      "image": "./actors/EvangelineLilly.jpg",
+      "imdb": "https://www.imdb.com/name/nm1413738/"
+  }, {
+    "name": "Michael Douglas",
+    "image": "./actors/MichaelDouglas.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000140/"
+  }, {
+    "name": "Michelle Pfeiffer",
+    "image": "./actors/MichellePfeiffer.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000588/"
+  }],
+  "link": "https://www.disneyplus.com/movies/ant-man-and-the-wasp/5D7wkVHmlCKU",
+  "poster": "./posters/AntManAndTheWasp.jpg"
+}
+,
+
+{
+  "item": 5863,
+  "year": 2023,
+  "title": "Ant-Man and the Wasp: Quantumania",
+  "runtime": 125,
+  "mpaa": "PG-13",
+  "description": "Scott Lang and Hope van Dyne, along with their families, find themselves in the Quantum Realm, where they must confront new threats and uncover secrets that could change their lives forever.",
+  "genre": ["action", "adventure", "comedy", "science-fiction", "comic-book", "sequel"],
+  "director": [{
+    "name": "Peyton Reed",
+    "image": "./directors/PeytonReed.jpg",
+    "imdb": "https://www.imdb.com/name/nm0717616/"
+  }],
+  "actors": [{
+    "name": "Paul Rudd",
+    "image": "./actors/PaulRudd.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001618/"
+  }, {
+    "name": "Evangeline Lilly",
+    "image": "./actors/EvangelineLilly.jpg",
+    "imdb": "https://www.imdb.com/name/nm1413738/"
+}, {
+  "name": "Michael Douglas",
+  "image": "./actors/MichaelDouglas.jpg",
+  "imdb": "https://www.imdb.com/name/nm0000140/"
+  }, {
+    "name": "Kathryn Newton",
+    "image": "./actors/KathrynNewton.jpg",
+    "imdb": "https://www.imdb.com/name/nm2101730/"
+  }, {
+    "name": "Jonathan Majors",
+    "image": "./actors/JonathanMajors.jpg",
+    "imdb": "https://www.imdb.com/name/nm3718007/"
+  }],
+  "link": "https://www.disneyplus.com/movies/ant-man-and-the-wasp-quantumania/7OLRMMgd1vkx",
+  "poster": "./posters/disney/AntManAndTheWaspQuantumania.jpg"
+}
+
+
+  {
     "item": 9405,
     "year": 2002,
     "title": "Star Wars: Episode II - Attack of the Clones",
