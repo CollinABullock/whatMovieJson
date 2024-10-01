@@ -49,10 +49,44 @@
       "imdb": "https://www.imdb.com/name/nm0005424/"
     }],
     "link": "https://play.max.com/movie/13b838c8-b491-41a9-bc54-f90a31833687",
-    "poster": "./posters/Kimi.jpg"
+    "poster": "./posters/max/Kimi.jpg"
   }
 ,  
 
+{
+  "item": 8421,
+  "year": 2023,
+  "title": "Magic Mike's Last Dance",
+  "runtime": 112,
+  "mpaa": "R",
+  "description": "Mike Lane returns to the stage after a long hiatus, embarking on a final performance that leads him to a lavish new world of dance and passion in London.",
+  "genre": ["drama", "comedy", "musical"],
+  "director": [{
+    "name": "Steven Soderbergh",
+    "image": "./directors/StevenSoderbergh.webp",
+    "imdb": "https://www.imdb.com/name/nm0000600/"
+  }],
+  "actors": [{
+    "name": "Channing Tatum",
+    "image": "./actors/ChanningTatum.jpg",
+    "imdb": "https://www.imdb.com/name/nm1471457/"
+  }, {
+    "name": "Salma Hayek",
+    "image": "./actors/SalmaHayek.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000160/"
+  }, {
+    "name": "Jane Krakowski",
+    "image": "./actors/JaneKrakowski.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005090/"
+  }, {
+    "name": "Ayub Khan-Din",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2009/10/21/1256127824919/Ayub-Khan-Din-playwright--001.jpg?width=465&dpr=1&s=none",
+    "imdb": "https://www.imdb.com/name/nm0454367/"
+  }],
+  "link": "https://play.max.com/movie/486843c3-f307-4af0-b946-f2f1469514dc?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1101lzJB7T2C",
+  "poster": "./posters/max/MagicMikesLastDance.jpg"
+}
+,
   {
     "item": 1234,
     "year": 1950,
