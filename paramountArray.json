@@ -252,7 +252,7 @@
     {
       "name": "Arnold Schwarzenegger",
       "IMDB": "https://www.imdb.com/name/nm0000216/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/body-builder-actor-and-future-governor-of-california-arnold-news-photo-1686584660.jpg"
+      "image": "./actors/ArnoldSchwarzenegger.jpg"
     },
     {
       "name": "Linda Hamilton",
@@ -746,6 +746,43 @@
   "poster": "./posters/paramount/TheGhostAndTheDarkness.jpg"
 }
 ,
+
+{
+  "item": 4256,
+  "year": 1990,
+  "title": "Total Recall",
+  "runtime": 113,
+  "mpaa": "R",
+  "description": "A construction worker discovers that his memories of a past life as a secret agent may be real when he undergoes a memory implant procedure, leading him to a conspiracy on Mars.",
+  "genre": ["action", "science-fiction", "thriller"],
+  "director": [{
+    "name": "Paul Verhoeven",
+    "image": "./directors/PaulVerhoeven.webp",
+    "imdb": "https://www.imdb.com/name/nm0000638/"
+  }],
+  "actors": [{
+    "name": "Arnold Schwarzenegger",
+    "image": "./actors/ArnoldSchwarzenegger.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000216/"
+  }, {
+    "name": "Rachel Ticotin",
+    "image": "./actors/RachelTicotin.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000541/"
+  }, {
+    "name": "Sharon Stone",
+    "image": "./actors/SharonStone.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000232/"
+  }, {
+    "name": "Ronny Cox",
+    "image": "./actors/RonnyCox.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001055/"
+  }],
+  "link": "https://www.paramountplus.com/movies/video/0dBY4uSKAiLLiUg6_mlCLLjl12Jki38V/",
+  "poster": "./posters/TotalRecall.jpg"
+}
+,
+
+
 
 {    
   "item": "13579",

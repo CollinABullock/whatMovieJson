@@ -1707,6 +1707,43 @@
 }
 ,
 
+{
+  "item": 3128,
+  "year": 1997,
+  "title": "Starship Troopers",
+  "runtime": 129,
+  "mpaa": "R",
+  "description": "In a militaristic future, young citizens join the Mobile Infantry to fight giant alien insects known as Arachnids in a brutal interstellar war.",
+  "genre": ["action", "science-fiction", "adventure", "satire"],
+  "director": [{
+    "name": "Paul Verhoeven",
+    "image": "./directors/PaulVerhoeven.webp",
+    "imdb": "https://www.imdb.com/name/nm0000638/"
+  }],
+  "actors": [{
+    "name": "Casper Van Dien",
+    "image": "./actors/CasperVanDien.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000606/"
+  }, {
+    "name": "Dina Meyer",
+    "image": "./actors/DinaMeyer.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000536/"
+  }, {
+    "name": "Denise Richards",
+    "image": "./actors/DeniseRichards.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000614/"
+  }, {
+    "name": "Neil Patrick Harris",
+    "image": "./actors/NeilPatrickHarris.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000570/"
+  }],
+  "link": "https://www.netflix.com/title/1181616",
+  "poster": "./posters/StarshipTroopers.jpg"
+}
+,
+
+
+
 	{
 		"item": "18",
 		"title": "Black Adam",

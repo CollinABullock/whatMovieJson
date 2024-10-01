@@ -4288,7 +4288,7 @@
 }],
 "actors": [{
   "name": "Arnold Schwarzenegger",
-  "image": "https://cdn.sanity.io/images/dm4o0ui7/production/ab8622774dfd8bc6b2107656cc1d648ff48279b3-1200x600.png",
+  "image": "./actors/ArnoldSchwarzenegger.jpg",
   "imdb": "https://www.imdb.com/name/nm0000216/?ref_=tt_ov_st"
 }, {
   "name": "James Earl Jones",
