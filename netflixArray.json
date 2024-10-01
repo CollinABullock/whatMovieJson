@@ -1636,6 +1636,41 @@
 			}
 		]
 	},
+
+	{
+		"item": 4312,
+		"year": 2012,
+		"title": "Magic Mike",
+		"runtime": 110,
+		"mpaa": "R",
+		"description": "A talented male stripper named Mike takes a young dancer under his wing and teaches him the ropes of the nightlife, while navigating the challenges of ambition and relationships.",
+		"genre": ["drama", "comedy"],
+		"director": [{
+			"name": "Steven Soderbergh",
+			"image": "./directors/StevenSoderbergh.webp",
+			"imdb": "https://www.imdb.com/name/nm0000600/"
+		}],
+		"actors": [{
+			"name": "Channing Tatum",
+			"image": "./actors/ChanningTatum.jpg",
+			"imdb": "https://www.imdb.com/name/nm1471457/"
+		}, {
+			"name": "Alex Pettyfer",
+			"image": "./actors/AlexPettyfer.jpg",
+			"imdb": "https://www.imdb.com/name/nm1884220/"
+		}, {
+			"name": "Matthew McConaughey",
+			"image": "./actors/MatthewMcConaughey.jpg",
+			"imdb": "https://www.imdb.com/name/nm0000190/"
+		}, {
+			"name": "Olivia Munn",
+			"image": "./actors/OliviaMunn.jpg",
+			"imdb": "https://www.imdb.com/name/nm1601397/"
+		}],
+		"link": "https://www.netflix.com/title/70228101",
+		"poster": "./posters/netflix/MagicMike.jpg"
+	}
+,	
 	{
 		"item": "18",
 		"title": "Black Adam",

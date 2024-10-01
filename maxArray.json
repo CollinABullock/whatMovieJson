@@ -21,6 +21,38 @@
     ],
     "actors": []
   },
+
+  {
+    "item": 5623,
+    "year": 2022,
+    "title": "Kimi",
+    "runtime": 89,
+    "mpaa": "R",
+    "description": "A tech worker with agoraphobia discovers a crime while monitoring a virtual assistant and must decide whether to report it, risking her own safety.",
+    "genre": ["thriller", "drama"],
+    "director": [{
+      "name": "Steven Soderbergh",
+      "image": "./directors/StevenSoderbergh.webp",
+      "imdb": "https://www.imdb.com/name/nm0000600/"
+    }],
+    "actors": [{
+      "name": "Zoë Kravitz",
+      "image": "./actors/ZoeKravitz.jpg",
+      "imdb": "https://www.imdb.com/name/nm1079996/"
+    }, {
+      "name": "Frankie Faison",
+      "image": "./actors/FrankieFaison.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001243/"
+    }, {
+      "name": "Jimmi Simpson",
+      "image": "./actors/JimmiSimpson.jpg",
+      "imdb": "https://www.imdb.com/name/nm0005424/"
+    }],
+    "link": "https://play.max.com/movie/13b838c8-b491-41a9-bc54-f90a31833687",
+    "poster": "./posters/Kimi.jpg"
+  }
+,  
+
   {
     "item": 1234,
     "year": 1950,
