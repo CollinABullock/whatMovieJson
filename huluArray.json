@@ -653,6 +653,42 @@
     "link": "https://www.hulu.com/watch/67dd3f45-66c0-4304-93a7-4f12fada29b1",
     "poster": "https://img.hulu.com/user/v3/artwork/67dd3f45-66c0-4304-93a7-4f12fada29b1?base_image_bucket_name=image_manager&base_image=b0445753-02a2-40dd-a882-b11923d41904&region=US&format=jpeg&size=952x536"
   },
+
+  {
+    "item": 7814,
+    "year": 1994,
+    "title": "True Lies",
+    "runtime": 144,
+    "mpaa": "R",
+    "description": "A secret spy leads a double life as a suburban family man, but his world is turned upside down when his wife discovers his true identity, leading to a chaotic adventure.",
+    "genre": ["action", "comedy", "thriller"],
+    "director": [{
+      "name": "James Cameron",
+      "image": "./directors/JamesCameron.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0000116/"
+    }],
+    "actors": [{
+      "name": "Arnold Schwarzenegger",
+      "image": "./actors/ArnoldSchwarzenegger.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000216/"
+    }, {
+      "name": "Jamie Lee Curtis",
+      "image": "./actors/JamieLeeCurtis.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000138/"
+    }, {
+      "name": "Tom Arnold",
+      "image": "./actors/TomArnold.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000294/"
+    }, {
+      "name": "Bill Paxton",
+      "image": "./actors/BillPaxton.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000580/"
+    }],
+    "link": "https://www.hulu.com/movie/true-lies-e2e3df17-2d2a-4086-bbfe-7540377b6124",
+    "poster": "./posters/hulu/TrueLies.jpg"
+  }
+,  
+
   {
     "item": 7890,
     "year": 2004,
@@ -1029,7 +1065,7 @@
       },
       {
         "name": "Bill Paxton",
-        "image": "https://variety.com/wp-content/uploads/2015/09/bill-p.jpg?w=1000&h=563&crop=1",
+        "image": "./actors/BillPaxton.jpg",
         "imdb": "https://www.imdb.com/name/nm0000200/"
       }
     ]
@@ -1629,14 +1665,14 @@
     "director": [
       {
         "name": "Sylvester Stallone",
-        "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/sylvester-stallone.jpg?ve=1&tl=1",
+        "image": "./actors/SlyvesterStallone.jpg",
         "imdb": "https://www.imdb.com/name/nm0000230/"
       }
     ],
     "actors": [
       {
         "name": "Sylvester Stallone",
-        "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/sylvester-stallone.jpg?ve=1&tl=1",
+        "image": "./actors/SlyvesterStallone.jpg",
         "imdb": "https://www.imdb.com/name/nm0000230/"
       },
       {
@@ -1682,7 +1718,7 @@
       "actors": [
         {
           "name": "Sylvester Stallone",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/sylvester-stallone.jpg?ve=1&tl=1",
+          "image": "./actors/SlyvesterStallone.jpg",
           "imdb": "https://www.imdb.com/name/nm0000230/"
         },
         {
@@ -1727,7 +1763,7 @@
       "actors": [
         {
           "name": "Sylvester Stallone",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/sylvester-stallone.jpg?ve=1&tl=1",
+          "image": "./actors/SlyvesterStallone.jpg",
           "imdb": "https://www.imdb.com/name/nm0000230/"
         },
         {
@@ -3662,48 +3698,7 @@
     "poster": "./posters/hulu/Speed.jpeg",
     "link": "https://www.hulu.com/movie/speed-f841188b-3029-419e-83a4-240c2f5614da"
   },
-  {
-    "item": 16151615,
-    "title": "Ferrari",
-    "year": 2023,
-    "runtime": 131,
-    "mpaa": "R",
-    "description": "It is the summer of 1957 and ex-racer Enzo Ferrari is in crisis, facing bankruptcy and a volatile marriage. Meanwhile, his drivers’ passions push them to the edge as they launch into the treacherous race across Italy, the Mille Miglia.",
-    "genre": [
-      ""
-    ],
-    "director": [
-      {
-        "name": "",
-        "image": "",
-        "imdb": ""
-      }
-    ],
-    "actors": [
-      {
-        "name": "",
-        "image": "",
-        "imdb": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "imdb": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "imdb": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "imdb": ""
-      }
-    ],
-    "link": "",
-    "poster": ""
-  },
+
   {
     "item": 8314,
     "title": "Super Troopers",

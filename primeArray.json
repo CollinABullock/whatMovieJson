@@ -457,7 +457,7 @@
     }],
     "actors": [{
       "name": "Sylvester Stallone",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/sylvester-stallone.jpg?ve=1&tl=1",
+      "image": "./actors/SlyvesterStallone.jpg",
       "imdb": "https://www.imdb.com/name/nm0000230/"
     }, {
       "name": "Harvey Keitel",
@@ -4300,6 +4300,41 @@
   "imdb": "https://www.imdb.com/name/nm0000298/"
 }]
 },
+
+{
+  "item": 2153,
+  "year": 1985,
+  "title": "Commando",
+  "runtime": 90,
+  "mpaa": "R",
+  "description": "Retired special forces colonel John Matrix is pulled back into action when his daughter is kidnapped by a former associate, leading him on a deadly mission to rescue her.",
+  "genre": ["action", "thriller"],
+  "director": [{
+    "name": "Mark L. Lester",
+    "image": "./directors/MarkLLester.jpg",
+    "imdb": "https://www.imdb.com/name/nm0500630/"
+  }],
+  "actors": [{
+    "name": "Arnold Schwarzenegger",
+    "image": "./actors/ArnoldSchwarzenegger.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000216/"
+  }, {
+    "name": "Rae Dawn Chong",
+    "image": "./actors/RawDawnChong.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000365/"
+  }, {
+    "name": "Dan Hedaya",
+    "image": "./actors/DanHedaya.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001300/"
+  }, {
+    "name": "Alyssa Milano",
+    "image": "./actors/AlyssaMilano.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000530/"
+  }],
+  "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90a9f733-1335-c7e0-05dc-66efba208d19?tag=justdeswmovie-20&token=ADE07EB7B9E7DB86DEEEF0D5D4FC5F0B5FB44D3F",
+  "poster": "./posters/prime/Commando.jpg"
+}
+
 
 {
   "item": "9101",
