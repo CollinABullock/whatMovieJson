@@ -17,6 +17,41 @@
     "actors": []
   },
 
+  {
+    "item": 5793,
+    "year": 2007,
+    "title": "I'm Not There",
+    "runtime": 135,
+    "mpaa": "R",
+    "description": "This unconventional biopic explores the life and music of Bob Dylan through six distinct characters, each representing different facets of his persona.",
+    "genre": ["biography", "drama", "music"],
+    "director": [{
+      "name": "Todd Haynes",
+      "image": "./directors/ToddHaynes.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001300/"
+    }],
+    "actors": [{
+      "name": "Cate Blanchett",
+      "image": "./actors/CateBlanchett.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000115/"
+    }, {
+      "name": "Heath Ledger",
+      "image": "./actors/HeathLedger.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000488/"
+    }, {
+      "name": "Marcus Carl Franklin",
+      "image": "./actors/MarcusCarlFranklin.jpg",
+      "imdb": "https://www.imdb.com/name/nm1512065/"
+    }, {
+      "name": "Christian Bale",
+      "image": "./actors/ChristianBale.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0000280/"
+    }],
+    "link": "https://www.amazon.com/Im-Not-There-Christian-Bale/dp/B017PFKSMM",
+    "poster": "./posters/prime/ImNotThere.jpg"
+  }
+,  
+
   {    
   "item": "2356",
   "title": "The Gold Rush",
