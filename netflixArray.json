@@ -4193,6 +4193,41 @@
   "poster": "./posters/netflix/MarriageStory.jpg"
 }
 ,
+
+{
+  "item": 4837,
+  "year": 2017,
+  "title": "Logan Lucky",
+  "runtime": 118,
+  "mpaa": "PG-13",
+  "description": "Two brothers plan a heist during a NASCAR race in North Carolina, enlisting the help of an incarcerated mastermind to execute their daring scheme.",
+  "genre": ["comedy", "crime", "heist"],
+  "director": [{
+    "name": "Steven Soderbergh",
+    "image": "./directors/StevenSoderbergh.webp",
+    "imdb": "https://www.imdb.com/name/nm0000600/"
+  }],
+  "actors": [{
+    "name": "Channing Tatum",
+    "image": "./actors/ChanningTatum.jpg",
+    "imdb": "https://www.imdb.com/name/nm1471457/"
+  }, {
+    "name": "Adam Driver",
+    "image": "./actors/AdamDriver.jpeg",
+    "imdb": "https://www.imdb.com/name/nm1624080/"
+  }, {
+    "name": "Riley Keough",
+    "image": "./actors/RileyKeough.jpg",
+    "imdb": "https://www.imdb.com/name/nm2172133/"
+  }, {
+    "name": "Daniel Craig",
+    "image": "./actors/DanielCraig.jpg",
+    "imdb": "https://www.imdb.com/name/nm0004770/"
+  }],
+  "link": "https://www.netflix.com/title/80175621",
+  "poster": "./posters/netflix/LoganLucky.jpg"
+}
+,
 	{
 		"item": "79",
 		"title": "It's Complicated",

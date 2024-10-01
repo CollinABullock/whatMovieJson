@@ -1385,7 +1385,41 @@
     ],
     "poster": "./posters/criterion/RagingBull.avif",
     "link": "https://www.criterionchannel.com/raging-bull"
+  },
+  {
+    "item": 7291,
+    "year": 1998,
+    "title": "Out of Sight",
+    "runtime": 123,
+    "mpaa": "R",
+    "description": "A career bank robber escapes from prison and unexpectedly falls for a federal marshal during a chance encounter, complicating his plans to go straight.",
+    "genre": ["crime", "comedy", "romance"],
+    "director": [{
+      "name": "Steven Soderbergh",
+      "image": "./directors/StevenSoderbergh.webp",
+      "imdb": "https://www.imdb.com/name/nm0000600/"
+    }],
+    "actors": [{
+      "name": "George Clooney",
+      "image": "./actors/GeorgeClooney.jpeg",
+      "imdb": "https://www.imdb.com/name/nm0000123/"
+    }, {
+      "name": "Jennifer Lopez",
+      "image": "./actors/JenniferLopez.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000500/"
+    }, {
+      "name": "Ving Rhames",
+      "image": "./actors/VingRhames.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000619/"
+    }, {
+      "name": "Don Cheadle",
+      "image": "./actors/DonCheadle.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001010/"
+    }],
+    "link": "https://www.criterionchannel.com/out-of-sight",
+    "poster": "./posters/criterion/OutOfSight.jpg"
   }
+  
   
 
 ]
