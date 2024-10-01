@@ -684,7 +684,7 @@
     "imdb": "https://www.imdb.com/name/nm0608090/"
   }, {
     "name": "Uma Thurman",
-    "image": "https://s.abcnews.com/images/GMA/actress-uma-thurman-gty-moe-010-230613_1686750985536_hpMain_16x9_992.jpg",
+    "image": "./actors/UmaThurman.jpg",
     "imdb": "https://www.imdb.com/name/nm0000235/"
   }, {
     "name": "Anthony LaPaglia",

@@ -2261,6 +2261,41 @@
       }
     ]
   },
+
+  {    
+  "item": 7631,
+  "year": 1997,
+  "title": "Batman & Robin",
+  "runtime": 125,
+  "mpaa": "PG-13",
+  "description": "Batman and Robin must stop Mr. Freeze and Poison Ivy from executing their evil plans to freeze Gotham City and eliminate Batman.",
+  "genre": ["action", "adventure", "science-fiction", "comic-book"],
+  "director": [{
+    "name": "Joel Schumacher",
+    "image": "./directors/JoelSchumacher.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000613/"
+  }],
+  "actors": [{
+    "name": "George Clooney",
+    "image": "./actors/GeorgeClooney.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0000123/"
+  }, {
+    "name": "Chris O'Donnell",
+    "image": "./actors/ChrisODonnell.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000598/"
+  }, {
+    "name": "Arnold Schwarzenegger",
+    "image": "./actors/ArnoldSchwarzenegger.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000216/"
+  }, {
+    "name": "Uma Thurman",
+    "image": "./actors/UmaThurman.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000230/"
+  }],
+  "link": "https://play.max.com/movie/02fe7d76-b386-49bf-9f79-f3cc9b7ff832?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1101lzJCk9BA",
+  "poster": "./posters/BatmanAndRobin.jpg"
+}
+,
   {
     "item": "118",
     "title": "Batman Returns",
@@ -4549,7 +4584,7 @@
       },
       {
         "name": "Uma Thurman",
-        "image": "https://m.media-amazon.com/images/M/MV5BOTViOTM2NzItZTA5Yi00Y2ZkLWJlYTgtZjFmMDBlYmJiYzJkXkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg",
+        "image": "./actors/UmaThurman.jpg",
         "imdb": "https://www.imdb.com/name/nm0000235/"
       },
       {

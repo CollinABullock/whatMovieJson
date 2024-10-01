@@ -136,7 +136,75 @@
   "link": "https://www.disneyplus.com/movies/ant-man-and-the-wasp-quantumania/7OLRMMgd1vkx",
   "poster": "./posters/disney/AntManAndTheWaspQuantumania.jpg"
 }
+,
 
+{    
+  "item": 4823,
+  "year": 1996,
+  "title": "Jingle All The Way",
+  "runtime": 87,
+  "mpaa": "PG",
+  "description": "A father struggles to find a Turbo Man action figure for his son on Christmas Eve, racing against time and a rival dad to fulfill his promise.",
+  "genre": ["comedy", "family"],
+  "director": [{
+    "name": "Brian Levant",
+    "image": "",
+    "imdb": "tt0116705"
+  }],
+  "actors": [{
+    "name": "Arnold Schwarzenegger",
+    "image": "",
+    "imdb": "tt0000001"
+  }, {
+    "name": "Sinbad",
+    "image": "",
+    "imdb": "tt0000002"
+  }, {
+    "name": "Phil Hartman",
+    "image": "",
+    "imdb": "tt0000003"
+  }, {
+    "name": "Rita Wilson",
+    "image": "",
+    "imdb": "tt0000004"
+  }],
+  "link": "",
+  "poster": ""
+}
+{    
+  "item": 4823,
+  "year": 1996,
+  "title": "Jingle All The Way",
+  "runtime": 87,
+  "mpaa": "PG",
+  "description": "A father struggles to find a Turbo Man action figure for his son on Christmas Eve, racing against time and a rival dad to fulfill his promise.",
+  "genre": ["comedy", "family", "christmas"],
+  "director": [{
+    "name": "Brian Levant",
+    "image": "./directors/BrianLevant.webp",
+    "imdb": "https://www.imdb.com/name/nm0507812/"
+  }],
+  "actors": [{
+    "name": "Arnold Schwarzenegger",
+    "image": "./actors/ArnoldSchwarzenegger.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000216/"
+  }, {
+    "name": "Sinbad",
+    "image": "./actors/Sinbad.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000602/"
+  }, {
+    "name": "Phil Hartman",
+    "image": "./actors/PhilHartman.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001308/"
+  }, {
+    "name": "Rita Wilson",
+    "image": "./actors/RitaWilson.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000684/"
+  }],
+  "link": "https://www.disneyplus.com/movies/jingle-all-the-way/6h1l5zuCJDiL?irclickid=2dzVp4U0JxyKWfyXgQQYrTruUkCURnTfIzP4Uc0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=08010036-fc8e-409b-9100-097466fc49bd&dclid=CPL5zeHx7YgDFXfPTwIdWushFQ",
+  "poster": "./posters/JingleAllTheWay.jpg"
+}
+,
 
   {
     "item": 9405,

@@ -769,7 +769,7 @@
       },
       {
         "name": "Uma Thurman",
-        "image": "https://m.media-amazon.com/images/M/MV5BOTViOTM2NzItZTA5Yi00Y2ZkLWJlYTgtZjFmMDBlYmJiYzJkXkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg",
+        "image": "./actors/UmaThurman.jpg",
         "imdb": "https://www.imdb.com/name/nm0000235/"
       }
     ],
@@ -3310,7 +3310,7 @@
       },
       {
         "name": "Uma Thurman",
-        "image": "https://m.media-amazon.com/images/M/MV5BOTViOTM2NzItZTA5Yi00Y2ZkLWJlYTgtZjFmMDBlYmJiYzJkXkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg",
+        "image": "./actors/UmaThurman.jpg",
         "imdb": "https://www.imdb.com/name/nm0000235/"
       },
       {
