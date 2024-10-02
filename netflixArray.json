@@ -1707,6 +1707,77 @@
 }
 ,
 
+{
+  "item": 3128,
+  "year": 1997,
+  "title": "Starship Troopers",
+  "runtime": 129,
+  "mpaa": "R",
+  "description": "In a militaristic future, young citizens join the Mobile Infantry to fight giant alien insects known as Arachnids in a brutal interstellar war.",
+  "genre": ["action", "science-fiction", "adventure", "satire"],
+  "director": [{
+    "name": "Paul Verhoeven",
+    "image": "./directors/PaulVerhoeven.webp",
+    "imdb": "https://www.imdb.com/name/nm0000638/"
+  }],
+  "actors": [{
+    "name": "Casper Van Dien",
+    "image": "./actors/CasperVanDien.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000606/"
+  }, {
+    "name": "Dina Meyer",
+    "image": "./actors/DinaMeyer.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000536/"
+  }, {
+    "name": "Denise Richards",
+    "image": "./actors/DeniseRichards.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000614/"
+  }, {
+    "name": "Neil Patrick Harris",
+    "image": "./actors/NeilPatrickHarris.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000570/"
+  }],
+  "link": "https://www.netflix.com/title/1181616",
+  "poster": "./posters/StarshipTroopers.jpg"
+}
+,
+
+{
+  "item": 4387,
+  "year": 2013,
+  "title": "Escape Plan",
+  "runtime": 115,
+  "mpaa": "R",
+  "description": "Security expert Ray Breslin is framed and imprisoned in a high-tech facility he designed, and must work with a fellow inmate to escape and clear his name.",
+  "genre": ["action", "thriller"],
+  "director": [{
+    "name": "Mikael Håfström",
+    "image": "./directors/MikaelHafstrom.jpg",
+    "imdb": "https://www.imdb.com/name/nm0358603/"
+  }],
+  "actors": [{
+    "name": "Sylvester Stallone",
+    "image": "./actors/SlyvesterStallone.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000220/"
+  }, {
+    "name": "Arnold Schwarzenegger",
+    "image": "./actors/ArnoldSchwarzenegger.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000216/"
+  }, {
+    "name": "Jim Caviezel",
+    "image": "./actors/JimCaviezel.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000314/"
+  }, {
+    "name": "Sam Neill",
+    "image": "./actors/SamNeill.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000556/"
+  }],
+  "link": "https://www.netflix.com/gb/title/70273614",
+  "poster": "./posters/netflix/EscapePlan.jpg"
+}
+
+,
+
 	{
 		"item": "18",
 		"title": "Black Adam",
