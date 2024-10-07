@@ -17,41 +17,6 @@
     "actors": []
   },
 
-  {
-    "item": 5793,
-    "year": 2007,
-    "title": "I'm Not There",
-    "runtime": 135,
-    "mpaa": "R",
-    "description": "This unconventional biopic explores the life and music of Bob Dylan through six distinct characters, each representing different facets of his persona.",
-    "genre": ["biography", "drama", "music"],
-    "director": [{
-      "name": "Todd Haynes",
-      "image": "./directors/ToddHaynes.jpg",
-      "imdb": "https://www.imdb.com/name/nm0001300/"
-    }],
-    "actors": [{
-      "name": "Cate Blanchett",
-      "image": "./actors/CateBlanchett.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000115/"
-    }, {
-      "name": "Heath Ledger",
-      "image": "./actors/HeathLedger.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000488/"
-    }, {
-      "name": "Marcus Carl Franklin",
-      "image": "./actors/MarcusCarlFranklin.jpg",
-      "imdb": "https://www.imdb.com/name/nm1512065/"
-    }, {
-      "name": "Christian Bale",
-      "image": "./actors/ChristianBale.jpeg",
-      "imdb": "https://www.imdb.com/name/nm0000280/"
-    }],
-    "link": "https://www.amazon.com/Im-Not-There-Christian-Bale/dp/B017PFKSMM",
-    "poster": "./posters/prime/ImNotThere.jpg"
-  }
-,  
-
   {    
   "item": "2356",
   "title": "The Gold Rush",
@@ -203,77 +168,6 @@
     }],
     "actors": []
   },
-
-  {
-    "item": 2947,
-    "year": 1992,
-    "title": "Basic Instinct",
-    "runtime": 128,
-    "mpaa": "R",
-    "description": "A police detective becomes entangled in a complex relationship with a seductive crime novelist while investigating a brutal murder, leading to a dangerous game of cat and mouse.",
-    "genre": ["thriller", "drama", "mystery", "erotic"],
-    "director": [{
-      "name": "Paul Verhoeven",
-      "image": "./directors/PaulVerhoeven.webp",
-      "imdb": "https://www.imdb.com/name/nm0000638/"
-    }],
-    "actors": [{
-      "name": "Sharon Stone",
-      "image": "./actors/SharonStone.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000232/"
-    }, {
-      "name": "Michael Douglas",
-      "image": "./actors/MichaelDouglas.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000140/"
-    }, {
-      "name": "George Dzundza",
-      "image": "./actors/GeorgeDzunda.jpg",
-      "imdb": "https://www.imdb.com/name/nm0001140/"
-    }, {
-      "name": "Jeanne Tripplehorn",
-      "image": "./actors/JeanneTripplehorn.jpg",
-      "imdb": "https://www.imdb.com/name/nm0000665/"
-    }],
-    "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18a9f730-b962-79af-a611-474fb1963e42?tag=justdeswmovie-20&token=ADE07EB7B9E7DB86DEEEF0D5D4FC5F0B5FB44D3F",
-    "poster": "./posters/prime/BasicInstinct.jpg"
-  }
-,  
-
-{
-  "item": 6471,
-  "year": 1987,
-  "title": "Fatal Attraction",
-  "runtime": 119,
-  "mpaa": "R",
-  "description": "A married man’s brief affair with a seductive woman turns into a nightmare when she becomes obsessed with him, threatening his family and life.",
-  "genre": ["thriller", "drama", "erotic"],
-  "director": [{
-    "name": "Adrian Lyne",
-    "image": "./directors/AdrianLyne.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000517/"
-  }],
-  "actors": [{
-    "name": "Michael Douglas",
-    "image": "./actors/MichaelDouglas.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000140/"
-  }, {
-    "name": "Glenn Close",
-    "image": "./actors/GlennClose.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000343/"
-  }, {
-    "name": "Anne Archer",
-    "image": "./actors/AnneArcher.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000274/"
-  }, {
-    "name": "Ellen Foley",
-    "image": "./actors/EllenFoley.jpg",
-    "imdb": "https://www.imdb.com/name/nm0001234/"
-  }],
-  "link": "https://www.amazon.com/Fatal-Attraction-Michael-Douglas/dp/B000N4PINW",
-  "poster": "./posters/prime/FatalAttraction.jpg"
-}
-,
-
 
   {
     "item": 414,
@@ -457,7 +351,7 @@
     }],
     "actors": [{
       "name": "Sylvester Stallone",
-      "image": "./actors/SlyvesterStallone.jpg",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/sylvester-stallone.jpg?ve=1&tl=1",
       "imdb": "https://www.imdb.com/name/nm0000230/"
     }, {
       "name": "Harvey Keitel",
@@ -4288,7 +4182,7 @@
 }],
 "actors": [{
   "name": "Arnold Schwarzenegger",
-  "image": "./actors/ArnoldSchwarzenegger.jpg",
+  "image": "https://cdn.sanity.io/images/dm4o0ui7/production/ab8622774dfd8bc6b2107656cc1d648ff48279b3-1200x600.png",
   "imdb": "https://www.imdb.com/name/nm0000216/?ref_=tt_ov_st"
 }, {
   "name": "James Earl Jones",
@@ -4301,41 +4195,6 @@
 }]
 },
 
-{
-  "item": 2153,
-  "year": 1985,
-  "title": "Commando",
-  "runtime": 90,
-  "mpaa": "R",
-  "description": "Retired special forces colonel John Matrix is pulled back into action when his daughter is kidnapped by a former associate, leading him on a deadly mission to rescue her.",
-  "genre": ["action", "thriller"],
-  "director": [{
-    "name": "Mark L. Lester",
-    "image": "./directors/MarkLLester.jpg",
-    "imdb": "https://www.imdb.com/name/nm0500630/"
-  }],
-  "actors": [{
-    "name": "Arnold Schwarzenegger",
-    "image": "./actors/ArnoldSchwarzenegger.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000216/"
-  }, {
-    "name": "Rae Dawn Chong",
-    "image": "./actors/RawDawnChong.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000365/"
-  }, {
-    "name": "Dan Hedaya",
-    "image": "./actors/DanHedaya.jpg",
-    "imdb": "https://www.imdb.com/name/nm0001300/"
-  }, {
-    "name": "Alyssa Milano",
-    "image": "./actors/AlyssaMilano.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000530/"
-  }],
-  "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90a9f733-1335-c7e0-05dc-66efba208d19?tag=justdeswmovie-20&token=ADE07EB7B9E7DB86DEEEF0D5D4FC5F0B5FB44D3F",
-  "poster": "./posters/prime/Commando.jpg"
-}
-
-,
 {
   "item": "9101",
   "title": "The Last Waltz",

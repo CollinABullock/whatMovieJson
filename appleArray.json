@@ -375,28 +375,28 @@
   "genre": ["comedy"],
   "director": [{
     "name": "Todd Phillips",
-    "image": "./directors/ToddPhillips.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGY5MWRjM2MtNDkzNC00MDcwLWE2ZjYtOWNlZmM3MWIyNGZmXkEyXkFqcGdeQXVyMTAxMjM5NTA4._V1_.jpg",
     "imdb": "https://www.imdb.com/name/nm0680846/?ref_=tt_ov_dr"
   }],
   "actors": [{
     "name": "Luke Wilson",
-    "image": "./actors/LukeWilson.jpg",
+    "image": "https://deadline.com/wp-content/uploads/2022/08/GettyImages-538522248.jpg?w=681&h=383&crop=1",
     "imdb": "https://www.imdb.com/name/nm0005561/"
   }, {
     "name": "Will Ferrell",
-				"image": "./actors/WillFerrell.jpg",
+				"image": "https://ca-times.brightspotcdn.com/dims4/default/076a75b/2147483647/strip/false/crop/3500x1969+0+176/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F35%2F0c%2F568646e5482e8f5ce52d1d84b1cd%2Fny-premiere-of-apple-tvs-the-shrink-next-door-90227.jpg",
 				"imdb": "https://www.imdb.com/name/nm0002071/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_will%2520ferrell"
   }, {
     "name": "Vince Vaughn",
-    "image": "./actors/VinceVaughn.jpg",
+    "image": "https://tallslimtees.com/cdn/shop/articles/vince_vaughn_f479f1b0-506d-4302-b521-04d91643040e.jpg?v=1655347544",
     "imdb": "https://www.imdb.com/name/nm0000681/"
   }, {
     "name": "Jeremy Piven",
-    "image": "./actors/JeremyPiven.jpg",
+    "image": "https://i.ticketweb.com/i/00/08/11/83/11/Original.jpg?v=3",
     "imdb": "https://www.imdb.com/name/nm0005315/"
   }],
   "link": "https://tv.apple.com/us/movie/old-school/umc.cmc.1tvgf6e98f4ruweajkjj4qymh?ctx_at=5%2C2&ctx_brand=tvs.sbd.4000",
-  "poster": "./posters/OldSchool.jpg"
+  "poster": "https://is1-ssl.mzstatic.com/image/thumb/uAYqXpEFOAAc24vKK-dCCw/738x416.webp"
 },
 
 {
@@ -886,7 +886,7 @@
       {
         "name": "Uma Thurman",
         "IMDB": "https://www.imdb.com/name/nm0000235/",
-        "image": "./actors/UmaThurman.jpg"
+        "image": "https://s.abcnews.com/images/GMA/actress-uma-thurman-gty-moe-010-230613_1686750985536_hpMain_16x9_992.jpg"
       },
       {
         "name": "Lucy Liu",
@@ -926,7 +926,7 @@
       {
         "name": "Uma Thurman",
         "IMDB": "https://www.imdb.com/name/nm0000235/",
-        "image": "./actors/UmaThurman.jpg"
+        "image": "https://s.abcnews.com/images/GMA/actress-uma-thurman-gty-moe-010-230613_1686750985536_hpMain_16x9_992.jpg"
       },
       {
         "name": "David Carradine",
