@@ -776,6 +776,42 @@
     "link": "https://www.hulu.com/movie/the-war-with-grandpa-6e2cfc13-8af6-4728-af9a-eb2c8a79c5c0",
     "poster": "https://media.zenfs.com/en/comingsoon_net_477/c1cb4aa39d61222209a9879f01d8cf43"
   },
+
+  {    
+    "item": 1234,
+    "year": 2017,
+    "title": "Alien: Covenant",
+    "runtime": 122,
+    "mpaa": "R",
+    "description": "The crew of the colony ship Covenant discovers what they think is an uncharted paradise, but is actually a dark world whose sole inhabitant is the synthetic David, survivor of the doomed Prometheus expedition.",
+    "genre": ["sci-fi", "horror", "thriller"],
+    "director": [{
+      "name": "Ridley Scott",
+      "image": "./directors/RidleyScott.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000638/"
+    }],
+    "actors": [{
+      "name": "Michael Fassbender",
+      "image": "./actors/MichaelFassbender.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001191/"
+    }, {
+      "name": "Katherine Waterston",
+      "image": "./actors/KatherineWaterson.jpg",
+      "imdb": "https://www.imdb.com/name/nm1212621/"
+    }, {
+      "name": "Billy Crudup",
+      "image": "./actors/BillyCrudup.jpg",
+      "imdb": "https://www.imdb.com/name/nm0001087/"
+    }, {
+      "name": "Danny McBride",
+      "image": "./actors/DannyMcBride.jpg",
+      "imdb": "https://www.imdb.com/name/nm0000523/"
+    }],
+    "link": "https://www.hulu.com/movie/alien-covenant-fcf7736c-5eb4-4181-bf70-9e2fa6f9cc42",
+    "poster": "./posters/AlienCovenant.jpg"
+  }
+,  
+
   {
     "item": 9102,
     "year": 2008,
@@ -2094,7 +2130,7 @@
     "director": [
       {
         "name": "Ridley Scott",
-        "image": "https://static.dw.com/image/40728788_605.jpg",
+        "image": "./directors/RidleyScott.jpg",
         "imdb": "https://www.imdb.com/name/nm0000631/"
       }
     ],
@@ -2181,7 +2217,7 @@
     "director": [
       {
         "name": "Ridley Scott",
-        "image": "https://static.dw.com/image/40728788_605.jpg",
+        "image": "./directors/RidleyScott.jpg",
         "imdb": "https://www.imdb.com/name/nm0000631/"
       }
     ],
@@ -2269,7 +2305,7 @@
     "director": [
       {
         "name": "Ridley Scott",
-        "image": "https://static.dw.com/image/40728788_605.jpg",
+        "image": "./directors/RidleyScott.jpg",
         "imdb": "https://www.imdb.com/name/nm0000631/"
       }
     ],

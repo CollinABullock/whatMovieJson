@@ -4077,7 +4077,7 @@
     "genre": ["biography", "crime", "drama"],
     "director": [{
       "name": "Ridley Scott",
-      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRRMRUBJYGxH6kYBLIEh3_sVUHolpIyWnr9kQxDqb8a5GqQRrTK3GZT7Rx3DX64J45kFH8Rq7Kxf5-pgAI",
+      "image": "./directors/RidleyScott.jpg",
       "imdb": "https://www.imdb.com/name/nm0000631/"
     }],
     "actors": [{

@@ -891,7 +891,7 @@
 		"actors": [
 			{
 				"name": "Michael Fassbender",
-				"image": "https://variety.com/wp-content/uploads/2024/02/fassbender-e1709057463472.jpg?w=861",
+				"image": "./actors/MichaelFassbender.jpg",
 				"imdb": "https://www.imdb.com/name/nm1055413/"
 			},
 			{

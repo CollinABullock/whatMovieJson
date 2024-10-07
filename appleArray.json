@@ -155,7 +155,7 @@
   "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?mttn3pid=Google%20AdWords&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=OUS20191071_1-691756660928-c&mttnsubkw=148377018142__UdSzvOtH_&mttnsubplmnt=_adext_",
   "director": [{
     "name": "Ridley Scott",
-    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRRMRUBJYGxH6kYBLIEh3_sVUHolpIyWnr9kQxDqb8a5GqQRrTK3GZT7Rx3DX64J45kFH8Rq7Kxf5-pgAI",
+    "image": "./directors/RidleyScott.jpg",
     "imdb": "https://www.imdb.com/name/nm0000631/"
   }],
   "actors": [{
