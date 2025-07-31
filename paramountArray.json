@@ -901,7 +901,7 @@
   "genre": ["action", "adventure", "drama", "history"],
   "director": [{
     "name": "Ridley Scott",
-    "image": "https://static.dw.com/image/40728788_605.jpg",
+    "image": "./directors/RidleyScott.jpg",
     "imdb": "https://www.imdb.com/name/nm0000631/"
   }],
   "actors": [{
