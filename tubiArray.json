@@ -948,40 +948,6 @@
 }
 ,
 
-{
-  "item": 1234,
-  "year": 1992,
-  "title": "Unforgiven",
-  "runtime": 131,
-  "mpaa": "R",
-  "description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.",
-  "genre": ["western", "drama"],
-  "director": [{
-    "name": "Clint Eastwood",
-    "image": "./directors/ClintEastwood.png",
-    "imdb": "https://www.imdb.com/name/nm0000142/"
-  }],
-  "actors": [{
-    "name": "Clint Eastwood",
-    "image": "./directors/ClintEastwood.png",
-    "imdb": "https://www.imdb.com/name/nm0000142/"
-  }, {
-    "name": "Gene Hackman",
-    "image": "./actors/GeneHackman.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000432/"
-  }, {
-    "name": "Morgan Freeman",
-    "image": "./actors/MorganFreeman.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000151/"
-  }, {
-    "name": "Richard Harris",
-    "image": "https://focus.independent.ie/thumbor/YGCRU4WiTAXnM9mEE4LeFOLxWbw=/0x630:1426x1416/960x640/prod-mh-ireland/3fb5f912-c0b8-11ed-8752-0210609a3fe2.JPG",
-    "imdb": "https://www.imdb.com/name/nm0001321/"
-  }],
-  "link": "https://tubitv.com/movies/680865",
-  "poster": "./posters/tubi/Unforgiven.jpg"
-},
-
 
 {
   "item": 9878,
@@ -1354,37 +1320,6 @@
   }
 ,  
 
-{    
-  "item": "98765",
-  "title": "Tucker: The Man and His Dream",
-  "year": 1988,
-  "runtime": 110,
-  "mpaa": "PG",
-  "description": "The story of Preston Tucker, the maverick car designer and his ill-fated challenge to the auto industry with his revolutionary car concept.",
-  "genre": ["biopic", "drama"],
-  "director": [{
-    "name": "Francis Ford Coppola",
-    "image": "https://media.hero-magazine.com/wp-content/uploads/2021/09/03112053/FRANCIS-FORD-COPPOLA.jpeg",
-    "imdb": "https://www.imdb.com/name/nm0000338/"
-  }],
-  "actors": [{
-    "name": "Jeff Bridges",
-      "IMDB": "./actors/JeffBridges.png",
-      "image": "https://cdn.aarp.net/content/aarpe/en/home/entertainment/celebrities/info-2023/jeff-bridges-cancer-covid-the-old-man-interview/_jcr_content/root/container_main/container_body_main/container_body1/container_body_cf/container_image/articlecontentfragment/cfimage.coreimg.50.932.png/content/dam/aarp/entertainment/celebrities/2023/05/1140-jeff-bridges-sitting.png"
-  }, {
-    "name": "Joan Allen",
-    "image": "https://i.guim.co.uk/img/media/d14a6f2f80c0bb5452c6da22435952a1055216ce/0_150_5586_3354/master/5586.jpg?width=465&dpr=1&s=none",
-    "imdb": "https://www.imdb.com/name/nm0000261/"
-  }, {
-    "name": "Martin Landau",
-    "image": "https://variety.com/wp-content/uploads/2014/06/martin-landau-dead.jpg",
-    "imdb": "https://www.imdb.com/name/nm0001445/"
-  }],
-  "link": "https://tubitv.com/movies/465331/tucker-the-man-and-his-dream",
-  "poster": "./posters/tubi/TuckerTheManAndHisDream.jpeg"
-}
-,
-
   {
     "item": 6543,
     "title": "A Woman, a Gun, and a Noodle Shop",
@@ -1497,48 +1432,6 @@
     "link": "https://tubitv.com/movies/465326/reservoir-dogs"
   },
 
-  {
-    "item": 5678,
-    "title": "Little Nicky",
-    "year": 2000,
-    "description": "In a perfect world, he'd be happy to head-bang in his room all day to heavy metal music. But no, his mom is an angel, his old man is the devil, and like all good fathers, he insists that Nicky get involved in the family business. Nicky could think of 666 things he'd rather be doing than corrupting souls or spewing evil, but when his father's command over Hades is threatened by his bullying older brothers, it's up to unbalanced Nicky to restore the balance between Good and Evil on earth.",
-    "runtime": 90,
-    "mpaa": "PG-13",
-    "genre": ["comedy", "fantasy", "horror"],
-    "director": [
-      {
-        "name": "Steven Brill",
-        "IMDB": "https://www.imdb.com/name/nm0109555/",
-        "image": "https://m.media-amazon.com/images/M/MV5BNTYzNTMyNjA1N15BMl5BanBnXkFtZTYwNjkyODU3._V1_.jpg"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Adam Sandler",
-        "IMDB": "./actors/AdamSandler.jpeg",
-        "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/09/1140-adam-sandler-basketball.jpg"
-      },
-      {
-        "name": "Patricia Arquette",
-        "IMDB": "https://www.imdb.com/name/nm0000099/",
-        "image": "https://cdn.britannica.com/15/185915-050-BB225441/Patricia-Arquette-Boyhood-Richard-Linklater.jpg"
-      },
-      {
-        "name": "Harvey Keitel",
-      "image": "https://static.timesofisrael.com/www/uploads/2021/06/6-25-21-harvey-keitel.jpeg",
-      "imdb": "https://www.imdb.com/name/nm0000172/"
-      },
-      {
-        "name": "Rhys Ifans",
-        "IMDB": "https://www.imdb.com/name/nm0406975/",
-        "image": "https://www.toledoblade.com/image/2010/11/05/1140x_a10-7_cTC/Rhys-Ifans.jpg"
-      }
-    ],
-    "poster": "./posters/max/LittleNicky.jpg",
-    "link": "https://tubitv.com/movies/581905/little-nicky"
-  }
-  
-,
   {
     "item": 4192,
     "title": "Lolita",

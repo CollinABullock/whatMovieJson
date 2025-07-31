@@ -1200,39 +1200,6 @@
 		]
 	},
 	{
-		"item": "9",
-		"title": "Desperado",
-		"year": 1995,
-		"runtime": 104,
-		"link": "https://www.netflix.com/watch/437266?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C%2CVideo%3A437266%2CdetailsPagePlayButton",
-		"description": "To avenge the death of his girlfriend, a mysterious guitar player hunts down the villainous drug lord responsible and forces him to face the music.",
-		"genre": [
-			"action",
-			"sequel"
-		],
-		"mpaa": "R",
-		"poster": "./posters/netflix/Desperado.jpg",
-		"director": [
-			{
-				"name": "Robert Rodriguez",
-				"image": "/directors/RobertRodriguez.jpeg",
-				"imdb": "https://www.imdb.com/name/nm0001675/"
-			}
-		],
-		"actors": [
-			{
-				"name": "Antonio Banderas",
-				"image": "https://www.undp.org/sites/g/files/zskgke326/files/styles/image_with_credit_caption_1392_x_651_/public/2021-05/shutterstock-Antonio-Banderas-95326390.jpg?itok=g_85lbar",
-				"imdb": "https://www.imdb.com/name/nm0000104/?ref_=fn_al_nm_1"
-			},
-			{
-				"name": "Salma Hayek",
-				"image": "https://hips.hearstapps.com/hmg-prod/images/salma-hayek-attends-the-2023-academy-museum-gala-at-academy-news-photo-1702312165.jpg?crop=1xw:0.45xh;center,top",
-				"imdb": "https://www.imdb.com/name/nm0000161/"
-			}
-		]
-	},
-	{
 		"item": "10",
 		"title": "The Woman King",
 		"year": 2022,
@@ -2618,44 +2585,6 @@
 		]
 	},
 	{
-		"item": "36",
-		"title": "My Best Friend's Wedding",
-		"year": 1997,
-		"runtime": 104,
-		"mpaa": "PG-13",
-		"poster": "./posters/netflix/MyBestFriendsWedding.jpg",
-		"description": "Food critic Julianne does her sneaky best to sabotage her pal Michael's wedding to a wealthy college student after realizing she wants him for herself.",
-		"genre": [
-			"comedy",
-			"romance"
-		],
-		"link": "https://www.netflix.com/title/1154359",
-		"director": [
-			{
-				"name": "PJ Hogan",
-				"image": "https://thereelbits.com/wp-content/uploads/2012/09/pj-hogan001f.jpeg",
-				"imdb": "https://www.imdb.com/name/nm0389591/?ref_=tt_ov_dr"
-			}
-		],
-		"actors": [
-			{
-				"name": "Julia Roberts",
-				"image": "./actors/JuliaRoberts.jpg",
-				"imdb": "https://www.imdb.com/name/nm0000210/?ref_=tt_ov_st"
-			},
-			{
-				"name": "Cameron Diaz",
-				"image": "https://nationaltoday.com/wp-content/uploads/2022/10/42-Cameron-Diaz-1200x834.jpg",
-				"imdb": "https://www.imdb.com/name/nm0000139/?ref_=tt_ov_st"
-			},
-			{
-				"name": "Rupert Everett",
-				"image": "https://www.washingtonblade.com/content/files/2020/10/Rupert_Everett_in_Another_Country_insert_courtesy_20th_Century_Fox.jpg",
-				"imdb": "https://www.imdb.com/name/nm0000391/?ref_=tt_cl_t_4"
-			}
-		]
-	},
-	{
 		"item": "37",
 		"title": "She's All That",
 		"year": 1998,
@@ -3020,40 +2949,6 @@
 				"name": "Ethan Hawke",
 				"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTY_Cck_wjMxiCBBh9Jni8vqQryFpv5XXSiWkrUU5EngmkTMF8e",
 				"imdb": "https://www.imdb.com/name/nm0000160/"
-			}
-		]
-	},
-	{
-		"item": "46",
-		"title": "Gravity",
-		"runtime": 90,
-		"mpaa": "PG-13",
-		"year": 2013,
-		"poster": "./posters/netflix/Gravity.jpg",
-		"description": "When debris destroys their shuttle, a medical engineer and a seasoned astronaut find themselves floating through space with no connection to Earth.",
-		"genre": [
-			"drama",
-			"thriller",
-			"science-fiction"
-		],
-		"link": "https://www.netflix.com/title/70274337",
-		"director": [
-			{
-				"name": "Alfonso Cuarón",
-				"image": "./directors/AlfonsoCuaron.jpeg",
-				"imdb": "https://www.imdb.com/name/nm0190859/"
-			}
-		],
-		"actors": [
-			{
-				"name": "Sandra Bullock",
-				"image": "https://media.vanityfair.com/photos/623353678ca53d3267e25b7c/16:9/w_3599,h_2024,c_limit/1384684341",
-				"imdb": "https://www.imdb.com/name/nm0000113/?ref_=tt_cl_t_1"
-			},
-			{
-				"name": "George Clooney",
-				"image": "./actors/GeorgeClooney.jpeg",
-				"imdb": "https://www.imdb.com/name/nm0000123/"
 			}
 		]
 	},
@@ -5754,37 +5649,6 @@
 		"poster": "https://img3.hulu.com/user/v3/artwork/0a4bb7b8-38e2-4fa6-996f-aba0215715f6?base_image_bucket_name=image_manager&base_image=2fcd918a-55b9-42cf-863f-8bf490785877&region=US&format=jpeg&size=952x536",
 		"link": "https://www.hulu.com/movie/0a4bb7b8-38e2-4fa6-996f-aba0215715f6"
 	},
-
-	{    
-  "item": "13579",
-  "title": "The Beguiled",
-	"year": 2017,
-  "runtime": 93,
-  "mpaa": "R",
-  "description": "The unexpected arrival of a wounded Union soldier at a girls' school in Virginia during the American Civil War leads to jealousy and betrayal.",
-  "genre": ["drama", "thriller", "history"],
-  "director": [{
-    "name": "Sofia Coppola",
-    "image": "./directors/SofiaCoppola.webp",
-    "imdb": "https://www.imdb.com/name/nm0001068/"
-  }],
-  "actors": [{
-    "name": "Colin Farrell",
-    "image": "https://media.gq.com/photos/640a2eabb23c94f6f8a2bd56/master/pass/farrel.jpg",
-    "imdb": "https://www.imdb.com/name/nm0268199/"
-  }, {
-    "name": "Nicole Kidman",
-    "image": "https://people.com/thmb/CYupHVjs1LsRpXc-ojVsVmTkmsI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(699x0:701x2)/nicole-kidman-oscars-night-mag-rollout-122823-tout-e3cb25f4b8234d0d956f99f8b59fd1ee.jpg",
-    "imdb": "https://www.imdb.com/name/nm0000173/"
-  }, {
-    "name": "Kirsten Dunst",
-				"image": "https://people.com/thmb/t0tfzxEbftdvKZxRNNfDYz_u-ps=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(809x274:811x276)/kirsten-dunst-4c8ebd76adbd4eb2931f5c455c5be858.jpg",
-				"imdb": "https://www.imdb.com/name/nm0000379/"
-  }],
-  "link": "https://www.netflix.com/title/80164400",
-  "poster": "./posters/netflix/TheBeguiled.jpg"
-}
-,
 
 	{
 		"item": 1234,

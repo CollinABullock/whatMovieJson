@@ -889,49 +889,6 @@
     "poster": "https://img2.hulu.com/user/v3/artwork/d0847c30-5387-4c14-84aa-e1ad1d71a760?base_image_bucket_name=image_manager&base_image=f01fd77a-2c17-47d8-9489-35139b3f5046&size=1200x630&format=jpeg"
   },
   {
-    "item": 434,
-    "title": "Nymphomaniac: Part 1",
-    "year": 2013,
-    "runtime": 117,
-    "mpaa": "NC-17",
-    "poster": "https://img1.hulu.com/user/v3/artwork/2e78760f-ae5d-465d-afe2-302f447b9c4a?base_image_bucket_name=image_manager&base_image=83a9fe43-db73-4032-9f8e-a0c4632c3cbd&size=600x338&format=jpeg",
-    "description": "Delve into the provocative and controversial world of Joe, a self-diagnosed nymphomaniac, as she recounts her erotic experiences to a stranger after being found beaten in an alley. Director Lars von Trier crafts a visually stunning and emotionally charged exploration of sexuality, desire, and human connection.",
-    "genre": [
-      "drama",
-      "foreign"
-    ],
-    "link": "https://www.hulu.com/movie/nymphomaniac-volume-i-extended-directors-cut-2e78760f-ae5d-465d-afe2-302f447b9c4a",
-    "director": [
-      {
-        "name": "Lars von Trier",
-        "image": "https://media.newyorker.com/photos/638785b12d5d9a5ef49876c5/3:2/w_1500,h_1000,c_limit/Nayman-Von-Trier.jpg",
-        "imdb": "https://www.imdb.com/name/nm0001885/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Charlotte Gainsbourg",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/08/Charlotte-Gainsbourg-Getty-1382390655-Carlos-Alvarez_Getty-Images.jpg",
-        "imdb": "https://www.imdb.com/name/nm0001251/"
-      },
-      {
-        "name": "Stellan Skarsgård",
-        "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1600/fl_lossy,q_auto/v1618385638/210409-stern-Stellan-Skarsgard-tease_kf7hql",
-        "imdb": "https://www.imdb.com/name/nm0001745/"
-      },
-      {
-        "name": "Shia Labeouf",
-        "image": "https://media.gq.com/photos/5f4952b38dc8847e289114e8/4:3/w_1024%2Cc_limit/GQ-Shia-Grooming-082820.jpeg",
-        "imdb": "https://www.imdb.com/name/nm0479471/?ref_=nv_sr_srsg_0_tt_2_nm_6_q_shia%2520leb"
-      },
-      {
-        "name": "Christian Slater",
-        "image": "https://m.media-amazon.com/images/M/MV5BMzZmMWJmZmMtMDBjYi00NTFiLWI3ZWYtOTA4NWMwMDg5NjFlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000225/"
-      }
-    ]
-  },
-  {
     "item": 435,
     "title": "Benedetta",
     "year": 2021,
@@ -1591,51 +1548,6 @@
         "name": "James Doohan",
         "image": "https://images.prismic.io/star-trek-untold/OGVhYTBlNGEtNzA3Ny00NTQ2LTljYTMtYjQ4NzBmODdhM2Ey_09a69de15cf89bc7fe8c0642f906a4dd.jpg?auto=compress,format&rect=0,0,2800,1178&w=2800&h=1178",
         "imdb": "https://www.imdb.com/name/nm0001149/"
-      }
-    ]
-  },
-  {
-    "item": 350,
-    "title": "X-Men Origins: Wolverine",
-    "year": 2009,
-    "runtime": 107,
-    "mpaa": "PG-13",
-    "poster": "https://img2.hulu.com/user/v3/artwork/82480f3f-6f11-4feb-8c4e-b32c0aca2c53?base_image_bucket_name=image_manager&base_image=7b56e1f7-c32e-41b8-bd56-64317821bf0a&size=600x338&format=jpeg",
-    "description": "This movie explores the backstory of the popular Marvel Comics character Wolverine, also known as Logan. It follows Logan's journey from his childhood as James Howlett, through his time serving in various wars, to his transformation into the mutant with adamantium claws. As Logan navigates a world filled with mutants and government conspiracies, he must confront his past and the dark forces that seek to control him.",
-    "genre": [
-      "action",
-      "adventure",
-      "science-fiction",
-      "comic-book"
-    ],
-    "link": "https://www.hulu.com/movie/x-men-origins-wolverine-82480f3f-6f11-4feb-8c4e-b32c0aca2c53",
-    "director": [
-      {
-        "name": "Gavin Hood",
-        "image": "https://vz.cnwimg.com/wp-content/uploads/2020/04/gh.jpg",
-        "imdb": "https://www.imdb.com/name/nm0390860/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Hugh Jackman",
-        "image": "https://media.gq.com/photos/58b9fda8803bdb766dd69ef7/16:9/w_1280,c_limit/wolverine.jpg",
-        "imdb": "https://www.imdb.com/name/nm0413168/"
-      },
-      {
-        "name": "Liev Schreiber",
-        "image": "https://media.npr.org/assets/img/2022/05/21/gettyimages-1397792718_custom-b735c82cb9285bbf005799ddac6623ad27a80d3f.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000630/"
-      },
-      {
-        "name": "Danny Huston",
-        "image": "https://m.media-amazon.com/images/M/MV5BZmNmYmY1ZjgtOTc1My00M2M1LTgxYmMtYTNkYmUwZDRkNDhiXkEyXkFqcGdeQWRpZWdtb25n._V1_QL75_UX500_CR0,0,500,281_.jpg",
-        "imdb": "https://www.imdb.com/name/nm0001379/"
-      },
-      {
-        "name": "Lynn Collins",
-        "image": "https://facts.net/wp-content/uploads/2023/10/25-surprising-facts-about-lynn-collins-1698199447.jpg",
-        "imdb": "https://www.imdb.com/name/nm0178956/"
       }
     ]
   },
@@ -3829,50 +3741,6 @@
     "link": "https://www.hulu.com/movie/me-myself-irene-4fdd5fc4-eb4f-43cd-8a4f-149b4117c94e"
   },
   {
-    "item": 397,
-    "title": "Masterminds",
-    "year": 2015,
-    "runtime": 95,
-    "mpaa": "PG-13",
-    "poster": "https://img1.hulu.com/user/v3/artwork/a8010702-21f2-4900-b96b-4d616dbc5039?base_image_bucket_name=image_manager&base_image=c458d7e4-918b-4d42-aadb-4f7e1437eaba&size=600x338&format=jpeg",
-    "description": "Based on the true story of the 1997 Loomis Fargo robbery, this comedy follows David Ghantt, a naive armored car driver, who is persuaded by his work crush and her accomplices to steal $17 million.",
-    "genre": [
-      "action",
-      "comedy",
-      "crime"
-    ],
-    "link": "https://www.hulu.com/movie/masterminds-a8010702-21f2-4900-b96b-4d616dbc5039",
-    "director": [
-      {
-        "name": "Jared Hess",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTI0ODkwODY2OV5BMl5BanBnXkFtZTYwODExNjA3._V1_.jpg",
-        "imdb": "https://www.imdb.com/name/nm0382706/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Zach Galifianakis",
-        "image": "https://m.media-amazon.com/images/M/MV5BNjc5ZTY5NGItY2JiMC00OGFjLWI5YjAtNmIwYzYxZmFlZjU2XkEyXkFqcGdeQWxpenpp._V1_QL75_UX500_CR0,0,500,281_.jpg",
-        "imdb": "https://www.imdb.com/name/nm0302108/"
-      },
-      {
-        "name": "Owen Wilson",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2021/08/GettyImages-1328382839-H-2021.jpg?w=1296",
-        "imdb": "https://www.imdb.com/name/nm0005562/"
-      },
-      {
-        "name": "Kristen Wiig",
-        "image": "https://people.com/thmb/0dDxscDgChqOghle1f4GF2tzVKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(937x499:939x501)/kristen-wiig-1-a6ece2c7e8d943b6b5c93be0a25878f1.jpg",
-        "imdb": "https://www.imdb.com/name/nm1325419/?ref_=nv_sr_srsg_0_tt_2_nm_6_q_kristen%2520wi"
-      },
-      {
-        "name": "Jason Sudeikis",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjI4OGZjYmQtMWMwYi00NTcwLWFhYWMtYzVmMWE4NzJlZWE5XkEyXkFqcGdeQXJoYW5uYWg@._V1_QL75_UX500_CR0,0,500,281_.jpg",
-        "imdb": "https://www.imdb.com/name/nm0837177/"
-      }
-    ]
-  },
-  {
     "item": 8779,
     "title": "Napoleon Dynamite",
     "year": 2004,
@@ -4334,45 +4202,6 @@
         "name": "Timothy Spall",
         "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRoP4j8oDNBRbHisogJbZaHKNTS1_4lsHhmXM_I8LLjkYxavlhuxmvBHu1UZNorTYfGfwUm82KQeCcDx9Q",
         "imdb": "https://www.imdb.com/name/nm0001758/"
-      }
-    ]
-  },
-  {
-    "item": 405,
-    "title": "Hustlers",
-    "year": 2019,
-    "runtime": 110,
-    "mpaa": "R",
-    "poster": "https://img2.hulu.com/user/v3/artwork/a03d28ac-90ef-4e75-8f40-081a52e85f20?base_image_bucket_name=image_manager&base_image=7f9274cd-b3fe-4fd9-8d1d-445774deafc7&size=600x338&format=jpeg",
-    "description": "Inspired by a true story, Hustlers follows a group of savvy former strip club employees who band together to turn the tables on their wealthy Wall Street clients.",
-    "genre": [
-      "comedy",
-      "crime",
-      "drama"
-    ],
-    "link": "https://www.hulu.com/movie/hustlers-a03d28ac-90ef-4e75-8f40-081a52e85f20",
-    "director": [
-      {
-        "name": "Lorene Scafaria",
-        "image": "https://people.com/thmb/YKreSi-Fip_9a_myd1oEF06LIU4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x584:1001x586)/bo-burnham-lorene-scafaria-1-2910f458f38e4a7fb2ea7267348c6def.jpg",
-        "imdb": "https://www.imdb.com/name/nm1032817/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Constance Wu",
-        "image": "https://deadline.com/wp-content/uploads/2021/09/thumbnail_CW-Headshot-Mark-Seigler-e1631637017782.jpeg",
-        "imdb": "https://www.imdb.com/name/nm1935086/"
-      },
-      {
-        "name": "Jennifer Lopez",
-        "image": "https://variety.com/wp-content/uploads/2024/02/Jennifer-Lopez-Variety-Cover-Story-1.jpg?crop=0px%2C178px%2C1918px%2C1080px&resize=1920%2C1080",
-        "imdb": "https://www.imdb.com/name/nm0000182/?ref_=tt_cl_t_2"
-      },
-      {
-        "name": "Julia Stiles",
-        "image": "https://ew.com/thmb/IxgG-FFcCnrGllHigRoo_8F-tao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/julia-stiles_0-79f4c55fe38f437cbc6d96d4cdc92386.jpg",
-        "imdb": "https://www.imdb.com/name/nm0005466/"
       }
     ]
   },

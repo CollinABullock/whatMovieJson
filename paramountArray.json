@@ -1210,49 +1210,6 @@
     "link": "https://www.paramountplus.com/movies/video/qj0TF24D0De_IPBRn8Y9Xthpg1GG4Vsa/"
   },
   {
-    "item": 1234,
-    "title": "Inside Llewyn Davis",
-    "year": 2013,
-    "description": "In 1961 New York City, folk singer Llewyn Davis (Oscar Isaac) is at a crossroads. Guitar in hand, he struggles against seemingly insurmountable obstacles to make a name for himself in the music world, but so far, success remains elusive. Relying on the kindness of both friends and strangers, Llewyn embarks on an odyssey that takes him from the streets of Greenwich Village to a Chicago club, where awaits a music mogul who could give him the big break that he desperately needs.",
-    "runtime": 104,
-    "mpaa": "R",
-    "genre": ["drama", "music", "history", "comedy"],
-    "director": [
-      {
-        "name": "Ethan Coen",
-        "IMDB": "https://www.imdb.com/name/nm0001054/",
-        "image": "./public/directors/EthanCoen.webp"
-      },
-      {
-        "name": "Joel Coen",
-        "IMDB": "https://www.imdb.com/name/nm0001053/",
-        "image": "./directors/JoelCoen.jpg"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Oscar Isaac",
-        "IMDB": "https://www.imdb.com/name/nm1209966/",
-        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-240719-R1262_FEA_Oscar_Isaac_A.jpg"
-      },
-      {
-        "name": "Carey Mulligan",
-        "IMDB": "https://www.imdb.com/name/nm1659547/",
-        "image": "https://media.wkyc.com/assets/ETONLINE/images/1a7f7a7a-5176-42ef-ad67-7970ef1fc2a7/1a7f7a7a-5176-42ef-ad67-7970ef1fc2a7_1140x641.jpg"
-      },
-      {
-        "name": "John Goodman",
-        "IMDB": "https://www.imdb.com/name/nm0000422/",
-        "image": "https://www.ultimatemovierankings.com/wp-content/uploads/2016/06/goodman-22222.jpg"
-      },
-      {      "name": "Adam Driver",
-      "image": "./actors/AdamDriver.jpeg",
-      "imdb": "https://www.imdb.com/name/nm3485845/"}
-    ],
-    "poster": "./posters/paramount/InsideLlewynDavis.jpg",
-    "link": "https://www.paramountplus.com/movies/video/Pj3cmn_kRPxf0lJqmtudM5vIV4tXX1yR/"
-  },
-  {
     "item": 5678,
     "title": "Miller's Crossing",
     "year": 1990,

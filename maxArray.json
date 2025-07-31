@@ -526,51 +526,6 @@
     ]
   },
   {
-    "item": 334,
-    "title": "Smallfoot",
-    "year": 2018,
-    "runtime": 96,
-    "mpaa": "PG",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/7933961a-b64e-4c42-8d5b-ddec6d51f03a/fbe3e3ec4ab70782598133b57ddbcaabe544face.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
-    "description": "In 'Smallfoot', an animated adventure-comedy film directed by Karey Kirkpatrick, follows the story of a yeti named Migo who encounters a human, known as a 'smallfoot', despite the yeti community's belief that humans are mythical creatures. Determined to prove the existence of smallfoots, Migo embarks on a journey to the human world, where he discovers a whole new perspective on life. 'Smallfoot' is a heartwarming tale about friendship, courage, and the importance of questioning assumptions.",
-    "genre": [
-      "animation",
-      "comedy",
-      "adventure",
-      "kids"
-    ],
-    "link": "https://www.max.com/movies/smallfoot/7933961a-b64e-4c42-8d5b-ddec6d51f03a",
-    "director": [
-      {
-        "name": "Karey Kirkpatrick",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjAwOTYwMTU4M15BMl5BanBnXkFtZTcwMTc0MjA2Mg@@._V1_.jpg",
-        "imdb": "https://www.imdb.com/name/nm0456292/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Channing Tatum",
-        "image": "https://images.wsj.net/im-721591?width=1280&size=1.33333333",
-        "imdb": "https://www.imdb.com/name/nm1475594/"
-      },
-      {
-        "name": "James Corden",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/240125134441-01-james-corden-2023-file.jpg?c=16x9&q=h_833,w_1480,c_fill",
-        "imdb": "https://www.imdb.com/name/nm0179479/"
-      },
-      {
-        "name": "Zendaya",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/zendaya-attends-the-dune-part-two-premiere-at-lincoln-news-photo-1708942668.jpg?crop=1xw:0.44055xh;center,top",
-        "imdb": "https://www.imdb.com/name/nm3918035/"
-      },
-      {
-        "name": "Common",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/common_photo_by_maarten_de_boer_getty_images_entertainment_getty_461469844.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
-        "imdb": "https://www.imdb.com/name/nm0179599/"
-      }
-    ]
-  },
-  {
     "item": 3456,
     "year": 2013,
     "title": "The Family",
@@ -3959,45 +3914,6 @@
     ]
   },
   {
-    "item": "151",
-    "title": "Bulletproof Monk",
-    "year": 2003,
-    "runtime": 104,
-    "mpaa": "PG-13",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/dcb25ca1-2109-45df-bb02-884e6a1e65ee/052732a781e2aad18919a15ef0b40838d086a0b8.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
-    "description": "A mysterious Tibetan monk protects an ancient scroll that holds the key to unlimited power. He is joined by a streetwise young man as they embark on an adventure to keep the scroll out of the hands of an evil Nazi seeking to use its power for his own nefarious purposes.",
-    "genre": [
-      "action",
-      "comedy",
-      "fantasy"
-    ],
-    "link": "https://play.max.com/video/watch/cdf43a27-3e8a-43d6-8780-e4aebc9b1774/36da8d09-aa1f-4f92-952b-0d3944299cba",
-    "director": [
-      {
-        "name": "Paul Hunter",
-        "image": "https://s3.amazonaws.com/images.imvdb.com/entities/paul-hunter/paul-hunter-music-videos.jpg",
-        "imdb": "https://www.imdb.com/name/nm0402821/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Chow Yun-fat",
-        "image": "https://data.nextshark.com/wp-content/uploads/2023/09/Chow-Yun-fat.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000334/"
-      },
-      {
-        "name": "Seann William Scott",
-        "image": "https://www.usmagazine.com/wp-content/uploads/2023/05/Sean-William-Scott-Dishes-On-the-Possibility-of-Reprising-His-American-Pie-Role-1.jpg?crop=0px%2C148px%2C1419px%2C746px&resize=1200%2C630&quality=86&strip=all",
-        "imdb": "https://www.imdb.com/name/nm0005405/"
-      },
-      {
-        "name": "Jaime King",
-        "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2023027/rs_1200x1200-230127101433-1200-Jaime-King-LT-012723.jpg?fit=around%7C660:372&output-quality=90&crop=660:372;center,top",
-        "imdb": "https://www.imdb.com/name/nm0005094/"
-      }
-    ]
-  },
-  {
     "item": 17171,
     "title": "Pygmalion",
     "year": 1938,
@@ -4761,45 +4677,6 @@
     ]
   },
   {
-    "item": 169,
-    "title": "From Dusk Till Dawn",
-    "year": 1996,
-    "runtime": 108,
-    "mpaa": "R",
-    "poster": "./posters/max/FromDuskTilDawn.avif",
-    "description": "Two criminal brothers, Seth and Richard Gecko, are on the run to Mexico after a series of heists. They seek refuge at a strip club, only to discover that it's populated by vampires. The brothers must join forces with the survivors to fend off the bloodthirsty creatures until dawn.",
-    "genre": [
-      "action",
-      "horror",
-      "crime"
-    ],
-    "link": "https://play.max.com/video/watch/faffcb8f-e137-4910-b91f-0ca658acc965/4ee0e181-3bfd-40d1-b787-d4ef8490cdb1",
-    "director": [
-      {
-        "name": "Robert Rodriguez",
-        "image": "./directors/RobertRodriguez.jpeg",
-        "imdb": "https://www.imdb.com/name/nm0001675/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "George Clooney",
-        "image": "./actors/GeorgeClooney.jpeg",
-        "imdb": "https://www.imdb.com/name/nm0000123/"
-      },
-      {
-        "name": "Quentin Tarantino",
-        "image": "./directors/QuentinTarantino.jpeg",
-        "imdb": "https://www.imdb.com/name/nm0000233/"
-      },
-      {
-        "name": "Harvey Keitel",
-        "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/896/500/keitel-getty.jpg?ve=1&tl=1",
-        "imdb": "https://www.imdb.com/name/nm0000172/"
-      }
-    ]
-  },
-  {
     "item": 170,
     "title": "Seven",
     "year": 1995,
@@ -5073,44 +4950,6 @@
       }
     ]
   },
-  {
-    "item": 178,
-    "title": "Mad Max: Fury Road",
-    "year": 2015,
-    "runtime": 120,
-    "mpaa": "R",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8cde025a-223d-4879-9336-3d5f6c9d0c55/844c4fe8d1b5a41bc26aed689f7304f1df812ca1.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
-    "description": "In a post-apocalyptic wasteland, Max teams up with a mysterious woman, Furiosa, to flee from a tyrannical warlord and his army in an armored truck.",
-    "genre": [
-      "action",
-      "science-fiction"
-    ],
-    "link": "https://play.max.com/video/watch/20ad7c25-cba0-49f5-af53-9cabeb0a8224/fba5c86f-e6b1-439f-9480-6ca19441ccf4",
-    "director": [
-      {
-        "name": "George Miller",
-        "image": "./directors/GeorgeMiller.webp",
-        "imdb": "https://www.imdb.com/name/nm0004306/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Tom Hardy",
-        "image": "https://media.gq.com/photos/632b4e9763f2eae5a8460f51/16:9/w_2560%2Cc_limit/1340297096",
-        "imdb": "https://www.imdb.com/name/nm0362766/"
-      },
-      {
-        "name": "Charlize Theron",
-        "image": "https://variety.com/wp-content/uploads/2023/08/GettyImages-1490338443-e1692731846946.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000234/"
-      },
-      {
-        "name": "Nicholas Hoult",
-        "image": "https://variety.com/wp-content/uploads/2023/11/GettyImages-1441516832-e1700522245342.jpg",
-        "imdb": "https://www.imdb.com/name/nm0396558/"
-      }
-    ]
-  },
 
   {
     "item": 4732,
@@ -5261,39 +5100,6 @@
         "name": "Oscar Isaac",
         "image": "https://hips.hearstapps.com/hmg-prod/images/esq040122oscarisaac-013-1648234727.jpg",
         "imdb": "https://www.imdb.com/name/nm1209966/"
-      }
-    ]
-  },
-  {
-    "item": 182,
-    "title": "After Earth",
-    "year": 2013,
-    "runtime": 100,
-    "mpaa": "PG-13",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e8042796-7a15-4cb7-b784-d237e81626fb/2794b4614b4d62fdf5a4ab82b1f07df42141dd22.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
-    "description": "Set in a future where Earth has become uninhabitable, 'After Earth' follows the journey of General Cypher Raige and his son Kitai as they crash-land on the planet. With Cypher critically injured, Kitai must embark on a perilous journey across the hostile terrain to signal for help and save both of their lives. As Kitai faces dangerous creatures and environmental hazards, he also grapples with his own fears and insecurities.",
-    "genre": [
-      "action",
-      "science-fiction"
-    ],
-    "link": "https://play.max.com/movie/e8042796-7a15-4cb7-b784-d237e81626fb",
-    "director": [
-      {
-        "name": "M. Night Shyamalan",
-        "image": "./public/directors/MNightShymalan.jpg",
-        "imdb": "https://www.imdb.com/name/nm0796117/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Will Smith",
-        "image": "https://m.media-amazon.com/images/M/MV5BMGI3OTI0NjctMjM2ZC00MjZiLWIxMjctODczN2M4MTFjZmY1XkEyXkFqcGdeQXJoYW5uYWg@._V1_QL75_UX500_CR0,0,500,281_.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Jaden Smith",
-        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/08/12/jadensmith.jpg",
-        "imdb": "https://www.imdb.com/name/nm1535523/"
       }
     ]
   },
@@ -5592,43 +5398,6 @@
         "name": "Viggo Mortensen",
         "image": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2013/03/viggo_mortensen.jpg",
         "imdb": "https://www.imdb.com/name/nm0001557/"
-      }
-    ]
-  },
-  {
-    "item": 191,
-    "title": "Robin Hood: Men in Tights",
-    "year": 1993,
-    "runtime": 104,
-    "mpaa": "PG-13",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/283535b8-42d8-4e65-8034-cfb21dcbfb93/bbcaebc9494c9481b4c8a04c372cd4efdbcf01b9.jpg?submitted=1684655380202&host=wbd-images.prod-vod.h264.io&partner=beamcom",
-    "description": "Robin of Loxley returns from the Crusades to find his homeland under the tyrannical rule of the Sheriff of Rottingham. With the help of his band of merry men, including Little John, Blinkin, and Will Scarlet, Robin sets out to thwart the Sheriff's plans and restore peace to the kingdom.",
-    "genre": [
-      "comedy"
-    ],
-    "link": "https://play.max.com/video/watch/05ca6f71-a1bb-4985-b4f5-8d36e718af08/40f1e5d1-02eb-43b9-bacd-bf271eadbe22",
-    "director": [
-      {
-        "name": "Mel Brooks",
-        "image": "./directors/MelBrooks.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000316/?ref_=tt_ov_dr"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Cary Elwes",
-        "image": "https://m.media-amazon.com/images/G/01/IMDb/carye_v1_1248x702._CB1562790284_.JPG",
-        "imdb": "https://www.imdb.com/name/nm0000144/"
-      },
-      {
-        "name": "Richard Lewis",
-        "image": "https://www.indiewire.com/wp-content/uploads/2024/02/Richard-Lewis.jpg?w=600&h=337&crop=1",
-        "imdb": "https://www.imdb.com/name/nm0507659/"
-      },
-      {
-        "name": "Dave Chappelle",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-12/231231-dave-chappelle-netflix-wm-1033a-6bb25a.jpg",
-        "imdb": "https://www.imdb.com/name/nm0152638/"
       }
     ]
   },
@@ -6018,44 +5787,6 @@
         "name": "Whoopi Goldberg",
         "image": "https://variety.com/wp-content/uploads/2021/04/Whoopi-Goldberg-Variety-Cover-Story-3-16x9-1.jpg?w=1920&h=1080&crop=1",
         "imdb": "https://www.imdb.com/name/nm0000155/"
-      }
-    ]
-  },
-  {
-    "item": 199,
-    "title": "Road House",
-    "year": 1989,
-    "runtime": 114,
-    "mpaa": "R",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/a93af03d-6423-4915-bc20-546abdd63f74/a76c064e56ba293e0288827e8fb594a6c37afcac.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
-    "description": "In 'Road House', Dalton, a tough and enigmatic bouncer, is hired to clean up the Double Deuce, a rowdy bar in a small town. As Dalton takes on the task of restoring order to the chaotic establishment, he faces off against a ruthless businessman and his henchmen who are determined to maintain control. With his martial arts skills and no-nonsense attitude, Dalton becomes a legendary figure in the world of bouncers.",
-    "genre": [
-      "action",
-      "thriller"
-    ],
-    "link": "https://play.max.com/movie/a93af03d-6423-4915-bc20-546abdd63f74",
-    "director": [
-      {
-        "name": "Rowdy Herrington",
-        "image": "https://m.media-amazon.com/images/M/MV5BZDcxZWZlYWItNjZiOS00NWQ3LWI3OTMtNzYwMWRkNTUwNjU4XkEyXkFqcGdeQXVyMTM2MzU3MTc1._V1_.jpg",
-        "imdb": "https://www.imdb.com/name/nm0378544/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Patrick Swayze",
-        "image": "https://i.ytimg.com/vi/qYQCmORLong/maxresdefault.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000664/"
-      },
-      {
-        "name": "Kelly Lynch",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2ScCmwKki-Wl2pgz5-HTHnnPaUJSXMXPZ6VNuG6nSoJG4a-vnl4lbe2194_kDbzwLIs5nUEPjd-uX5OD1KuJ27JMx5rmt-Dz_syVmjwiGmONWYUd36xgredjPFRQ9bDLkeyVsNg/w1200-h630-p-k-no-nu/kellylynch_89.jpg",
-        "imdb": "https://www.imdb.com/name/nm0001488/"
-      },
-      {
-        "name": "Sam Elliott",
-        "image": "https://i.ytimg.com/vi/tf6ho5nN8v0/sddefault.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000385/"
       }
     ]
   },
