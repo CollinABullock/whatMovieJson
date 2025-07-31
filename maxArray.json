@@ -2585,50 +2585,6 @@
     ]
   },
   {
-    "item": "9898765",
-    "title": "Sinners",
-    "year": 2003,
-    "runtime": 137,
-    "mpaa": "R",
-    "poster": "https://tva.onscreenasia.com/wp-content/uploads/2025/07/Max_Sinners_Key-art_EN_Credit-Max.jpg",
-    "description": "Trying to leave their troubled lives behind, twin brothers return to their Mississippi hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "genre": [
-      "horror",
-      "action",
-      "fantasy"
-    ],
-    "link": "https://www.hbomax.com/movies/sinners/2a072173-2bac-43ba-9933-10eba021ed96",
-    "director": [
-      {
-        "name": "Ryan Coogler",
-        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTzwt16-PpMzQrqjKDLCuSZaRWxUnQrw8JO-jzvE30Dr-OT77AKTy_llUch9A1dAxaxgP5pPWfFL8TLHAP2prtWw",
-        "imdb": "https://www.imdb.com/name/nm3363032/"
-      }
-    ],
-    "actors": [
-      {
-      "name": "Michael B. Jordan",
-      "image": "https://people.com/thmb/gy2YdKdnv-nBkuPqu0-GJZFWJ4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/michael-b-jordan-fitness-journey-071223-14e912a47276481f81bed4af3f872df8.jpg",
-      "imdb": "https://www.imdb.com/name/nm0430107/"
-      },
-      {
-        "name": "Delroy Lindo",
-        "image": "https://m.media-amazon.com/images/M/MV5BNGYyMWEyOWYtMDdlMS00YWRhLThhOWYtZTE5ZTJlM2M1MTcxXkEyXkFqcGc@._V1_.jpg",
-        "imdb": "https://www.imdb.com/name/nm0005148/"
-      },
-      {
-        "name": "Hailee Steinfeld",
-        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7F80/production/_86704623_596d8549-82ee-453b-b3f9-dd7649307887.jpg",
-        "imdb": "https://www.imdb.com/name/nm2794962/"
-      },
-      {
-        "name": "Miles Canton",
-        "image": "https://i.insider.com/6808cffd3fe8d3928363cbd9?width=700",
-        "imdb": "https://www.imdb.com/name/nm10416836/?ref_=tt_cst_t_2"
-      }
-    ]
-  },
-  {
     "item": 124,
     "title": "The Matrix:  Revolutions",
     "year": 2003,
