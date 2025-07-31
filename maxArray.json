@@ -22,9 +22,52 @@
     "actors": []
   },
   {
+    "item": "989876575",
+    "title": "The Brutalist",
+    "year": 2024,
+    "runtime": 205,
+    "mpaa": "R",
+    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/a56ccde9-e73e-430c-914b-b36af9482fe5/f49b53d4-4370-4bdf-a64a-f5e8b8b9dbb6?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "description": "Escaping postwar Europe, a visionary architect comes to America to rebuild his life, his career, and his marriage. On his own in a strange new country, he settles in Pennsylvania, where a wealthy and prominent industrialist recognises his talent.",
+    "genre": [
+      "drama",
+      "history"
+    ],
+    "link": "https://www.hbomax.com/movies/brutalist/a56ccde9-e73e-430c-914b-b36af9482fe5",
+    "director": [
+      {
+        "name": "Brady Corbet",
+        "image": "https://variety.com/wp-content/uploads/2025/02/brady.jpg?w=1000&h=667&crop=1",
+        "imdb": "https://www.imdb.com/name/nm1227232/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Adrien Brody",
+				"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKSAL0z4xf6twkyjL4m4X7l7xV7i3qENaLYKenaDWwzlCKHa0_",
+				"imdb": "https://www.imdb.com/name/nm0004778/"
+      },
+      {
+        "name": "Felicity Jones",
+				"image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSILzTQw1fGly-Zm4soNVsJlwVzsfYbiziUscHeC26bqfhEQ8Y8Xcyi-ALJzgV2JLSphL9WDsI4xIzpFm4",
+				"imdb": "https://www.imdb.com/name/nm0428065/"
+      },
+      {
+        "name": "Guy Pearce",
+				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzXcT3BKfuF0l_nE8R5nLfeGAULDsvuSFSG4YlP3ZHfn4rN3p",
+				"imdb": "https://www.imdb.com/name/nm0001602/"
+      },
+      {
+        "name": "Joe Alwyn",
+        "image": "https://s.abcnews.com/images/GMA/joe-alwyn-gty-lv-240616_1718569689631_hpEmbed_3x2_992.jpg",
+        "imdb": "https://www.imdb.com/name/nm7153679/"
+      }
+    ]
+  },
+  {
     "item": "9898765",
     "title": "Sinners",
-    "year": 2003,
+    "year": 2025,
     "runtime": 137,
     "mpaa": "R",
     "poster": "https://tva.onscreenasia.com/wp-content/uploads/2025/07/Max_Sinners_Key-art_EN_Credit-Max.jpg",
