@@ -1105,41 +1105,7 @@
 			}
 		]
 	},
-	{
-		"item": "5",
-		"title": "Meg 2: The Trench",
-		"year": 2023,
-		"mpaa": "PG-13",
-		"runtime": 115,
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXA08yhKXmcOdp-3Fz7LCCvvkGEo7J0b-p-56FJzB4V8YvoRJrLJ9KGXDeKnIm-FnNtBeBrZa_c2zffyoOimR7b_tqVc0FGIbjA.jpg?r=cd5",
-		"description": "A research team encounters multiple threats while exploring the depths of the ocean, including a malevolent mining operation.",
-		"genre": [
-			"comedy",
-			"action",
-			"science-fiction",
-			"sequel"
-		],
-		"link": "https://www.netflix.com/title/81670643",
-		"director": [
-			{
-				"name": "Ben Wheatley",
-				"image": "./directors/BenWheatley.jpg",
-				"imdb": "https://www.imdb.com/name/nm1296554/?ref_=tt_ov_dr"
-			}
-		],
-		"actors": [
-			{
-				"name": "Jason Statham",
-				"image": "https://ew.com/thmb/bbpeT-u7BO2qVG43YbrTdg9arNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/meg-fp-0002-2000-7ed63879f64c475b821774b972f82ae5.jpg",
-				"imdb": "https://www.imdb.com/name/nm0005458/?ref_=nv_sr_srsg_0_tt_3_nm_5_q_jason%2520stath"
-			},
-			{
-				"name": "Jing Wu",
-				"image": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc0NjgyOV5BMl5BanBnXkFtZTgwNDAyOTEzMjE@._V1_.jpg",
-				"imdb": "https://www.imdb.com/name/nm0943104/?ref_=tt_cl_t_2"
-			}
-		]
-	},
+
 	{
 		"item": "8",
 		"title": "Lucy",
@@ -1949,44 +1915,6 @@
 		]
 	},
 	{
-		"item": "24",
-		"title": "Lone Survivor",
-		"year": 2013,
-		"runtime": 121,
-		"mpaa": "R",
-		"poster": "https://occ-0-7091-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABbbg3Bew3zDbLq95y7dFb-NpUpr74gVza_peZnPwTcCLfX9KKxjd-mIJiR3f42WJuMfN9vSwu_xyJc4oS3HZa1tMs1z77o5pHGw.jpg?r=0f6",
-		"description": "In the mountains of Afghanistan, a Navy SEAL fights for survival after his team's top-secret mission is compromised. Based on a true story.",
-		"genre": [
-			"action",
-			"war"
-		],
-		"link": "https://www.netflix.com/title/70259795",
-		"director": [
-			{
-				"name": "Peter Berg",
-				"image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/01/peter_berg_0.jpg?w=3000",
-				"imdb": "https://www.imdb.com/name/nm0000916/?ref_=fn_al_nm_1"
-			}
-		],
-		"actors": [
-			{
-				"name": "Mark Whalberg",
-				"image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cfa3810-fdb0-4f9e-a7e1-72dca5b4e25b/73639a9e-2747-4d85-9626-edd01a17a1aa/1280x720/match/image.jpg",
-				"imdb": "https://www.imdb.com/name/nm0000242/"
-			},
-			{
-				"name": "Taylor Kitsch",
-				"image": "https://images.seattletimes.com/wp-content/uploads/2019/11/urn-publicid-ap-org-74873b2e3bff4bccb5e0a896438a8e2bTaylor_Kitsch_Portrait_Session_86121.jpg?d=2040x1360",
-				"imdb": "https://www.imdb.com/name/nm2018237/?ref_=nv_sr_srsg_0_tt_1_nm_7_q_taylor%2520kit"
-			},
-			{
-				"name": "Emile Hirsch",
-				"image": "https://ew.com/thmb/sN2bcgci0G_CIrMhXY39TMrSbrY=/800x524/filters:no_upscale():max_bytes(150000):strip_icc()/Emile-Hirsch-061623-d3d29995d627474d931af09646cb6ea6.jpg",
-				"imdb": "https://www.imdb.com/name/nm0386472/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_emile%2520hirsch"
-			}
-		]
-	},
-	{
 		"item": "25",
 		"title": "No Hard Feelings",
 		"year": 2023,
@@ -2250,39 +2178,7 @@
 			}
 		]
 	},
-	{
-		"item": "30",
-		"title": "Twins",
-		"year": 1988,
-		"runtime": 106,
-		"mpaa": "G",
-		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABVY_QnTCZXvDBeJSgy1q4zupeUOERLRjbvCuP8i2VXhJ1zEgEps9czOwJVvxu2dUdP12Iuq0DPU2Cd8Hib592ny3PqORMJaMYY0.jpg?r=40d",
-		"description": "Separated at birth after a genetic experiment gone awry, long-lost twin brothers reunite in this comedy starring Arnold Schwarzenegger and Danny DeVito",
-		"genre": [
-			"comedy",
-			"action"
-		],
-		"link": "https://www.netflix.com/title/1072091",
-		"director": [
-			{
-				"name": "Ivan Reitman",
-				"image": "https://www.syfy.com/sites/syfy/files/2022/02/gettyimages-1353504563_0.jpg",
-				"imdb": "https://www.imdb.com/name/nm0718645/?ref_=tt_ov_dr"
-			}
-		],
-		"actors": [
-			{
-				"name": "Arnold Schwarzenegger",
-				"image": "https://cdn.sanity.io/images/dm4o0ui7/production/ab8622774dfd8bc6b2107656cc1d648ff48279b3-1200x600.png",
-				"imdb": "https://www.imdb.com/name/nm0000216/?ref_=tt_ov_st"
-			},
-			{
-				"name": "Danny DeVito",
-				"image": "https://imageio.forbes.com/specials-images/imageserve/60fa1c9e5ef6dd2f9a8f0946/Danny-DeVito-at--Dumbo--European-Premiere---Red-Carpet-Arrivals/960x0.jpg?format=jpg&width=960",
-				"imdb": "https://www.imdb.com/name/nm0000362/?ref_=tt_ov_st"
-			}
-		]
-	},
+
 	{
 		"item": "31",
 		"title": "A Bad Mom's Christmas",
@@ -3821,39 +3717,6 @@
 		]
 	},
 	{
-		"item": "70",
-		"title": "The Babadook",
-		"year": 2014,
-		"runtime": 93,
-		"mpaa": "R",
-		"poster": "./posters/netflix/TheBabadook.jpg",
-		"description": "Sam's frequent tantrums turn sinister when a creepy children's book mysteriously appears in his room and he asks his mother, Do you want to die?",
-		"genre": [
-			"horror",
-			"drama"
-		],
-		"link": "https://www.netflix.com/title/70300205",
-		"director": [
-			{
-				"name": "Jennifer Kent",
-				"image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/09/gettyimages-1027609614-h_2018.jpg?w=1296",
-				"imdb": "https://www.imdb.com/name/nm0448768/?ref_=tt_ov_dr"
-			}
-		],
-		"actors": [
-			{
-				"name": "Essie Davis",
-				"image": "./actors/EssieDavis.jpg",
-				"imdb": "https://www.imdb.com/name/nm0204583/?ref_=tt_ov_st"
-			},
-			{
-				"name": "Noah Wiseman",
-				"image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUJPjliUzh.c/v1/1200x800.jpg",
-				"imdb": "https://www.imdb.com/name/nm5231168/?ref_=tt_ov_st"
-			}
-		]
-	},
-	{
 		"item": "71",
 		"title": "Society Of The Snow",
 		"year": 2023,
@@ -4205,44 +4068,7 @@
   "poster": "./posters/netflix/LoganLucky.jpg"
 }
 ,
-	{
-		"item": "79",
-		"title": "It's Complicated",
-		"year": 2009,
-		"runtime": 120,
-		"mpaa": "R",
-		"poster": "./posters/netflix/ItsComplicated.jpg",
-		"description": "Jane's love life grows complicated when she begins an affair with her married ex-husband while being wooed by the sweet architect remodeling her house.",
-		"genre": [
-			"comedy",
-			"romance"
-		],
-		"link": "https://www.netflix.com/title/70124574",
-		"director": [
-			{
-				"name": "Nancy Meyers",
-				"image": "./directors/NancyMyers.jpeg",
-				"imdb": "https://www.imdb.com/name/nm0583600/"
-			}
-		],
-		"actors": [
-			{
-				"name": "Meryl Streep",
-				"image": "https://ew.com/thmb/OnGb568VYP6eVGvjYBDiZQTSQC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Meryl-Streep-mamma-Mia-493688affb3e4be0a73d734baaec58e9.jpg",
-				"imdb": "https://www.imdb.com/name/nm0000658/?ref_=tt_ov_st"
-			},
-			{
-				"name": "Alec Baldwin",
-				"image": "./actors/AlecBaldwin.jpeg",
-				"imdb": "https://www.imdb.com/name/nm0000285/"
-			},
-			{
-				"name": "Steve Martin",
-				"image": "https://cdn.britannica.com/95/251995-050-48457045/Actor-and-comedian-Steve-Martin.jpg",
-				"imdb": "https://www.imdb.com/name/nm0000188/"
-			}
-		]
-	},
+
 	{
 		"item": "80",
 		"title": "Meet The Fockers",
