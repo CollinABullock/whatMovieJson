@@ -329,7 +329,121 @@
 			}
 		]
 	},
-  
+    {
+    "item": 173,
+    "title": "Trainwreck",
+    "year": 2015,
+    "runtime": 125,
+    "mpaa": "R",
+    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0ccec63f-86ae-4c3d-967b-ab1dcd9b900e/a90f9b9dae3e2e5e34caa9fcfeb46f564521d2c1.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "description": "Amy Townsend, a commitment-phobic career woman who enjoys a hedonistic lifestyle, avoids serious relationships until she meets a sports doctor named Aaron Conners. As Amy navigates the challenges of romance and personal growth, she begins to confront her fears and insecurities, leading to unexpected revelations and heartfelt moments.",
+    "genre": [
+      "comedy",
+      "romance"
+    ],
+    "link": "https://play.max.com/movie/0ccec63f-86ae-4c3d-967b-ab1dcd9b900e?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1011lyknzMwA",
+    "director": [
+      {
+        "name": "Judd Apatow",
+        "image": "./directors/JuddApatow.webp",
+        "imdb": "https://www.imdb.com/name/nm0031976/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Amy Schumer",
+        "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/896/500/cdee370a-amy-schumer.jpg?ve=1&tl=1",
+        "imdb": "https://www.imdb.com/name/nm1102891/"
+      },
+      {
+        "name": "Bill Hader",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/04/1482720976-H-2023.jpg?w=1296",
+        "imdb": "https://www.imdb.com/name/nm0352778/"
+      },
+      {
+        "name": "Tilda Swinton",
+        "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRK9jrqMa484_bOUOls6P-egKvI9YLJopHVIj0cCKJZ27ldLoylGlYA7H8Dm3CVan9irp9GSs-ELU05nHI",
+        "imdb": "https://www.imdb.com/name/nm0842770/"
+      }
+    ]
+  },
+	 {
+    "item": 193,
+    "title": "Bill & Ted's Excellent Adventure",
+    "year": 1989,
+    "runtime": 90,
+    "mpaa": "PG",
+    "poster": "./posters/max/BillAndTedsExcellentAdventure.avif",
+    "description": "Two dim-witted high school students visited by Rufus, a time-traveling messenger from the future. Rufus informs them that their band, Wyld Stallyns, holds the key to world peace, and they must ace their history presentation to ensure their future success. With the help of a time-traveling phone booth, Bill and Ted embark on a wild journey through history, meeting historical figures and learning valuable lessons along the way.",
+    "genre": [
+      "comedy",
+      "science-fiction"
+    ],
+    "link": "https://play.max.com/video/watch/4e8121c3-458d-49ed-beb4-4ec6ffd0d0cc/3fdebc32-4b0e-4c9d-aae0-2942daa991a1",
+    "director": [
+      {
+        "name": "Stephen Herek",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk5MjI5MTAxM15BMl5BanBnXkFtZTcwMDU4NTgwMw@@._V1_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0379319/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Keanu Reeves",
+        "image": "./actors/KeanuReeves.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000206/"
+      },
+      {
+        "name": "Alex Winter",
+        "image": "https://media.newyorker.com/photos/5f14bd0068db026f7c859cc3/4:3/w_2276,h_1707,c_limit/Pappademas-AlexWinter.jpg",
+        "imdb": "https://www.imdb.com/name/nm0934965/"
+      },
+      {
+        "name": "George Carlin",
+        "image": "https://variety.com/wp-content/uploads/2022/05/george-carlin.jpg",
+        "imdb": "https://www.imdb.com/name/nm0001000/"
+      }
+    ]
+  },
+	 {
+    "item": 195,
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "runtime": 97,
+    "mpaa": "R",
+    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/7c6c3dba-960e-4528-9a57-d9c7ee853abc/c82b33eb96dbb58f9f2b0e120762cfedf7cdc36f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "description": "In 'The Breakfast Club', five high school students from different social cliques - the jock, the nerd, the princess, the rebel, and the recluse - are forced to spend a Saturday detention together. As they initially clash due to their differences, they eventually bond over shared experiences and realize that they are not so different after all. Through candid conversations and emotional revelations, they form unexpected friendships that transcend their stereotypes and social barriers.",
+    "genre": [
+      "comedy",
+      "drama",
+      "teen"
+    ],
+    "link": "https://play.max.com/movie/7c6c3dba-960e-4528-9a57-d9c7ee853abc",
+    "director": [
+      {
+        "name": "John Hughes",
+        "image": "./directors/JohnHughes.avif",
+        "imdb": "https://www.imdb.com/name/nm0000455/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Emilio Estevez",
+        "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2023/05/emilio-estevez.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000389/"
+      },
+      {
+        "name": "Molly Ringwald",
+        "image": "https://npr.brightspotcdn.com/dims4/default/2c61c27/2147483647/strip/true/crop/1500x999+0+0/resize/880x586!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwamc%2Ffiles%2F201602%2Fmolly-ringwald-1.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000208/"
+      },
+      {
+        "name": "Judd Nelson",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/36/590x/The-Breakfast-Club-john-bender-judd-nelson-1483071.jpg?r=1630100859007",
+        "imdb": "https://www.imdb.com/name/nm0000557/"
+      }
+    ]
+  },
   	{
 		"item": "5",
 		"title": "Meg 2: The Trench",
