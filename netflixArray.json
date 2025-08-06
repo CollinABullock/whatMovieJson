@@ -2209,7 +2209,8 @@
     "image": "https://thecreativemind.net/wp-content/uploads/2015/07/Maggie-Gyllenhaal-FB-700.jpg",
     "imdb": "https://www.imdb.com/name/nm0350454/"
 		}
-	]
+	],
+	"poster": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/04/Donnie-Darko-Logo.jpg"
 },
 	{
 		"item": "33",
@@ -5185,7 +5186,40 @@
 			"imdb": "https://www.imdb.com/name/nm0001168/"
 		}]
 	},
-
+	{
+  "item": 4821,
+  "year": 2001,
+  "title": "Zoolander",
+  "runtime": 89,
+  "mpaa": "PG-13",
+  "description": "A clueless fashion model is brainwashed to assassinate the Prime Minister of Malaysia.",
+  "genre": ["comedy"],
+  "director": [{
+   "name": "Ben Stiller",
+				"image": "./actors/BenStiller.webp",
+				"imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
+  }],
+  "actors": [{
+   "name": "Ben Stiller",
+				"image": "./actors/BenStiller.webp",
+				"imdb": "https://www.imdb.com/name/nm0001774/?ref_=tt_ov_st"
+  }, {
+    "name": "Owen Wilson",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/05/896/500/Owen.jpg?ve=1&tl=1",
+    "imdb": "https://www.imdb.com/name/nm0005562/"
+  }, {
+    "name": "Christine Taylor",
+    "image": "https://i.ytimg.com/vi/_lL8VrWO2Ew/sddefault.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000676/"
+  }, {
+   "name": "Will Ferrell",
+				"image": "https://ca-times.brightspotcdn.com/dims4/default/076a75b/2147483647/strip/false/crop/3500x1969+0+176/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F35%2F0c%2F568646e5482e8f5ce52d1d84b1cd%2Fny-premiere-of-apple-tvs-the-shrink-next-door-90227.jpg",
+				"imdb": "https://www.imdb.com/name/nm0002071/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_will%2520ferrell"
+  }],
+  "link": "https://www.netflix.com/title/60021242",
+  "poster": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABfB0pvlmD03CtrVkkwZCpIAriBZLrrxGl_Wr8bJoRv2yoAikkcbSbwH0uPAfWoNUXKVB4eoWANreHZOqHcMw98g8v9bOAorqgxth.jpg?r=ad0"
+}
+,
 	{
 		"item": 6543,
 		"title": "The Ballad of Buster Scruggs",
