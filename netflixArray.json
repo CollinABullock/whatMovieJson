@@ -309,6 +309,74 @@
 		],
 		"actors": []
 	},
+	  {    
+  "item": 4271,
+  "year": 2006,
+  "title": "The Departed",
+  "runtime": 151,
+  "mpaa": "R",
+  "description": "An undercover cop and a mole in the police try to identify each other while infiltrating an Irish gang in Boston.",
+  "genre": ["crime", "drama", "thriller"],
+  "director": [{
+   "name": "Martin Scorcese",
+        "image": "./directors/MartinScorcese.jpeg",
+        "imdb": "https://www.imdb.com/name/nm0000217/"
+  }],
+  "actors": [{
+     "name": "Leonardo DiCaprio",
+        "image": "./actors/LeonardoDicaprio.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000138/"
+  }, {
+    "name": "Matt Damon",
+    "image": "https://variety.com/wp-content/uploads/2023/07/GettyImages-1530670828.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000354/"
+  }, {
+    "name": "Jack Nicholson",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgScP-pCJ8yx0z8gs7wSLZYpLngrhssMavxw&s",
+    "imdb": "https://www.imdb.com/name/nm0000197/"
+  }, {
+    "name": "Mark Wahlberg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv2wHG8uV2Y2Fjad8EvZTqinbT70PvqJVzrA&s",
+    "imdb": "https://www.imdb.com/name/nm0000242/"
+  }],
+  "link": "https://www.netflix.com/title/70044689",
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREm_GLHCkj42lesIDqd_jevoWVe5H0iVRHyw&s"
+}
+,
+{    
+  "item": 5823,
+  "year": 1992,
+  "title": "Wayne's World",
+  "runtime": 94,
+  "mpaa": "PG-13",
+  "description": "Two slacker friends try to promote their public-access TV show when a big-time producer offers to buy it.",
+  "genre": ["comedy", "music"],
+  "director": [{
+    "name": "Penelope Spheeris",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI2NzE3MzcxN15BMl5BanBnXkFtZTYwOTMzNDk3._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0817810/"
+  }],
+  "actors": [{
+    "name": "Mike Myers",
+    "image": "https://www.billboard.com/wp-content/uploads/media/Mike-Myers-nov-2014-a-billboard-1548.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000196/"
+  }, {
+    "name": "Dana Carvey",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/231119121901-dana-carvey-0319.jpg?c=original",
+    "imdb": "https://www.imdb.com/name/nm0001022/"
+  }, {
+    "name": "Tia Carrere",
+    "image": "https://images.squarespace-cdn.com/content/v1/587bab73579fb30248953af4/1487313061082-1LTOBANBUF7RM86KQZ0U/in+pool.jpg?format=2500w",
+    "imdb": "https://www.imdb.com/name/nm0001024/"
+  }, {
+    "name": "Rob Lowe",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/65e7a47861163236c9d23a57/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+    "imdb": "https://www.imdb.com/name/nm0000507/"
+  }],
+  "link": "https://www.netflix.com/title/60020674",
+  "poster": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/01/waynes-world-still-popular.jpg?q=70&fit=contain&w=1200&h=628&dpr=1"
+}
+,
 	{
 		"item": 304,
 		"title": "Abducted in Plain Sight",
