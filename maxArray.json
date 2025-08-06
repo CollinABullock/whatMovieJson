@@ -1442,45 +1442,7 @@
       }
     ]
   },
-  {
-    "item": 325,
-    "title": "Her",
-    "year": 2013,
-    "runtime": 126,
-    "mpaa": "R",
-    "poster": "./posters/max/Her.avif",
-    "description": "In 'Her', a science fiction romantic drama film, tells the story of Theodore Twombly, a lonely writer who develops an emotional connection with an artificially intelligent operating system named Samantha. As Theodore's relationship with Samantha deepens, he grapples with questions of identity, intimacy, and the nature of love in a technologically advanced society. 'Her' is a poignant exploration of human relationships and the ways in which technology intersects with our emotional lives.",
-    "genre": [
-      "romance",
-      "drama",
-      "science-fiction"
-    ],
-    "link": "https://www.max.com/movies/her/b88f46fe-2bb3-43e9-bf7f-36b133af1990",
-    "director": [
-      {
-        "name": "Spike Jonze",
-        "image": "./directors/SpikeJonze.webp",
-        "imdb": "https://www.imdb.com/name/nm0005069/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Joaquin Phoenix",
-        "image": "./actors/JoaquinPhoenix.webp",
-        "imdb": "https://www.imdb.com/name/nm0001618/?ref_=tt_ov_st"
-      },
-      {
-        "name": "Scarlett Johansson",
-        "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UQ836S9qDWRgX1TYCkzykIuWIK8=/1660x1107/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/63MMCIXPOAOUKAMXJMW7HTAWCU.jpg",
-        "imdb": "https://www.imdb.com/name/nm0424060/"
-      },
-      {
-        "name": "Amy Adams",
-        "image": "./actors/AmyAdams.avif",
-        "imdb": "https://www.imdb.com/name/nm0010736/"
-      }
-    ]
-  },
+ 
   {
     "item": 326,
     "title": "A Ghost Story",
@@ -1672,45 +1634,6 @@
     ]
   },
   {
-    "item": "104",
-    "title": "Avatar:  The Way Of Water",
-    "year": 2022,
-    "runtime": 193,
-    "mpaa": "PG-13",
-    "poster": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/11/avatar-the-way-of-water-poster.jpg",
-    "description": "James Cameron's blockbuster sequel returns to the world of Pandora, introducing new Na'vi cultures and a range of exotic sea creatures.",
-    "genre": [
-      "action",
-      "science-fiction",
-      "sequel"
-    ],
-    "link": "https://play.max.com/movie/82857c4f-1813-4f6a-b94f-5dab6051b43e",
-    "director": [
-      {
-        "name": "James Cameron",
-        "image": "./directors/JamesCameron.jpeg",
-        "imdb": "https://www.imdb.com/name/nm0000116/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Sam Worthington",
-        "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSOi4c5pniJxAU4wZ0ya_WGjOimmErSIsJcZflFA44PcOa_6Sfc82b1c5W_GUp4bnCE23zMJIl5DDYUupQ",
-        "imdb": "https://www.imdb.com/name/nm0941777/"
-      },
-      {
-        "name": "Zoe Saldana",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/16/4959b623-6b3b-47b8-b8b3-5c4205a6bdc2/thumbnail/1280x720/4234270ab4d7d8738f7b15507df041b9/zoesaldanainterview-2130130-640x360.jpg?v=26439302e0bbe3219b6ef78d2fd37ce0",
-        "imdb": "https://www.imdb.com/name/nm0757855/"
-      },
-      {
-        "name": "Stephen Lang",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROj07F-qvK9XrgvoWOgBtZiaouGPFMHa0OMilnimX8dwAkvH33",
-        "imdb": "https://www.imdb.com/name/nm0002332/"
-      }
-    ]
-  },
-  {
     "item": "105",
     "title": "Predators",
     "year": 2010,
@@ -1831,46 +1754,7 @@
       }
     ]
   },
-  {
-    "item": 9102,
-    "title": "A Clockwork Orange",
-    "year": 1974,
-    "description": "In an England of the future, Alex (Malcolm McDowell) and his 'Droogs' spend their nights getting high at the Korova Milkbar before embarking on 'a little of the old ultraviolence,' while jauntily warbling 'Singin' in the Rain.' After he's jailed for bludgeoning the Cat Lady to death, Alex submits to behavior modification technique to earn his freedom; he's conditioned to abhor violence. Returned to the world defenseless, Alex becomes the victim of his prior victims.",
-    "runtime": 136,
-    "mpaa": "R",
-    "genre": [
-      "crime",
-      "drama",
-      "science-fiction",
-      "classic"
-    ],
-    "director": [
-      {
-        "name": "Stanley Kubrick",
-        "image": "./directors/StanleyKubrick.webp",
-        "imdb": "https://www.imdb.com/name/nm0000040/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Malcolm McDowell",
-        "IMDB": "https://www.imdb.com/name/nm0000532/",
-        "image": "https://www.indiewire.com/wp-content/uploads/2018/07/shutterstock_5885876an.jpg"
-      },
-      {
-        "name": "Patrick Magee",
-        "IMDB": "https://www.imdb.com/name/nm0535903/",
-        "image": "https://m.media-amazon.com/images/M/MV5BNTlkYzUzZGItODQ5ZC00OTNmLTg3NGItZGIzOWVjYWFmMmE4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg"
-      },
-      {
-        "name": "Michael Bates",
-        "IMDB": "https://www.imdb.com/name/nm0061076/",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/MichaelBatesAClockworkOrange.png"
-      }
-    ],
-    "poster": "./posters/max/AClockworkOrange.avif",
-    "link": "https://play.max.com/movie/52251185-23d4-4942-8d37-aa8dad2d8d32?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1101lyjYgagv"
-  },
+
   {
     "item": "107",
     "title": "Full Metal Jacket",
@@ -2063,44 +1947,7 @@
       }
     ]
   },
-  {
-    "item": "112",
-    "title": "The Hunt For Red October",
-    "year": 1990,
-    "runtime": 136,
-    "mpaa": "PG",
-    "poster": "./posters/max/TheHuntForRedOctober.avif",
-    "description": "A Russian submarine commander's scheme to defect puts him in the crosshairs between enemy forces in this Cold War thriller.",
-    "genre": [
-      "action",
-      "thriller"
-    ],
-    "link": "https://play.max.com/movie/9652f2da-ba93-4b4c-988a-de935d58974d",
-    "director": [
-      {
-        "name": "John McTiernan",
-        "image": "./directors/JohnMcTiernan.jpeg",
-        "imdb": "https://www.imdb.com/name/nm0001532/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Alec Baldwin",
-        "image": "./actors/AlecBaldwin.jpeg",
-        "imdb": "https://www.imdb.com/name/nm0000285/"
-      },
-      {
-        "name": "Sean Connery",
-        "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/931/523/Getty_SeanConnery_Main.jpg?ve=1&tl=1",
-        "imdb": "https://www.imdb.com/name/nm0000125/"
-      },
-      {
-        "name": "James Earl Jones",
-        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTVB_XE1gdVLfcfExhAnJ-mBRlgLs5v7YO_ZkzGojKGWL-nZtQyIcEwPijscTdCuXWT_Lu",
-        "imdb": "https://www.imdb.com/name/nm0000469/"
-      }
-    ]
-  },
+ 
   {
     "item": "113",
     "title": "The Lord Of The Rings:  The Return Of The King",
@@ -2459,83 +2306,8 @@
       }
     ]
   },
-  {
-    "item": "120",
-    "title": "Jurassic World",
-    "year": 2015,
-    "runtime": 125,
-    "mpaa": "125",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/38c287e7-a404-4d0c-bf9e-65e88b623c51/99f26c0b7deeb7b6b44c9d227c59beae72d2b9d3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
-    "description": "The genetically spawned dinosaurs of Jurassic World escape and wreak havoc on the park's terrified visitors.",
-    "genre": [
-      "science-fiction",
-      "action",
-      "sequel"
-    ],
-    "link": "https://play.max.com/video/watch/763458e8-68f3-458c-aa58-be17975f4cd6/332a26d5-9636-4186-98f2-e082443a9f2c",
-    "director": [
-      {
-        "name": "Colin Trevorrow",
-        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcT0UMDjzrzbhAWtbw9jbeeb8jTqeTnW0hBqJdtigyVoQA_u6cBqh54meMpL_9_ucWLh-op1BZHRsRFiojo",
-        "imdb": "https://www.imdb.com/name/nm1119880/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Chris Pratt",
-        "image": "https://hips.hearstapps.com/vidthumb/fa84dcc8-1dfd-47fa-b46d-009ec26d3a7d/thumb_1920x1080_00002_1656015932_99112.jpg?crop=1xw:1xh;center,top",
-        "imdb": "https://www.imdb.com/name/nm0695435/"
-      },
-      {
-        "name": "Bryce Dallas Howard",
-        "image": "https://people.com/thmb/IGhXPEbQ9mYN3rfS4Ma6JGilgeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(979x252:981x254)/bryce-dallas-red-carpet-081222-1-ab512b3bd4d54c2c80e5f6684ee6a4ee.jpg",
-        "imdb": "https://www.imdb.com/name/nm0397171/"
-      },
-      {
-        "name": "Vincent D'Onofrio",
-        "image": "https://cdn.britannica.com/83/240383-050-1403F363/American-actor-Vincent-D-Onofrio-2021.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000352/"
-      }
-    ]
-  },
-  {
-    "item": "121",
-    "title": "The Phantom",
-    "year": 1996,
-    "runtime": 101,
-    "mpaa": "PG",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/472ad97f-bb84-4a64-aadf-2f082ea85cd9/bfbd20ca70e18f091e2b1001f080cf91e1a38d62.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
-    "description": "The mysterious, purple-suited comic-book hero emerges to stop an evil industrialist from launching his plans for world domination.",
-    "genre": [
-      "action",
-      "comic-book"
-    ],
-    "link": "https://play.max.com/video/watch/ae66f935-6e4f-4b11-bb61-8f57753765c3/f8d62b0b-48f0-48b4-9896-406d302fc52d",
-    "director": [
-      {
-        "name": "Simon Wincer",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCAnBKA0pJuHtW80WcZpJGnYIM0PC9JVciGI3ExffvCWURKYfXmUd1VJcRbnXjHhZpXNs&usqp=CAU",
-        "imdb": "https://www.imdb.com/name/nm0934578/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Billy Zane",
-        "image": "https://unqualified.com/wp-content/uploads/2022/03/Billy-Zane-2.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000708/"
-      },
-      {
-        "name": "Treat Williams",
-        "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRFAp4zZ_A7RXERzwLMdOVMvOW1o-nZDnGfSmq8V6Z3vpItvKzwaYWSNE3Y85QXxNIdhKTCizgkgpVOPDc",
-        "imdb": "https://www.imdb.com/name/nm0001852/"
-      },
-      {
-        "name": "Kristy Swanson",
-        "image": "https://s.yimg.com/uu/api/res/1.2/C2hv08fPROJ158UDJjXTBQ--~B/Zmk9c3RyaW07aD0yMzg7cT04MDt3PTQxMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-09/a45f9fb0-c11e-11e8-8fff-7f0b5463ed71",
-        "imdb": "https://www.imdb.com/name/nm0001785/"
-      }
-    ]
-  },
+ 
+
   {
     "item": "122",
     "title": "Star Trek 3:  The Search For Spock",
@@ -2752,50 +2524,7 @@
       }
     ]
   },
-  {
-    "item": 126,
-    "title": "The Matrix: Reloaded",
-    "year": 2003,
-    "runtime": 139,
-    "mpaa": "R",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/15f1f852-5a97-4e78-b509-e045dbc1ba37/b288ab4da6359edb8086425a2be4cd9fa69dd467.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
-    "description": "Freedom fighters Neo (Keanu Reeves), Trinity (Carrie-Anne Moss) and Morpheus (Laurence Fishburne) continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation. In their quest to save the human race from extinction, they gain greater insight into the construct of The Matrix and Neo's pivotal role in the fate of mankind.",
-    "genre": [
-      "science-fiction",
-      "action",
-      "sequel"
-    ],
-    "link": "https://play.max.com/video/watch/5fe5efc5-2694-4f2b-a2b9-7e9f2091d187/b1adae34-5f5e-41a6-b2f1-bbf51635d453",
-    "director": [
-      {
-        "name": "Lilly Wachowski",
-        "image": "./directors/LillyWachowski.jpg",
-        "imdb": "https://www.imdb.com/name/nm0905154/"
-      },
-      {
-        "name": "Lana Wachowski",
-        "image": "./directors/LanaWachowski.jpg",
-        "imdb": "https://www.imdb.com/name/nm0905154/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Keanu Reeves",
-        "image": "./actors/KeanuReeves.webp",
-        "imdb": "https://www.imdb.com/name/nm0000206/"
-      },
-      {
-        "name": "Laurence Fishburne",
-        "image": "https://atlantablackstar.com/wp-content/uploads/2022/10/GettyImages-1434655767-scaled.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000401/?ref_=tt_ov_st"
-      },
-      {
-        "name": "Carrie Anne Moss",
-        "image": "https://static01.nyt.com/images/2021/12/25/arts/22carrie-anne-moss1/22carrie-anne-moss1-videoSixteenByNine3000.jpg?year=2021&h=1688&w=3000&s=faa74692072c5c74c5e7fb71c6f52e650e7b38c676a665177d0b67ac929f762e&k=ZQJBKqZ0VN&tw=1",
-        "imdb": "https://www.imdb.com/name/nm0005251/"
-      }
-    ]
-  },
+ 
   {
     "item": "127",
     "title": "Aliens",
@@ -4792,50 +4521,7 @@
       }
     ]
   },
-  {
-    "item": 33467,
-    "title": "Machete",
-    "year": 2010,
-    "description": "After being set up and betrayed by the man who hired him to assassinate a Texas senator, an ex-Federale launches a brutal rampage of revenge against his former boss.",
-    "runtime": 105,
-    "genre": [
-      "action",
-      "crime",
-      "thriller"
-    ],
-    "mpaa": "R",
-    "director": [
-      {
-        "name": "Robert Rodriguez",
-        "image": "/directors/RobertRodriguez.jpeg",
-        "IMDB": "https://www.imdb.com/name/nm0732577/"
-      },
-      {
-        "name": "Ethan Maniquis",
-        "image": "https://m.media-amazon.com/images/M/MV5BYWE2NWY3NWUtNjkwZS00MzQwLTlmNTAtYTA3YzU2ZTk5MDdlXkEyXkFqcGdeQXVyMTkwNzg3Mw@@._V1_.jpg",
-        "IMDB": "https://www.imdb.com/name/nm0543174/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Danny Trejo",
-        "image": "https://i.guim.co.uk/img/media/037b1061bc537a2e44f2001c4a403a705562c5e5/33_0_917_550/master/917.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=771dc91f0c925c0dcab5bbde5c670e9d",
-        "IMDB": "https://www.imdb.com/name/nm0001803/"
-      },
-      {
-        "name": "Michelle Rodriguez",
-        "image": "https://phantom-marca.unidadeditorial.es/3d070778f6b3a3b6d9e5bdfa312701d9/resize/828/f/jpg/assets/multimedia/imagenes/2021/05/06/16203010086570.jpg",
-        "IMDB": "https://www.imdb.com/name/nm0732577/"
-      },
-      {
-        "name": "Jessica Alba",
-        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/19/14/gettyimages-103774568.jpg",
-        "IMDB": "https://www.imdb.com/name/nm0004695/"
-      }
-    ],
-    "link": "https://play.max.com/movie/b91de4f0-cbe8-47ed-bf38-cad3cfdc4ed8?utm_id=1011l5873&utm_source=justwatchgmbh&utm_medium=affiliate&clickref=1011lyks3LJs",
-    "poster": "./posters/max/Machete.avif"
-  },
+
 
   {
     "item": "174",
