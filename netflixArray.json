@@ -37,6 +37,39 @@
 		}]
 	}
 	,
+{
+  "item": 4827,
+  "year": 2012,
+  "title": "That's My Boy",
+  "runtime": 116,
+  "mpaa": "R",
+  "description": "A man reunites with his estranged son on the eve of the son's wedding, causing chaos as he tries to reconnect and prove he's changed.",
+  "genre": ["comedy"],
+  "director": [{
+    "name": "Sean Anders",
+    "image": "https://blog.adoptuskids.org/wp-content/uploads/2019/01/anders-sean-612x400.jpg",
+    "imdb": "https://www.imdb.com/name/nm0027402/"
+  }],
+  "actors": [{
+   "name": "Adam Sandler",
+        "IMDB": "./actors/AdamSandler.webp",
+        "image": "https://cdn.aarp.net/content/dam/aarp/entertainment/celebrities/2022/09/1140-adam-sandler-basketball.jpg"
+  }, {
+    "name": "Andy Samberg",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/andy-samberg-attends-the-imdb-studio-at-acura-festival-news-photo-1690831221.jpg",
+    "imdb": "https://www.imdb.com/name/nm1676221/"
+  }, {
+    "name": "Leighton Meester",
+    "image": "https://media.glamour.com/photos/67bbce0c4b8428b563b1ae3f/3:2/w_3000,h_2000,c_limit/Leighton-%20Meester-en-los-SAG-Awards-2025.jpg",
+    "imdb": "https://www.imdb.com/name/nm1015262/"
+  }, {
+    "name": "Milo Ventimiglia",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/02/gettyimages-913979274_copy_-_h_2018_0.jpg?w=1296&h=730&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0893257/"
+  }],
+  "link": "https://www.netflix.com/title/70220030",
+  "poster": "https://occ-0-957-2568.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXqmizh_i8LSpmF3jbmSik_VDqduMHrWQYBTJRbH3UIQIGsMeDO-LAVFrXASz48HcVxl2NDdhIEexjBkjNF2uUSusqPtyw1837fh.jpg?r=aaa"
+},
 
 	{
 		"item": 4567,
