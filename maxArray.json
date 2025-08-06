@@ -5047,6 +5047,40 @@
     ]
   },
   {
+  "item": 3481,
+  "year": 2022,
+  "title": "The Batman",
+  "runtime": 176,
+  "mpaa": "PG-13",
+  "description": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues, uncovering corruption and confronting his family's legacy.",
+  "genre": ["action", "crime", "drama"],
+  "director": [{
+    "name": "Matt Reeves",
+    "image": "https://www.kcrw.com/culture/shows/the-treatment/matt-reeves-the-batman/@@images/rectangular_image/page-header?v=1652861786.06",
+    "imdb": "https://www.imdb.com/name/nm0716257/"
+  }],
+  "actors": [{
+     "name": "Robert Pattinson",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2022-04/220422-robert-pattinson-mjf-1612-0a6f9c.jpg",
+        "imdb": "https://www.imdb.com/name/nm1500155/"
+  }, {
+    "name": "Zoë Kravitz",
+      "image": "./actors/ZoeKravitz.jpg",
+      "imdb": "https://www.imdb.com/name/nm1079996/"
+  }, {
+  "name": "Paul Dano",
+        "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRwnXtlmt7D2rb4eSaM9rfcxdnr4WV7UO0Dk4zrrPV3B5A96MPEMD0ZdbetdPHTJrRgfJNY_hXzJMiYwyo",
+        "imdb": "https://www.imdb.com/name/nm0200452/"
+  }, {
+    "name": "Jeffrey Wright",
+    "image": "https://variety.com/wp-content/uploads/2024/02/Jeffrey-Wright.jpg",
+    "imdb": "https://www.imdb.com/name/nm0942482/"
+  }],
+  "link": "https://play.hbomax.com/movie/dfa50804-e6f6-4fa2-a732-693dbc50527b",
+  "poster": "https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/Dl0AAOSwmKBjwKdO/$_57.JPG?set_id=880000500F"
+}
+,
+  {
     "item": 190,
     "title": "The Lord of the Rings: The Two Towers",
     "year": 2002,
