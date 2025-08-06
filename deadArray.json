@@ -1,0 +1,94 @@
+[
+  	{
+		"item": "34",
+		"title": "The House Bunny",
+		"year": 2008,
+		"runtime": 97,
+		"mpaa": "PG-13",
+		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABUlN5s3w66-zHL0eIUjJ8JwMaXvZ2AUPLGyg2NzJBNgJQeaOy18JqCOF0mnUcuZCNlFfrFafl_uxSt1Afoc5_NijesfXr3-cGLY.jpg?r=9ce",
+		"description": "After getting dumped from the Playboy Mansion, aspiring centerfold Shelley signs on to make over the hopelessly uncool sisters of a struggling sorority.",
+		"genre": [
+			"comedy",
+			"romance"
+		],
+		"link": "https://www.netflix.com/title/70098895",
+		"director": [
+			{
+				"name": "Fred Wolf",
+				"image": "https://variety.com/wp-content/uploads/2019/11/img_5065.jpg",
+				"imdb": "https://www.imdb.com/name/nm0937748/?ref_=tt_ov_dr"
+			}
+		],
+		"actors": [
+			{
+				"name": "Anna Faris",
+				"image": "https://nationaltoday.com/wp-content/uploads/2022/09/Anna-Faris-1200x834.jpg",
+				"imdb": "https://www.imdb.com/name/nm0267506/?ref_=tt_ov_st"
+			},
+			{
+				"name": "Emma Stone",
+				"image": "https://variety.com/wp-content/uploads/2023/12/Emma-Stone-Variety-Actors-on-Actors.jpg?w=1024",
+				"imdb": "https://www.imdb.com/name/nm1297015/?ref_=tt_ov_st"
+			},
+			{
+				"name": "Colin Hanks",
+				"image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/02/colin_hanks.jpg",
+				"imdb": "https://www.imdb.com/name/nm0004988/?ref_=tt_ov_st"
+			}
+		]
+	},
+  	{
+		"item": 8723,
+		"title": "Pineapple Express",
+		"year": 2008,
+		"runtime": 111,
+		"mpaa": "R",
+		"description": "Stoner Dale Denton's (Seth Rogen) enjoyment of a rare strain of marijuana may prove fatal when he drops his roach in a panic after witnessing a murder. Upon learning that the fancy weed can be traced back to them, Dale and his dealer (James Franco) go on the lam, with a dangerous drug lord (Gary Cole) and crooked cop (Rosie Perez) hot on their heels.",
+		"genre": ["action", "comedy", "crime", "stoner"],
+		"director": [{
+			"name": "David Gordon Green",
+				"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4F3e5l0fOYgHZ8bnnJU27l5UJt_ge4m_FqQrdY9-yb1cn3J8y",
+				"imdb": "https://www.imdb.com/name/nm0337773/"
+		}],
+		"actors": [{
+			"name": "Seth Rogen",
+			"image": "https://media.gq.com/photos/5cd9879fb41d09d10bcd7657/16:9/w_2560%2Cc_limit/seth-rogen-gq-cover-june-july-2019-11.jpg",
+			"imdb": "https://www.imdb.com/name/nm0736622/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_seth%2520rogen"
+			}, {
+				"name": "James Franco",
+				"image": "https://images.hellomagazine.com/horizon/landscape/9ca79dd70902-gettyimages-1402315507.jpg",
+				"imdb": "https://www.imdb.com/name/nm0290556/"
+			}, {
+				"name": "Gary Cole",
+				"image": "https://ew.com/thmb/QNHDdiRoegWtMlhaPDPHeOX8vWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1234897701-e46ce0295fc5478b9a2a21480b9ed218.jpg",
+				"imdb": "https://www.imdb.com/name/nm0176882/"
+			}, {
+				"name": "Danny McBride",
+				"image": "https://imgix.ranker.com/list_img_v2/16752/2376752/original/danny-mcbride-facts?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720",
+				"imdb": "https://www.imdb.com/name/nm0565099/"
+			}],
+		"poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYqAaMQYp0SyFacGf9qMYpGJ0ZJUPmlyDrJXvMGrfcki8Dn9wELivgdsRp3eD4dHMql8qo9wEHm0JC-hZ3-GhbQMjJJt02o132bS.jpg?r=563",
+		"link": "https://www.netflix.com/title/70098329"
+	},
+  	{
+		"item": 319,
+		"title": "Studio 54: The Documentary",
+		"year": 2018,
+		"runtime": 98,
+		"mpaa": "Not Rated",
+		"poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQLcdG3dxZZ3W85kECtQg5lTb2R3Jpi9OqvsT7dyF_9wUi06ZOivWiUjiESSHcLWXG5Xe6Fwej9Z1hahRb41SDViIotCYikzs14.jpg?r=0b2",
+		"description": "In 'Studio 54: The Documentary', explores the rise and fall of the iconic nightclub Studio 54, which became synonymous with the hedonistic excesses of the 1970s disco era. The film delves into the club's origins, its meteoric rise to fame, and the celebrities, socialites, and regulars who frequented its doors. Through interviews with former staff, patrons, and archival footage, 'Studio 54' captures the glamour, decadence, and eventual downfall of one of the most legendary nightlife destinations in history.",
+		"genre": [
+			"documentary"
+		],
+		"link": "https://www.netflix.com/title/81004511",
+		"director": [
+			{
+				"name": "Matt Tyrnauer",
+				"image": "https://deadline.com/wp-content/uploads/2019/01/matt-tyrnauer.jpg?w=681&h=383&crop=1",
+				"imdb": "https://www.imdb.com/name/nm1394634/"
+			}
+		],
+		"actors": []
+	}
+]
