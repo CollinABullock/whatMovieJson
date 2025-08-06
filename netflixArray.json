@@ -1322,6 +1322,40 @@
 		]
 	},
 	{
+  "item": 4271,
+  "year": 1995,
+  "title": "Empire Records",
+  "runtime": 90,
+  "mpaa": "PG-13",
+  "description": "The employees of an independent record store band together to prevent it from being sold to a large corporate chain.",
+  "genre": ["comedy", "drama", "music"],
+  "director": [{
+    "name": "Allan Moyle",
+    "image": "https://assets.americancinematheque.com/wp-content/uploads/2025/02/19140457/Allan-Moyle-Hero.png",
+    "imdb": "https://www.imdb.com/name/nm0610134/"
+  }],
+  "actors": [{
+    "name": "Anthony LaPaglia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Anthony_LaPaglia_2008.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001432/"
+  }, {
+    "name": "Debi Mazar",
+    "image": "https://deadline.com/wp-content/uploads/2024/10/GettyImages-1499528220.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000529/"
+  }, {
+    "name": "Rory Cochrane",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_P-gWztYPC6I000-rRNm_9sFpYsGISr-aQ&s",
+    "imdb": "https://www.imdb.com/name/nm0168416/"
+  }, {
+    "name": "Renée Zellweger",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/GettyImages-2172711605.jpg?w=1296&h=730&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0000250/"
+  }],
+  "link": "https://www.netflix.com/watch/60004554",
+  "poster": "https://occ-0-90-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTYfgEebRRtHjWwFm_siV1RFDjtLNNscYJJLCExGRjnGY_rYKGi3oBgFLIov7PeOwReVyyIERZ2zFYwnHzLZRHHl8qeg80cIZjhM.jpg?r=67f"
+}
+,
+	{
 		"item": "11n",
 		"title": "Long Shot",
 		"year": 2019,
