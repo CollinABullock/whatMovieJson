@@ -2174,6 +2174,44 @@
 			}
 		]
 	},
+	{    
+  "item": 7392,
+  "year": 1993,
+  "title": "Dazed and Confused",
+  "runtime": 102,
+  "mpaa": "R",
+  "description": "The adventures of high school and junior high students on the last day of school in May 1976.",
+  "genre": ["comedy", "drama"],
+  "director": [{
+    "name": "Richard Linklater",
+				"image": "https://www.rollingstone.com/wp-content/uploads/2020/11/dazed-and-confused-book.jpg",
+				"imdb": "https://www.imdb.com/name/nm0000500/?ref_=tt_ov_dr"
+  }],
+  "actors": [{
+    "name": "Jason London",
+    "image": "https://zscentertainment.com/wp-content/uploads/2017/05/jal1.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005171/"
+  }, {
+    "name": "Wiley Wiggins",
+    "image": "https://i.ytimg.com/vi/E60p4yyHhd4/maxresdefault.jpg",
+    "imdb": "https://www.imdb.com/name/nm0927876/"
+  }, {
+   	"name": "Matthew McConaughey",
+			"image": "./actors/MatthewMcConaughey.jpg",
+			"imdb": "https://www.imdb.com/name/nm0000190/"
+  }, {
+    "name": "Parker Posey",
+    "image": "https://media.newyorker.com/photos/6276d70ba3dac08bad98b933/4:3/w_2560,h_1919,c_limit/Syme-ParkerPosey01.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000205/"
+  }, {
+    "name": "Ben Affleck",
+    "image": "https://goldenglobes.com/wp-content/uploads/2023/10/ben-affleck-e1377309529946.jpg?w=581?w=600",
+    "imdb": "https://www.imdb.com/name/nm0000255/"
+  }],
+  "link": "https://www.netflix.com/watch/70003553",
+  "poster": "https://scdn.nflximg.net/ipl/92454/82694b28371c608e2c5202978bc28c204e758733.jpg"
+}
+,
 	{
 		"item": "29",
 		"title": "School Of Rock",
