@@ -2189,6 +2189,40 @@
       }
     ]
   },
+  {
+  "item": 9274,
+  "year": 2021,
+  "title": "The Suicide Squad",
+  "runtime": 132,
+  "mpaa": "R",
+  "description": "A group of supervillains are recruited by the government for a dangerous mission on a remote island in exchange for reduced prison sentences.",
+  "genre": ["action", "adventure", "comedy", "comic-book"],
+  "director": [{
+    "name": "James Gunn",
+    "image": "https://variety.com/wp-content/uploads/2022/12/james-gunn-1.jpg?w=1000&h=563&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0348181/"
+  }],
+  "actors": [{
+    "name": "Margot Robbie",
+        "image": "./actors/MargotRobbie.jpg",
+        "imdb": "https://www.imdb.com/name/nm3053338/?ref_=tt_ov_st"
+  }, {
+    "name": "Idris Elba",
+    "image": "https://variety.com/wp-content/uploads/2020/07/idris-elba-1.jpg",
+    "imdb": "https://www.imdb.com/name/nm0252961/"
+  }, {
+    "name": "John Cena",
+    "image": "https://media.sescoops.com/uploads/2025/08/john-cena-summerslam.jpg",
+    "imdb": "https://www.imdb.com/name/nm1078479/"
+  }, {
+    "name": "Joel Kinnaman",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/02/joel-kinnaman-altered-carbon-fd7cb72c-83f6-49be-9021-a39f25f3b9b8.jpg",
+    "imdb": "https://www.imdb.com/name/nm1172478/"
+  }],
+  "link": "https://play.hbomax.com/movie/186afae3-df20-41bc-86c9-70a39a955c63",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/186afae3-df20-41bc-86c9-70a39a955c63/b4be5176-8d59-4b3a-9fd3-b6e53248d26e?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
 
   {    
   "item": 7631,
