@@ -1067,6 +1067,40 @@
     ],
     "actors": []
   },
+    {
+  "item": 7452,
+  "year": 1999,
+  "title": "Fight Club",
+  "runtime": 139,
+  "mpaa": "R",
+  "description": "An insomniac office worker and a mysterious soap salesman form an underground fight club that evolves into something much more radical.",
+  "genre": ["drama", "thriller", "comedy", "action"],
+  "director": [{
+    "name": "David Fincher",
+      "image": "./directors/DavidFincher.webp",
+      "imdb": "https://www.imdb.com/name/nm0000399/"
+  }],
+  "actors": [{
+    "name": "Edward Norton",
+    "image": "https://media.gq-magazine.co.uk/photos/5d1396b2533a237314c621cf/16:9/w_1744,h_981,c_limit/image.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001570/"
+  }, {
+      "name": "Brad Pitt",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWRkMDE5MjUtN2MyYi00MzAyLWIwOWMtNWU0NzNkZDczOWUyXkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000093/"
+  }, {
+    "name": "Helena Bonham Carter",
+    "image": "https://i.guim.co.uk/img/media/692120ea8cd3a01fbcc1806edd51f3bf30fda83a/0_282_1983_1190/master/1983.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=c7848f65cb0bbe6739337bda3dc3c2a1",
+    "imdb": "https://www.imdb.com/name/nm0000307/"
+  }, {
+    "name": "Meat Loaf",
+    "image": "https://e3.365dm.com/22/01/2048x1152/skynews-meatloaf-singer_5647870.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001533/"
+  }],
+  "link": "https://play.hbomax.com/movie/0c961ffa-2a85-4b15-8e3f-5e63803503b5",
+  "poster": "https://lumiere-a.akamaihd.net/v1/images/fightclub_mainmenu_ka_3840x2160_98330c30.jpeg?region=0,0,1600,686"
+}
+,
   {
     "item": 424,
     "title": "Harlan County USA",
