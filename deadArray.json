@@ -180,6 +180,156 @@
 		]
 	},
   	{
+		"item": "82",
+		"title": "Bruce Almighty",
+		"year": 2003,
+		"runtime": 101,
+		"mpaa": "PG-13",
+		"poster": "./posters/netflix/BruceAlmighty.jpg",
+		"description": "After a TV news reporter rants at God, he's given divine powers for a week to see if he can do a better job at running things.",
+		"genre": [
+			"comedy",
+			"fantasy"
+		],
+		"link": "https://www.netflix.com/title/60027700",
+		"director": [
+			{
+				"name": "Tom Shadyac",
+				"image": "https://i.ytimg.com/vi/E0j0Kn-yWLM/maxresdefault.jpg",
+				"imdb": "https://www.imdb.com/name/nm0001723/"
+			}
+		],
+		"actors": [
+			{
+				"name": "Jim Carrey",
+				"image": "./actors/JimCarrey.webp",
+				"imdb": "https://www.imdb.com/name/nm0000120/"
+			},
+			{
+				"name": "Jennifer Aniston",
+				"image": "./actors/JenniferAniston.jpeg",
+				"imdb": "https://www.imdb.com/name/nm0000098/"
+			},
+			{
+				"name": "Morgan Freeman",
+				"image": "./actors/MorganFreeman.jpg",
+				"imdb": "https://www.imdb.com/name/nm0000151/"
+			}
+		]
+	},
+  	{
+		"item": "29",
+		"title": "Mamma Mia!",
+		"year": 2008,
+		"runtime": 108,
+		"mpaa": "PG-13",
+		"poster": "https://occ-0-7091-92.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABSjhYa8x89TuapdPqtzCahGtxfrgNEWX_IChbnSn8GC9DEO7swlzSPc_OH7jl_6HR_HzEh4YmJlftU8chBH-49lNkiy383jLTo0.jpg?r=58e",
+		"description": "A young woman invites three of her free-spirited mom's former flings to her Greek island wedding, hoping to discover which one of them is her father.",
+		"genre": [
+			"comedy",
+			"romance",
+			"musical"
+		],
+		"link": "https://www.netflix.com/title/70097579",
+		"director": [
+			{
+				"name": "Phyllida Lloyd",
+				"image": "https://i.guim.co.uk/img/static/sys-images/Film/Pix/pictures/2012/1/4/1325688238811/Phyllida-Lloyd-007.jpg?width=620&quality=85&auto=format&fit=max&s=e708a04bc9b2a9c6bbad8167b39b4aef",
+				"imdb": ""
+			}
+		],
+		"actors": [
+			{
+				"name": "Meryl Streep",
+				"image": "https://ew.com/thmb/OnGb568VYP6eVGvjYBDiZQTSQC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Meryl-Streep-mamma-Mia-493688affb3e4be0a73d734baaec58e9.jpg",
+				"imdb": "https://www.imdb.com/name/nm0000658/?ref_=tt_ov_st"
+			},
+			{
+				"name": "Amanda Seyfried",
+				"image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/02/Amanda_Seyfried_David_Needleman_THR_A_369-Splash-2022.jpg?w=1024",
+				"imdb": "https://www.imdb.com/name/nm1086543/?ref_=tt_ov_st"
+			},
+			{
+				"name": "Pierce Brosnan",
+				"image": "https://parade.com/.image/t_share/MjAyOTA4NzM0NDcxNTQ1OTI0/the-2023-met-gala-celebrating-karl-lagerfeld-a-line-of-beauty---arrivals.jpg",
+				"imdb": "https://www.imdb.com/name/nm0000112/bio/"
+			}
+		]
+	},
+  	{
+		"item": "100",
+		"title": "Justice League",
+		"year": 2017,
+		"runtime": 120,
+		"mpaa": "PG-13",
+		"poster": "./posters/netflix/JusticeLeague.jpg",
+		"description": "Batman and Wonder Woman gather a new team of superheroes — and try to resurrect Superman — in hopes of defeating a foe unlike any they've faced before.",
+		"genre": [
+			"action",
+			"science-fiction",
+			"comic-book"
+		],
+		"link": "https://www.netflix.com/title/80187362",
+		"director": [
+			{
+				"name": "Zack Snyder",
+				"image": "./directors/ZackSnyder.jpg",
+				"imdb": "https://www.imdb.com/name/nm0811583/"
+			}
+		],
+		"actors": [
+			{
+				"name": "Ben Affleck",
+				"image": "./actors/BenAffleck.jpeg",
+				"imdb": "https://www.imdb.com/name/nm0000255/"
+			},
+			{
+				"name": "Gal Gadot",
+				"image": "https://d.newsweek.com/en/full/2305821/gal-gadot.jpg",
+				"imdb": "https://www.imdb.com/name/nm2933757/"
+			},
+			{
+				"name": "Henry Cavill",
+				"image": "https://people.com/thmb/ADnDFyFZo356CcxH-4zHTR9ExG0=/400x262/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x9:721x11)/Henry-Cavill-Announces-Next-Project-After-Superman-Exit-Natalie-Viscuso-121622-1-95ca52d1d1c9429491654178637087ad.jpg",
+				"imdb": "https://www.imdb.com/name/nm0147147/"
+			}
+		]
+	},
+  	{
+		"item": "32",
+		"title": "She's The Man",
+		"runtime": 105,
+		"mpaa": "PG-13",
+		"year": 2006,
+		"poster": "https://occ-0-92-90.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABR_IrfJfJu97SMQ6rldthXMbrpjwFvs4wSPayxO0oKj5mhli_3uHSzOxB0oEV5JdEDixtDPIhVhGtkESRN46EDigX9DuV4wQVlE.jpg?r=309",
+		"description": "Teenager Viola tries to convince the students at her twin brother's school that she's actually him in this twist on Shakespeare's Twelfth Night.",
+		"genre": [
+			"comedy",
+			"romance",
+			"sports"
+		],
+		"link": "https://www.netflix.com/title/70044873",
+		"director": [
+			{
+				"name": "Andy Fickman",
+				"image": "https://deadline.com/wp-content/uploads/2024/02/GettyImages-1477286508.jpg?w=681&h=383&crop=1",
+				"imdb": "https://www.imdb.com/name/nm0275698/?ref_=tt_ov_dr"
+			}
+		],
+		"actors": [
+			{
+				"name": "Amanda Bynes",
+				"image": "https://d1fegwn2wjh0cs.cloudfront.net/12-20-2023/t_d2e98dfc5386435aa5b4d1826d1dea11_name_6d9455547295460aabac672c03f5c4e5.jpeg",
+				"imdb": "https://www.imdb.com/name/nm0004789/?ref_=tt_ov_st"
+			},
+			{
+				"name": "Channing Tatum",
+				"image": "https://variety.com/wp-content/uploads/2022/02/Channing-Tatum-Variety-Cover-Story-6-16x9-1.jpg",
+				"imdb": "https://www.imdb.com/name/nm1475594/?ref_=tt_ov_st"
+			}
+		]
+	},
+  	{
 		"item": "5",
 		"title": "Meg 2: The Trench",
 		"year": 2023,
