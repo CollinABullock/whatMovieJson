@@ -1945,6 +1945,40 @@
 }
 ,
 {
+  "item": 8436,
+  "year": 2022,
+  "title": "Nope",
+  "runtime": 130,
+  "mpaa": "R",
+  "description": "Residents of a remote California town witness a mysterious and chilling phenomenon in the sky, leading them to a terrifying discovery.",
+  "genre": ["horror", "mystery", "sci-fi", "thriller"],
+  "director": [{
+       "name": "Jordan Peele",
+    "image": "./directors/JordanPeele.jpg",
+    "imdb": "https://www.imdb.com/name/nm1443502/"
+  }],
+  "actors": [{
+  "name": "Daniel Kaluuya",
+        "image": "https://www.indiewire.com/wp-content/uploads/2019/11/Get-Out.jpg",
+        "imdb": "https://www.imdb.com/name/nm2257207/"
+  }, {
+    "name": "Keke Palmer",
+    "image": "https://people.com/thmb/wbW_zjKwHK8jjg1YTpOETrLTj-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/keke-palmer-ESSENCE-festival-070725-86c4226e7cba44be8d2d09ead5b4d3a7.jpg",
+    "imdb": "https://www.imdb.com/name/nm0652663/"
+  }, {
+    "name": "Steven Yeun",
+    "image": "https://hips.hearstapps.com/elle/assets/17/25/1498162576-elle-steven-yeun-netflix-movie-okja.jpg",
+    "imdb": "https://www.imdb.com/name/nm3081796/"
+  }, {
+    "name": "Michael Wincott",
+    "image": "https://www.slashfilm.com/img/gallery/5-best-michael-wincott-roles-to-watch-after-nope/l-intro-1658356859.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000699/"
+  }],
+  "link": "https://www.peacocktv.com/stream-movies/nope",
+  "poster": "https://www.peacocktv.com/sites/peacock/files/2022/11/nope_ka_crop_1920x1080_v3.jpg"
+}
+,
+{
   "item": "2345",
   "title": "The Invisible Man",
   "year": 2020,
