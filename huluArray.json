@@ -1463,50 +1463,7 @@
       }
     ]
   },
-  {
-    "item": 348,
-    "title": "Inception",
-    "year": 2010,
-    "runtime": 148,
-    "mpaa": "PG-13",
-    "poster": "./posters/hulu/Inception.jpeg",
-    "description": "The film follows Dom Cobb, a skilled thief who specializes in stealing secrets from deep within the subconscious during the dream state. Cobb is tasked with a seemingly impossible mission: to implant an idea into the mind of a corporate heir through the process of 'inception'. As Cobb and his team navigate through layers of dreams within dreams, they face numerous obstacles and must confront their own inner demons.",
-    "genre": [
-      "action",
-      "adventure",
-      "science-fiction"
-    ],
-    "link": "https://www.hulu.com/movie/inception-5519f425-9b21-48fb-8e67-aef24c76604a",
-    "director": [
-      {
-        "name": "Christopher Nolan",
-        "image": "./directors/ChristopherNolan.jpg",
-        "imdb": "https://www.imdb.com/name/nm0634240/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Leonardo DiCaprio",
-        "image": "./actors/LeonardoDicaprio.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000138/"
-      },
-      {
-        "name": "Joseph Gordon-Levitt",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/Joseph-Gordon-Levitt-HCA-Film-Awards-Show-GettyImages-1469365297-H-2023.jpg",
-        "imdb": "https://www.imdb.com/name/nm0330687/"
-      },
-      {
-        "name": "Elliot Page",
-        "image": "https://ew.com/thmb/dDgk_rJ7MR9KocqDHXsM2Wa1wk0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Elliot-Page-060923-df06ea6e845d4a03893f5400708f76bf.jpg",
-        "imdb": "https://www.imdb.com/name/nm0680983/"
-      },
-      {
-        "name": "Tom Hardy",
-        "image": "https://media.gq.com/photos/632b4e9763f2eae5a8460f51/16:9/w_2560%2Cc_limit/1340297096",
-        "imdb": "https://www.imdb.com/name/nm0362766/"
-      }
-    ]
-  },
+
   {
     "item": 349,
     "title": "Star Trek IV: The Voyage Home",
