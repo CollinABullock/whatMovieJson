@@ -1901,6 +1901,40 @@
     ]
   },
   {
+  "item": 4827,
+  "year": 2024,
+  "title": "Dune: Part Two",
+  "runtime": 166,
+  "mpaa": "PG-13",
+  "description": "Paul Atreides unites with Chani and the Fremen as he seeks revenge against those who destroyed his family.",
+  "genre": ["action", "adventure", "drama", "sci-fi"],
+  "director": [{
+   "name": "Denis Villeneuve",
+        "image": "./directors/DenisVilleneuve.webp",
+        "imdb": "https://www.imdb.com/name/nm0898288/"
+  }],
+  "actors": [{
+    "name": "Timothée Chalamet",
+        "image": "https://assets.teenvogue.com/photos/6575f301120f9c930fe5cd61/16:9/w_2560%2Cc_limit/1485198986",
+        "imdb": "https://www.imdb.com/name/nm3154303/"
+  }, {
+    "name": "Zendaya",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/zendaya-display-1280-ap.jpg",
+    "imdb": "https://www.imdb.com/name/nm3918035/"
+  }, {
+   "name": "Rebecca Ferguson",
+        "image": "https://ew.com/thmb/iGVS_2ILR6fJMb8PwsujEpZPoPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rebecca-ferguson-2000-940144e9d5784e72a5e6e7482708e44a.jpg",
+        "imdb": "https://www.imdb.com/name/nm0272581/"
+  }, {
+    "name": "Austin Butler",
+    "image": "https://media.glamourmagazine.co.uk/photos/62c40e4f4c186c0b1eaff86f/16:9/w_2560%2Cc_limit/AUSTIN%2520BUTLER%2520050722%2520GettyImages-1395066514_SF.jpg",
+    "imdb": "https://www.imdb.com/name/nm2581521/"
+  }],
+  "link": "https://play.hbomax.com/movie/f0a4f239-0b57-47e2-a39a-54fb96925e61",
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/qp/uv/i4/8b/l6b9YZEokZl1nt7q0pprrur6btG-1200-1200-675-675-crop-000000.jpg?v=ed21d71137"
+}
+,
+  {
     "item": "109",
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ",
     "runtime": 95,
