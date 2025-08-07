@@ -1101,6 +1101,40 @@
   "poster": "https://lumiere-a.akamaihd.net/v1/images/fightclub_mainmenu_ka_3840x2160_98330c30.jpeg?region=0,0,1600,686"
 }
 ,
+{
+  "item": 7382,
+  "year": 2022,
+  "title": "Bullet Train",
+  "runtime": 126,
+  "mpaa": "R",
+  "description": "Five assassins aboard a fast-moving bullet train find their missions have something in common.",
+  "genre": ["action", "comedy", "thriller"],
+  "director": [{
+    "name": "David Leitch",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI0ODUzMjU3MV5BMl5BanBnXkFtZTcwMDU4NTI0Mg@@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0500610/"
+  }],
+  "actors": [{
+   "name": "Brad Pitt",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWRkMDE5MjUtN2MyYi00MzAyLWIwOWMtNWU0NzNkZDczOWUyXkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000093/"
+  }, {
+    "name": "Joey King",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/joey-king-attends-the-hollywood-reporter-and-sag-aftra-news-photo-1571621641.jpg",
+    "imdb": "https://www.imdb.com/name/nm1428821/"
+  }, {
+    "name": "Aaron Taylor-Johnson",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/23/1429790837429/Aaron-Taylor-Johnson-008.jpg?width=700&quality=85&auto=format&fit=max&s=f5b03020efd46e9e68fe16acb12b04a9",
+    "imdb": "https://www.imdb.com/name/nm1093951/"
+  }, {
+      "name": "Brian Tyree Henry",
+        "image": "https://a.scpr.org/213247_cee6b174751105acd8ffdf64a08ccf62_original.jpg",
+        "imdb": "https://www.imdb.com/name/nm3078932/"
+  }],
+  "link": "https://www.hbomax.com/movies/bullet-train/53312aff-69cd-4d9f-ae5c-cda418e2fe24",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/53312aff-69cd-4d9f-ae5c-cda418e2fe24/92dd4524-d084-42fe-8c64-81efbb5bb492?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
   {
     "item": 424,
     "title": "Harlan County USA",
