@@ -183,6 +183,40 @@
     ]
   },
   {
+  "item": 3268,
+  "year": 2017,
+  "title": "Get Out",
+  "runtime": 104,
+  "mpaa": "R",
+  "description": "A young Black man uncovers a disturbing secret when he meets his white girlfriend's family for the first time.",
+  "genre": ["horror", "mystery", "thriller"],
+  "director": [{
+    "name": "Jordan Peele",
+    "image": "./directors/JordanPeele.jpg",
+    "imdb": "https://www.imdb.com/name/nm1443502/"
+  }],
+  "actors": [{
+  "name": "Daniel Kaluuya",
+        "image": "https://www.indiewire.com/wp-content/uploads/2019/11/Get-Out.jpg",
+        "imdb": "https://www.imdb.com/name/nm2257207/"
+  }, {
+    "name": "Allison Williams",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/05/Allison-Williams-GLAAD-Media-Awards-GettyImages-2085008028-H-2024.jpg",
+    "imdb": "https://www.imdb.com/name/nm4129745/"
+  }, {
+    "name": "Bradley Whitford",
+    "image": "https://www.tvinsider.com/wp-content/uploads/2025/03/bradley-whitford-the-handmaids-tale-season-6-1014x570.jpg",
+    "imdb": "https://www.imdb.com/name/nm0925966/"
+  }, {
+    "name": "Catherine Keener",
+    "image": "https://www.indiewire.com/wp-content/uploads/2012/05/keener.jpg",
+    "imdb": "https://www.imdb.com/name/nm0005072/"
+  }],
+  "link": "https://play.hbomax.com/movie/b1772951-17b7-4037-826c-4afc1a30b275",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b1772951-17b7-4037-826c-4afc1a30b275/167da77a-e3dc-420d-a676-5c49195099c1?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+  {
     "item": 5623,
     "year": 2022,
     "title": "Kimi",
