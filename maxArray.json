@@ -105,6 +105,40 @@
     ]
   },
   {
+  "item": 2741,
+  "year": 1996,
+  "title": "Scream",
+  "runtime": 111,
+  "mpaa": "R",
+  "description": "A year after her mother's murder, a teenage girl is terrorized by a new killer who targets her and her friends with deadly phone calls.",
+  "genre": ["horror", "mystery", "thriller"],
+  "director": [{
+    "name": "Wes Craven",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/82ce781/2147483647/strip/true/crop/2048x1352+0+0/resize/1200x792!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2a%2F7e%2F66d6faa53d7eb47fe19303892941%2Fla-144810-ca-0115-ca-horror-01-rrd-jpg-20150830",
+    "imdb": "https://www.imdb.com/name/nm0000127/"
+  }],
+  "actors": [{
+    "name": "Neve Campbell",
+    "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/12/neve-campbell-in-the-craft.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000117/"
+  }, {
+    "name": "Courteney Cox",
+    "image": "https://www.firstforwomen.com/wp-content/uploads/sites/2/2024/03/10_9af522.jpg?quality=86&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0001073/"
+  }, {
+    "name": "David Arquette",
+    "image": "https://static.independent.co.uk/2023/09/14/15/shutterstock_editorial_10505357ba.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000274/"
+  }, {
+    "name": "Skeet Ulrich",
+    "image": "https://miro.medium.com/v2/resize:fit:1400/1*3i_8AFbXr5fqJJAiNdMLLw.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0881631/"
+  }],
+  "link": "https://play.hbomax.com/movie/8c8ce860-6336-4818-aae1-6e89f49197e0",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8c8ce860-6336-4818-aae1-6e89f49197e0/b9157f9414883d93cfbe059f6a1ba82260d5b26e.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+  {
     "item": "9898765",
     "title": "Sinners",
     "year": 2025,
