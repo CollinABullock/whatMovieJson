@@ -1466,6 +1466,40 @@
 		]
 	},
 	{
+  "item": 7194,
+  "year": 2019,
+  "title": "Us",
+  "runtime": 116,
+  "mpaa": "R",
+  "description": "A family's beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.",
+  "genre": ["horror", "mystery", "thriller"],
+  "director": [{
+       "name": "Jordan Peele",
+    "image": "./directors/JordanPeele.jpg",
+    "imdb": "https://www.imdb.com/name/nm1443502/"
+  }],
+  "actors": [{
+    "name": "Lupita Nyong'o",
+    "image": "https://people.com/thmb/wEO2OZI4sG6X-mqfmKInBhH_G8w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(764x419:766x421)/Lupita-Nyong-o-091924-da9e5fe628e243eb9fec05a170d458dc.jpg",
+    "imdb": "https://www.imdb.com/name/nm2143282/"
+  }, {
+    "name": "Winston Duke",
+    "image": "https://coveteur.com/media-library/winston-duke.jpg?id=25338929&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+    "imdb": "https://www.imdb.com/name/nm2143282/"
+  }, {
+      "name": "Elisabeth Moss",
+    "image": "https://www.usmagazine.com/wp-content/uploads/2023/12/The-Handmaid-s-Tale-Star-Elisabeth-Moss-Is-Pregnant-Expecting-Baby-No-1-.jpg?crop=0px%2C0px%2C1317px%2C744px&resize=1600%2C900&quality=86&strip=all",
+    "imdb": "https://www.imdb.com/name/nm0005253/"
+  }, {
+    "name": "Tim Heidecker",
+    "image": "https://variety.com/wp-content/uploads/2024/10/Tim-Heidecker-PC-Chantal-Anderson-e1729110464658.jpg",
+    "imdb": "https://www.imdb.com/name/nm1382207/"
+  }],
+  "link": "https://www.netflix.com/title/81026600",
+  "poster": "https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABaX-HCsODOZmezA8vkl-exsoxXKFuZOQoG1Ke2YXkJSGIEQRwwuLbNM7ZOVff0fAqULGSpCfigWJq_d78S361lCIO4Wpo45B4Crm.jpg?r=9b0"
+}
+,
+	{
 		"item": "13n",
 		"title": "Dirty Grandpa",
 		"year": 2016,
