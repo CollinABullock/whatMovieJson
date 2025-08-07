@@ -3857,6 +3857,40 @@
     ]
   },
   {
+  "item": 5913,
+  "year": 1995,
+  "title": "Casino",
+  "runtime": 178,
+  "mpaa": "R",
+  "description": "A Las Vegas casino operator rises to power with mob backing, but his success is threatened by betrayal, greed, and violence.",
+  "genre": ["crime", "drama"],
+  "director": [{
+   "name": "Martin Scorcese",
+        "image": "./directors/MartinScorcese.jpeg",
+        "imdb": "https://www.imdb.com/name/nm0000217/"
+  }],
+  "actors": [{
+  "name": "Robert De Niro",
+        "image": "./actors/RobertDeNiro.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+  }, {
+  "name": "Sharon Stone",
+			"image": "https://img.etimg.com/thumb/width-640,height-480,imgsize-1103790,resizemode-75,msid-108464193/magazines/panache/sharon-stones-shocking-revelation-basic-instinct-actress-names-hollywood-producer-who-pressured-her-for-intimacy-with-co-star/sharon-stone.jpg",
+			"imdb": "https://www.imdb.com/name/nm0000234/"
+  }, {
+   "name": "Joe Pesci",
+				"image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRiAMltz7sjIK5gfzBWYiFQc6q6e6DfVQLWvTksNYlN8lk9KZUjftwWyWw8wCqcSmv4_y_3JU49gacKkV4",
+				"imdb": "https://www.imdb.com/name/nm0000582/"
+  }, {
+    "name": "James Woods",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkzY6qTjecImYoTwZWSvs4HzO18-WodNw3mbyQIYcedK41xAI0ZDbR6k3WLTAD_9SUChYvCBRz8vcZqgg14kionmsDwPFbyc-Ms7jzsNqQQyhm0XAggOsqInGney0uS_NHN1gApHwcFL4/s1600/James+Woods.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000249/"
+  }],
+  "link": "https://play.hbomax.com/movie/e4ada26b-4d97-48c2-b97e-b4b6a706245b",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e4ada26b-4d97-48c2-b97e-b4b6a706245b/b0ba7ade-c06b-4c8f-b46c-eb4bc653f523?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+  {
     "item": 17171,
     "title": "Pygmalion",
     "year": 1938,
@@ -5022,7 +5056,7 @@
     ],
     "actors": [
       {
-        "name": "Robert DeNiro",
+        "name": "Robert De Niro",
         "image": "./actors/RobertDeNiro.jpg",
         "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
       },
