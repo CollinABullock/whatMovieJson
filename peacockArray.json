@@ -1951,7 +1951,7 @@
   "runtime": 130,
   "mpaa": "R",
   "description": "Residents of a remote California town witness a mysterious and chilling phenomenon in the sky, leading them to a terrifying discovery.",
-  "genre": ["horror", "mystery", "sci-fi", "thriller"],
+  "genre": ["horror", "mystery", "science-fiction", "thriller"],
   "director": [{
        "name": "Jordan Peele",
     "image": "./directors/JordanPeele.jpg",

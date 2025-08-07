@@ -183,6 +183,40 @@
     ]
   },
   {
+  "item": 4157,
+  "year": 2016,
+  "title": "Jackie",
+  "runtime": 100,
+  "mpaa": "R",
+  "description": "Following the assassination of President Kennedy, First Lady Jacqueline Kennedy fights through grief and trauma to define her husband's legacy.",
+  "genre": ["biography", "drama", "history"],
+  "director": [{
+    "name": "Pablo Larraín",
+    "image": "https://img.lemde.fr/2025/01/06/0/0/5816/3877/664/0/75/0/c8cd320_e6b93304dfbd4e9493c8fc7feab16583-0-38359cecfdcf46658f5ad4196d9d9533.jpg",
+    "imdb": "https://www.imdb.com/name/nm1947241/"
+  }],
+  "actors": [{
+    "name": "Natalie Portman",
+    "image": "./actors/NataliePortman.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000204/"
+  }, {
+    "name": "Peter Sarsgaard",
+    "image": "./actors/PeterSarsgaard.jpg",
+    "imdb": "https://www.imdb.com/name/nm0765597/"
+  }, {
+         "name": "Greta Gerwig",
+        "image": "./directors/GretaGerwig.jpeg",
+        "imdb": "https://www.imdb.com/name/nm1950086/"
+  }, {
+     "name": "Billy Crudup",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2020/06/one_time_use_only_-_billy_crudup_-_ap_image_-_h_2020_.jpg?w=1296",
+        "imdb": "https://www.imdb.com/name/nm0001082/"
+  }],
+  "link": "https://www.hbomax.com/movies/jackie/f71966b1-8529-498b-bf47-e5fe54667c1a",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/f71966b1-8529-498b-bf47-e5fe54667c1a/11092b94-ca2c-11ef-8b8f-021fe71dc481?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+  {
   "item": 3268,
   "year": 2017,
   "title": "Get Out",
