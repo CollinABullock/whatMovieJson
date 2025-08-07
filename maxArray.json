@@ -4697,6 +4697,40 @@
     ]
   },
   {
+  "item": 1934,
+  "year": 2009,
+  "title": "The Hangover",
+  "runtime": 100,
+  "mpaa": "R",
+  "description": "Three friends wake up from a bachelor party in Las Vegas with no memory of the previous night and the groom missing.",
+  "genre": ["comedy"],
+  "director": [{
+    "name": "Todd Phillips",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTBlNDA1ZDEtODg2NC00ODdlLTg1YzQtMGVhOTZiNzgwNDk2XkEyXkFqcGc@._V1_.jpg",
+    "imdb": "https://www.imdb.com/name/nm0680846/"
+  }],
+  "actors": [{
+    "name": "Bradley Cooper",
+    "image": "https://broadwaydirect.com/wp-content/uploads/2017/05/bradley950x407v2.jpg-724x407.jpeg",
+    "imdb": "https://www.imdb.com/name/nm0177896/"
+  }, {
+    "name": "Ed Helms",
+    "image": "https://people.com/thmb/kBzm2lozyoLZF41I4gzttfppTWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x305:1001x307)/ed-helms-hangover-fame-122922-49fb707953a14bb4875257aac6db89db.jpg",
+    "imdb": "https://www.imdb.com/name/nm1217711/"
+  }, {
+    "name": "Zach Galifianakis",
+    "image": "https://deadline.com/wp-content/uploads/2025/04/ZachGalifianakis.jpg",
+    "imdb": "https://www.imdb.com/name/nm0302108/"
+  }, {
+    "name": "Justin Bartha",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/04/GettyImages-1322761249-H-2022.jpg?w=1296&h=730&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0057871/"
+  }],
+  "link": "https://play.hbomax.com/movie/2a8a879a-f0eb-4df4-9206-d1d641589486",
+  "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/2a8a879a-f0eb-4df4-9206-d1d641589486/3140dc43-0f24-456a-a0ba-4cbdea34e78f?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+}
+,
+  {
     "item": "175",
     "title": "Midsommar",
     "year": 2019,
