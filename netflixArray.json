@@ -4890,7 +4890,7 @@
 		"actors": [
 			{
 				"name": "Natalie Portman",
-				"image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT8e-jdFFzJbIQIY6yiFQarC2Zx2JE8HeAdMrX5wpKDcDaF-jYixu18_PqOeh_SiiUVrlKFYAfm6wFyZyw",
+				"image": "./actors/NataliePortman.jpg",
 				"imdb": "https://www.imdb.com/name/nm0000204/"
 			},
 			{

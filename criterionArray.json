@@ -28,7 +28,55 @@
       "imdb": "https://www.imdb.com/name/nm0010736/"
     }]
   },
-
+{
+    "item": 396,
+    "title": "Heat",
+    "year": 1995,
+    "runtime": 170,
+    "mpaa": "R",
+    "poster": "./posters/Heat.jpeg",
+    "description": "A group of professional bank robbers led by Neil McCauley and a dedicated LAPD detective, Vincent Hanna, pursue each other in a deadly cat-and-mouse game.",
+    "genre": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "link": "https://www.criterionchannel.com/videos/heat",
+    "director": [
+      {
+        "name": "Michael Mann",
+        "image": "./directors/MichaelMann.jpeg",
+        "imdb": "https://www.imdb.com/name/nm0000520/"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Al Pacino",
+        "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSvNvCnfwhUJomL6srW4j0x21ntqd2R0HDGGyD-MLZA7OUZ52_3XZtjGq_B4G0dmM9-WfF0zMp6seOS_BM",
+        "imdb": "https://www.imdb.com/name/nm0000199/"
+      },
+      {
+        "name": "Robert De Niro",
+        "image": "https://pyxis.nymag.com/v1/imgs/c58/201/b5d10e71e1beb551ab95292f366f0348f5-20-robert-deniro.2x.h473.w710.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
+      },
+      {
+        "name": "Val Kilmer",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/4c927758a4dc45b69f2d3ad7b8a887be/960x0.jpg?height=503&width=711&fit=bounds",
+        "imdb": "https://www.imdb.com/name/nm0000174/"
+      },
+      {
+        "name": "Jon Voight",
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/07/02/08/Angelina-Jon-Getty.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000685/"
+      },
+      	{
+				"name": "Natalie Portman",
+				"image": "./actors/NataliePortman.jpg",
+				"imdb": "https://www.imdb.com/name/nm0000204/"
+			}
+    ]
+  },
   {
     "item": 1234,
     "year": 1950,
