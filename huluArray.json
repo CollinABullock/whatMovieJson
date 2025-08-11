@@ -1012,6 +1012,40 @@
       }
     ]
   },
+  {    
+  "item": 5831,
+  "year": 1987,
+  "title": "Raising Arizona",
+  "runtime": 94,
+  "mpaa": "PG-13",
+  "description": "An ex-con and an ex-cop couple kidnap a baby from a furniture tycoon after learning they can't have children of their own, setting off a wild and chaotic chain of events.",
+  "genre": ["comedy", "crime"],
+  "director": [{
+     "name": "Joel Coen",
+        "IMDB": "https://www.imdb.com/name/nm0001053/",
+        "image": "./directors/JoelCoen.jpg"
+  }],
+  "actors": [{
+    "name": "Nicolas Cage",
+        "image": "./actors/NicolasCage.webp",
+        "imdb": "https://www.imdb.com/name/nm0000115/"
+  }, {
+    "name": "Holly Hunter",
+    "image": "./actors/HollyHunter.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000456/"
+  }, {
+    "name": "John Goodman",
+    "image": "./actors/JohnGoodman.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000422/"
+  }, {
+    "name": "William Forsythe",
+    "image": "https://i.ytimg.com/vi/1uyePBU2ago/maxresdefault.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001235/"
+  }],
+  "link": "https://www.hulu.com/movie/6b8ced8e-bf98-4e46-b66c-9ab59abb53d5",
+  "poster": "./posters/RaisingArizona.jpg"
+}
+,
   {
     "item": 2345,
     "title": "The Waterboy",
