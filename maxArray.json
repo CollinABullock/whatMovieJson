@@ -2085,6 +2085,40 @@
       }
     ]
   },
+  {    
+  "item": 4728,
+  "year": 2012,
+  "title": "The Hunger Games",
+  "runtime": 142,
+  "mpaa": "PG-13",
+  "description": "In a dystopian future, a young girl volunteers to take her sister's place in a televised death match that pits teenagers against each other for survival.",
+  "genre": ["science-fiction", "action", "adventure", "drama"],
+  "director": [{
+    "name": "Gary Ross",
+    "image": "./public/directors/GaryRoss.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001687/"
+  }],
+  "actors": [{
+    "name": "Jennifer Lawrence",
+    "image": "./public/actors/JenniferLawrence.jpg",
+    "imdb": "https://www.imdb.com/name/nm2225369/"
+  }, {
+    "name": "Josh Hutcherson",
+    "image": "https://deadline.com/wp-content/uploads/2025/03/Josh-Hutcherson-Hunger-Games.jpg",
+    "imdb": "https://www.imdb.com/name/nm1242688/"
+  }, {
+    "name": "Liam Hemsworth",
+    "image": "https://www.mensjournal.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk2MTM1Nzc2Njk4NjM5ODc3/liam-hemsworth.jpg",
+    "imdb": "https://www.imdb.com/name/nm2955013/"
+  }, {
+    "name": "Woody Harrelson",
+    "image": "./public/actors/WoodyHarrelson.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000437/"
+  }],
+  "link": "https://play.hbomax.com/movie/c63819d8-de84-4e74-bd59-29948bc673e3",
+  "poster": "./posters/TheHungerGames.jpg"
+}
+,
   {
   "item": 4827,
   "year": 2024,
@@ -5309,7 +5343,7 @@
     "actors": [
       {
         "name": "Jennifer Lawrence",
-        "image": "https://media.vanityfair.com/photos/618c0614fdf674f0522a9fb7/master/w_2560%2Cc_limit/LBY_210805_JENNIFER_LAWRENCE_VF_09G_Shot_10_028_QC_sRGB_LR.jpg",
+        "image": "./public/actors/JenniferLawrence.jpg",
         "imdb": "https://www.imdb.com/name/nm2225369/?ref_=tt_ov_st"
       },
       {
@@ -5853,7 +5887,7 @@
       },
       {
         "name": "Woody Harrelson",
-        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/22/09/woody-harrelson.jpg",
+        "image": "./public/actors/WoodyHarrelson.jpg",
         "imdb": "https://www.imdb.com/name/nm0000437/"
       },
       {
