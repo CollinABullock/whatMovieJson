@@ -2119,6 +2119,40 @@
   "poster": "./posters/TheHungerGames.jpg"
 }
 ,
+{    
+  "item": 8392,
+  "year": 2024,
+  "title": "Civil War",
+  "runtime": 109,
+  "mpaa": "R",
+  "description": "In a near-future America fractured by a second civil war, a team of journalists races to Washington, D.C. to interview the President before rebel forces reach the capital.",
+  "genre": ["science-fiction", "thriller", "war", "drama"],
+  "director": [{
+    "name": "Alex Garland",
+        "image": "./directors/AlexGarland.jpg",
+        "imdb": "https://www.imdb.com/name/nm0307497/"
+  }],
+  "actors": [{
+    "name": "Kirsten Dunst",
+    "image": "./public/actors/KirstenDunst.jpg",
+    "imdb": "https://www.imdb.com/name/nm0000379/"
+  }, {
+    "name": "Cailee Spaeny",
+    "image": "https://cdn.britannica.com/61/275061-050-74D7FFE5/Actress-Cailee-Spaeny-May-2025.jpg",
+    "imdb": "https://www.imdb.com/name/nm8165602/"
+  }, {
+    "name": "Wagner Moura",
+    "image": "https://variety.com/wp-content/uploads/2020/04/wagner-moura.jpg",
+    "imdb": "https://www.imdb.com/name/nm1095721/"
+  }, {
+    "name": "Nick Offerman",
+    "image": "./public/actors/NickOfferman.jpg",
+    "imdb": "https://www.imdb.com/name/nm0644406/"
+  }],
+  "link": "https://play.hbomax.com/show/b04dd538-d36d-40da-aa25-210cdcb14748?utm_source=universal_search",
+  "poster": "./posters/CivilWar.jpg"
+}
+,
   {
   "item": 4827,
   "year": 2024,
