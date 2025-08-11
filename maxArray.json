@@ -1594,6 +1594,45 @@
     "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/8c49d72f-f89e-41bd-964a-bdd70a87c00e/c174645b87d149b7b30cc861d4f87867ecf741a5.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
     "link": "https://play.max.com/video/watch/8491d18c-2059-408c-b7cc-f5ab55a882b7/ad60aebc-a3f2-430b-af28-d2f2e351727b"
   },
+  {    
+  "item": 3741,
+  "year": 2025,
+  "title": "Mickey 17",
+  "runtime": 120,
+  "mpaa": "PG-13",
+  "description": "An expendable employee on a human expedition to colonize an ice world refuses to let his replacement clone take his place.",
+  "genre": ["sci-fi", "thriller", "drama"],
+  "director": [{
+  "name": "Bong Joon Ho",
+        "image": "./public/directors/BongJoonHo.webp",
+        "imdb": "https://www.imdb.com/name/nm0094435/"
+  }],
+  "actors": [{
+     "name": "Robert Pattinson",
+        "image": "./public/actors/RobertPattinson.jpg",
+        "imdb": "https://www.imdb.com/name/nm1500155/"
+  }, {
+    "name": "Steven Yeun",
+    "image": "./public/actors/StevenYeun.jpg",
+    "imdb": "https://www.imdb.com/name/nm3081796/"
+  }, {
+    "name": "Naomi Ackie",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/3/2024/09/GettyImages-2166098301-974682f.jpg?quality=90&resize=980,654",
+    "imdb": "https://www.imdb.com/name/nm6077054/"
+  }, {
+    "name": "Toni Collette",
+    "image": "./public/actors/ToniCollette.jpg",
+    "imdb": "https://www.imdb.com/name/nm0001057/"
+  },
+{
+   "name": "Mark Ruffalo",
+        "image": "https://media.gq-magazine.co.uk/photos/65d4d4c165316d3a497c84d4/master/w_2560%2Cc_limit/MRH.jpg",
+        "imdb": "https://www.imdb.com/name/nm0749263/"
+}],
+  "link": "https://play.hbomax.com/movie/fbe17356-9db7-4ab3-928e-32978e0cfbc7",
+  "poster": "./posters/Mickey17.jpg"
+}
+,
   {
     "item": 322,
     "title": "There's Something Wrong with Aunt Diane",
@@ -5203,7 +5242,7 @@
     "actors": [
       {
         "name": "Robert Pattinson",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2022-04/220422-robert-pattinson-mjf-1612-0a6f9c.jpg",
+        "image": "./public/actors/RobertPattinson.jpg",
         "imdb": "https://www.imdb.com/name/nm1500155/"
       },
       {
@@ -5377,7 +5416,7 @@
   }],
   "actors": [{
      "name": "Robert Pattinson",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2022-04/220422-robert-pattinson-mjf-1612-0a6f9c.jpg",
+        "image": "./public/actors/RobertPattinson.jpg",
         "imdb": "https://www.imdb.com/name/nm1500155/"
   }, {
     "name": "Zoë Kravitz",
