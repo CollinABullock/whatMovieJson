@@ -2063,7 +2063,7 @@
     "imdb": "https://www.imdb.com/name/nm0000949/"
   }, {
     "name": "Tilda Swinton",
-    "image": "https://variety.com/wp-content/uploads/2021/06/Tilda-Swinton-Variety-Cover-Story-4-16x9-1.jpg",
+    "image": "./actors/TildaSwinton.jpg",
     "imdb": "https://www.imdb.com/name/nm0842770/"
   }, {
     "name": "Taraji P. Henson",

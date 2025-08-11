@@ -1,49 +1,5 @@
 [
-  {
-    "item": "99999999",
-    "title": "Poor Things",
-    "year": 2023,
-    "runtime": 141,
-    "mpaa": "R",
-    "poster": "./posters/hulu/PoorThings.webp",
-    "description": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
-    "genre": [
-      "comedy",
-      "drama",
-      "science-fiction",
-      "fantasy"
-    ],
-    "link": "https://www.hulu.com/movie/72867b3c-0c4e-4107-aff7-a1f876c7242f",
-    "director": [
-      {
-        "name": "Yorgos Lanthimos",
-        "image": "https://media.gq.com/photos/6598539348b417bfbe03de34/16:9/w_2560%2Cc_limit/1670418730",
-        "imdb": "https://www.imdb.com/name/nm0487166/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Emma Stone",
-        "image": "https://variety.com/wp-content/uploads/2023/12/Emma-Stone-Variety-Actors-on-Actors.jpg?w=1024",
-        "imdb": "https://www.imdb.com/name/nm1297015/?ref_=tt_ov_st"
-      },
-      {
-        "name": "Mark Ruffalo",
-        "image": "https://d.newsweek.com/en/full/2298700/mark-ruffalo-june-2023.png?w=1200&f=7082c879b50355fdc025b4e12f2a43d5",
-        "imdb": "https://www.imdb.com/name/nm0749263/?ref_=tt_ov_st"
-      },
-      {
-        "name": "Willem Dafoe",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6Hvi13NmYEbgnHS11IP2mKe4HRmNgSSJrtasMlAp4dtozy1y",
-        "imdb": "https://www.imdb.com/name/nm0000353/"
-      },
-      {
-        "name": "Christopher Abbott",
-        "image": "./actors/ChristopherAbbott.jpeg",
-        "imdb": "https://www.imdb.com/name/nm3571592/"
-      }
-    ]
-  },
+  
   {
     "item": "991122",
     "title": "All Of Us Strangers",
@@ -88,46 +44,7 @@
       }
     ]
   },
-  {
-    "item": "h420",
-    "title": "The Abyss",
-    "year": 1988,
-    "runtime": 140,
-    "mpaa": "PG-13",
-    "poster": "./posters/hulu/TheAbyss.jpeg",
-    "description": "Ed Harris and Mary Elizabeth Mastrantonio are formerly married petroleum engineers who still have some issues to work out. They are drafted to assist a gung-ho Navy SEAL (Michael Biehn) with a top-secret recovery operation: a nuclear sub has been ambushed and sunk, under mysterious circumstances, in some of the deepest waters on Earth.",
-    "genre": [
-      "action",
-      "adventure",
-      "drama",
-      "science-fiction"
-    ],
-    "link": "https://www.hulu.com/movie/733df76b-d280-4f96-b13e-3b0c0c345dee",
-    "director": [
-      {
-        "name": "James Cameron",
-        "image": "./directors/JamesCameron.jpeg",
-        "imdb": "https://www.imdb.com/name/nm0000116/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Ed Harris",
-        "image": "./actors/EdHarris.avif",
-        "imdb": "https://www.imdb.com/name/nm0000438/"
-      },
-      {
-        "name": "Mary Elizabeth Mastrantonio",
-        "image": "https://facts.net/wp-content/uploads/2023/10/9-astounding-facts-about-mary-elizabeth-mastrantonio-1697535719.jpg",
-        "imdb": "https://www.imdb.com/name/nm0001512/"
-      },
-      {
-        "name": "Michael Biehn",
-        "image": "./actors/MichaelBiehn.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000290/"
-      }
-    ]
-  },
+  
   {
     "item": "movie",
     "title": "Pretty Woman",
@@ -207,56 +124,7 @@
       }
     ]
   },
-  {
-    "item": 2098,
-    "year": 2017,
-    "title": "Dunkirk",
-    "runtime": 106,
-    "mpaa": "PG-13",
-    "description": "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
-    "genre": [
-      "action",
-      "drama",
-      "history",
-      "war"
-    ],
-    "director": [
-      {
-        "name": "Christopher Nolan",
-        "image": "./directors/ChristopherNolan.jpg",
-        "imdb": "https://www.imdb.com/name/nm0634240/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Fionn Whitehead",
-        "image": "https://wwd.com/wp-content/uploads/2017/07/rexfeatures_8852520d.jpg",
-        "imdb": "https://www.imdb.com/name/nm8471254/"
-      },
-      {
-        "name": "Barry Keoghan",
-        "image": "https://static.independent.co.uk/2024/02/23/15/GettyImages-1976097590.jpg",
-        "imdb": "https://www.imdb.com/name/nm4422686/"
-      },
-      {
-        "name": "Mark Rylance",
-        "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/15A15/production/_86679588_bridge-of-spies-rylance-ap.jpg",
-        "imdb": "https://www.imdb.com/name/nm0751102/"
-      },
-      {
-        "name": "Cillian Murphy",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/21/a0ab1286-a64e-4cdc-8a99-25fd202a9350/thumbnail/1280x720/1f47d561ff5c069ee21d8507394dd4df/0221-cmo-cillianmurphy-intv-mid-2699502-640x360.jpg?v=873773698949ef4145348bb09cabd43d",
-        "imdb": "https://www.imdb.com/name/nm0614165/"
-      },
-      {
-        "name": "Tom Hardy",
-        "image": "https://media.gq.com/photos/632b4e9763f2eae5a8460f51/16:9/w_2560%2Cc_limit/1340297096",
-        "imdb": "https://www.imdb.com/name/nm0362766/"
-      }
-    ],
-    "link": "https://www.hulu.com/movie/ea2ce48b-b1a0-4efc-a484-a7ec1415cf5e",
-    "poster": "./posters/hulu/Dunkirk.jpeg"
-  },
+  
   {
     "item": 5678,
     "year": 1984,
@@ -474,186 +342,42 @@
     ],
     "actors": []
   },
-  {
-    "item": 431,
-    "title": "The Worst Person in the World",
-    "year": 2021,
-    "runtime": 127,
-    "mpaa": "R",
-    "poster": "https://img2.hulu.com/user/v3/artwork/e30177ce-5201-402d-a346-6333ca2fe5b8?base_image_bucket_name=image_manager&base_image=93492891-4075-4b9c-b211-5cea3f108aaf&size=600x338&format=jpeg",
-    "description": "Follow the journey of Julie, a young woman in Oslo, as she navigates the complexities of love, career, and identity over the course of several years. Director Joachim Trier crafts a poignant and relatable portrait of modern adulthood, exploring themes of ambition, relationships, and self-discovery.",
-    "genre": [
-      "drama",
-      "comedy",
-      "romance",
-      "foreign"
-    ],
-    "link": "https://www.hulu.com/movie/the-worst-person-in-the-world-e30177ce-5201-402d-a346-6333ca2fe5b8",
-    "director": [
-      {
-        "name": "Joachim Trier",
-        "image": "https://d27csu38upkiqd.cloudfront.net/eyJidWNrZXQiOiJmZGMtc2l0ZXB1YmxpYy1tZWRpYS1wcm9kIiwia2V5IjoidXBsb2Fkc1wvMjAxN1wvMDRcLzYwYjFhOTcxODI5NTUyY2IzYjliZDBiNDc3OTA3YjE5LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAyOCwiZml0IjoiY292ZXIifX19",
-        "imdb": "https://www.imdb.com/name/nm0873093/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Renate Reinsve",
-        "image": "https://lh3.googleusercontent.com/proxy/2sdjrpBsvVnJW2KCbyeZzHB-E1fRk-W0p932en161TEpK2622LjpAN-T9xP5UlWADmVE_Z0WgZUIyyQyYsYCiy4-QVMb1cgrMpT9Cktkttm9QlruWLXo-sOUVAVuw1djlfwGAibQMvViGbJSKUIO25I",
-        "imdb": "https://www.imdb.com/name/nm4535655/"
-      },
-      {
-        "name": "Anders Danielsen Lie",
-        "image": "https://pyxis.nymag.com/v1/imgs/128/9d3/e985c399b492007c43307d20dba3d4c505-anders-danielsen-lie.2x.rsocial.w600.jpg",
-        "imdb": "https://www.imdb.com/name/nm0200473/"
-      },
-      {
-        "name": "Herbert Nordrum",
-        "image": "https://m.media-amazon.com/images/M/MV5BMmI2ZWY4YzItODFlYy00NTA4LTk1ZTktMTIxMWE5ZTZlZGM5XkEyXkFqcGdeQWxiaWFtb250._V1_QL75_UX500_CR0,0,500,281_.jpg",
-        "imdb": "https://www.imdb.com/name/nm2180503/"
-      }
-    ]
-  },
-  {
-    "item": 432,
-    "title": "Bad Luck Banging or Loony Porn",
-    "year": 2021,
-    "runtime": 106,
-    "mpaa": "Not Rated",
-    "poster": "https://img1.hulu.com/user/v3/artwork/d55bd317-c0ea-4782-905b-b0b9f5c94237?base_image_bucket_name=image_manager&base_image=af6248dd-c343-46a5-a19f-541fac8cc55a&size=600x338&format=jpeg",
-    "description": "Follow the story of a schoolteacher whose private sex tape is leaked online, causing a scandal that reverberates throughout her life. Director Radu Jude explores themes of privacy, morality, and societal norms in this provocative and satirical film.",
-    "genre": [
-      "drama",
-      "comedy",
-      "foreign"
-    ],
-    "link": "https://www.hulu.com/movie/bad-luck-banging-or-loony-porn-d55bd317-c0ea-4782-905b-b0b9f5c94237",
-    "director": [
-      {
-        "name": "Radu Jude",
-        "image": "https://m.media-amazon.com/images/M/MV5BN2U1NTFlMmQtYTU0Yi00M2MyLTlhODUtZTg5ZjI2N2NhZjVlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
-        "imdb": "https://www.imdb.com/name/nm0431838/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Katia Pascariu",
-        "image": "https://www.filmsinframe.com/wp-content/uploads/2023/01/films_in_frame_katia_pascariu_imagine_reprezentativa-scaled.jpg",
-        "imdb": "https://www.imdb.com/name/nm3714165/"
-      }
-    ]
-  },
-  {
-    "item": 433,
-    "title": "Titane",
-    "year": 2021,
-    "runtime": 108,
-    "mpaa": "R",
-    "poster": "https://img2.hulu.com/user/v3/artwork/bcf42641-5348-4bdb-a9bc-cf1e123aab7e?base_image_bucket_name=image_manager&base_image=a864feb1-2232-40ba-af9e-a74c1271a26b&size=600x338&format=jpeg",
-    "description": "Experience the surreal journey of a young woman named Alexia who has a mysterious and violent connection to cars. As she flees the law, she forms an unexpected bond with a firefighter on the run. Director Julia Ducournau delivers a visceral and provocative exploration of identity, desire, and human connection.",
-    "genre": [
-      "drama",
-      "horror",
-      "foreign"
-    ],
-    "link": "https://www.hulu.com/movie/titane-bcf42641-5348-4bdb-a9bc-cf1e123aab7e",
-    "director": [
-      {
-        "name": "Julia Ducournau",
-        "image": "https://www.semainedelacritique.com/uploads/news/image_big_f666c2091f029a9c5c73dac7d28cfbbe.jpg",
-        "imdb": "https://www.imdb.com/name/nm2934937/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Agathe Rousselle",
-        "image": "https://a-rabbitsfoot.com/wp-content/uploads/2022/06/AGATHE-ROUSSELLE-%E2%80%93-Credit_-Fiona-Torre-scaled-edited-scaled.jpeg",
-        "imdb": "https://www.imdb.com/name/nm8638569/"
-      },
-      {
-        "name": "Vincent Lindon",
-        "image": "https://www.nydailynews.com/wp-content/uploads/migration/2022/04/28/DJ53S7PSCBGN3EBEHKYVV3APNQ.jpg",
-        "imdb": "https://www.imdb.com/name/nm0512146/"
-      }
-    ]
-  },
-  {
-    "item": "1234",
-    "year": 1990,
-    "title": "Goodfellas",
-    "runtime": 146,
-    "mpaa": "R",
-    "description": "A young man grows up in the mob and works very hard to advance himself through the ranks. He enjoys his life of money and luxury, but is oblivious to the horror that he causes. A drug addiction and a few mistakes ultimately unravel his climb to the top. Based on the book Wiseguy by Nicholas Pileggi.",
-    "genre": [
-      "crime",
-      "drama"
-    ],
-    "director": [
-      {
-        "name": "Martin Scorcese",
-        "image": "./directors/MartinScorcese.jpeg",
-        "imdb": "https://www.imdb.com/name/nm0000217/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Robert De Niro",
-        "image": "https://pyxis.nymag.com/v1/imgs/c58/201/b5d10e71e1beb551ab95292f366f0348f5-20-robert-deniro.2x.h473.w710.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000134/"
-      },
-      {
-        "name": "Ray Liotta",
-        "image": "https://www.slashfilm.com/img/gallery/ray-liotta-gave-cinema-its-greatest-voiceover-performance-ever-in-goodfellas/intro-1653699157.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000501/"
-      },
-      {
-        "name": "Joe Pesci",
-        "image": "https://faroutmagazine.co.uk/static/uploads/1/2023/01/Listen-to-Joe-Pesci-cover-The-Beatles-in-1968.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000582/"
-      },
-      {
-        "name": "Lorraine Bracco",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2020/05/lorraine-bracco.jpg?quality=75&strip=all",
-        "imdb": "https://www.imdb.com/name/nm0000966/"
-      }
-    ],
-    "link": "https://www.hulu.com/movie/01d5fb21-5896-420b-9346-9667bfc235d4",
-    "poster": "./posters/hulu/Goodfellas.jpeg"
-  },
-  {
-    "item": 4567,
-    "year": 2000,
-    "title": "Men of Honor",
-    "runtime": 129,
-    "mpaa": "R",
-    "description": "Men of Honor is a biographical drama directed by George Tillman Jr. The film tells the inspiring true story of Carl Brashear, the first African American diver in the United States Navy. Despite facing racism and adversity, Brashear's determination and perseverance lead him to overcome incredible odds to achieve his dream of becoming a master diver. With themes of courage, resilience, and the pursuit of excellence, Men of Honor celebrates the indomitable human spirit.",
-    "genre": [
-      "biography",
-      "drama"
-    ],
-    "director": [
-      {
-        "name": "George Tillman Jr.",
-        "image": "https://variety.com/wp-content/uploads/2019/01/george-tillman-jr..jpg",
-        "imdb": "https://www.imdb.com/name/nm0863588/"
-      }
-    ],
-    "actors": [
-      {
-        "name": "Cuba Gooding Jr.",
-        "image": "https://variety.com/wp-content/uploads/2016/01/cuba-gooding-jr-diversity.jpg?w=1000",
-        "imdb": "https://www.imdb.com/name/nm0000421/"
-      },
-      {
-        "name": "Robert De Niro",
-        "image": "https://pyxis.nymag.com/v1/imgs/c58/201/b5d10e71e1beb551ab95292f366f0348f5-20-robert-deniro.2x.h473.w710.jpg",
-        "imdb": "https://www.imdb.com/name/nm0000134/?ref_=tt_ov_st"
-      }
-    ],
-    "link": "https://www.hulu.com/watch/67dd3f45-66c0-4304-93a7-4f12fada29b1",
-    "poster": "https://img.hulu.com/user/v3/artwork/67dd3f45-66c0-4304-93a7-4f12fada29b1?base_image_bucket_name=image_manager&base_image=b0445753-02a2-40dd-a882-b11923d41904&region=US&format=jpeg&size=952x536"
-  },
 
+
+  {    
+  "item": 2657,
+  "year": 2000,
+  "title": "The Beach",
+  "runtime": 119,
+  "mpaa": "R",
+  "description": "A young traveler discovers a mysterious map leading to a hidden beach paradise in Thailand, but the dreamlike escape soon unravels into something far more dangerous.",
+  "genre": ["adventure", "drama", "romance", "thriller"],
+  "director": [{
+    "name": "Danny Boyle",
+    "image": "./public/directors/DannyBoyle.jpg",
+    "imdb": "https://www.imdb.com/name/nm0103785/"
+  }],
+  "actors": [{
+  "name": "Leonardo DiCaprio",
+        "image": "./actors/LeonardoDicaprio.jpg",
+        "imdb": "https://www.imdb.com/name/nm0000138/"
+  }, {
+    "name": "Tilda Swinton",
+    "image": "./actors/TildaSwinton.jpg",
+    "imdb": "https://www.imdb.com/name/nm0842770/"
+  }, {
+    "name": "Virginie Ledoyen",
+    "image": "https://img.festival-cannes.com/eyJidWNrZXQiOiJtZWRpYSIsImtleSI6InVwbG9hZHNcLzIwMTlcLzA1XC9MRURPWUVOLUFGUC1MT0lDLVZFTkFOQ0UuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNjAwLCJmaXQiOiJjb3ZlciJ9fX0=",
+    "imdb": "https://www.imdb.com/name/nm0005139/"
+  }, {
+    "name": "Guillaume Canet",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/04/Guillaume-Canet-as-Franck-Lazareff-in-AD-VITAM-Netflix.jpg?w=1600&h=900&crop=1",
+    "imdb": "https://www.imdb.com/name/nm0134651/"
+  }],
+  "link": "https://www.hulu.com/movie/f2f6bc1f-3fb7-41ec-84bc-039de6be7c43",
+  "poster": "./posters/TheBeach.jpg"
+}
+,
   {
     "item": 7814,
     "year": 1994,
